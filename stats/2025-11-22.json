@@ -1,17 +1,17 @@
 {
   "date": "2025-11-22",
-  "total_logs": 350,
+  "total_logs": 353,
   "channels": {
     "1441609159136116788": {
-      "count": 350,
-      "banned": 259,
-      "unbanned": 87,
+      "count": 353,
+      "banned": 260,
+      "unbanned": 89,
       "unknown": 4
     }
   },
   "hypixel_status": {
-    "banned": 259,
-    "unbanned": 87,
+    "banned": 260,
+    "unbanned": 89,
     "unknown": 4
   },
   "unique_players": [
@@ -61,6 +61,7 @@
     "623343ec-0bae-4dc0-bd78-ba9259c96dab",
     "b66864c2-5798-4850-b106-dbec49b26555",
     "59f2d76b-0e2b-4c33-8200-0acc37c2efc0",
+    "53a9da58-d63f-43ae-9f9e-ac7d42bca093",
     "d66f16fb-46a7-42d6-9f2c-6e06c6c5575b",
     "3fe11771-a690-4a7c-9e1a-14e4ce64f312",
     "ad2b9798-7fdc-454f-a493-d16636e08f6f",
@@ -294,6 +295,7 @@
     "dfbbe1e6-71a2-44d4-9844-cf2f805ff36c",
     "1d6f66e1-2c13-411d-a0ef-aca62afdd9e5",
     "ff56ffc3-55e5-475a-bfc7-211053d9edc1",
+    "aa1f17b5-72ba-4097-9691-a28281eba773",
     "f336625e-8c89-46df-b168-89b566ac22ea",
     "598aa9ab-e9b8-4a2d-92f4-202e81ad78b3",
     "9f5acf35-7231-4fc6-b3dc-874dec696611",
@@ -346,6 +348,7 @@
     "14f6413f-dc37-48b0-a876-1e9b22d1686f",
     "c4f08fd4-d934-44ad-83d7-42d392ff5feb",
     "a51df4af-3f12-4531-b6b7-11edc088d4a5",
+    "1cc40ab0-50fc-466b-885f-5e82a78c736b",
     "de68d087-ebc7-4b61-8b7e-06ee10610bb2",
     "33a68303-b0d5-4fc4-a0d0-bff10d62e227",
     "7032e7c4-f9d4-40a8-b819-3ccebd158b74",
@@ -2464,6 +2467,24 @@
       "uuid": "d125c2bd-dda4-4166-84f1-8ab03306a0b8",
       "hypixel": "unbanned",
       "log_time": "2025/11/22-21:50"
+    },
+    {
+      "name": "nreader_creepy63",
+      "uuid": "53a9da58-d63f-43ae-9f9e-ac7d42bca093",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-21:51"
+    },
+    {
+      "name": "tzi_xLXPV_11_09",
+      "uuid": "1cc40ab0-50fc-466b-885f-5e82a78c736b",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-21:51"
+    },
+    {
+      "name": "Vitorinowhole60",
+      "uuid": "aa1f17b5-72ba-4097-9691-a28281eba773",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-21:55"
     }
   ]
 }

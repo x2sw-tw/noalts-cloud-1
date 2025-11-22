@@ -1,17 +1,17 @@
 {
   "date": "2025-11-23",
-  "total_logs": 46,
+  "total_logs": 50,
   "channels": {
     "1441609159136116788": {
-      "count": 46,
-      "banned": 13,
-      "unbanned": 32,
+      "count": 50,
+      "banned": 15,
+      "unbanned": 34,
       "unknown": 1
     }
   },
   "hypixel_status": {
-    "banned": 13,
-    "unbanned": 32,
+    "banned": 15,
+    "unbanned": 34,
     "unknown": 1
   },
   "unique_players": [
@@ -22,12 +22,14 @@
     "37424944-8170-47fe-af0c-d1fdd402515a",
     "4b65e60c-dcca-4163-a430-02c1517ca353",
     "cd652cc8-a611-4866-8baa-5ab392b0f35c",
+    "f59fc5be-8076-425f-ac6c-60203ab47aec",
     "0044a001-dacd-4255-bf0d-8394da86890c",
     "66153502-903f-49b2-8621-d3198ac9b755",
     "6f6bccc0-c0e1-4178-84ac-7d12eee54e10",
     "a93fa510-9105-4a5a-8508-bc305ace50f0",
     "539990bd-5c22-4ec9-9633-fcc5d369b607",
     "8c0cc3a3-a888-400e-ba66-34cba98d625f",
+    "82cc5ed8-6eae-4e5d-93b2-af854f9f2ac7",
     "91adfa1c-e4be-48d0-af3a-3b08eb28aa35",
     "1271a4e0-e904-4af5-8a13-bf7009b43023",
     "77222710-8e09-429d-b930-796409d9bbf2",
@@ -38,6 +40,7 @@
     "c06596ab-8b90-4b00-b4d5-960e6e9f3561",
     "b5049e64-f4e2-4771-8981-f96ec6a17be1",
     "92646600-ab99-4220-9798-38081f473628",
+    "af663c4e-8796-49e7-822d-ba8e5f3742eb",
     "e0c7d65f-0d53-4a50-8eb8-19ffeb96909e",
     "5167d6aa-f07d-407b-af5b-06dd207598ce",
     "ead244f2-c2bd-48c1-a635-c3fb4cd9f6cd",
@@ -60,7 +63,8 @@
     "a31a4a3c-22f6-4aeb-b698-e35b77ca1776",
     "584a71b0-6e4c-4927-963f-3ab1b66848f1",
     "2d006a08-49b6-488b-9131-5e791f40424d",
-    "68259307-9d41-4386-af00-73494e10d5f5"
+    "68259307-9d41-4386-af00-73494e10d5f5",
+    "28687d83-b071-4d36-a4da-dc38a5d7756b"
   ],
   "logs": [
     {
@@ -336,6 +340,30 @@
     {
       "name": "zalup1adeda",
       "uuid": "4dffa0e1-7064-4253-a8eb-a50ddce4a2cd",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-01:08"
+    },
+    {
+      "name": "Frwizzle",
+      "uuid": "af663c4e-8796-49e7-822d-ba8e5f3742eb",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-01:08"
+    },
+    {
+      "name": "LinhzDtrL1122",
+      "uuid": "82cc5ed8-6eae-4e5d-93b2-af854f9f2ac7",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-01:08"
+    },
+    {
+      "name": "Palermo79evil86",
+      "uuid": "28687d83-b071-4d36-a4da-dc38a5d7756b",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-01:08"
+    },
+    {
+      "name": "mere_heartfelt47",
+      "uuid": "f59fc5be-8076-425f-ac6c-60203ab47aec",
       "hypixel": "banned",
       "log_time": "2025/11/23-01:08"
     }

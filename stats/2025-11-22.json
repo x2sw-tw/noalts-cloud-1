@@ -1,17 +1,17 @@
 {
   "date": "2025-11-22",
-  "total_logs": 327,
+  "total_logs": 332,
   "channels": {
     "1441609159136116788": {
-      "count": 327,
-      "banned": 249,
-      "unbanned": 74,
+      "count": 332,
+      "banned": 251,
+      "unbanned": 77,
       "unknown": 4
     }
   },
   "hypixel_status": {
-    "banned": 249,
-    "unbanned": 74,
+    "banned": 251,
+    "unbanned": 77,
     "unknown": 4
   },
   "unique_players": [
@@ -32,6 +32,7 @@
     "3bce1046-8cd7-488d-9ba5-77760c2d9bfa",
     "319941c8-1b0d-4d2f-8fcb-5deb84eb0268",
     "72c7e02c-2e72-4832-a08f-683f604108e0",
+    "52db6990-1059-4e55-b78e-2e84c3fa5aac",
     "d20f7785-ad52-4be4-9abf-ce34cab2aa51",
     "7a3fb66e-41f4-43e1-b8ee-8ebd6b1a40ee",
     "7d27941b-9d89-432e-8fd7-64ce4388de75",
@@ -168,12 +169,14 @@
     "cbfbc8f1-8755-43c8-90ec-960405828b15",
     "0a3902c9-c391-4477-b314-d243c04d3c19",
     "12e8c67f-ce68-4c64-9d99-d176a1f34fcd",
+    "bbb00250-57df-49bd-b3dc-e8670c3d23af",
     "765423ab-13f1-4119-975a-5f5a414cd641",
     "59793783-4a72-4b2a-9284-f4483cbdb680",
     "7a443c1a-6ed3-40ec-8613-fc6f47c71e0c",
     "798eadaa-995b-4106-a4b2-be1cca6b19d6",
     "6fe27272-e78b-422c-9cbd-d514f1f0b0f5",
     "27310a02-8743-464c-8fdf-483929554e69",
+    "e9775b67-749c-4af9-8883-a7d96dde96d1",
     "5150d1b9-44d1-41d5-9601-251412801ef5",
     "5812aebb-938f-4dcf-bd81-94591fe80684",
     "f3b69fcf-7e15-40c4-9f92-8e1194950410",
@@ -273,6 +276,7 @@
     "0fe9d02c-1ec0-4aa5-9c8f-7ac1d4fea29f",
     "028470c1-8ff2-49b9-89c2-d6f0b00f440f",
     "6aa3151d-eaf2-4e78-a57f-d67f0ce9f015",
+    "c33a18dc-7e08-4af4-b9db-0a25e42a4576",
     "8052a23c-d75e-4e85-9654-dc6c1b5f52bd",
     "dfbbe1e6-71a2-44d4-9844-cf2f805ff36c",
     "1d6f66e1-2c13-411d-a0ef-aca62afdd9e5",
@@ -290,6 +294,7 @@
     "4127fc9c-bdba-4366-8e7a-1a1d4b57f4d5",
     "ed592980-7e47-4dd8-a8ad-41155a8e1409",
     "eb1125a5-7a53-4b3e-8cc3-4ab27dc2bdd4",
+    "62457467-7f4b-4c97-a456-8dcbf1a48e2d",
     "13e55267-228e-444d-99be-759493f88687",
     "c7147f4d-54e5-497d-a778-22bc0d62029a",
     "ce1817f9-f27d-44a3-828b-1b02eb7db9b4",
@@ -2303,6 +2308,36 @@
       "uuid": "24f1f44b-243d-42ee-b595-0ae1f370bc0f",
       "hypixel": "unbanned",
       "log_time": "2025/11/22-21:31"
+    },
+    {
+      "name": "clauchlan_tight4",
+      "uuid": "c33a18dc-7e08-4af4-b9db-0a25e42a4576",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-21:35"
+    },
+    {
+      "name": "Bryna_total4",
+      "uuid": "bbb00250-57df-49bd-b3dc-e8670c3d23af",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-21:36"
+    },
+    {
+      "name": "Rancoon",
+      "uuid": "52db6990-1059-4e55-b78e-2e84c3fa5aac",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-21:37"
+    },
+    {
+      "name": "Zaken_muffled4",
+      "uuid": "e9775b67-749c-4af9-8883-a7d96dde96d1",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-21:37"
+    },
+    {
+      "name": "_Smash",
+      "uuid": "62457467-7f4b-4c97-a456-8dcbf1a48e2d",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-21:39"
     }
   ]
 }

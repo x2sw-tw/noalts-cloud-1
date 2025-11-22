@@ -1,17 +1,17 @@
 {
   "date": "2025-11-23",
-  "total_logs": 98,
+  "total_logs": 99,
   "channels": {
     "1441609159136116788": {
-      "count": 98,
+      "count": 99,
       "banned": 39,
-      "unbanned": 58,
+      "unbanned": 59,
       "unknown": 1
     }
   },
   "hypixel_status": {
     "banned": 39,
-    "unbanned": 58,
+    "unbanned": 59,
     "unknown": 1
   },
   "unique_players": [
@@ -99,6 +99,7 @@
     "6f238488-9b61-4136-b2be-21a1b3acdf03",
     "b3163a5c-fe35-4aef-99a8-d0078fa994a5",
     "0b964524-8a0c-46c2-b9d0-e1eeb30c3c03",
+    "2f55f608-15fd-4308-9bec-939878b38f88",
     "b5049e64-f4e2-4771-8981-f96ec6a17be1",
     "e0c7d65f-0d53-4a50-8eb8-19ffeb96909e",
     "4948a21e-ec85-4f6b-b3eb-77edf753516a",
@@ -702,6 +703,12 @@
       "uuid": "b86153fd-0b22-43a0-a613-9534c5ac609a",
       "hypixel": "banned",
       "log_time": "2025/11/23-07:05"
+    },
+    {
+      "name": "Byill",
+      "uuid": "2f55f608-15fd-4308-9bec-939878b38f88",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-07:06"
     }
   ]
 }

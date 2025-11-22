@@ -1,0 +1,63 @@
+{
+  "date": "2025-11-23",
+  "total_logs": 6,
+  "channels": {
+    "1441609159136116788": {
+      "count": 6,
+      "banned": 1,
+      "unbanned": 4,
+      "unknown": 1
+    }
+  },
+  "hypixel_status": {
+    "banned": 1,
+    "unbanned": 4,
+    "unknown": 1
+  },
+  "unique_players": [
+    "ead244f2-c2bd-48c1-a635-c3fb4cd9f6cd",
+    "af084b0d-ec7a-44da-a11e-d7de6cb4c5dc",
+    "ba16122e-d187-4dba-b475-f0d4cffa2c3f",
+    "0044a001-dacd-4255-bf0d-8394da86890c",
+    "6f6bccc0-c0e1-4178-84ac-7d12eee54e10",
+    "b5049e64-f4e2-4771-8981-f96ec6a17be1"
+  ],
+  "logs": [
+    {
+      "name": "LinhKWBxT1122",
+      "uuid": "0044a001-dacd-4255-bf0d-8394da86890c",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:06"
+    },
+    {
+      "name": "nootvdb",
+      "uuid": "6f6bccc0-c0e1-4178-84ac-7d12eee54e10",
+      "hypixel": "unknown",
+      "log_time": "2025/11/23-00:07"
+    },
+    {
+      "name": "LinhirKTT1121",
+      "uuid": "ead244f2-c2bd-48c1-a635-c3fb4cd9f6cd",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-00:07"
+    },
+    {
+      "name": "Savcedo_ill0",
+      "uuid": "ba16122e-d187-4dba-b475-f0d4cffa2c3f",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:08"
+    },
+    {
+      "name": "LinhMjbBC1122",
+      "uuid": "af084b0d-ec7a-44da-a11e-d7de6cb4c5dc",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:08"
+    },
+    {
+      "name": "LinhIrZSW1122",
+      "uuid": "b5049e64-f4e2-4771-8981-f96ec6a17be1",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:08"
+    }
+  ]
+}

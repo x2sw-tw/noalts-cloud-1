@@ -1,17 +1,17 @@
 {
   "date": "2025-11-22",
-  "total_logs": 323,
+  "total_logs": 324,
   "channels": {
     "1441609159136116788": {
-      "count": 323,
+      "count": 324,
       "banned": 249,
-      "unbanned": 70,
+      "unbanned": 71,
       "unknown": 4
     }
   },
   "hypixel_status": {
     "banned": 249,
-    "unbanned": 70,
+    "unbanned": 71,
     "unknown": 4
   },
   "unique_players": [
@@ -192,6 +192,7 @@
     "1ee0dacd-1785-4ed3-b3cc-b2d23f64cfdf",
     "8e3b9556-cb73-4f1e-aede-f6a4f57d3119",
     "3c246c13-3fd2-491c-9f5a-60b588a5c9bb",
+    "25746a85-8660-4528-9f9b-08bb3b9ea75c",
     "a6d083f3-2e4a-4c5d-aeb1-a676b0b27006",
     "5c19c923-14a2-446a-869f-af033631fb43",
     "c5e938e9-04e1-48fc-9cf9-d6ed582fc1ad",
@@ -2273,6 +2274,12 @@
     {
       "name": "Treen17",
       "uuid": "e4cc866f-7eaf-4b05-996d-59b3bdf27e24",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-21:29"
+    },
+    {
+      "name": "Loehleinangelic6",
+      "uuid": "25746a85-8660-4528-9f9b-08bb3b9ea75c",
       "hypixel": "unbanned",
       "log_time": "2025/11/22-21:29"
     }

@@ -1,17 +1,17 @@
 {
   "date": "2025-11-23",
-  "total_logs": 42,
+  "total_logs": 46,
   "channels": {
     "1441609159136116788": {
-      "count": 42,
-      "banned": 11,
-      "unbanned": 30,
+      "count": 46,
+      "banned": 13,
+      "unbanned": 32,
       "unknown": 1
     }
   },
   "hypixel_status": {
-    "banned": 11,
-    "unbanned": 30,
+    "banned": 13,
+    "unbanned": 32,
     "unknown": 1
   },
   "unique_players": [
@@ -32,11 +32,13 @@
     "1271a4e0-e904-4af5-8a13-bf7009b43023",
     "77222710-8e09-429d-b930-796409d9bbf2",
     "ba16122e-d187-4dba-b475-f0d4cffa2c3f",
+    "6f238488-9b61-4136-b2be-21a1b3acdf03",
     "b3163a5c-fe35-4aef-99a8-d0078fa994a5",
     "62f7a1bd-3c84-4999-abc0-490b2cb79f0f",
     "c06596ab-8b90-4b00-b4d5-960e6e9f3561",
     "b5049e64-f4e2-4771-8981-f96ec6a17be1",
     "92646600-ab99-4220-9798-38081f473628",
+    "e0c7d65f-0d53-4a50-8eb8-19ffeb96909e",
     "5167d6aa-f07d-407b-af5b-06dd207598ce",
     "ead244f2-c2bd-48c1-a635-c3fb4cd9f6cd",
     "a5b520f6-2088-4e85-a55e-86a93a6214b5",
@@ -46,7 +48,9 @@
     "29a4d401-852c-4306-bafe-efc88d693276",
     "d44b8921-973d-460c-a5c6-35053056f493",
     "8b30ddea-5abe-4e08-bb3a-41f6bbbac263",
+    "4dffa0e1-7064-4253-a8eb-a50ddce4a2cd",
     "2c259793-f4c3-432b-944e-e3a32cdade53",
+    "7ebd8f82-1667-4adc-a8f3-039c103e922a",
     "a5136455-779d-4d27-beff-3b71e5cf956d",
     "2cc50800-13ed-47b3-a73d-9dbe69e35c13",
     "ccc431c8-b14c-4e02-aeb4-81e5899a8731",
@@ -309,6 +313,30 @@
       "name": "LinhfiRyv1122",
       "uuid": "a3c2642b-343c-467b-816a-9246b7bfecf2",
       "hypixel": "unbanned",
+      "log_time": "2025/11/23-01:08"
+    },
+    {
+      "name": "obedientspecifi",
+      "uuid": "e0c7d65f-0d53-4a50-8eb8-19ffeb96909e",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-01:08"
+    },
+    {
+      "name": "lf_cfbCv_11_19",
+      "uuid": "7ebd8f82-1667-4adc-a8f3-039c103e922a",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-01:08"
+    },
+    {
+      "name": "Hizkiyanormal3",
+      "uuid": "6f238488-9b61-4136-b2be-21a1b3acdf03",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-01:08"
+    },
+    {
+      "name": "zalup1adeda",
+      "uuid": "4dffa0e1-7064-4253-a8eb-a50ddce4a2cd",
+      "hypixel": "banned",
       "log_time": "2025/11/23-01:08"
     }
   ]

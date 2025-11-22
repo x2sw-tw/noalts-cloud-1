@@ -1,17 +1,17 @@
 {
   "date": "2025-11-23",
-  "total_logs": 50,
+  "total_logs": 52,
   "channels": {
     "1441609159136116788": {
-      "count": 50,
+      "count": 52,
       "banned": 15,
-      "unbanned": 34,
+      "unbanned": 36,
       "unknown": 1
     }
   },
   "hypixel_status": {
     "banned": 15,
-    "unbanned": 34,
+    "unbanned": 36,
     "unknown": 1
   },
   "unique_players": [
@@ -22,6 +22,7 @@
     "37424944-8170-47fe-af0c-d1fdd402515a",
     "4b65e60c-dcca-4163-a430-02c1517ca353",
     "cd652cc8-a611-4866-8baa-5ab392b0f35c",
+    "fcc2f94a-6543-4f66-b799-61c92d3265e7",
     "f59fc5be-8076-425f-ac6c-60203ab47aec",
     "0044a001-dacd-4255-bf0d-8394da86890c",
     "66153502-903f-49b2-8621-d3198ac9b755",
@@ -44,6 +45,7 @@
     "e0c7d65f-0d53-4a50-8eb8-19ffeb96909e",
     "5167d6aa-f07d-407b-af5b-06dd207598ce",
     "ead244f2-c2bd-48c1-a635-c3fb4cd9f6cd",
+    "4f8cd52e-a6c0-4bdb-aec5-513edd4f13a6",
     "a5b520f6-2088-4e85-a55e-86a93a6214b5",
     "af084b0d-ec7a-44da-a11e-d7de6cb4c5dc",
     "8f486ca3-7858-4fe8-a7e9-d2ef4ee97a2e",
@@ -365,6 +367,18 @@
       "name": "mere_heartfelt47",
       "uuid": "f59fc5be-8076-425f-ac6c-60203ab47aec",
       "hypixel": "banned",
+      "log_time": "2025/11/23-01:08"
+    },
+    {
+      "name": "LinhzmmQX1122",
+      "uuid": "fcc2f94a-6543-4f66-b799-61c92d3265e7",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-01:08"
+    },
+    {
+      "name": "zhd_HrPPe_11_22",
+      "uuid": "4f8cd52e-a6c0-4bdb-aec5-513edd4f13a6",
+      "hypixel": "unbanned",
       "log_time": "2025/11/23-01:08"
     }
   ]

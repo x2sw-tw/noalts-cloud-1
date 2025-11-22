@@ -1,17 +1,17 @@
 {
   "date": "2025-11-23",
-  "total_logs": 40,
+  "total_logs": 42,
   "channels": {
     "1441609159136116788": {
-      "count": 40,
-      "banned": 10,
-      "unbanned": 29,
+      "count": 42,
+      "banned": 11,
+      "unbanned": 30,
       "unknown": 1
     }
   },
   "hypixel_status": {
-    "banned": 10,
-    "unbanned": 29,
+    "banned": 11,
+    "unbanned": 30,
     "unknown": 1
   },
   "unique_players": [
@@ -36,11 +36,13 @@
     "62f7a1bd-3c84-4999-abc0-490b2cb79f0f",
     "c06596ab-8b90-4b00-b4d5-960e6e9f3561",
     "b5049e64-f4e2-4771-8981-f96ec6a17be1",
+    "92646600-ab99-4220-9798-38081f473628",
     "5167d6aa-f07d-407b-af5b-06dd207598ce",
     "ead244f2-c2bd-48c1-a635-c3fb4cd9f6cd",
     "a5b520f6-2088-4e85-a55e-86a93a6214b5",
     "af084b0d-ec7a-44da-a11e-d7de6cb4c5dc",
     "8f486ca3-7858-4fe8-a7e9-d2ef4ee97a2e",
+    "a3c2642b-343c-467b-816a-9246b7bfecf2",
     "29a4d401-852c-4306-bafe-efc88d693276",
     "d44b8921-973d-460c-a5c6-35053056f493",
     "8b30ddea-5abe-4e08-bb3a-41f6bbbac263",
@@ -296,6 +298,18 @@
       "uuid": "2c259793-f4c3-432b-944e-e3a32cdade53",
       "hypixel": "unbanned",
       "log_time": "2025/11/23-00:32"
+    },
+    {
+      "name": "Dermady7stingy6",
+      "uuid": "92646600-ab99-4220-9798-38081f473628",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-01:07"
+    },
+    {
+      "name": "LinhfiRyv1122",
+      "uuid": "a3c2642b-343c-467b-816a-9246b7bfecf2",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-01:08"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "date": "2025-11-23",
-  "total_logs": 88,
+  "total_logs": 89,
   "channels": {
     "1441609159136116788": {
-      "count": 88,
+      "count": 89,
       "banned": 34,
-      "unbanned": 53,
+      "unbanned": 54,
       "unknown": 1
     }
   },
   "hypixel_status": {
     "banned": 34,
-    "unbanned": 53,
+    "unbanned": 54,
     "unknown": 1
   },
   "unique_players": [
@@ -23,6 +23,7 @@
     "539990bd-5c22-4ec9-9633-fcc5d369b607",
     "82cc5ed8-6eae-4e5d-93b2-af854f9f2ac7",
     "91adfa1c-e4be-48d0-af3a-3b08eb28aa35",
+    "935430b0-a7c0-44ff-b887-9d9c74b7c29f",
     "bafec6fb-7248-42f1-bf02-944ea968074b",
     "af663c4e-8796-49e7-822d-ba8e5f3742eb",
     "4f8cd52e-a6c0-4bdb-aec5-513edd4f13a6",
@@ -632,6 +633,12 @@
       "uuid": "4948a21e-ec85-4f6b-b3eb-77edf753516a",
       "hypixel": "unbanned",
       "log_time": "2025/11/23-05:05"
+    },
+    {
+      "name": "BonnieVII",
+      "uuid": "935430b0-a7c0-44ff-b887-9d9c74b7c29f",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-06:04"
     }
   ]
 }

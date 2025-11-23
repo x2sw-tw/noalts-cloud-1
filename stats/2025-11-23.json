@@ -1,29 +1,39 @@
 {
   "date": "2025-11-23",
-  "total_logs": 100,
+  "total_logs": 200,
   "channels": {
     "1441609159136116788": {
-      "count": 100,
-      "banned": 78,
-      "unbanned": 22,
+      "count": 200,
+      "banned": 156,
+      "unbanned": 44,
       "unknown": 0
     }
   },
   "hypixel_status": {
-    "banned": 78,
-    "unbanned": 22,
+    "banned": 156,
+    "unbanned": 44,
     "unknown": 0
   },
   "unique_players": [
+    "6ddb4ee5-5feb-40a3-9d1b-c04fd641ddc0",
+    "6ef76e6c-cda6-4ee0-9a38-e5b21902fdd6",
     "f336625e-8c89-46df-b168-89b566ac22ea",
+    "eb157c80-1802-4050-8552-272fda222f9a",
+    "7e71b94c-a782-4366-8285-ab9c01faeb82",
+    "a90a4461-a2a9-4b76-a75d-d664b74e305e",
     "09ad6e86-c6ac-4f8a-ab7f-695775e4f9ff",
+    "d0c8bba0-fd77-4189-ab22-1870ac5134e4",
+    "f3b69fcf-7e15-40c4-9f92-8e1194950410",
     "8ba6f061-d6bf-43d1-b064-bc63c76fe28f",
     "6c5dce79-6739-4cdc-9591-473a21a7313c",
     "47726c80-4879-4c39-83ee-394afd2607fd",
     "1df1463e-6a53-470d-8b63-da0952cec678",
     "2d9f8af6-2a03-4a5a-9404-4693bf2e87f7",
+    "9ed8c3a4-2a5c-4b17-8e78-b7d885941526",
     "4f300c89-81dd-4a7d-ae95-a0dea1344106",
     "779afbd5-77ae-4a16-afb5-5d624eae78ab",
+    "33b821c3-9fac-4cca-9162-48f543832841",
+    "4885f449-55e2-4c4c-8ce2-8049d32d0c3c",
     "c7147f4d-54e5-497d-a778-22bc0d62029a",
     "e7511423-fad5-4037-aac1-568085e4c32c",
     "054428d7-99c7-41b5-a580-c90554d93df4",
@@ -31,90 +41,179 @@
     "0d9264d7-4452-4f29-8992-8258e87a2757",
     "8b3385a6-0242-4f0a-a695-f9ed4c16e48f",
     "17a0d553-2d8a-4f28-8ffc-f16fb1887246",
+    "c2cf3841-3244-423f-8d73-86db588898a1",
+    "e557bbe3-4d4c-49f3-bb9a-4d87f0de61a5",
+    "e531a46c-4b6d-473a-8963-1a64d1775159",
+    "c5b510b3-2b9c-44a4-b8bb-89b050b0b532",
     "e0b79117-2648-4c5a-a8f1-936b720d1f54",
+    "7d1a60bd-79c5-49b6-af5e-8805afb3a2a7",
+    "25a60471-e84b-4fe3-baad-2d64f5654c0a",
     "6c6846b1-ecf9-475c-87c2-d2a9803a7d47",
+    "598aa9ab-e9b8-4a2d-92f4-202e81ad78b3",
     "37f935dd-c117-4202-95e9-4be089971ad4",
     "4127fc9c-bdba-4366-8e7a-1a1d4b57f4d5",
+    "6fd71fa5-7ae9-40f9-a3d2-74b4ec4ce3ce",
+    "bf29e669-09a9-4078-be90-7c2e74fdda21",
+    "58857f81-02f5-4cd0-b9ea-9261d548a2c2",
+    "bfd4331e-59e5-49cd-b95e-43de300ce5e1",
     "9ce1a92f-185e-4bca-8bf8-de4e4fea7e28",
     "6b92de5b-a79a-47fe-b2d7-8668d4e2e93c",
     "716a174a-5ee4-4faa-8356-22e61f4d471e",
     "c5e938e9-04e1-48fc-9cf9-d6ed582fc1ad",
+    "b9322786-0f09-4c0d-a37d-93ea98283749",
+    "b4983528-3132-41bf-b35b-6eea8d513554",
     "6085d233-c430-4fde-a8d8-ecb8a60c1897",
     "0221ecde-5e1a-4a4d-948c-dbb20a7ea157",
     "4bcf3afe-b1b6-4896-91b0-7cd7989215a1",
+    "73576e9e-6a59-4ed4-b4be-007708737a6b",
     "8646c804-a40f-4484-8960-92aa7e5928e2",
     "8c292f9f-d170-4549-b5a7-123f65a867ce",
+    "188645dc-0c0b-4711-965d-b57b30e05be3",
+    "5842f73c-c1b2-46fb-abd1-fe59b9848d4b",
     "cfa3fa55-ac92-441d-8ed8-123cb39c9e91",
     "e1990fda-5182-4dea-9bb4-2de32001b49f",
     "109520d6-84d3-40f8-a99a-7e410ab278fe",
+    "b55f1179-28ca-4521-a1dd-7c34e7c67e25",
+    "ebe70fd5-7cca-4fdc-9830-d7c1062f924d",
     "73eab9de-8522-477f-9b95-ac86ff2e7665",
     "55756462-9bae-422b-80d8-110d74ad60b7",
     "54349954-0d93-45c2-bb6b-68409acc4801",
     "75076089-a1e2-4eb5-9f54-b3622e585f9e",
     "d8349957-ba07-4d59-ab24-d16ed2d12073",
     "623343ec-0bae-4dc0-bd78-ba9259c96dab",
+    "3b7b8157-490f-447d-86c8-0a29fff13991",
+    "bf39d7d8-6294-404d-bdc2-55551b5734c8",
     "08cab2c1-e63c-4254-b4e4-ea54fe9f6aaf",
+    "59f2d76b-0e2b-4c33-8200-0acc37c2efc0",
+    "6edec182-ecc1-444e-a884-917fcd220485",
     "76745c6a-8a43-4fa6-a09d-15c092dce0d9",
+    "67f972a6-2b29-4da1-8752-984121e1de4e",
     "c4f08fd4-d934-44ad-83d7-42d392ff5feb",
+    "93146138-518f-45d9-a724-c6d93a40b669",
+    "1cbab90c-b5f2-48eb-970f-8e89f22661e8",
+    "535eacb8-7ae6-44c1-8598-686334b18b80",
     "67e8ea7c-83b9-42fd-9976-8dd2af7c47ca",
+    "0a3902c9-c391-4477-b314-d243c04d3c19",
+    "dbbe2961-9238-4ba3-b58a-80e63c48ff0b",
+    "4dc96842-7ae8-489e-b89a-5eff82df1ac8",
     "e7e5bf11-3248-440c-b720-915bf7620bc5",
     "117853a7-3864-4f08-b249-6504dee95c7c",
     "621dda85-00b7-4d52-b9f4-13d6a0d9704c",
+    "cbfbc8f1-8755-43c8-90ec-960405828b15",
     "3a39d433-ecc7-4e8f-85c5-ef7dca934939",
     "d2c282af-8228-4e37-9a46-d90ff06e5a38",
     "131a42b1-d24a-476a-9fcb-819c44caeaca",
+    "f5afb310-6b71-400f-8b7c-b6d36740acab",
+    "7d27941b-9d89-432e-8fd7-64ce4388de75",
+    "6b13868d-6412-48b6-a6b7-276f30acfc60",
+    "bd8327b5-c0ce-45b7-9f35-672b4d54e42e",
     "edfdb2e2-2e4f-4a82-85bd-e34a0795eae2",
+    "87a073e8-2f29-466b-804a-6020b21e808f",
+    "6b158f2d-4803-4deb-b968-9023b4e50c99",
     "e201aaee-eb8c-4091-87f6-c385a6a3ed1a",
     "ca9ea06a-11d5-4ba3-8f46-8e8cc3a6fbee",
+    "9b21fc89-c0b9-4f43-98f9-61e5ee1d57c5",
     "497e6773-c0a7-4623-87cd-fab0eb0d0985",
+    "1883f98a-a213-4e18-a994-ae049d3d4a64",
     "7160c0fa-777a-4930-87d9-1928af675cd2",
     "61a86c3c-4e8e-425d-921f-9cd11cb7cae2",
     "a4263b21-8739-4855-a541-b4e52617c135",
     "ad2b9798-7fdc-454f-a493-d16636e08f6f",
     "884bf800-3675-4331-abdd-be9e5842337d",
     "ea6c416d-d0c9-4483-96d2-832714e7840f",
+    "5d700b6d-82fd-4933-bffc-6488d7957cf6",
     "5db3ab18-11b1-48e2-84a6-3d7e0f88934f",
     "b406c27b-ae64-4763-aca6-e367344b404a",
     "a3d53af1-9d53-49d6-8a95-09e159aa8500",
     "1a85dc24-5eeb-4c1d-b565-7029871b5c18",
     "0c26c57f-9cd8-4f31-a4d0-08d83d72f55e",
+    "6837049d-158f-4ff7-a3ae-5977175595d6",
+    "e4adbbd4-802c-4b0e-b33f-6d94da57f7a0",
     "448d0662-eca3-442e-94d1-9d560bd374d3",
+    "233a50f5-b3c9-47e4-a20e-e44e58867444",
     "ddeb8e9b-68af-492b-b1f3-d99954e68efb",
+    "174a4c08-fe1a-4818-b55f-31561a0b8075",
+    "0fe9d02c-1ec0-4aa5-9c8f-7ac1d4fea29f",
     "de68d087-ebc7-4b61-8b7e-06ee10610bb2",
     "aa709a38-7ec8-4f9f-bb47-44c7214e09c1",
+    "725d345c-99c0-4c34-ae14-79cc8f7ab48b",
     "61d9b5d8-f28f-46c7-9cfd-91ca2b21f868",
+    "655f42c4-0e71-4d2a-a6d2-6a02e777f8a6",
+    "069ccfd8-0320-43c0-a033-7c7d6384cfe3",
     "0df5a092-0800-4a16-baaf-0016f578c7b9",
     "443cf556-de06-4b8d-8515-632377894084",
     "9bd52083-4499-49ba-bb04-c2bc7aa34aff",
     "22e02c4b-b996-419d-9494-7e5b085f45f5",
+    "616a09fb-21a4-4916-9f59-5c820515582f",
+    "5448e7e9-7e19-4951-9e95-7879ee4ead15",
+    "f324019e-d657-4e2b-9411-3c91f142bc29",
     "0f5b1634-7787-4dcd-a37d-3539f37ff147",
+    "5ee871fe-016b-4826-8ec9-64ae1b2691da",
+    "debbd0cf-7f33-4acc-93e1-1ec8e28d768e",
     "80ae61be-2682-4fc1-911b-336374f5dd07",
+    "dd25b6a1-c03d-459b-bca1-8e1b932a1aa7",
+    "c1694ee7-a06b-47cf-b10d-42f0d39b5e46",
+    "1d697f87-170a-4b70-8ed3-08b8ce68861a",
     "06e5a327-346a-479c-a380-ba5caf72de93",
+    "be634bd6-e277-4445-ace1-ef3eb733c7ee",
+    "14cf39bd-23ff-4d9b-a74a-220f570eec53",
     "3230cea0-3dc3-4ad5-a864-a0a9d6de95c6",
+    "924708b0-0a75-4b48-aff9-3b8b4d6a26d0",
+    "8d7650dc-8660-4606-b64a-eb73b96dd917",
     "bcb61b88-f26e-46bf-98f2-ed8a3025205e",
+    "6fe27272-e78b-422c-9cbd-d514f1f0b0f5",
+    "59793783-4a72-4b2a-9284-f4483cbdb680",
+    "5812aebb-938f-4dcf-bd81-94591fe80684",
     "4e1fddd9-58c5-4b31-b478-0d3540095593",
     "92af284d-6b31-490f-874c-e2ae7dc673e1",
+    "2a7a385f-bff2-4113-ad6a-f55593ddc941",
+    "8e3b9556-cb73-4f1e-aede-f6a4f57d3119",
     "5150d1b9-44d1-41d5-9601-251412801ef5",
     "52eb5c30-cb79-44dd-b736-fa79682d4345",
     "f25e46d9-2346-485c-95eb-a96e7c858a02",
     "8efe0f0b-853c-43aa-85a1-605b02258c23",
+    "11b62fb3-4bbb-49d1-a807-dd57d185a75b",
+    "a6d083f3-2e4a-4c5d-aeb1-a676b0b27006",
     "3c246c13-3fd2-491c-9f5a-60b588a5c9bb",
+    "23ca6a64-bbac-4cb5-9fe8-00b6b62fc47e",
     "fe06b0e2-8a48-49df-a838-19a02a166412",
     "2d629453-9a00-4d97-9b26-439cacc4392d",
+    "73fb0daa-712e-48d3-a99d-45171d80da86",
+    "786f83be-5e33-4857-bba5-2bdab04e48f3",
     "b4b4febc-180c-4a4b-acfc-a2bd9d85a1c9",
+    "3b1c7d41-8957-4bf4-8e12-1557c3be3bc1",
+    "370c4cf2-22fb-491e-86b1-0d9c4e790886",
+    "13e55267-228e-444d-99be-759493f88687",
+    "fc36f21b-02ba-48fd-93b5-816062ea8e8c",
+    "0caf6104-80dd-4c7f-a0f7-4859b529b0d4",
     "f9cf65e9-0fd0-4921-a266-f1b34e8483c2",
     "d0d70ff1-be1f-4d28-b970-eb0e7ef23fbf",
     "1bbf1992-db7d-4011-a6cf-eb071928aa2b",
+    "9f5acf35-7231-4fc6-b3dc-874dec696611",
+    "c11ec456-62a7-4d5b-9b54-048f41357691",
+    "ed592980-7e47-4dd8-a8ad-41155a8e1409",
+    "e625b16f-0df4-4d42-a697-ba5042e5ca58",
+    "f3620d20-c65d-4c5b-84c5-666c97b7bb2e",
+    "765423ab-13f1-4119-975a-5f5a414cd641",
+    "414973ef-0631-4737-aa48-e4595b8f00c0",
+    "458b769d-dd05-4161-b88b-0b7fd399ae5b",
+    "1f1039bb-f1e3-4647-878a-bc8517aa62cc",
+    "ea71a7e0-8129-4dad-ab6e-ddd48eb25fe9",
     "83b5019f-161c-40c5-82bd-d5ea2867f53d",
     "f273e804-799b-436c-ba66-d4bbb92df005",
     "4c548d9c-0adf-49a2-b678-56b0217b0ae6",
     "7cc53410-8054-42ff-961f-d74007b4d20b",
     "e0ade86c-7922-4630-9a78-d1d1fa791c86",
+    "e8e72cee-5c0f-4256-91b4-9a431cbd06fb",
     "8e8f7cac-d2ee-4514-b2df-7abfeb25a289",
     "2d2856bd-2939-459b-9b53-e718914821ae",
+    "e68cdb0f-e275-4d0a-9edc-cba888b2f414",
+    "1ee0dacd-1785-4ed3-b3cc-b2d23f64cfdf",
     "5c1c141d-df4b-42b4-aaa4-fc781dc1a810",
     "741edc3e-660a-4a01-8964-dd452ec40830",
-    "bf29e669-09a9-4078-be90-7c2e74fdda21"
+    "7a3fb66e-41f4-43e1-b8ee-8ebd6b1a40ee",
+    "45075021-af5f-4004-909c-df5e80c35131",
+    "cb18fc7d-cd59-4062-a73b-8a3dcb9cf42b"
   ],
   "logs": [
     {
@@ -716,6 +815,606 @@
       "uuid": "73eab9de-8522-477f-9b95-ac86ff2e7665",
       "hypixel": "unbanned",
       "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "robst_amusing063",
+      "uuid": "dd25b6a1-c03d-459b-bca1-8e1b932a1aa7",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Jovana_bare2",
+      "uuid": "cbfbc8f1-8755-43c8-90ec-960405828b15",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "LabubuTeam_61wm8",
+      "uuid": "f3b69fcf-7e15-40c4-9f92-8e1194950410",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Pflug_empty85",
+      "uuid": "c2cf3841-3244-423f-8d73-86db588898a1",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "tzi_4uHtp_11_21",
+      "uuid": "5d700b6d-82fd-4933-bffc-6488d7957cf6",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "MrCovBoyMushroom",
+      "uuid": "c5b510b3-2b9c-44a4-b8bb-89b050b0b532",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "ramio_punctual78",
+      "uuid": "3b7b8157-490f-447d-86c8-0a29fff13991",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "wski_official452",
+      "uuid": "1f1039bb-f1e3-4647-878a-bc8517aa62cc",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "LinhpnZaH1121",
+      "uuid": "fc36f21b-02ba-48fd-93b5-816062ea8e8c",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "MaceGodfr",
+      "uuid": "5ee871fe-016b-4826-8ec9-64ae1b2691da",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "YosuFN",
+      "uuid": "73fb0daa-712e-48d3-a99d-45171d80da86",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "cado54generous74",
+      "uuid": "b4983528-3132-41bf-b35b-6eea8d513554",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "G3rmanSoldier",
+      "uuid": "1d697f87-170a-4b70-8ed3-08b8ce68861a",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Grisetadrab96",
+      "uuid": "e4adbbd4-802c-4b0e-b33f-6d94da57f7a0",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "LinhaUtEi1121",
+      "uuid": "59f2d76b-0e2b-4c33-8200-0acc37c2efc0",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "bxkscaracal3332",
+      "uuid": "67f972a6-2b29-4da1-8752-984121e1de4e",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "abdullahpro10",
+      "uuid": "d0c8bba0-fd77-4189-ab22-1870ac5134e4",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "LabubuTeam_j04ml",
+      "uuid": "0a3902c9-c391-4477-b314-d243c04d3c19",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "jessicasoho123",
+      "uuid": "370c4cf2-22fb-491e-86b1-0d9c4e790886",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "mrb_qyMFI_11_21",
+      "uuid": "23ca6a64-bbac-4cb5-9fe8-00b6b62fc47e",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "ski_determined69",
+      "uuid": "6b158f2d-4803-4deb-b968-9023b4e50c99",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "am_definitive740",
+      "uuid": "c1694ee7-a06b-47cf-b10d-42f0d39b5e46",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "xrs_shadow_0o7",
+      "uuid": "a90a4461-a2a9-4b76-a75d-d664b74e305e",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "skittishm2eticu",
+      "uuid": "dbbe2961-9238-4ba3-b58a-80e63c48ff0b",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "tzi_OBZi6_11_13",
+      "uuid": "7a3fb66e-41f4-43e1-b8ee-8ebd6b1a40ee",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Epicletsplay1",
+      "uuid": "9ed8c3a4-2a5c-4b17-8e78-b7d885941526",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "outspokenFnreal",
+      "uuid": "bf39d7d8-6294-404d-bdc2-55551b5734c8",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "longhizada",
+      "uuid": "eb157c80-1802-4050-8552-272fda222f9a",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "ThomasShelby125",
+      "uuid": "33b821c3-9fac-4cca-9162-48f543832841",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Marras23inborn95",
+      "uuid": "9b21fc89-c0b9-4f43-98f9-61e5ee1d57c5",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "meremungnajad",
+      "uuid": "924708b0-0a75-4b48-aff9-3b8b4d6a26d0",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "ski_unfortunate1",
+      "uuid": "0fe9d02c-1ec0-4aa5-9c8f-7ac1d4fea29f",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "5p7_msmc_fns",
+      "uuid": "0caf6104-80dd-4c7f-a0f7-4859b529b0d4",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "winnerhunter444",
+      "uuid": "7d1a60bd-79c5-49b6-af5e-8805afb3a2a7",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "meow_Goirn_21",
+      "uuid": "ebe70fd5-7cca-4fdc-9830-d7c1062f924d",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Mal_DDOycz",
+      "uuid": "4dc96842-7ae8-489e-b89a-5eff82df1ac8",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "meow_POwWD_21",
+      "uuid": "e68cdb0f-e275-4d0a-9edc-cba888b2f414",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "qsi_msmc_nh6",
+      "uuid": "7e71b94c-a782-4366-8285-ab9c01faeb82",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "CaIeebable",
+      "uuid": "ed592980-7e47-4dd8-a8ad-41155a8e1409",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "aleigh_trivial38",
+      "uuid": "1883f98a-a213-4e18-a994-ae049d3d4a64",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Mal_VrQgTX",
+      "uuid": "2a7a385f-bff2-4113-ad6a-f55593ddc941",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "skycomplicated31",
+      "uuid": "73576e9e-6a59-4ed4-b4be-007708737a6b",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "J0SMANN",
+      "uuid": "be634bd6-e277-4445-ace1-ef3eb733c7ee",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "davilucas2016",
+      "uuid": "debbd0cf-7f33-4acc-93e1-1ec8e28d768e",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Ryzenn67",
+      "uuid": "c11ec456-62a7-4d5b-9b54-048f41357691",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Yanikbr23",
+      "uuid": "f5afb310-6b71-400f-8b7c-b6d36740acab",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "eliteleogamer_",
+      "uuid": "5448e7e9-7e19-4951-9e95-7879ee4ead15",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Maxamilllian",
+      "uuid": "25a60471-e84b-4fe3-baad-2d64f5654c0a",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "wg_nYICz_11_19",
+      "uuid": "87a073e8-2f29-466b-804a-6020b21e808f",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "lf_77EOp_11_18",
+      "uuid": "188645dc-0c0b-4711-965d-b57b30e05be3",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "LabubuTeam_r7wm",
+      "uuid": "ea71a7e0-8129-4dad-ab6e-ddd48eb25fe9",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "Sencrou",
+      "uuid": "11b62fb3-4bbb-49d1-a807-dd57d185a75b",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "DavidMatthew",
+      "uuid": "4885f449-55e2-4c4c-8ce2-8049d32d0c3c",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:08"
+    },
+    {
+      "name": "ingerfeminine532",
+      "uuid": "e557bbe3-4d4c-49f3-bb9a-4d87f0de61a5",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "fq_Zj96Q_11_17",
+      "uuid": "9f5acf35-7231-4fc6-b3dc-874dec696611",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "SmiteStorm_",
+      "uuid": "e625b16f-0df4-4d42-a697-ba5042e5ca58",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Hello_SoloInky",
+      "uuid": "5812aebb-938f-4dcf-bd81-94591fe80684",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "poo_0IO4j_11_17",
+      "uuid": "45075021-af5f-4004-909c-df5e80c35131",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "KleineEier88",
+      "uuid": "8e3b9556-cb73-4f1e-aede-f6a4f57d3119",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "c3p_shadow_cfg",
+      "uuid": "13e55267-228e-444d-99be-759493f88687",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "FreshJamesAllDay",
+      "uuid": "b55f1179-28ca-4521-a1dd-7c34e7c67e25",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Rhy4nz1n",
+      "uuid": "069ccfd8-0320-43c0-a033-7c7d6384cfe3",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "tzi_1vbGm_11_14",
+      "uuid": "6837049d-158f-4ff7-a3ae-5977175595d6",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "pkengrandiose544",
+      "uuid": "8d7650dc-8660-4606-b64a-eb73b96dd917",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "xHTKw",
+      "uuid": "6fe27272-e78b-422c-9cbd-d514f1f0b0f5",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Zenitsuu___",
+      "uuid": "5842f73c-c1b2-46fb-abd1-fe59b9848d4b",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "HotMiss",
+      "uuid": "93146138-518f-45d9-a724-c6d93a40b669",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "u8v_msmc_d70",
+      "uuid": "174a4c08-fe1a-4818-b55f-31561a0b8075",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "IHxnnah052",
+      "uuid": "bfd4331e-59e5-49cd-b95e-43de300ce5e1",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Yujipuny635",
+      "uuid": "598aa9ab-e9b8-4a2d-92f4-202e81ad78b3",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "mrb_ZaXVX",
+      "uuid": "b9322786-0f09-4c0d-a37d-93ea98283749",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "olt64pristine954",
+      "uuid": "14cf39bd-23ff-4d9b-a74a-220f570eec53",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Chicken__Bacon",
+      "uuid": "1cbab90c-b5f2-48eb-970f-8e89f22661e8",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "meow_ADMqQ_21",
+      "uuid": "7d27941b-9d89-432e-8fd7-64ce4388de75",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "miscal83smoggy04",
+      "uuid": "cb18fc7d-cd59-4062-a73b-8a3dcb9cf42b",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "xewarz",
+      "uuid": "1ee0dacd-1785-4ed3-b3cc-b2d23f64cfdf",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "f3172o",
+      "uuid": "e8e72cee-5c0f-4256-91b4-9a431cbd06fb",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "neditto_ringed00",
+      "uuid": "bd8327b5-c0ce-45b7-9f35-672b4d54e42e",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "ountain_knowing8",
+      "uuid": "6b13868d-6412-48b6-a6b7-276f30acfc60",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "FeatherWebGamer",
+      "uuid": "786f83be-5e33-4857-bba5-2bdab04e48f3",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "uu5_msmc_sxm",
+      "uuid": "6edec182-ecc1-444e-a884-917fcd220485",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "mojmirkrus",
+      "uuid": "725d345c-99c0-4c34-ae14-79cc8f7ab48b",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Fan2Ixor789",
+      "uuid": "6fd71fa5-7ae9-40f9-a3d2-74b4ec4ce3ce",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "11n_msmc_qqm",
+      "uuid": "3b1c7d41-8957-4bf4-8e12-1557c3be3bc1",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "swyd",
+      "uuid": "6ddb4ee5-5feb-40a3-9d1b-c04fd641ddc0",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "LinhccwcA1122",
+      "uuid": "59793783-4a72-4b2a-9284-f4483cbdb680",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Bobsin_huge2",
+      "uuid": "f324019e-d657-4e2b-9411-3c91f142bc29",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Murkeydefinite6",
+      "uuid": "e531a46c-4b6d-473a-8963-1a64d1775159",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "tzi_VwdUK_11_18",
+      "uuid": "a6d083f3-2e4a-4c5d-aeb1-a676b0b27006",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "meowalt_vfSME_17",
+      "uuid": "497e6773-c0a7-4623-87cd-fab0eb0d0985",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "etc_msmc_79b",
+      "uuid": "233a50f5-b3c9-47e4-a20e-e44e58867444",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Mal_DNPlzZ",
+      "uuid": "655f42c4-0e71-4d2a-a6d2-6a02e777f8a6",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "aeruxxf1",
+      "uuid": "616a09fb-21a4-4916-9f59-5c820515582f",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Trochaconfused6",
+      "uuid": "535eacb8-7ae6-44c1-8598-686334b18b80",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "h39gargantuan812",
+      "uuid": "414973ef-0631-4737-aa48-e4595b8f00c0",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "mutat2iveequal",
+      "uuid": "458b769d-dd05-4161-b88b-0b7fd399ae5b",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "Farmer__Billy231",
+      "uuid": "58857f81-02f5-4cd0-b9ea-9261d548a2c2",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "bxkscaracal1322",
+      "uuid": "f3620d20-c65d-4c5b-84c5-666c97b7bb2e",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:09"
+    },
+    {
+      "name": "mrb_7kcIk",
+      "uuid": "6ef76e6c-cda6-4ee0-9a38-e5b21902fdd6",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-10:10"
+    },
+    {
+      "name": "LinhKmmxs1121",
+      "uuid": "765423ab-13f1-4119-975a-5f5a414cd641",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-10:10"
     }
   ]
 }

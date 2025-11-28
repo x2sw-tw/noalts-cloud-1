@@ -1,6 +1,6 @@
 {
   "date": "2025-11-28",
-  "total_logs": 798,
+  "total_logs": 804,
   "channels": {
     "1443421079573102696": {
       "count": 244,
@@ -9,15 +9,15 @@
       "unknown": 1
     },
     "1443783464762740946": {
-      "count": 554,
-      "banned": 440,
-      "unbanned": 108,
+      "count": 560,
+      "banned": 444,
+      "unbanned": 110,
       "unknown": 6
     }
   },
   "hypixel_status": {
-    "banned": 539,
-    "unbanned": 252,
+    "banned": 543,
+    "unbanned": 254,
     "unknown": 7
   },
   "unique_players": [
@@ -67,15 +67,18 @@
     "753d0fbe-a2c6-48e0-8871-747b7fbf825d",
     "fe2473d1-9b2e-459b-85f8-d8795a88b50e",
     "11953058-e14d-45f2-944a-efdb9e1cd847",
+    "cfabf0b3-6bf8-4ccd-8783-ce66a9d4d582",
     "b71d6ce7-db8a-4262-9bf1-10b47630c11e",
     "23e238f1-ab97-4dff-8477-95cbc9148b56",
     "54d80eee-6f67-4aea-a95e-6b1c7b1c029b",
     "bf39d7d8-6294-404d-bdc2-55551b5734c8",
+    "b96707e6-ce9e-4c14-8e8e-eaf0eaa808bb",
     "42b612c0-f87c-4671-9a1d-f1cf8c471b41",
     "002da957-1a47-4a46-b7ac-d73dc48728ed",
     "b34a4656-3d9d-433e-b90e-313ddc9ef35e",
     "7dbd106c-958b-4718-b3de-d518c1dd467c",
     "9a8f4b28-b33f-4337-b94c-f417c4ea4f89",
+    "6319db33-c08d-4e81-8383-7c07b6c495f5",
     "a56bd4bb-c225-4574-a992-73e2a057c74b",
     "058788a2-fe00-49f5-8a76-a8832a0024b4",
     "af7d2546-67e7-48e6-80bb-0b7a63522b6a",
@@ -243,6 +246,7 @@
     "ad4dc23c-1286-4785-83a9-f1e3e549cd66",
     "6612d415-3119-4612-bba3-f0ce9d4f978c",
     "b1ea604b-cd91-4e68-9d23-55891e920369",
+    "6c29eb5d-9497-41da-9d7e-f69ce998837d",
     "2981da2d-fd91-43c7-b6fd-77d9b00f7315",
     "9eeee3d3-6262-4338-a4d4-d900155b141c",
     "2ed60ad9-eb97-4800-ae62-abfd1334e3a5",
@@ -360,6 +364,7 @@
     "8c2645a9-5f56-4b99-a79a-df14c4a71ad6",
     "21091fe9-9436-4f01-9044-1737201ba0fe",
     "2b7d023c-948c-4982-8834-7c0c73584165",
+    "95872eaa-329f-4830-a773-02c587bf4741",
     "6179d8f0-c78d-4115-a52d-a6ccbde1ca3f",
     "6cac2ca1-d778-4431-9127-643478ecdb29",
     "6f9b5792-89f1-4873-a0ad-1b9bcfedf882",
@@ -380,6 +385,7 @@
     "ea1bc34b-143b-4535-9f7e-a7971e2d667a",
     "b8ded16a-84b5-4d1b-8b19-05223dece4d7",
     "4e90cf36-6da3-442b-a555-c0a23aa83b27",
+    "7e813ef1-6f33-4ce9-8dfe-44b0e1dfae15",
     "5113d54a-4c07-4fbc-9b88-443e3e3980b7",
     "e2e2c861-fa99-4aee-98f4-97067d2e1c07",
     "a300b2eb-d4b3-4be1-8276-356d9e8e61e7",

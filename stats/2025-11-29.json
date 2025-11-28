@@ -1,24 +1,25 @@
 {
   "date": "2025-11-29",
-  "total_logs": 55,
+  "total_logs": 60,
   "channels": {
     "1443783464762740946": {
-      "count": 55,
+      "count": 60,
       "banned": 22,
-      "unbanned": 24,
-      "unknown": 9
+      "unbanned": 25,
+      "unknown": 13
     }
   },
   "hypixel_status": {
     "banned": 22,
-    "unbanned": 24,
-    "unknown": 9
+    "unbanned": 25,
+    "unknown": 13
   },
   "unique_players": [
     "1bade371-af9d-4c18-846b-e972fab3eed5",
     "965604c7-1c94-4aac-a0ba-5101d56185fc",
-    "3d391db1-e67c-45e5-b37f-58997083d16a",
+    "c335d0ff-f60a-4d12-8141-69042b09491f",
     "92d6e991-27d3-42be-ae22-fe85b5f8d173",
+    "3d391db1-e67c-45e5-b37f-58997083d16a",
     "890e44d8-f397-4565-9982-f2d69836df35",
     "4358b162-59a4-45c8-8dcd-1bea3a85acac",
     "73a742a8-e07c-4bc6-989b-5f0314299554",
@@ -32,6 +33,7 @@
     "987735a5-9f4c-4b84-acfd-e5b2e8e80067",
     "c1018656-bea8-4331-999e-b81fe1a2c1e5",
     "21ab02ed-d83a-4219-8d3f-2ded4ee97b07",
+    "36e9f044-2965-4973-91b7-aba76adef442",
     "cbdc31e3-3386-46dd-87b2-ca79224de9e0",
     "ca9b0e22-886c-4bab-94d1-9186f7bae8a2",
     "7a71415d-5390-4715-874f-1e2cdf608576",
@@ -49,11 +51,13 @@
     "65846f6b-9857-4c03-9f0d-96a6f2d2b122",
     "006f1c2d-9d81-454c-a59d-183de7a770b2",
     "4047a540-d5d2-49ee-b4c4-4267a4c123a2",
+    "657bec70-5b53-4222-8d52-b5b096720f4d",
     "c22d82d3-fe77-4147-baad-59ef05d55327",
     "f6f0e89e-5526-4ee3-845e-e4f4f4e2c259",
     "4f16fb7b-2bb9-4f06-a7a5-ac9f7254744e",
     "457df784-e9f8-45be-94de-e02ba8f6a7da",
     "5a737d1c-67d1-4383-94ee-278467a4bef6",
+    "c0cb7d2e-75f0-4df5-b640-d6744a6d8b84",
     "c95f6134-a6a2-4db6-83d5-0e161d30fcf0",
     "145ec17c-ca6a-4529-a58e-aed8dfdde643",
     "9b21fc89-c0b9-4f43-98f9-61e5ee1d57c5",
@@ -68,6 +72,7 @@
     "f91dd0cc-838d-4b72-baff-524feb76e5f8",
     "8ef8b73c-d5a9-4b87-aaec-78435dcecb9e",
     "17fa92e6-f348-430b-8852-b72116f19c26",
+    "945edd32-76e5-4057-a5be-e707ed6e2115",
     "8ce48341-6ad3-4df8-9770-8dfde4847412",
     "cd40d116-723c-4657-b9f9-38a500a90829"
   ]

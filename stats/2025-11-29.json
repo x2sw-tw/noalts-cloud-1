@@ -1,6 +1,6 @@
 {
   "date": "2025-11-29",
-  "total_logs": 546,
+  "total_logs": 552,
   "channels": {
     "1443783464762740946": {
       "count": 151,
@@ -9,15 +9,15 @@
       "unknown": 23
     },
     "1444145853521465548": {
-      "count": 395,
-      "banned": 273,
-      "unbanned": 104,
+      "count": 401,
+      "banned": 278,
+      "unbanned": 105,
       "unknown": 18
     }
   },
   "hypixel_status": {
-    "banned": 331,
-    "unbanned": 174,
+    "banned": 336,
+    "unbanned": 175,
     "unknown": 41
   },
   "unique_players": [
@@ -192,6 +192,7 @@
     "2015f439-5d1e-43e3-a33b-52f776731284",
     "fbc4f586-255c-409a-b074-416ef486e78f",
     "21091fe9-9436-4f01-9044-1737201ba0fe",
+    "e1c52117-f3dd-407e-a69b-ed8b1f22fc19",
     "007eca88-d3f2-46f4-9add-f056c27d4e1d",
     "965604c7-1c94-4aac-a0ba-5101d56185fc",
     "2d4c9304-75d7-4e7b-b9ca-23660bfdc2e0",
@@ -244,6 +245,7 @@
     "e31d9dd9-1aed-44d7-895f-1cb11f54addf",
     "1d59db45-b445-4b6d-a223-54dec0f8d704",
     "08caf147-4fb6-4910-bb59-ae4d01163175",
+    "ecf6081e-d23f-4d9e-bcc6-516b588bbb78",
     "2cf45983-7323-47f7-8b19-8794ac073ada",
     "e0b46869-1cd3-4274-85c1-e2a6f6867787",
     "ccda416c-1db8-4b49-bf3d-9c28b2fb7cc5",
@@ -355,6 +357,7 @@
     "a9671743-3eea-4134-8231-c6e6ff05a85a",
     "bac5d29c-ceef-4937-88a1-d9e68f9ac8c3",
     "5a4340d5-7743-4087-aa73-6751b3a2f878",
+    "e6dead76-d927-4316-817a-586731daffec",
     "656ca4a5-afe8-4d2f-bb7f-44f7fdf3dba4",
     "1c935e1a-68a1-4e69-bf75-558cc233ebe4",
     "62047c10-dd85-4acd-89d8-e608ee4d3f2c",
@@ -388,6 +391,7 @@
     "f180a511-311a-4aee-a18d-75cde0283096",
     "19c18e81-86bc-4714-bfe6-2ac9450f961d",
     "21cef6c0-df02-4e8a-b04b-297c5759c830",
+    "3f4dec2b-1f77-4bc2-bd2b-1f36c0653441",
     "c22d82d3-fe77-4147-baad-59ef05d55327",
     "fe2473d1-9b2e-459b-85f8-d8795a88b50e",
     "5a316d06-d469-4179-ac78-e0a9b4c83698",
@@ -415,6 +419,7 @@
     "26f87130-7634-4ec5-aa8f-2db4a28e4d4f",
     "0bfd01cc-8280-44cf-a166-341b26acb21c",
     "d66ef53d-9d13-44be-a792-9a6d008a34bb",
-    "cd10cb7d-c319-4546-85ac-3056ada21d30"
+    "cd10cb7d-c319-4546-85ac-3056ada21d30",
+    "6075a31d-f45e-4dd0-83bd-e6d504e3ff29"
   ]
 }

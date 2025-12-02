@@ -1,21 +1,22 @@
 {
   "date": "2025-12-03",
-  "total_logs": 72,
+  "total_logs": 73,
   "channels": {
     "1445233028522709180": {
-      "count": 72,
+      "count": 73,
       "banned": 31,
-      "unbanned": 40,
+      "unbanned": 41,
       "unknown": 1
     }
   },
   "hypixel_status": {
     "banned": 31,
-    "unbanned": 40,
+    "unbanned": 41,
     "unknown": 1
   },
   "unique_players": [
     "51de9e2a-fa84-4931-9a12-6e90c5944493",
+    "d5c33bd5-8245-4f84-b889-81c14bdc25f9",
     "e798b3e0-00d3-48d6-9f55-272f3c0da7cd",
     "c8576713-4c6f-4083-9a5b-c6654b17525b",
     "7d56e627-31ca-4c4d-8270-ef5e585b2a7f",
@@ -27,8 +28,8 @@
     "a1026100-7ccf-42b6-b2f9-1905aaacae65",
     "fb95de5a-b26a-473f-bfad-bac5d4ea8150",
     "6960d253-796b-4d09-aa9c-07edb462a27b",
-    "38e00346-3dd6-497c-a286-3a2eb0f9b56d",
     "00dfcab8-b01d-432b-b21f-e2faa12da9b3",
+    "38e00346-3dd6-497c-a286-3a2eb0f9b56d",
     "cc2265fc-d387-4270-a2f1-d0eeb3705c9e",
     "3db48930-c28e-4ad5-aa78-32fd0d2a4965",
     "f753c2f5-c82a-4f7a-8728-3e2b5f6424d4",
@@ -56,6 +57,7 @@
     "7faa4cdc-464a-4bb9-8f16-c0f4435284df",
     "6577f507-85d0-4603-b743-2da9415f3b80",
     "61e003b0-1db1-4878-8b3f-7ce1ba70ff81",
+    "ba7781b5-4000-4183-99a2-9b58047a6306",
     "fc9eb302-e931-43bd-8f8a-911d3ce5be9a",
     "43b661f0-45d2-4ede-adee-4c385477f23d",
     "c5f691cc-0989-4e22-9317-9284ab1eff5e",
@@ -68,7 +70,6 @@
     "df7507d3-7af7-417a-8a29-37e397e2991d",
     "d7d614ec-5f76-4742-918b-e65ae906a5e0",
     "86b1fe70-faa9-4e40-8cbd-4a96949379c2",
-    "b88ec799-c032-4884-9acc-4ea8f45d8301",
     "e3c4f013-b1ce-4066-b157-86a6881b2c39",
     "9a0280f0-0c8d-439c-9ee8-d23c2a13f092",
     "f0467100-5360-41c8-80e9-8debd9613cc5",
@@ -83,7 +84,7 @@
     "68861f2c-c645-4b75-9bbb-93b7aa41cc0f",
     "cde4d909-72d6-4891-b933-aa4d9d5bb81e",
     "f9d1301f-4c38-4c38-81ee-3fd0395a6440",
-    "ba7781b5-4000-4183-99a2-9b58047a6306",
+    "b88ec799-c032-4884-9acc-4ea8f45d8301",
     "fcae1f96-c56a-4d64-aa97-15e0a5f5ed40",
     "1463bab8-dea7-4d97-9424-59f757100dfa",
     "33d9cd97-9002-45e3-a7d6-a56a2d071662"

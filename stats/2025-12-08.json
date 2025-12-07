@@ -1,16 +1,16 @@
 {
   "date": "2025-12-08",
-  "total_logs": 70,
+  "total_logs": 71,
   "channels": {
     "1447044968807141569": {
-      "count": 70,
-      "banned": 35,
+      "count": 71,
+      "banned": 36,
       "unbanned": 31,
       "unknown": 4
     }
   },
   "hypixel_status": {
-    "banned": 35,
+    "banned": 36,
     "unbanned": 31,
     "unknown": 4
   },
@@ -18,6 +18,7 @@
     "c50e7f2d-bd5b-4f3d-b971-6e19e2ccc740",
     "cb4ed805-48bc-437f-a1c1-ce9e74db213e",
     "f16b35b2-42ad-4d27-8c52-fa4d5ed3425b",
+    "f0749b05-0fe9-44ea-8793-5ca7e6cdbb0f",
     "3185a9e0-43a5-4bc2-ba59-c65be0856813",
     "74fb5521-dd38-4dc3-8d88-f5e0fe68f9d4",
     "2c17b872-13f4-4d5f-a195-8138aef5daea",
@@ -29,8 +30,8 @@
     "95a014ae-b1f9-4cec-8cfd-d64152f2fb94",
     "65822b25-c64a-4a38-9cf7-a67073572358",
     "6e8764a9-7314-45d0-be7b-b4ba3aed641b",
-    "10964906-f1dc-4808-bd6a-7f0e4694331c",
     "02d54067-3a93-4883-95aa-88a5c45532a3",
+    "10964906-f1dc-4808-bd6a-7f0e4694331c",
     "82ecce1c-41a0-4e28-83aa-510a974338d9",
     "3cc628d9-66db-41da-b6b8-56cb5cdf3f52",
     "28c38a02-cd2b-4c09-b9ba-7287ba1e06a4",
@@ -41,7 +42,6 @@
     "63464279-85ef-4cd9-b6c4-3fbd455ea629",
     "8690786d-f6d9-4bd2-b694-257eb8d5d479",
     "efcdc952-9e7b-48c5-8644-2e01483026c3",
-    "aa3deea9-e7c3-4f53-a7e1-5072a15d99f0",
     "4bafadff-b5ee-4f0f-a3d5-19e0db89e270",
     "f62298a5-158e-4dec-8bb4-41ee61452c76",
     "8dc46997-84a9-4a26-9f5c-65ee24a8c161",
@@ -63,6 +63,7 @@
     "7db78941-4d5d-4136-9ef8-58eb33f96dc0",
     "cd05c6f4-6121-4e67-8a16-7c7a8e830b00",
     "796c9741-496e-4e59-95ef-ff04e3531991",
+    "a549b84c-7a20-4161-851d-1c892d145258",
     "8ade934a-ec65-4b73-9ecd-59e94a03e5ce",
     "e2f0a941-b903-4023-84fc-2694fd91c6b6",
     "eab3e7da-6794-43ca-b913-c0b11cb08251",
@@ -84,6 +85,6 @@
     "16982a14-a585-4858-90f6-45216b8550fa",
     "a55e0f7b-3ae0-41ad-8010-6d9011f50323",
     "e08b4973-36ec-4f73-b7ac-675777b0d99b",
-    "f0749b05-0fe9-44ea-8793-5ca7e6cdbb0f"
+    "aa3deea9-e7c3-4f53-a7e1-5072a15d99f0"
   ]
 }

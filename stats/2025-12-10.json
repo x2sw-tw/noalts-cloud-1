@@ -1,22 +1,23 @@
 {
   "date": "2025-12-10",
-  "total_logs": 3,
+  "total_logs": 4,
   "channels": {
     "1447769760967163956": {
-      "count": 3,
-      "banned": 3,
+      "count": 4,
+      "banned": 4,
       "unbanned": 0,
       "unknown": 0
     }
   },
   "hypixel_status": {
-    "banned": 3,
+    "banned": 4,
     "unbanned": 0,
     "unknown": 0
   },
   "unique_players": [
+    "e0d2a171-794c-4f5b-b395-af93e4c6de3f",
     "3543279f-8c9c-4331-ae94-90fb8f23b402",
-    "4cbef221-6a68-4bf2-8618-2bc080c7e118",
-    "e0d2a171-794c-4f5b-b395-af93e4c6de3f"
+    "4eb33f95-373d-4fde-91b6-bae48067809d",
+    "4cbef221-6a68-4bf2-8618-2bc080c7e118"
   ]
 }

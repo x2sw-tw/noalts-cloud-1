@@ -1,6 +1,6 @@
 {
   "date": "2025-12-09",
-  "total_logs": 195,
+  "total_logs": 202,
   "channels": {
     "1447407335260553391": {
       "count": 116,
@@ -9,14 +9,14 @@
       "unknown": 0
     },
     "1447769760967163956": {
-      "count": 79,
-      "banned": 68,
+      "count": 86,
+      "banned": 75,
       "unbanned": 9,
       "unknown": 2
     }
   },
   "hypixel_status": {
-    "banned": 138,
+    "banned": 145,
     "unbanned": 55,
     "unknown": 2
   },
@@ -26,8 +26,8 @@
     "fb096014-8c55-44d2-aa5a-8f79a1a903f4",
     "809cc1fe-0b72-43fa-800e-2a674b99a10c",
     "10ab23e9-ff61-4076-9946-9c8e8bc98b4f",
-    "2b667cd7-39ae-420f-bc1c-19b68e90fbdc",
     "8ba37b15-f297-43e9-90e6-236b6e68eef9",
+    "2b667cd7-39ae-420f-bc1c-19b68e90fbdc",
     "9392b23b-94e6-4dd7-b9e3-c83077154a7f",
     "b73b15ed-86f4-44da-936b-249b5102a248",
     "064bcdc2-f5a2-4d67-a53b-38112f974576",
@@ -48,6 +48,7 @@
     "5d5167b9-5796-4579-8316-976a4a689fed",
     "9d8ed765-13d9-4996-8c49-9cc5ed16453f",
     "6ebdd841-f139-4e07-bf97-af01f59a2b41",
+    "e219d1f0-936a-46fc-8732-3370ce5b1234",
     "5063a767-bc82-42f4-b8df-edc057a7665b",
     "b64a8530-2549-4a88-a887-4934c5f00ec0",
     "ba2bb5ad-8922-4797-813b-d6f383417d73",
@@ -58,6 +59,7 @@
     "74f29a92-351c-4c3d-9f9e-2918c5024f7a",
     "8f720968-bb4d-4fc7-8374-8c9d40d275ff",
     "7eb0d823-1193-46db-bf3c-d9f1a45d11ba",
+    "f765382d-f514-4cfd-b477-b18b51865ff3",
     "86c595df-bb56-467d-9ccd-2ebae42df9a1",
     "aac2e2c4-699d-4576-b82a-58387d38df03",
     "dbb013e6-abdb-4b4f-a1bf-e4c88d06fe06",
@@ -70,7 +72,6 @@
     "2f63537c-6a71-4c9a-aab5-75c6bc3bf7c8",
     "3b721ce6-b5d4-4680-938e-5cbac43e8b00",
     "3cfc2896-e4d5-461e-bd3b-f6504d5f791a",
-    "2627822c-89e8-46e6-aca8-a9f47931eadb",
     "315756dd-d46e-4735-95bd-fd5a8d453a93",
     "25d3cbb5-d7cd-438d-8575-1a728895bd1a",
     "bf047a5e-1ad5-4431-86d8-5356745eaa0b",
@@ -78,7 +79,6 @@
     "af4bf99c-a431-4a4e-9275-b2799e3f955b",
     "49f69663-a9af-4498-80f7-a514f4a1a9a1",
     "a3c9e8b9-b3b0-4f3b-8603-7b65cfb4e158",
-    "efcdc952-9e7b-48c5-8644-2e01483026c3",
     "cdfc9c06-68ee-4bdc-8794-97f3e2a3b2b7",
     "4df0413d-091e-4711-8e86-9b1983db7dd3",
     "81908cd7-beac-4b24-a61b-bb95815ba7d8",
@@ -92,17 +92,19 @@
     "77688b7e-b7af-4238-ad3b-b251323ec805",
     "b5b1d9d1-2f52-4a8e-98f2-49ffeca81e05",
     "2cc7442b-5576-4203-bdf3-d38a3d2d1666",
-    "120c2da5-4f1e-4b9e-b4d7-8866d57ba3d5",
     "36729aa5-eb47-498f-9bba-07b185a15975",
+    "120c2da5-4f1e-4b9e-b4d7-8866d57ba3d5",
     "63038aa0-5b25-47d6-b636-5083b8815c47",
     "00dbcedb-7e59-49e9-851a-0c1e8a951f17",
     "ade15bf9-0d6e-4887-b55b-86b341cb79aa",
     "435bb9cb-bc72-4b06-be6d-5252b6e84cef",
     "aa719313-1cda-4f99-acd3-f0a68f8d72fe",
+    "b2dee6b8-395e-4146-b221-bb34dbda532e",
     "23e59627-5385-4e67-b0b1-053bfd670b8d",
     "e9609dd4-37e9-45db-b3ad-d96e131cabb5",
     "fb2fa0a4-5390-40d9-b5a6-26f6d3fe117b",
     "fff42c84-ce6a-4b39-985f-395eddb8d94c",
+    "c732550e-9685-4bcf-8fc4-b2996c9b6a1e",
     "11ab21a7-c657-4f4b-a054-450c47be1b6c",
     "7d7e6e7f-192a-4478-9417-74c6b949bd53",
     "64420c7d-314b-4205-b507-d8934b8f3f7f",
@@ -117,6 +119,7 @@
     "da4ffe31-083a-421e-8b5a-4d3713e41157",
     "df1b97d0-c53c-49da-ada4-8bd872e4d8c0",
     "8a96361d-c9e7-4014-8a15-efa0bfcba6ec",
+    "40db5bf0-b5ed-495a-a4ff-cb62656a835b",
     "44323180-df26-4751-b9b8-ba80c9e3c39b",
     "46ba1e72-360a-4dd6-9e87-e102c2eb3b9a",
     "13635a11-ec10-4119-b1e8-6b3e61456d7e",
@@ -126,6 +129,8 @@
     "b0edbe69-3b17-4285-bb61-d616b32242b7",
     "866cb73f-87b8-4b10-b202-25ee414b2aee",
     "436f3f7a-a35b-457d-b114-070da0496eeb",
+    "fa77d8dd-f927-48a7-9525-e96bd4dbfca3",
+    "1cdd3d36-6852-439c-a22f-df6e88ed5f05",
     "b1666825-1ea6-473d-9a26-863106f0fb3a",
     "34a7455f-187d-4560-98b7-ce2011e87fb1",
     "6f27b535-7b99-4e8a-bc0b-afefb706b952",
@@ -160,6 +165,7 @@
     "f67ab813-e200-4f98-94cf-6cfd9940a5f6",
     "61b28aeb-99fb-4d23-abf3-a68991c09c0e",
     "09ad9a0d-0b6a-48ad-b83f-b1ffd5cd37c2",
+    "c05d0c46-72d9-4f9e-923c-5729311edfc4",
     "4fde79dc-b9b3-4612-9dcd-ac2a9d224fa1",
     "bb698635-c0bd-4a51-a8e7-bccb65261288",
     "865a48e3-2283-45a1-9e50-8058d8c40ff5",
@@ -167,9 +173,9 @@
     "e8a097d9-1fbf-4635-92a1-97fc2abef231",
     "3b3ee676-d6f0-4ad4-b32e-c4590964aef8",
     "81b46eca-0e1c-4c46-89fe-a670d480eeb9",
-    "1cdd3d36-6852-439c-a22f-df6e88ed5f05",
+    "efcdc952-9e7b-48c5-8644-2e01483026c3",
     "2c17c42f-4bbc-4c15-a691-2339d8eca185",
     "f0161f9a-2378-4df2-83df-a1c1ceacf1e1",
-    "c732550e-9685-4bcf-8fc4-b2996c9b6a1e"
+    "2627822c-89e8-46e6-aca8-a9f47931eadb"
   ]
 }

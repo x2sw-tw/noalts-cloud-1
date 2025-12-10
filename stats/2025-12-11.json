@@ -1,17 +1,17 @@
 {
   "date": "2025-12-11",
-  "total_logs": 127,
+  "total_logs": 133,
   "channels": {
     "1448132140658327682": {
-      "count": 127,
-      "banned": 64,
-      "unbanned": 63,
+      "count": 133,
+      "banned": 68,
+      "unbanned": 65,
       "unknown": 0
     }
   },
   "hypixel_status": {
-    "banned": 64,
-    "unbanned": 63,
+    "banned": 68,
+    "unbanned": 65,
     "unknown": 0
   },
   "unique_players": [
@@ -25,7 +25,9 @@
     "9fd8c1b3-fdef-4955-967b-4054e8d4826a",
     "a07e825f-ccef-4abf-bde3-b982acdb114b",
     "43c33dd1-a769-42e3-971c-58d8e88c8194",
+    "f40f03d7-8cfa-4905-b7a0-3c94c9b3c603",
     "3c4fdee2-d9cd-4a25-be87-dbe4ab5db837",
+    "bb698635-c0bd-4a51-a8e7-bccb65261288",
     "3a6f6444-ad37-47f4-9473-ab64e3843514",
     "2f235b6a-42ce-49f9-8366-34708d51367e",
     "c716b5e5-eded-47aa-9ae1-c66ec4e95e6a",
@@ -35,9 +37,11 @@
     "a6d81e85-584e-45dc-90e6-e595a22c7f49",
     "a70ab6d2-c5f8-4fcf-a3df-0bd0e7e6ce0b",
     "09136ada-e6b8-498a-b2f7-83873f9a598d",
+    "67673eae-dd27-4566-be89-c071565e72e9",
     "11c71533-3ff0-4c1b-abfb-46dc175ec97b",
     "64f946f3-9899-4a21-9d91-adb184c09efb",
     "8c4745e6-9591-4216-915e-f2ea0f4099dc",
+    "ce0f3a9f-2f76-45fc-a7ed-4cc4c8fed16b",
     "6a802876-5694-49f4-92ab-a1b929c59414",
     "eed28480-0dc7-4e2b-81f3-53fc8c9561cf",
     "73bc6c37-5add-45b6-b9ff-23d9ac9e56e4",
@@ -53,6 +57,7 @@
     "1dbaa933-ebad-4685-87e3-341c1e20f5f5",
     "38b1dd50-c23e-4e20-9f65-d7b017e4aa21",
     "b3d24ecb-d876-494e-b63b-ccb7752879c0",
+    "ed5f04f0-c0d4-4369-bfd9-48787dc96058",
     "3ca2f2b0-2e6b-4c1b-b738-15b3ce23a3eb",
     "64604dd7-3f46-42d4-aca5-1e547b80c6af",
     "87b47b00-275d-4141-8b39-688b3456156e",
@@ -123,6 +128,7 @@
     "f6c42875-e3e8-4a7a-ada1-ec363c703a5e",
     "6735f3ba-9533-43b8-878f-540584be9c37",
     "f9031a21-03bc-45c7-a8f7-16997acf8c27",
+    "004f1357-65f6-4044-a56b-7539d470b5a7",
     "6ae96267-af7e-45e3-86d0-6fe9b9b0c640",
     "264ddaf8-a8aa-49f6-9603-8cbeb3795f99",
     "b5ffc8fc-3bcb-4d38-a501-f6129a3c8ca0",

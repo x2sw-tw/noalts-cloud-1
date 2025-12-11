@@ -1,6 +1,6 @@
 {
   "date": "2025-12-11",
-  "total_logs": 316,
+  "total_logs": 317,
   "channels": {
     "1448132140658327682": {
       "count": 166,
@@ -9,15 +9,15 @@
       "unknown": 0
     },
     "1448494508454056037": {
-      "count": 150,
+      "count": 151,
       "banned": 115,
-      "unbanned": 34,
+      "unbanned": 35,
       "unknown": 1
     }
   },
   "hypixel_status": {
     "banned": 195,
-    "unbanned": 120,
+    "unbanned": 121,
     "unknown": 1
   },
   "unique_players": [
@@ -29,6 +29,7 @@
     "3302e824-dc8e-43cb-b634-4f8b0950282c",
     "b0483a1a-0a6a-4b61-9793-ce9a676da075",
     "970391d0-987b-4063-9358-6e675756a5ca",
+    "c1624373-84d5-4cf3-933b-4fba2d65e120",
     "0c90ce19-6ae9-4eb5-baf8-8e1df8b8ad3d",
     "74b63e32-470b-4c60-9e1c-f6031ebc222f",
     "64521d71-0922-4377-b021-b221ccc1fa0d",
@@ -149,6 +150,7 @@
     "7fbfe27a-d560-4acc-b661-047f583fbf79",
     "09ca8b5a-c8e8-42da-a69d-d80aa0bd3b40",
     "ce0f3a9f-2f76-45fc-a7ed-4cc4c8fed16b",
+    "13ca5bf7-0022-4c33-ace4-ad4279e89c96",
     "6470e4fa-fda6-4dc0-894c-be1d55b501b8",
     "25101064-c921-4411-8515-a76283d2fb26",
     "b1933b76-2dc1-4c0f-a7ed-7bccb92c8dd1",
@@ -171,7 +173,6 @@
     "f40f03d7-8cfa-4905-b7a0-3c94c9b3c603",
     "0607b73d-39bf-48e5-826c-edf5ebbfc2a7",
     "1ab4ca43-ec13-4260-89d0-45c4b00283b2",
-    "6a359398-5876-4a57-8bad-9f3e926e04bb",
     "ed5f04f0-c0d4-4369-bfd9-48787dc96058",
     "5e868037-bd6b-4bf4-b3b3-87fa11bc2245",
     "7ebb95ce-a8ff-4515-af3f-60810942c8ac",
@@ -193,6 +194,7 @@
     "3a6f6444-ad37-47f4-9473-ab64e3843514",
     "a05c796c-efe4-4af0-925b-359c912d3693",
     "2f63537c-6a71-4c9a-aab5-75c6bc3bf7c8",
+    "adc727c9-ea00-499e-b0cb-dc4bd9cfe6b4",
     "3a2d59e2-5f7c-4a6c-b4e9-eb7f1fc4b77b",
     "2c3697e1-6194-4cdd-ab75-0033238c817b",
     "3c4fdee2-d9cd-4a25-be87-dbe4ab5db837",
@@ -274,14 +276,13 @@
     "43c33dd1-a769-42e3-971c-58d8e88c8194",
     "6ae96267-af7e-45e3-86d0-6fe9b9b0c640",
     "6f931b26-c644-465c-bfb4-971647fe1034",
-    "72530682-1d8b-43ae-abaa-5abff88ebfb2",
     "b67d85d6-8dbd-455a-b610-4e730f58cfa3",
     "2c87e233-7370-477c-a0d3-170378ca7237",
-    "13ca5bf7-0022-4c33-ace4-ad4279e89c96",
+    "72530682-1d8b-43ae-abaa-5abff88ebfb2",
     "45323f17-6660-4716-bb4a-df71b7e07d3d",
     "67496501-87e0-42cd-82b5-c1677ecc476e",
     "f1c37ffa-fe70-43d5-9dbb-8a03b395202b",
     "81b46eca-0e1c-4c46-89fe-a670d480eeb9",
-    "adc727c9-ea00-499e-b0cb-dc4bd9cfe6b4"
+    "6a359398-5876-4a57-8bad-9f3e926e04bb"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2025-12-11",
-  "total_logs": 308,
+  "total_logs": 310,
   "channels": {
     "1448132140658327682": {
       "count": 166,
@@ -9,15 +9,15 @@
       "unknown": 0
     },
     "1448494508454056037": {
-      "count": 142,
+      "count": 144,
       "banned": 113,
-      "unbanned": 28,
+      "unbanned": 30,
       "unknown": 1
     }
   },
   "hypixel_status": {
     "banned": 193,
-    "unbanned": 114,
+    "unbanned": 116,
     "unknown": 1
   },
   "unique_players": [
@@ -57,14 +57,15 @@
     "2627822c-89e8-46e6-aca8-a9f47931eadb",
     "cb99850f-fd96-440e-9dd7-4400fb0bb154",
     "a94136f7-48bd-4e42-b341-d5788ba1e7c2",
+    "f977e39a-3f3f-4f47-aca8-4368f3618183",
     "2b875cc1-61c2-4291-a533-cb92f93730b7",
     "fe5ad434-b734-4829-88c7-f2809874ad39",
     "d8125ae9-60a7-420c-b0ee-dbcdfc61efcc",
     "31a72fbc-947d-4f79-8e3e-18d3ffbf7cee",
     "e9d98b17-ce5b-435c-97a6-415c59073a35",
     "d6a86678-9be5-47be-bdd2-37564b0c1bc7",
+    "385d7767-791e-40d9-901d-9cac1d2e0032",
     "e00ef68e-2f19-4926-9f3c-02b10c48e6ff",
-    "40d2d060-f7f1-40d7-948c-2ae8b6db1d7d",
     "58b50c8a-8123-43a1-8f95-64d04d31295f",
     "197d6859-6c19-4046-9398-5448c99e67c6",
     "b5ffc8fc-3bcb-4d38-a501-f6129a3c8ca0",
@@ -220,8 +221,10 @@
     "cdfc9c06-68ee-4bdc-8794-97f3e2a3b2b7",
     "2671819e-e8e3-4682-8d7a-2a73671f6a72",
     "9141f43b-b190-4da2-aac2-0bb552ae9472",
+    "0d31dd06-bc0f-41a1-b90b-c779a9e9343d",
     "8c4745e6-9591-4216-915e-f2ea0f4099dc",
     "004f1357-65f6-4044-a56b-7539d470b5a7",
+    "40d2d060-f7f1-40d7-948c-2ae8b6db1d7d",
     "96fe7134-5d5d-4779-b1f1-938629c03662",
     "b111b764-7add-414f-973b-9d361ce62736",
     "06c5e963-fd06-460e-bf45-df0926d70d7f",
@@ -229,7 +232,6 @@
     "5f3d41b2-a560-41c5-bf82-e593f2bbc90f",
     "58c73ff9-87ac-48c8-8315-99447ac1d188",
     "e3196e2e-6b15-479b-8042-6e2e53c7c9cc",
-    "0d31dd06-bc0f-41a1-b90b-c779a9e9343d",
     "b3d24ecb-d876-494e-b63b-ccb7752879c0",
     "0ab9ef8a-71a2-49cf-8957-b03de15aeee5",
     "11c71533-3ff0-4c1b-abfb-46dc175ec97b",

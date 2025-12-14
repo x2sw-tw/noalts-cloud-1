@@ -1,38 +1,57 @@
 {
   "date": "2025-12-15",
-  "total_logs": 19,
+  "total_logs": 38,
   "channels": {
     "1449581671979417774": {
-      "count": 19,
-      "banned": 11,
-      "unbanned": 8,
+      "count": 38,
+      "banned": 14,
+      "unbanned": 24,
       "unknown": 0
     }
   },
   "hypixel_status": {
-    "banned": 11,
-    "unbanned": 8,
+    "banned": 14,
+    "unbanned": 24,
     "unknown": 0
   },
   "unique_players": [
+    "93cbf4d2-40d1-42be-8a2e-dacf6fe10fea",
+    "b808bbf0-a88b-4d73-8b07-b8d51e69d073",
     "a4f989f1-28c3-4618-9174-eac71f298918",
+    "fd219053-96fe-4b29-a929-18c7a34be215",
+    "03ff3953-957c-4832-b892-ae6f6f56f77b",
+    "8be253f4-4d45-4557-be5e-69b9583857b0",
+    "59f2ec7a-9618-4474-bd4e-e90ca9197c08",
     "832c9c65-c873-4a60-beb0-4a1c932fd228",
     "8de0411b-afa5-4222-8f0c-c88f4fdab040",
     "55310339-7e08-482f-833c-8c81ac476265",
     "8c19bddb-f971-41e0-9612-1a152fe6d1cc",
     "bee8dd06-b9c4-4053-8e84-7db648a1832b",
+    "045cc354-e542-40e8-a348-87ce23cd07b1",
     "51f13368-2110-452a-bb38-81aa939bce5c",
     "4ddccea0-87dc-4e3d-889c-f73c75100f88",
+    "9cead386-d68d-43c8-b5e9-e26c7ef5fd4b",
     "1850e61c-3553-4ae1-8bdf-d5ad25be6f63",
     "55857595-edc2-4289-859c-843bc1036457",
     "89d255ab-3c82-4547-9264-bf02354f0e31",
     "25a0573b-6de7-4cf8-b83b-3c40b9b64339",
+    "e6a4ba0c-9c70-4ef6-ae2a-2405a664e56f",
+    "6cf715ee-2c65-40e0-9c5a-38ed5c18b4f7",
     "26ffe024-951b-415e-8d45-8ea3a5af2613",
+    "b987aa06-1460-43d6-ad3b-d6d43494f235",
     "42f155b3-c25a-404f-970b-84f5f6a70e60",
     "5bf9dc31-4a5c-4d3a-bcaa-baeb33d17839",
+    "13144a2f-a0d0-4d9c-8ce5-49c67be70161",
+    "0d7fe930-b503-4db1-a51a-c11d079e207d",
+    "78bfc365-6448-41b8-921e-1be9467eb035",
+    "82e43be5-83f4-494b-afdf-3f032d8dfbb1",
+    "08dc870f-7aae-4732-8201-3bf546a196b3",
     "705ed5f3-bb18-4ae0-8854-274b12c3e9ad",
+    "0ebd5880-f4e7-4911-9c53-a1e5d751e7f9",
+    "a6f00567-2443-46c8-a559-7f29f76c9ea1",
     "7e055abf-01cb-4dfc-bcba-cc1a1dfeb05c",
     "6f05a23e-3d2e-45ed-9b3e-cfd45a2d630a",
-    "e26b6836-67f3-4108-8f02-e12387a85614"
+    "e26b6836-67f3-4108-8f02-e12387a85614",
+    "d1c85150-03cc-4ba7-bf4b-4d04f61dc176"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "date": "2025-12-20",
-  "total_logs": 38,
+  "total_logs": 42,
   "channels": {
     "1451393637975068756": {
-      "count": 38,
-      "banned": 33,
-      "unbanned": 4,
+      "count": 42,
+      "banned": 36,
+      "unbanned": 5,
       "unknown": 1
     }
   },
   "hypixel_status": {
-    "banned": 33,
-    "unbanned": 4,
+    "banned": 36,
+    "unbanned": 5,
     "unknown": 1
   },
   "unique_players": [
@@ -31,6 +31,7 @@
     "a9b28c2f-f2a4-4537-a54b-a96cbf3bdde0",
     "7b39f0a3-f980-4cea-b3a7-a9456759d83b",
     "ce85db41-f93c-4274-905d-c1f24a360657",
+    "af30d1b2-74cd-4e2c-a6d0-b6480f6b661f",
     "145c83ea-9933-476d-b64e-faaae335a80c",
     "b8cffe29-686d-4cc8-a796-f333dda58b38",
     "cfb3b030-4ab6-4782-add2-b9e7856b2f33",
@@ -38,6 +39,7 @@
     "f146a115-f4cb-4969-8eef-1a3ce4948583",
     "7d78eb04-9efd-4fb7-9b42-976393676c02",
     "c011bbf2-d32a-4567-860a-89efa4ded092",
+    "78a81fa2-d9d0-4984-8888-b48a9103021c",
     "4ed9ae83-f3bc-4ada-b565-6e4be845ba80",
     "4a7cfca2-4d39-414c-a03a-d4a23cb344ba",
     "e88a63cc-4fee-4081-a8be-5a0e08915bbe",
@@ -45,11 +47,13 @@
     "bd7b017d-0847-466b-8284-235a7f5a4af4",
     "4ed035af-84e8-48e2-9d04-9fd308df6b83",
     "5cbceb5d-0dfa-457e-8165-441506ba7053",
+    "6a80c576-6609-4320-9f7c-3d5b137434f7",
     "ef75c83c-399e-4c35-8618-13307ed80c6f",
     "dff36c66-315f-41f7-abfa-1c47df762963",
     "c517429c-7321-4c69-b14f-ea6622324868",
     "c0fd3fb9-381c-4e06-a120-daaa8d58e5d7",
     "eed171d8-07e5-454c-8c16-3f3a6ecd0c62",
+    "78bfc365-6448-41b8-921e-1be9467eb035",
     "0571a00f-ed87-45a9-b044-0b4a003b7ae9",
     "4a71b98a-a434-43d3-9acc-615ee0ca800b",
     "003a28de-4385-4ffb-b78d-258f01f75791"

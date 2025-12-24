@@ -1,12 +1,13 @@
 {
   "date": "2025-12-25",
-  "total_logs": 1,
+  "total_logs": 2,
   "hypixel_status": {
-    "banned": 0,
+    "banned": 1,
     "unbanned": 1,
     "unknown": 0
   },
   "unique_players": [
+    "f3206051-2670-48d1-9866-a4fed85dbbdd",
     "f513430f-d8b5-4f3d-b468-5518d0eb38e2"
   ]
 }

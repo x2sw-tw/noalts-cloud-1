@@ -1,18 +1,20 @@
 {
   "date": "2026-01-01",
-  "total_logs": 10,
+  "total_logs": 12,
   "hypixel_status": {
-    "banned": 6,
-    "unbanned": 3,
+    "banned": 7,
+    "unbanned": 4,
     "unknown": 1
   },
   "unique_players": [
+    "7023d096-630a-4b40-b664-048e4197b279",
     "830bd7b5-510b-41cc-8de7-3b97ae508771",
     "9477dbcb-5709-4599-a186-c738357e8fdc",
     "e21b90e3-7c00-405f-a42b-6bec6624d6c0",
     "41d17430-4179-45ed-b2f3-7305e7e0d174",
     "ffa4a3ed-ab34-4044-bc8b-d83b17f37682",
     "27532c14-29c8-4021-b0b7-b549b62b2846",
+    "2993637f-9594-47bb-9103-cd8787eb1e9b",
     "e3f4a5b7-57c2-4e9f-81ef-59423c3e6d2a",
     "20d10cdd-c4a1-4c92-af27-bef4358fe559",
     "72a3e7e7-e26b-4999-8e0e-2a3dba5301cd",

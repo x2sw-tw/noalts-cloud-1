@@ -1,10 +1,10 @@
 {
   "date": "2026-01-04",
-  "total_logs": 155,
+  "total_logs": 156,
   "hypixel_status": {
     "banned": 120,
     "unbanned": 29,
-    "unknown": 6
+    "unknown": 7
   },
   "unique_players": [
     "c5ca5c0f-3dfe-494c-84b7-2f34eaabd02c",
@@ -19,8 +19,8 @@
     "7cc95b65-d29f-4aae-a060-a00a1ad340d8",
     "78aac0b4-b3ca-4e9a-973e-b2fb81a4b419",
     "9b6a6544-192d-4566-b929-ca2e3072d50d",
-    "7b5df8cc-12e5-478c-beb3-efe11140bd91",
     "ec1fb037-e8c3-483e-bb75-85eaa189d9ff",
+    "7b5df8cc-12e5-478c-beb3-efe11140bd91",
     "f59163b2-d53f-4a97-8190-c33c3b4bd59b",
     "5a9baee3-9fb5-4bdd-905c-be97ab7a47a7",
     "3ca2f2b0-2e6b-4c1b-b738-15b3ce23a3eb",
@@ -108,6 +108,7 @@
     "1cd83b10-9e10-49bd-acda-3f0533bf328a",
     "6286c3be-96c1-4d5c-94f3-9598ebaf385f",
     "bdd9194e-0e23-4ce8-b492-d861726f2fa9",
+    "599213a3-45aa-4323-b62b-ccb2294c062c",
     "7bd90c18-3827-4534-aad3-38dc63321aad",
     "d2e5178f-43c6-4ff0-afbe-db308463d286",
     "b0b6515a-8c75-4443-92a9-987f246fada6",

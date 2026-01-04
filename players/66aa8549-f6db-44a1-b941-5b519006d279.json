@@ -2,6 +2,85 @@
   "name": "ANTOS1432",
   "session": "cjps3@live.ca:Suigetsu123",
   "uuid": "66aa8549-f6db-44a1-b941-5b519006d279",
-  "hypixel": "unbanned",
-  "log_time": "2026/01/02-20:08"
+  "hypixel": "banned",
+  "log_time": "2026/01/04-11:02",
+  "full_message": {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "`ANTOS1432`",
+        "description": "||```cjps3@live.ca:Suigetsu123```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1.92`\nFirst Login: <t:1766679300:F>\nLast Login: <t:1766955840:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 1m`\nMoney: `7.877`\nShards: `40`\n\n**Account Info:**\nUUID: `66aa8549-f6db-44a1-b941-5b519006d279`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-04T03:02:16.753000+00:00",
+        "author": {
+          "name": "16591/25901 | 11"
+        },
+        "thumbnail": {
+          "url": "https://mc-heads.net/body/66aa8549-f6db-44a1-b941-5b519006d279/100/left",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/eYXgWK27CllGgNrgu2Y4Ug8XP1kuE_OQ5ovM6mNRmy0/https/mc-heads.net/body/66aa8549-f6db-44a1-b941-5b519006d279/100/left",
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "Z1mGAgArgIB4WYeRkAcLmQZYiXmBVWY=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "footer": {
+          "text": "discord.gg/logs",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
+          "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
+        },
+        "content_scan_version": 3
+      }
+    ],
+    "timestamp": "2026-01-04T03:02:16.908000+00:00",
+    "edited_timestamp": null,
+    "flags": 4096,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "credentials_cmjz5bqvk1fddhih2vdrg2hfw",
+            "style": 3,
+            "label": "Get Credentials",
+            "emoji": {
+              "name": "🔑"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "1457207480294838402",
+    "channel_id": "1457191841739964562",
+    "author": {
+      "id": "1435331490002112522",
+      "username": "DiscoveryService",
+      "avatar": "a0dd60da241a644266b65e78afc078da",
+      "discriminator": "5784",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
 }

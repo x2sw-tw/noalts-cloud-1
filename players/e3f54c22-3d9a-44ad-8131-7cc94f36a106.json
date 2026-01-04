@@ -3,5 +3,84 @@
   "session": "matheusgemer882@outlook.com:188199dsw@",
   "uuid": "e3f54c22-3d9a-44ad-8131-7cc94f36a106",
   "hypixel": "banned",
-  "log_time": "2026/01/03-10:22"
+  "log_time": "2026/01/04-11:03",
+  "full_message": {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "`Lleo27008`",
+        "description": "||```matheusgemer882@outlook.com:188199dsw@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 25d 21h 52m 9s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Account Info:**\nUUID: `e3f54c22-3d9a-44ad-8131-7cc94f36a106`\nMinecraft Capes: `Cherry Blossom, Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1286715845:F>\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-04T03:03:32.975000+00:00",
+        "author": {
+          "name": "25889/25901 | 31"
+        },
+        "thumbnail": {
+          "url": "https://mc-heads.net/body/e3f54c22-3d9a-44ad-8131-7cc94f36a106/100/left",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/bk7V4doBQLI5V7YRc1jCRiZjS_vQq1Wys-SaoMII95M/https/mc-heads.net/body/e3f54c22-3d9a-44ad-8131-7cc94f36a106/100/left",
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "footer": {
+          "text": "discord.gg/logs",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
+          "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
+        },
+        "content_scan_version": 3
+      }
+    ],
+    "timestamp": "2026-01-04T03:03:33.139000+00:00",
+    "edited_timestamp": null,
+    "flags": 4096,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "credentials_cmjz5ddoq1fe0hih2ot8ei4lr",
+            "style": 3,
+            "label": "Get Credentials",
+            "emoji": {
+              "name": "🔑"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "1457207800030695606",
+    "channel_id": "1457191841739964562",
+    "author": {
+      "id": "1435331490002112522",
+      "username": "DiscoveryService",
+      "avatar": "a0dd60da241a644266b65e78afc078da",
+      "discriminator": "5784",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
 }

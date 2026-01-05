@@ -3,7 +3,7 @@
   "session": "liam.collins02@outlook.com:highview20",
   "uuid": "551fcd98-dc75-44f8-9d7a-4e78e8a00f47",
   "hypixel": "banned",
-  "log_time": "2026/01/04-06:16",
+  "log_time": "2026/01/05-08:39",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`ravefPNCqoc0`",
-        "description": "||```liam.collins02@outlook.com:highview20```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1756221060:F>\nLast Login: <t:1758880500:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 13m`\nMoney: `102.700`\n\n**Account Info:**\nUUID: `551fcd98-dc75-44f8-9d7a-4e78e8a00f47`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1685477046:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
+        "description": "||```liam.collins02@outlook.com:highview20```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1756221060:F>\nLast Login: <t:1758880500:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 39m`\nMoney: `13`\nShards: `36`\n\n**Account Info:**\nUUID: `551fcd98-dc75-44f8-9d7a-4e78e8a00f47`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1685477046:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
         "color": 16756290,
-        "timestamp": "2026-01-03T22:16:44.858000+00:00",
+        "timestamp": "2026-01-05T00:39:52.948000+00:00",
         "author": {
-          "name": "255205/574779 | 3"
+          "name": "319522/480522 | 11"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/551fcd98-dc75-44f8-9d7a-4e78e8a00f47/100/left",
@@ -34,11 +34,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-03T22:16:45.335000+00:00",
+    "timestamp": "2026-01-05T00:39:53.284000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +48,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjyv4jwr1eokhih2b8nf0kbz",
+            "custom_id": "credentials_cmk0foh741ij2hih2saqnx8ny",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +58,8 @@
         ]
       }
     ],
-    "id": "1457135625269674085",
-    "channel_id": "1456829435763363940",
+    "id": "1457534033604116620",
+    "channel_id": "1457191841739964562",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

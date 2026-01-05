@@ -2,8 +2,8 @@
   "name": "LinhEOilB1230",
   "session": "vixair25@gmail.com:Vixair99",
   "uuid": "5dba2efb-302a-4753-8705-0725b4d2ec7e",
-  "hypixel": "unknown",
-  "log_time": "2026/01/04-01:09",
+  "hypixel": "banned",
+  "log_time": "2026/01/05-08:23",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhEOilB1230`",
-        "description": "||```vixair25@gmail.com:Vixair99```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `UNKNOWN`\n> Proxy connection timed out\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1766855940:F>\nLast Login: <t:1767111480:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `5dba2efb-302a-4753-8705-0725b4d2ec7e`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1711831084:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 11184810,
-        "timestamp": "2026-01-03T17:09:03.472000+00:00",
+        "description": "||```vixair25@gmail.com:Vixair99```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1766855940:F>\nLast Login: <t:1767111480:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `5dba2efb-302a-4753-8705-0725b4d2ec7e`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1711831084:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
+        "color": 16756290,
+        "timestamp": "2026-01-05T00:23:52.984000+00:00",
         "author": {
-          "name": "39042/39042 | 10"
+          "name": "208845/480522 | 10"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/5dba2efb-302a-4753-8705-0725b4d2ec7e/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "CAiGAgArTJ+iFhUAAAAAAAZYinmBVWY=",
+          "placeholder": "EHmGEgoraYAZ1pZpgIMGSAZYinlxZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-03T17:09:03.711000+00:00",
+    "timestamp": "2026-01-05T00:23:53.300000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjyk4uxg1dsjhih2fm58lkqh",
+            "custom_id": "credentials_cmk0f3whe1iibhih2balekhhq",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457058191606157332",
-    "channel_id": "1456829435763363940",
+    "id": "1457530007139123390",
+    "channel_id": "1457191841739964562",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

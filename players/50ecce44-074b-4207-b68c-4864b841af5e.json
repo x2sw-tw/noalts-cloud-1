@@ -1,0 +1,82 @@
+{
+  "name": "SkillsZzz",
+  "session": "jugadordonzo@hotmail.com:Papayangie_123",
+  "uuid": "50ecce44-074b-4207-b68c-4864b841af5e",
+  "hypixel": "banned",
+  "log_time": "2026/01/05-23:03",
+  "full_message": {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "`SkillsZzz`",
+        "description": "||```jugadordonzo@hotmail.com:Papayangie_123```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 29d 22h 38m 56s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Account Info:**\nUUID: `50ecce44-074b-4207-b68c-4864b841af5e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767112558:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-05T15:03:37.896000+00:00",
+        "author": {
+          "name": "53109/103941 | 28"
+        },
+        "thumbnail": {
+          "url": "https://mc-heads.net/body/50ecce44-074b-4207-b68c-4864b841af5e/100/left",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/Q7cIN3T0zp0Ihpo1l-dpCt5D5erwQbwc7NmUf4ZHsOA/https/mc-heads.net/body/50ecce44-074b-4207-b68c-4864b841af5e/100/left",
+          "width": 0,
+          "height": 0,
+          "flags": 0
+        },
+        "footer": {
+          "text": "discord.gg/logs",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
+          "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
+        }
+      }
+    ],
+    "timestamp": "2026-01-05T15:03:38.104000+00:00",
+    "edited_timestamp": null,
+    "flags": 4096,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "credentials_cmk1aj9hk1jw1hih23kxq75di",
+            "style": 3,
+            "label": "Get Credentials",
+            "emoji": {
+              "name": "🔑"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "1457751402653683802",
+    "channel_id": "1457554231081828598",
+    "author": {
+      "id": "1435331490002112522",
+      "username": "DiscoveryService",
+      "avatar": "a0dd60da241a644266b65e78afc078da",
+      "discriminator": "5784",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+}

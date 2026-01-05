@@ -2,8 +2,8 @@
   "name": "xthonkismwvZhj",
   "session": "rtrichards@hotmail.com:Motator71!",
   "uuid": "b8442eb2-9314-44da-afdf-e9ed865758e0",
-  "hypixel": "banned",
-  "log_time": "2026/01/04-20:03",
+  "hypixel": "unknown",
+  "log_time": "2026/01/05-23:14",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`xthonkismwvZhj`",
-        "description": "||```rtrichards@hotmail.com:Motator71!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 24d 23h 46m from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767095100:F>\nLast Login: <t:1767095100:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 9m`\nMoney: `3.434`\n\n**Account Info:**\nUUID: `b8442eb2-9314-44da-afdf-e9ed865758e0`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1751740411:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-04T12:03:00.636000+00:00",
+        "description": "||```rtrichards@hotmail.com:Motator71!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `UNKNOWN`\n> Proxy connection timed out\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767095100:F>\nLast Login: <t:1767095100:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 9m`\nMoney: `3.434`\n\n**Account Info:**\nUUID: `b8442eb2-9314-44da-afdf-e9ed865758e0`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1751740411:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "color": 11184810,
+        "timestamp": "2026-01-05T15:14:31.563000+00:00",
         "author": {
-          "name": "24110/137778 | 7"
+          "name": "97284/103941 | 54"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b8442eb2-9314-44da-afdf-e9ed865758e0/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "m/eFGgIr+agnqrO2jm/9+QZYmnmCZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-04T12:03:00.732000+00:00",
+    "timestamp": "2026-01-05T15:14:31.697000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzon4qi1g76hih2jp2feu9r",
+            "custom_id": "credentials_cmk1ax9v01jxohih20five76j",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457343559555481644",
-    "channel_id": "1457191841739964562",
+    "id": "1457754144021414072",
+    "channel_id": "1457554231081828598",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

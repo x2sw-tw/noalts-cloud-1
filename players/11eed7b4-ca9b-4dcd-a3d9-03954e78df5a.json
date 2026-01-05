@@ -3,7 +3,7 @@
   "session": "peedroleite2014@hotmail.com:Pedro2014!",
   "uuid": "11eed7b4-ca9b-4dcd-a3d9-03954e78df5a",
   "hypixel": "banned",
-  "log_time": "2026/01/04-20:03",
+  "log_time": "2026/01/05-21:35",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhNFFht0103`",
-        "description": "||```peedroleite2014@hotmail.com:Pedro2014!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767392760:F>\nLast Login: <t:1767392760:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 6m`\n\n**Account Info:**\nUUID: `11eed7b4-ca9b-4dcd-a3d9-03954e78df5a`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "description": "||```peedroleite2014@hotmail.com:Pedro2014!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 6m`\n\n**Account Info:**\nUUID: `11eed7b4-ca9b-4dcd-a3d9-03954e78df5a`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767377853:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
         "color": 16756290,
-        "timestamp": "2026-01-04T12:03:22.653000+00:00",
+        "timestamp": "2026-01-05T13:35:20.469000+00:00",
         "author": {
-          "name": "42836/137778 | 16"
+          "name": "147452/614262 | 11"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/11eed7b4-ca9b-4dcd-a3d9-03954e78df5a/100/left",
@@ -34,11 +34,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-04T12:03:22.816000+00:00",
+    "timestamp": "2026-01-05T13:35:20.761000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +48,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzonlq11g7fhih2k7pr3tbl",
+            "custom_id": "credentials_cmk17dq221jnqhih2ldw7mthy",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +58,8 @@
         ]
       }
     ],
-    "id": "1457343652182360219",
-    "channel_id": "1457191841739964562",
+    "id": "1457729183986749588",
+    "channel_id": "1457554231081828598",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,7 +3,7 @@
   "session": "dylantealvarez@gmail.com:Dy191313$",
   "uuid": "730fa784-b1fa-4efe-8a25-255379647a34",
   "hypixel": "banned",
-  "log_time": "2026/01/05-00:02",
+  "log_time": "2026/01/06-01:32",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,31 +14,27 @@
       {
         "type": "rich",
         "title": "`ravekYNBp3RF`",
-        "description": "||```dylantealvarez@gmail.com:Dy191313$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `12.25`\nFirst Login: <t:1721699940:F>\nLast Login: <t:1767347520:F>\nBedWars Stars: `5`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `730fa784-b1fa-4efe-8a25-255379647a34`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1721599521:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "description": "||```dylantealvarez@gmail.com:Dy191313$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `12.25`\nFirst Login: <t:1721699940:F>\nLast Login: <t:1767347520:F>\nBedWars Stars: `5`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `730fa784-b1fa-4efe-8a25-255379647a34`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1721599521:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-04T16:02:13.514000+00:00",
+        "timestamp": "2026-01-05T17:32:23.963000+00:00",
         "author": {
-          "name": "3784/3792 | 9"
+          "name": "260123/384138 | 17"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/730fa784-b1fa-4efe-8a25-255379647a34/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/eUBIoNTQRUWUSJ2aeXMBsH4oc3UdOJHpIag1XAmjnJQ/https/mc-heads.net/body/730fa784-b1fa-4efe-8a25-255379647a34/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "DgiKAgArSYP5B5hMj8HzOQZYinlxZWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-04T16:02:13.716000+00:00",
+    "timestamp": "2026-01-05T17:32:24.188000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +45,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzx6rhe1gtfhih2t6w2qupc",
+            "custom_id": "credentials_cmk1fukvx1kbthih2hbclt3ks",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +55,8 @@
         ]
       }
     ],
-    "id": "1457403760333557831",
-    "channel_id": "1457191841739964562",
+    "id": "1457788841363509330",
+    "channel_id": "1457554231081828598",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

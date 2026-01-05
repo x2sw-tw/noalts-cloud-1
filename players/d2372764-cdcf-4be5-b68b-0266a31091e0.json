@@ -3,7 +3,7 @@
   "session": "marcilio-macedo@hotmail.com:Neide1021",
   "uuid": "d2372764-cdcf-4be5-b68b-0266a31091e0",
   "hypixel": "banned",
-  "log_time": "2026/01/04-20:21",
+  "log_time": "2026/01/05-21:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`shadowyunrestr6`",
-        "description": "||```marcilio-macedo@hotmail.com:Neide1021```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 24d 13h 57m 13s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `4.84`\nFirst Login: <t:1767054780:F>\nLast Login: <t:1767060240:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 32m`\nMoney: `197.012`\nShards: `30`\n\n**Account Info:**\nUUID: `d2372764-cdcf-4be5-b68b-0266a31091e0`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767048576:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "description": "||```marcilio-macedo@hotmail.com:Neide1021```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 23d 13h 16m 32s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `4.84`\nFirst Login: <t:1767054780:F>\nLast Login: <t:1767060240:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 32m`\nMoney: `197.012`\nShards: `30`\n\n**Account Info:**\nUUID: `d2372764-cdcf-4be5-b68b-0266a31091e0`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767048576:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
         "color": 16756290,
-        "timestamp": "2026-01-04T12:21:52.520000+00:00",
+        "timestamp": "2026-01-05T13:02:35.285000+00:00",
         "author": {
-          "name": "128709/137778 | 59"
+          "name": "31151/614262 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/d2372764-cdcf-4be5-b68b-0266a31091e0/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-04T12:21:52.681000+00:00",
+    "timestamp": "2026-01-05T13:02:35.579000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzpbe3k1gabhih275k55gj3",
+            "custom_id": "credentials_cmk167lqf1jl8hih264i6uq0s",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457348307293569285",
-    "channel_id": "1457191841739964562",
+    "id": "1457720941416026226",
+    "channel_id": "1457554231081828598",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

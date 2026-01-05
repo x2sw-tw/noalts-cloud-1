@@ -3,7 +3,7 @@
   "session": "ironblak31@gmail.com:31032010emma",
   "uuid": "27a08b59-1fff-496e-aa05-e3eb019e2c8e",
   "hypixel": "banned",
-  "log_time": "2026/01/04-21:02",
+  "log_time": "2026/01/06-01:19",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`wappa_QLRoU`",
-        "description": "||```ironblak31@gmail.com:31032010emma```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 25d 11h 39m 18s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `1.96`\nFirst Login: <t:1729454100:F>\nLast Login: <t:1767140640:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 18m`\nMoney: `436`\n\n**Account Info:**\nUUID: `27a08b59-1fff-496e-aa05-e3eb019e2c8e`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "description": "||```ironblak31@gmail.com:31032010emma```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 24d 7h 22m 20s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `1.96`\nFirst Login: <t:1729454100:F>\nLast Login: <t:1767140640:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 18m`\nMoney: `436`\n\n**Account Info:**\nUUID: `27a08b59-1fff-496e-aa05-e3eb019e2c8e`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1728323088:F>\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-04T13:02:51.318000+00:00",
+        "timestamp": "2026-01-05T17:19:47.990000+00:00",
         "author": {
-          "name": "25347/25397 | 33"
+          "name": "171563/384138 | 12"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/27a08b59-1fff-496e-aa05-e3eb019e2c8e/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-04T13:02:52.015000+00:00",
+    "timestamp": "2026-01-05T17:19:48.220000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzqs3bk1gd0hih282tvxx2g",
+            "custom_id": "credentials_cmk1fedoc1k8whih27lvgzn9k",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457358622488137881",
-    "channel_id": "1457191841739964562",
+    "id": "1457785670604165153",
+    "channel_id": "1457554231081828598",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

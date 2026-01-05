@@ -3,7 +3,7 @@
   "session": "peamggezxd@gmail.com:Moompeam",
   "uuid": "fe00899f-e6ad-4e7e-a17e-ab6d0309dc19",
   "hypixel": "banned",
-  "log_time": "2026/01/04-01:08",
+  "log_time": "2026/01/05-22:37",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,27 +14,31 @@
       {
         "type": "rich",
         "title": "`xthonkismcppHN`",
-        "description": "||```peamggezxd@gmail.com:Moompeam```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 24d 2h 1m 46s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `5.17`\nFirst Login: <t:1766906640:F>\nLast Login: <t:1766946660:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 8m`\nMoney: `689.187`\n\n**Account Info:**\nUUID: `fe00899f-e6ad-4e7e-a17e-ab6d0309dc19`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1736041085:F>\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "description": "||```peamggezxd@gmail.com:Moompeam```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 22d 4h 32m 12s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `5.17`\nFirst Login: <t:1766906640:F>\nLast Login: <t:1766946660:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 8m`\nMoney: `689.187`\n\n**Account Info:**\nUUID: `fe00899f-e6ad-4e7e-a17e-ab6d0309dc19`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1736041085:F>\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-03T17:08:12.369000+00:00",
+        "timestamp": "2026-01-05T14:37:38.253000+00:00",
         "author": {
-          "name": "31967/39042 | 8"
+          "name": "289926/504952 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/fe00899f-e6ad-4e7e-a17e-ab6d0309dc19/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/eMPe9GE15H02xrlglT8-MI6mZBWYty-gQR_qnaJ_s8c/https/mc-heads.net/body/fe00899f-e6ad-4e7e-a17e-ab6d0309dc19/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "TRiGCgIrVmSpZwplb4jyVwZYiXmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-03T17:08:12.592000+00:00",
+    "timestamp": "2026-01-05T14:37:38.560000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -45,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjyk3rhw1ds4hih23907hh8b",
+            "custom_id": "credentials_cmk19lu5q1jtqhih2w38qttsi",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -55,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457057977197662320",
-    "channel_id": "1456829435763363940",
+    "id": "1457744861452046366",
+    "channel_id": "1457554231081828598",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

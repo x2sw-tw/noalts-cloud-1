@@ -2,8 +2,8 @@
   "name": "SkillsZzz",
   "session": "jugadordonzo@hotmail.com:Papayangie_123",
   "uuid": "50ecce44-074b-4207-b68c-4864b841af5e",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-23:03",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,27 +14,31 @@
       {
         "type": "rich",
         "title": "`SkillsZzz`",
-        "description": "||```jugadordonzo@hotmail.com:Papayangie_123```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 29d 22h 38m 56s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Account Info:**\nUUID: `50ecce44-074b-4207-b68c-4864b841af5e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767112558:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-05T15:03:37.896000+00:00",
+        "description": "||```jugadordonzo@hotmail.com:Papayangie_123```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 11h 39m 31s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.24`\nFirst Login: <t:1767619020:F>\nLast Login: <t:1767619440:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 38m`\nMoney: `0`\nShards: `244`\n\n**Account Info:**\nUUID: `50ecce44-074b-4207-b68c-4864b841af5e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-06T02:03:34.197000+00:00",
         "author": {
-          "name": "53109/103941 | 28"
+          "name": "43565/87861 | 54"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/50ecce44-074b-4207-b68c-4864b841af5e/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/Q7cIN3T0zp0Ihpo1l-dpCt5D5erwQbwc7NmUf4ZHsOA/https/mc-heads.net/body/50ecce44-074b-4207-b68c-4864b841af5e/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T15:03:38.104000+00:00",
+    "timestamp": "2026-01-06T02:03:34.460000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -45,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1aj9hk1jw1hih23kxq75di",
+            "custom_id": "credentials_cmk1y3y6q1lk9hih2wd4eux18",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -55,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457751402653683802",
-    "channel_id": "1457554231081828598",
+    "id": "1457917481808035890",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

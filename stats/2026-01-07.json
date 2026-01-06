@@ -1,20 +1,42 @@
 {
   "date": "2026-01-07",
-  "total_logs": 9,
+  "total_logs": 31,
   "hypixel_status": {
     "banned": 0,
     "unbanned": 0,
-    "unknown": 9
+    "unknown": 31
   },
   "unique_players": [
-    "1374ca2d-585d-48b6-aa42-449b0cc8e36d",
     "ce77046f-1dce-4573-a7f0-7155e5258191",
-    "ae38b5e2-c828-4681-a320-ed2c6e6c9e3a",
+    "ae65502d-a14e-4d79-af82-5a3a79b42742",
+    "9b89d91f-07d8-4058-8a8a-a1c2cc355eb9",
+    "c31aa3a9-3572-4749-b145-f1cb4cc37258",
+    "6aa3ee80-c9bc-45ed-bcbd-08e96dab9ac7",
+    "1374ca2d-585d-48b6-aa42-449b0cc8e36d",
     "b6770b66-31aa-4d91-847a-925ebfa1df42",
+    "cad523c7-4fe9-4ee8-aeea-2c7c575ab718",
     "71d69d1e-3c4d-437b-af1e-ef1ab1dde9ba",
-    "4ccbd584-5d6d-486f-b742-5ca90a79df87",
+    "ee833b62-4f49-4ca9-a55d-8021fac19093",
+    "d541011f-1989-45e7-a986-488719edaa6f",
     "95a61c5c-1710-46e9-82a9-41705967016c",
-    "fc96fb15-2fa4-4230-b49d-b85096333c97",
-    "b83fdfc6-0156-434d-9859-c9d72cc5e12b"
+    "f83e0329-ae6a-4727-b44f-442159b9c148",
+    "e6ac5923-de76-43c3-9089-541321eb1242",
+    "7f535ed0-7e86-4d8f-97c1-230e605225eb",
+    "11e19786-22ca-4242-963f-be1a65bba5f4",
+    "02755a95-c21b-4bf8-9c98-5f55f9869f76",
+    "72d34c60-d2d8-40c9-add2-050f1207f996",
+    "3d789176-4842-4e85-9f6b-fcc0f0421e66",
+    "4a1c5076-acce-4dd3-a666-8ff13a6e118d",
+    "e0c5e710-575e-41c6-b532-9495420df845",
+    "b83fdfc6-0156-434d-9859-c9d72cc5e12b",
+    "ae38b5e2-c828-4681-a320-ed2c6e6c9e3a",
+    "d2578694-c2a9-4de4-9638-d012103aa9ac",
+    "9ce4a807-b05c-4581-a548-f76f9b94f126",
+    "b0b1ac8d-89a1-4244-b970-572176ca695d",
+    "1dcec05f-b9b3-4e6e-8f29-a872bbb40bf6",
+    "24be4e63-ac63-4d37-b7df-6691f5555347",
+    "4ccbd584-5d6d-486f-b742-5ca90a79df87",
+    "9baf3121-f63f-4bbe-9ba5-6fbcecb9cd9f",
+    "fc96fb15-2fa4-4230-b49d-b85096333c97"
   ]
 }

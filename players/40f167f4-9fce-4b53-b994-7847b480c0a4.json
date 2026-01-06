@@ -2,8 +2,8 @@
   "name": "ravegEsg5lZN",
   "session": "vived10@hotmail.com:Jwor1234!",
   "uuid": "40f167f4-9fce-4b53-b994-7847b480c0a4",
-  "hypixel": "unbanned",
-  "log_time": "2026/01/06-02:44",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:20",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`ravegEsg5lZN`",
-        "description": "||```vived10@hotmail.com:Jwor1234!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `UNBANNED`\n> Joined successfully\n\n\n**Hypixel General Info:**\nLevel: `3.55`\nFirst Login: <t:1434201420:F>\nLast Login: <t:1767638640:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 59m`\nMoney: `90.421`\n\n**Account Info:**\nUUID: `40f167f4-9fce-4b53-b994-7847b480c0a4`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1315298909:F>\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
-        "color": 65280,
-        "timestamp": "2026-01-05T18:44:42.252000+00:00",
+        "description": "||```vived10@hotmail.com:Jwor1234!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `3.55`\nFirst Login: <t:1434201420:F>\nLast Login: <t:1767639300:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 47m`\nMoney: `1.276`\nShards: `192`\n\n**Account Info:**\nUUID: `40f167f4-9fce-4b53-b994-7847b480c0a4`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1315298909:F>\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-06T02:20:02.317000+00:00",
         "author": {
-          "name": "371722/386707 | 11"
+          "name": "67255/87861 | 118"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/40f167f4-9fce-4b53-b994-7847b480c0a4/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T18:44:42.531000+00:00",
+    "timestamp": "2026-01-06T02:20:02.510000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1ifkf71kj4hih2fg9w5ilj",
+            "custom_id": "credentials_cmk1yp4mi1lmdhih24qsa3xkk",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457807037692903684",
-    "channel_id": "1457554231081828598",
+    "id": "1457921625990234144",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

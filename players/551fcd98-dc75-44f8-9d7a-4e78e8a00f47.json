@@ -3,7 +3,7 @@
   "session": "liam.collins02@outlook.com:highview20",
   "uuid": "551fcd98-dc75-44f8-9d7a-4e78e8a00f47",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-09:02",
+  "log_time": "2026/01/06-10:09",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,27 +14,31 @@
       {
         "type": "rich",
         "title": "`ravefPNCqoc0`",
-        "description": "||```liam.collins02@outlook.com:highview20```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1756221060:F>\nLast Login: <t:1758880500:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 39m`\nMoney: `13`\nShards: `36`\n\n**Account Info:**\nUUID: `551fcd98-dc75-44f8-9d7a-4e78e8a00f47`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1685477046:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "description": "||```liam.collins02@outlook.com:highview20```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1756221060:F>\nLast Login: <t:1758880500:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 39m`\nMoney: `13`\nShards: `36`\n\n**Account Info:**\nUUID: `551fcd98-dc75-44f8-9d7a-4e78e8a00f47`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1685477046:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-06T01:02:11.933000+00:00",
+        "timestamp": "2026-01-06T02:09:41.095000+00:00",
         "author": {
-          "name": "4169/4172 | 1"
+          "name": "54759/87861 | 86"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/551fcd98-dc75-44f8-9d7a-4e78e8a00f47/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/VZjDTW33-jkvmLAeCHOO4maWVtEUTethsDb9HTB8rH0/https/mc-heads.net/body/551fcd98-dc75-44f8-9d7a-4e78e8a00f47/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T01:02:12.294000+00:00",
+    "timestamp": "2026-01-06T02:09:41.254000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -45,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1vx11r1lgphih245t7i9au",
+            "custom_id": "credentials_cmk1ybtak1ll9hih22nfldqej",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -55,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457902037684715731",
-    "channel_id": "1457554231081828598",
+    "id": "1457919020253581343",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

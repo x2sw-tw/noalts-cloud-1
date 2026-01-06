@@ -2,8 +2,8 @@
   "name": "wappa_OeUdC",
   "session": "mawinwaritt@gmail.com:Mawin2012",
   "uuid": "66855ece-aea1-40f7-8bce-23b7a77bbe9c",
-  "hypixel": "banned",
-  "log_time": "2026/01/04-21:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-16:27",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`wappa_OeUdC`",
-        "description": "||```mawinwaritt@gmail.com:Mawin2012```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1766862180:F>\nLast Login: <t:1766933160:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `66855ece-aea1-40f7-8bce-23b7a77bbe9c`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
+        "description": "||```mawinwaritt@gmail.com:Mawin2012```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for cheating. Time Left: 13 day 10 hours 55 minutes Ban ID: #AWuj6KpJ\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 21 days and 17 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1766862180:F>\nLast Login: <t:1766933160:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 9h 53m`\nMoney: `155.270`\nShards: `2`\n\n**Account Info:**\nUUID: `66855ece-aea1-40f7-8bce-23b7a77bbe9c`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1731183401:F>\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-04T13:02:51.756000+00:00",
+        "timestamp": "2026-01-06T08:27:27.368000+00:00",
         "author": {
-          "name": "25351/25397 | 35"
+          "name": "111889/307246 | 54"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/66855ece-aea1-40f7-8bce-23b7a77bbe9c/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "UCiGAgIr821T58U0Jk+E8wZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-04T13:02:52.283000+00:00",
+    "timestamp": "2026-01-06T08:27:27.744000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzqs3nq1gd1hih21tlm1uyl",
+            "custom_id": "credentials_cmk2btmpb1m0zhih2subgbt9e",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457358623612211240",
-    "channel_id": "1457191841739964562",
+    "id": "1458014090403516524",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

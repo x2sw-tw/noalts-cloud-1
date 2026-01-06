@@ -2,8 +2,8 @@
   "name": "Spider_fearX",
   "session": "vanbergenkevin2012@gmail.com:Nesoet79!",
   "uuid": "5ff12c03-f34e-4a5f-8f27-06e511a31bbd",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-23:04",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:18",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`Spider_fearX`",
-        "description": "||```vanbergenkevin2012@gmail.com:Nesoet79!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1.29`\nFirst Login: <t:1695500640:F>\nLast Login: <t:1749184980:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `5ff12c03-f34e-4a5f-8f27-06e511a31bbd`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1695500063:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-05T15:04:05.070000+00:00",
+        "description": "||```vanbergenkevin2012@gmail.com:Nesoet79!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 54 day 6 hours 31 minutes Ban ID: #hlcH8TbV\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.29`\nFirst Login: <t:1695500640:F>\nLast Login: <t:1749184980:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `5ff12c03-f34e-4a5f-8f27-06e511a31bbd`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1695500063:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-06T02:18:55.612000+00:00",
         "author": {
-          "name": "57241/103941 | 29"
+          "name": "66176/87861 | 114"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/5ff12c03-f34e-4a5f-8f27-06e511a31bbd/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T15:04:05.196000+00:00",
+    "timestamp": "2026-01-06T02:18:55.824000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1ajuge1jw5hih201r92u1j",
+            "custom_id": "credentials_cmk1ynp8m1lm7hih2kp2tlfle",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457751516286029866",
-    "channel_id": "1457554231081828598",
+    "id": "1457921346289012832",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -2,8 +2,8 @@
   "name": "Mal_YaXJet",
   "session": "hmattosazevedo@hotmail.com:duzentos3223",
   "uuid": "c6dff804-c5d0-44d6-8e7b-dd09fb3ce6bb",
-  "hypixel": "banned",
-  "log_time": "2026/01/06-04:03",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,27 +14,31 @@
       {
         "type": "rich",
         "title": "`Mal_YaXJet`",
-        "description": "||```hmattosazevedo@hotmail.com:duzentos3223```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767640020:F>\nLast Login: <t:1767640560:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `c6dff804-c5d0-44d6-8e7b-dd09fb3ce6bb`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767639531:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-05T20:03:13.975000+00:00",
+        "description": "||```hmattosazevedo@hotmail.com:duzentos3223```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy connection timed out\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767640020:F>\nLast Login: <t:1767640560:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 42m`\nMoney: `9`\nShards: `222`\n\n**Account Info:**\nUUID: `c6dff804-c5d0-44d6-8e7b-dd09fb3ce6bb`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767639531:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-06T02:04:20.756000+00:00",
         "author": {
-          "name": "38332/109752 | 3"
+          "name": "45407/87861 | 63"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c6dff804-c5d0-44d6-8e7b-dd09fb3ce6bb/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/LE-Nw3o5T1Rb75sgmKS6PrrHOxBc_gqTHqY7AoqATn0/https/mc-heads.net/body/c6dff804-c5d0-44d6-8e7b-dd09fb3ce6bb/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "mwiGIgQriYBKdqb1jFSveQZYiXmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T20:03:14.120000+00:00",
+    "timestamp": "2026-01-06T02:04:20.809000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -45,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1l8jxi1kuuhih2955cbivb",
+            "custom_id": "credentials_cmk1y4y3y1lklhih2y3ir45kt",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -55,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457826799529758862",
-    "channel_id": "1457554231081828598",
+    "id": "1457917676210098271",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

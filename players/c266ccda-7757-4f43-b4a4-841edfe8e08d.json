@@ -2,8 +2,8 @@
   "name": "wappa_RyVuI",
   "session": "azcardsfam4@gmail.com:Makaylaandrew123",
   "uuid": "c266ccda-7757-4f43-b4a4-841edfe8e08d",
-  "hypixel": "banned",
-  "log_time": "2026/01/04-21:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-17:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`wappa_RyVuI`",
-        "description": "||```azcardsfam4@gmail.com:Makaylaandrew123```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1.38`\nFirst Login: <t:1736935680:F>\nLast Login: <t:1767433440:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 49m`\nMoney: `7.324.694`\n\n**Account Info:**\nUUID: `c266ccda-7757-4f43-b4a4-841edfe8e08d`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Cherry Blossom, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1648512765:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`",
-        "color": 35529,
-        "timestamp": "2026-01-04T13:02:37.325000+00:00",
+        "description": "||```azcardsfam4@gmail.com:Makaylaandrew123```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 13 hours\n\n**Hypixel General Info:**\nLevel: `1.38`\nFirst Login: <t:1736935680:F>\nLast Login: <t:1767433440:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 49m`\nMoney: `7.324.694`\n\n**Account Info:**\nUUID: `c266ccda-7757-4f43-b4a4-841edfe8e08d`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Cherry Blossom, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1648512765:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
+        "color": 16756290,
+        "timestamp": "2026-01-06T09:02:34.665000+00:00",
         "author": {
-          "name": "17148/25397 | 6"
+          "name": "46229/323102 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c266ccda-7757-4f43-b4a4-841edfe8e08d/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "ykiGEgYr9ZYm2bXXpIBMCgZYi3qBZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-04T13:02:37.407000+00:00",
+    "timestamp": "2026-01-06T09:02:34.874000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzqrsiz1gcphih218spt4vk",
+            "custom_id": "credentials_cmk2d2spx1m4fhih241tk25x0",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457358561217871914",
-    "channel_id": "1457191814875316388",
+    "id": "1458022928347304110",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

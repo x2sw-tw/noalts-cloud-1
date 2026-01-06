@@ -2,8 +2,8 @@
   "name": "LinhtTLFS0104",
   "session": "chasec1011@gmail.com:JibsJimp99!",
   "uuid": "20bd0f2d-4988-4b30-90d2-a8a56617874a",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-23:12",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:47",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhtTLFS0104`",
-        "description": "||```chasec1011@gmail.com:JibsJimp99!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `20bd0f2d-4988-4b30-90d2-a8a56617874a`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1726379505:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "description": "||```chasec1011@gmail.com:JibsJimp99!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 18 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767285720:F>\nLast Login: <t:1767533100:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `20bd0f2d-4988-4b30-90d2-a8a56617874a`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1726379505:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-05T15:12:09.367000+00:00",
+        "timestamp": "2026-01-06T02:47:35.763000+00:00",
         "author": {
-          "name": "90432/103941 | 49"
+          "name": "86770/87861 | 164"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/20bd0f2d-4988-4b30-90d2-a8a56617874a/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T15:12:09.556000+00:00",
+    "timestamp": "2026-01-06T02:47:36.082000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1au8521jxdhih2b5cbzpgm",
+            "custom_id": "credentials_cmk1zokip1lp6hih2y9c2twik",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457753547838849164",
-    "channel_id": "1457554231081828598",
+    "id": "1457928561573761055",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

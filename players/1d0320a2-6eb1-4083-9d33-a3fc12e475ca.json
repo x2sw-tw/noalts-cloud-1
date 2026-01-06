@@ -2,8 +2,8 @@
   "name": "zz_TSnRY_12_31",
   "session": "shantaraf@ymail.com:Taeson323",
   "uuid": "1d0320a2-6eb1-4083-9d33-a3fc12e475ca",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-08:52",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-16:25",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`zz_TSnRY_12_31`",
-        "description": "||```shantaraf@ymail.com:Taeson323```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 22d 19h 45m 24s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `7.52`\nFirst Login: <t:1600219500:F>\nLast Login: <t:1766952360:F>\nBedWars Stars: `6`\n\n**DonutSMP Info:**\nPlaytime: `3d 18h 3m`\nMoney: `4.107`\nShards: `5`\n\n**Account Info:**\nUUID: `1d0320a2-6eb1-4083-9d33-a3fc12e475ca`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1600110122:F>\nOther Games: `Minecraft Bedrock`",
-        "color": 35529,
-        "timestamp": "2026-01-05T00:52:21.434000+00:00",
+        "description": "||```shantaraf@ymail.com:Taeson323```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 21d 12h 12m 20s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 16 hours\n\n**DonutSMP Info:**\nPlaytime: `3d 18h 3m`\nMoney: `4.107`\nShards: `5`\n\n**Account Info:**\nUUID: `1d0320a2-6eb1-4083-9d33-a3fc12e475ca`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1600110122:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "color": 16756290,
+        "timestamp": "2026-01-06T08:25:36.457000+00:00",
         "author": {
-          "name": "399781/480522 | 15"
+          "name": "108339/307246 | 52"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1d0320a2-6eb1-4083-9d33-a3fc12e475ca/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T00:52:21.775000+00:00",
+    "timestamp": "2026-01-06T08:25:36.770000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk0g4iqo1ijwhih2eboeo4ch",
+            "custom_id": "credentials_cmk2br97a1m0rhih2uudpfo3k",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457537173002649813",
-    "channel_id": "1457191814875316388",
+    "id": "1458013624944558115",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

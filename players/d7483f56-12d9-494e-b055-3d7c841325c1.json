@@ -2,8 +2,8 @@
   "name": "LinhBPlJY0105",
   "session": "andresbenitezxpx@outlook.com:Cuenta2026",
   "uuid": "d7483f56-12d9-494e-b055-3d7c841325c1",
-  "hypixel": "unbanned",
-  "log_time": "2026/01/05-20:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhBPlJY0105`",
-        "description": "||```andresbenitezxpx@outlook.com:Cuenta2026```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `UNBANNED`\n> Joined successfully\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767613560:F>\nLast Login: <t:1767613980:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `d7483f56-12d9-494e-b055-3d7c841325c1`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
-        "color": 65280,
-        "timestamp": "2026-01-05T12:02:12.988000+00:00",
+        "description": "||```andresbenitezxpx@outlook.com:Cuenta2026```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.66`\nFirst Login: <t:1767613560:F>\nLast Login: <t:1767617460:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 5m`\nShards: `132`\n\n**Account Info:**\nUUID: `d7483f56-12d9-494e-b055-3d7c841325c1`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767612870:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-06T02:04:42.405000+00:00",
         "author": {
-          "name": "6998/7009 | 38"
+          "name": "45847/87861 | 69"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/d7483f56-12d9-494e-b055-3d7c841325c1/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T12:02:16.465000+00:00",
+    "timestamp": "2026-01-06T02:04:42.574000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk141yn31jgshih25kogk3ad",
+            "custom_id": "credentials_cmk1y5etf1lkohih2ak7gbyhb",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457705761751826594",
-    "channel_id": "1457554231081828598",
+    "id": "1457917767498862674",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

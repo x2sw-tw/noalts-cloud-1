@@ -2,8 +2,8 @@
   "name": "LinhOaHYv1230",
   "session": "bini080313@outlook.kr:Bj080313!!!",
   "uuid": "47d1336d-301a-4bbc-aa85-5b0841831678",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-13:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhOaHYv1230`",
-        "description": "||```bini080313@outlook.kr:Bj080313!!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 23d 14h 17m 40s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 20m`\nMoney: `1.816`\n\n**Account Info:**\nUUID: `47d1336d-301a-4bbc-aa85-5b0841831678`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1669331488:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "description": "||```bini080313@outlook.kr:Bj080313!!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 17h 18m 19s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 29 days and 22 hours\n\n**Hypixel General Info:**\nLevel: `4.43`\nFirst Login: <t:1767030120:F>\nLast Login: <t:1767035940:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 20m`\nMoney: `1.816`\n\n**Account Info:**\nUUID: `47d1336d-301a-4bbc-aa85-5b0841831678`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1669331488:F>\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
         "color": 16756290,
-        "timestamp": "2026-01-05T05:02:37.136000+00:00",
+        "timestamp": "2026-01-06T02:02:33.715000+00:00",
         "author": {
-          "name": "47361/77307 | 3"
+          "name": "27926/87861 | 3"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/47d1336d-301a-4bbc-aa85-5b0841831678/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T05:02:37.539000+00:00",
+    "timestamp": "2026-01-06T02:02:34.386000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk0p2cxv1iwnhih2691inxit",
+            "custom_id": "credentials_cmk1y2nip1ljdhih24bdhdbjq",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457600153681657866",
-    "channel_id": "1457554231081828598",
+    "id": "1457917229839417436",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -2,8 +2,8 @@
   "name": "LinhfCADz0103",
   "session": "daniela.ur@hotmail.com:Tatamateusjoao123",
   "uuid": "b743d493-fcbd-4808-bf0b-38d8851914b6",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-18:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:38",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhfCADz0103`",
-        "description": "||```daniela.ur@hotmail.com:Tatamateusjoao123```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account is temporarily blocked for 13d 23h 49m 38s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n\n\n**Hypixel General Info:**\nLevel: `7.72`\nFirst Login: <t:1452037500:F>\nLast Login: <t:1767385680:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `b743d493-fcbd-4808-bf0b-38d8851914b6`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1452037046:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
+        "description": "||```daniela.ur@hotmail.com:Tatamateusjoao123```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 13d 7h 13m 4s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `7.72`\nFirst Login: <t:1452037500:F>\nLast Login: <t:1767385680:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `b743d493-fcbd-4808-bf0b-38d8851914b6`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1452037046:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
         "color": 16756290,
-        "timestamp": "2026-01-05T10:02:00.529000+00:00",
+        "timestamp": "2026-01-06T02:38:44.216000+00:00",
         "author": {
-          "name": "45715/63044 | 2"
+          "name": "81685/87861 | 150"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b743d493-fcbd-4808-bf0b-38d8851914b6/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T10:02:00.721000+00:00",
+    "timestamp": "2026-01-06T02:38:44.528000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk0zrdh71j91hih2f7qnl8eg",
+            "custom_id": "credentials_cmk1zd6da1lobhih2s6stwnh1",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457675496727773246",
-    "channel_id": "1457554231081828598",
+    "id": "1457926332074688723",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

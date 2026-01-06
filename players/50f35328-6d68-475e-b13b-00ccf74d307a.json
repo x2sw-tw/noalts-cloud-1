@@ -2,8 +2,8 @@
   "name": "LinhnKJjs0104",
   "session": "alex_skic@hotmail.com:Masakatsu1981",
   "uuid": "50f35328-6d68-475e-b13b-00ccf74d307a",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-21:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:12",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhnKJjs0104`",
-        "description": "||```alex_skic@hotmail.com:Masakatsu1981```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 46m`\nMoney: `20.770`\n\n**Account Info:**\nUUID: `50f35328-6d68-475e-b13b-00ccf74d307a`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767527780:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-05T13:02:54.553000+00:00",
+        "description": "||```alex_skic@hotmail.com:Masakatsu1981```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767528300:F>\nLast Login: <t:1767537600:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 11h 2m`\nMoney: `8`\nShards: `216`\n\n**Account Info:**\nUUID: `50f35328-6d68-475e-b13b-00ccf74d307a`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767527780:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Go full locked-in with premium — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-06T02:12:49.148000+00:00",
         "author": {
-          "name": "43625/614262 | 3"
+          "name": "59028/87861 | 101"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/50f35328-6d68-475e-b13b-00ccf74d307a/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T13:02:54.810000+00:00",
+    "timestamp": "2026-01-06T02:12:49.330000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1680hu1jlahih2zb00ithy",
+            "custom_id": "credentials_cmk1yfue01llthih2p79qmkzk",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457721022076682382",
-    "channel_id": "1457554231081828598",
+    "id": "1457919809101762712",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -2,8 +2,8 @@
   "name": "Satan_spawn666",
   "session": "little-demonbug@outlook.com:sacu8326",
   "uuid": "dc6bef3a-b4cf-4b3b-8284-423fff12d06f",
-  "hypixel": "banned",
-  "log_time": "2026/01/06-04:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`Satan_spawn666`",
-        "description": "||```little-demonbug@outlook.com:sacu8326```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767445860:F>\nLast Login: <t:1767446940:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 13m`\nShards: `137`\n\n**Account Info:**\nUUID: `dc6bef3a-b4cf-4b3b-8284-423fff12d06f`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767290599:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-05T20:02:50.872000+00:00",
+        "description": "||```little-demonbug@outlook.com:sacu8326```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 18 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767445860:F>\nLast Login: <t:1767446940:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 22m`\nShards: `390`\n\n**Account Info:**\nUUID: `dc6bef3a-b4cf-4b3b-8284-423fff12d06f`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767290599:F>\nOther Games: `Minecraft Bedrock`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-06T02:02:14.663000+00:00",
         "author": {
-          "name": "12917/109752 | 2"
+          "name": "16095/87861 | 5"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/dc6bef3a-b4cf-4b3b-8284-423fff12d06f/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T20:02:51.068000+00:00",
+    "timestamp": "2026-01-06T02:02:14.985000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1l823u1kuthih2czig7c0j",
+            "custom_id": "credentials_cmk1y28tg1livhih2uh6mtk0q",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457826702842663067",
-    "channel_id": "1457554231081828598",
+    "id": "1457917148465991682",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

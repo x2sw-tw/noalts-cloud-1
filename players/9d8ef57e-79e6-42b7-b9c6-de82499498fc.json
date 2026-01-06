@@ -2,8 +2,8 @@
   "name": "MilanIT",
   "session": "jorjohnson2009@gmail.com:Johnson2009$$",
   "uuid": "9d8ef57e-79e6-42b7-b9c6-de82499498fc",
-  "hypixel": "banned",
-  "log_time": "2026/01/04-01:08",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-16:13",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`MilanIT`",
-        "description": "||```jorjohnson2009@gmail.com:Johnson2009$$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 23d 14h 49m 34s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `5.67`\nFirst Login: <t:1733789520:F>\nLast Login: <t:1766906040:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 26m`\nMoney: `238`\n\n**Account Info:**\nUUID: `9d8ef57e-79e6-42b7-b9c6-de82499498fc`\nMinecraft Capes: `Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1648909898:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "description": "||```jorjohnson2009@gmail.com:Johnson2009$$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 20d 23h 44m 22s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for racism. Time Left: 4 day 7 hours 16 minutes Ban ID: #dCWOy7w2\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 10 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 26m`\nMoney: `238`\n\n**Account Info:**\nUUID: `9d8ef57e-79e6-42b7-b9c6-de82499498fc`\nMinecraft Capes: `Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1648909898:F>\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-03T17:08:03.428000+00:00",
+        "timestamp": "2026-01-06T08:13:17.152000+00:00",
         "author": {
-          "name": "23132/39042 | 5"
+          "name": "82603/307246 | 45"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9d8ef57e-79e6-42b7-b9c6-de82499498fc/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "XAeGEgIrHoBahqcKYpcCZgZYiXlxVWY=",
+          "placeholder": "CgiKCgIrOYCqZplpdZAEFgZYinlxZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -34,10 +34,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-03T17:08:03.662000+00:00",
+    "timestamp": "2026-01-06T08:13:17.557000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -48,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjyk3klu1ds0hih2frf9ckeu",
+            "custom_id": "credentials_cmk2bber61m08hih2o72t42xl",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -58,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457057939742527509",
-    "channel_id": "1456829435763363940",
+    "id": "1458010524460650517",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

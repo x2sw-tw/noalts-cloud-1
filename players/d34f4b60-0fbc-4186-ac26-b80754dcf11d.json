@@ -2,8 +2,8 @@
   "name": "urm_axye_ysx",
   "session": "muhrizadanali@gmail.com:Greenchair159?",
   "uuid": "d34f4b60-0fbc-4186-ac26-b80754dcf11d",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-09:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:17",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`urm_axye_ysx`",
-        "description": "||```muhrizadanali@gmail.com:Greenchair159?```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1766629680:F>\nLast Login: <t:1767441660:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 1m`\n\n**Account Info:**\nUUID: `d34f4b60-0fbc-4186-ac26-b80754dcf11d`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1762626879:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "description": "||```muhrizadanali@gmail.com:Greenchair159?```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 23 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1766629680:F>\nLast Login: <t:1767441660:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 1m`\n\n**Account Info:**\nUUID: `d34f4b60-0fbc-4186-ac26-b80754dcf11d`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1762626879:F>\nOther Games: `Minecraft Bedrock`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-05T01:02:31.149000+00:00",
+        "timestamp": "2026-01-06T02:17:43.459000+00:00",
         "author": {
-          "name": "9610/222060 | 1"
+          "name": "64857/87861 | 111"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/d34f4b60-0fbc-4186-ac26-b80754dcf11d/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "i0iKEgorWHz3JxlXen+l9wZYi3pyZXY=",
+          "placeholder": "jliGGgwrpo30iEdnen+m9gZYi3pyZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T01:02:31.369000+00:00",
+    "timestamp": "2026-01-06T02:17:43.784000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk0ghl741ikxhih21esi26m3",
+            "custom_id": "credentials_cmk1ym5kr1lm3hih2esaqixkp",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457539729825206465",
-    "channel_id": "1457191841739964562",
+    "id": "1457921044131086537",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

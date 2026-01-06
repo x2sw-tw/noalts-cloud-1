@@ -2,8 +2,8 @@
   "name": "wg_JhcH6_12_23",
   "session": "christisking198@gmail.com:Colten2020",
   "uuid": "c19a2348-436a-42b8-9865-11614055b04a",
-  "hypixel": "banned",
-  "log_time": "2026/01/06-01:16",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:13",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`wg_JhcH6_12_23`",
-        "description": "||```christisking198@gmail.com:Colten2020```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 17d 21h 37m 47s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `7.61`\nFirst Login: <t:1766499960:F>\nLast Login: <t:1766584680:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `c19a2348-436a-42b8-9865-11614055b04a`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `Yes`\nName Changeable: `No`\nAccount Creation Date: <t:1766471413:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
+        "description": "||```christisking198@gmail.com:Colten2020```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 17d 12h 41m 14s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `7.61`\nFirst Login: <t:1766499960:F>\nLast Login: <t:1766584680:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `c19a2348-436a-42b8-9865-11614055b04a`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `Yes`\nName Changeable: `No`\nAccount Creation Date: <t:1766471413:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
         "color": 16756290,
-        "timestamp": "2026-01-05T17:16:26.784000+00:00",
+        "timestamp": "2026-01-06T02:13:05.182000+00:00",
         "author": {
-          "name": "145882/384138 | 10"
+          "name": "59375/87861 | 104"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c19a2348-436a-42b8-9865-11614055b04a/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T17:16:27.183000+00:00",
+    "timestamp": "2026-01-06T02:13:05.387000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1fa2f61k8ehih2dk3i3n5v",
+            "custom_id": "credentials_cmk1yg6sb1lluhih2vmyhpxrf",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457784827393605712",
-    "channel_id": "1457554231081828598",
+    "id": "1457919876449697805",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

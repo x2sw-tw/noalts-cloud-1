@@ -2,8 +2,8 @@
   "name": "nicealts_798LT",
   "session": "bitsoforest@outlook.com:$@#Coa12",
   "uuid": "c5126d38-1362-425d-a495-d397e267233e",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-13:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:13",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`nicealts_798LT`",
-        "description": "||```bitsoforest@outlook.com:$@#Coa12```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 24d 21h 42m 52s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `c5126d38-1362-425d-a495-d397e267233e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767141077:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "description": "||```bitsoforest@outlook.com:$@#Coa12```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 24d 32m 21s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 12 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767147600:F>\nLast Login: <t:1767148680:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `c5126d38-1362-425d-a495-d397e267233e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767141077:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
         "color": 16756290,
-        "timestamp": "2026-01-05T05:02:48.475000+00:00",
+        "timestamp": "2026-01-06T02:13:24.809000+00:00",
         "author": {
-          "name": "51316/77307 | 4"
+          "name": "59797/87861 | 106"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c5126d38-1362-425d-a495-d397e267233e/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T05:02:48.591000+00:00",
+    "timestamp": "2026-01-06T02:13:25.008000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk0p2lkw1iwohih21vnu6osa",
+            "custom_id": "credentials_cmk1yglwl1llwhih2zkdxl4tx",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457600200037367912",
-    "channel_id": "1457554231081828598",
+    "id": "1457919958746005681",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

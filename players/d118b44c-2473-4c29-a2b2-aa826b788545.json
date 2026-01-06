@@ -2,8 +2,8 @@
   "name": "ravemui6UIwk",
   "session": "tonimp77@hotmail.com:Novato1234",
   "uuid": "d118b44c-2473-4c29-a2b2-aa826b788545",
-  "hypixel": "banned",
-  "log_time": "2026/01/04-19:54",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`ravemui6UIwk`",
-        "description": "||```tonimp77@hotmail.com:Novato1234```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 28d 8h 44m 55s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 29m`\n\n**Account Info:**\nUUID: `d118b44c-2473-4c29-a2b2-aa826b788545`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1409061898:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "description": "||```tonimp77@hotmail.com:Novato1234```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 18h 37m 24s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 26 days and 17 hours\n\n**Hypixel General Info:**\nLevel: `49.34`\nFirst Login: <t:1422790380:F>\nLast Login: <t:1767385800:F>\nBedWars Stars: `3`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 29m`\n\n**Account Info:**\nUUID: `d118b44c-2473-4c29-a2b2-aa826b788545`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
         "color": 16756290,
-        "timestamp": "2026-01-04T11:54:55.266000+00:00",
+        "timestamp": "2026-01-06T02:02:32.718000+00:00",
         "author": {
-          "name": "194351/324310 | 31"
+          "name": "27264/87861 | 27"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/d118b44c-2473-4c29-a2b2-aa826b788545/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "Z1mGAgArgIB4WYeRkAcLmQZYiXmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -34,11 +34,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-04T11:54:55.619000+00:00",
+    "timestamp": "2026-01-06T02:02:32.884000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +48,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzocqb91g6hhih2qne9osjy",
+            "custom_id": "credentials_cmk1y2mr11lj9hih2wiow120i",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +58,8 @@
         ]
       }
     ],
-    "id": "1457341524844089512",
-    "channel_id": "1457191841739964562",
+    "id": "1457917223539572928",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -1,9 +1,9 @@
 {
-  "name": "slackk_",
+  "name": "DaxelinOnDcEBOQQ",
   "session": "larkin.anderson22@gmail.com:Vedder04!",
   "uuid": "6adae102-0447-4a3f-81c2-9bc4a6a538f5",
-  "hypixel": "banned",
-  "log_time": "2026/01/06-01:04",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:20",
   "full_message": {
     "type": 0,
     "content": "",
@@ -13,12 +13,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`slackk_`",
-        "description": "||```larkin.anderson22@gmail.com:Vedder04!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 26d 8h 56m 56s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `10.84`\nFirst Login: <t:1693867980:F>\nLast Login: <t:1767319080:F>\nBedWars Stars: `6`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `6adae102-0447-4a3f-81c2-9bc4a6a538f5`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1693867717:F>\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-05T17:04:06.004000+00:00",
+        "title": "`DaxelinOnDcEBOQQ`",
+        "description": "||```larkin.anderson22@gmail.com:Vedder04!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 23h 40m 32s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 14m`\nShards: `151`\n\n**Account Info:**\nUUID: `6adae102-0447-4a3f-81c2-9bc4a6a538f5`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1693867717:F>\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-06T02:20:39.993000+00:00",
         "author": {
-          "name": "51373/384138 | 6"
+          "name": "67865/87861 | 122"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6adae102-0447-4a3f-81c2-9bc4a6a538f5/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T17:04:06.432000+00:00",
+    "timestamp": "2026-01-06T02:20:40.113000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1eu6ts1k7mhih2wiesl2m3",
+            "custom_id": "credentials_cmk1ypxp41lmghih2o1o3sdgr",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457781720458854598",
-    "channel_id": "1457554231081828598",
+    "id": "1457921783708516558",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

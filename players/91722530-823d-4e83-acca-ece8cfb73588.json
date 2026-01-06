@@ -2,8 +2,8 @@
   "name": "efa_GsTvk_12_29",
   "session": "vallejo65.lucas@gmail.com:Lucas65270@",
   "uuid": "91722530-823d-4e83-acca-ece8cfb73588",
-  "hypixel": "banned",
-  "log_time": "2026/01/04-21:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-17:07",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`efa_GsTvk_12_29`",
-        "description": "||```vallejo65.lucas@gmail.com:Lucas65270@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 20d 17h 1m 29s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `1.07`\nFirst Login: <t:1766699760:F>\nLast Login: <t:1766727780:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `91722530-823d-4e83-acca-ece8cfb73588`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-04T13:02:53.955000+00:00",
+        "description": "||```vallejo65.lucas@gmail.com:Lucas65270@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 18d 20h 57m 10s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `91722530-823d-4e83-acca-ece8cfb73588`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1763914128:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-06T09:07:55.012000+00:00",
         "author": {
-          "name": "25372/25397 | 42"
+          "name": "72483/323102 | 20"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/91722530-823d-4e83-acca-ece8cfb73588/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-04T13:02:54.204000+00:00",
+    "timestamp": "2026-01-06T09:07:55.370000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzqs5cs1gd5hih2aw635rhs",
+            "custom_id": "credentials_cmk2d9nz91m50hih2fqvex2cj",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457358631669596453",
-    "channel_id": "1457191841739964562",
+    "id": "1458024272604958780",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

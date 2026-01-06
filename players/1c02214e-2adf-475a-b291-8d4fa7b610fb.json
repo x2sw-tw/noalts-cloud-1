@@ -2,8 +2,8 @@
   "name": "wappa_CGLUp",
   "session": "florianbecker89@web.de:Merlin.1212",
   "uuid": "1c02214e-2adf-475a-b291-8d4fa7b610fb",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-08:56",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:24",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`wappa_CGLUp`",
-        "description": "||```florianbecker89@web.de:Merlin.1212```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 23d 12h 49m 3s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `2.13`\nFirst Login: <t:1766758800:F>\nLast Login: <t:1767015480:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `1c02214e-2adf-475a-b291-8d4fa7b610fb`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1696939486:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-05T00:56:50.447000+00:00",
+        "description": "||```florianbecker89@web.de:Merlin.1212```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 11h 21m 46s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.13`\nFirst Login: <t:1766758800:F>\nLast Login: <t:1767015480:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `1c02214e-2adf-475a-b291-8d4fa7b610fb`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1696939486:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-06T02:24:15.837000+00:00",
         "author": {
-          "name": "427440/480522 | 16"
+          "name": "71542/87861 | 133"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1c02214e-2adf-475a-b291-8d4fa7b610fb/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "Z1mGAgArgIB4WYeRkAcLmQZYiXmBVWY=",
+          "placeholder": "22eCIgorv70xd0K2j2r6pwZYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T00:56:50.771000+00:00",
+    "timestamp": "2026-01-06T02:24:15.970000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk0gaaao1ik9hih2wacbtt3q",
+            "custom_id": "credentials_cmk1yuk8r1ln4hih2c9agnseu",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457538301253779547",
-    "channel_id": "1457191841739964562",
+    "id": "1457922689078530060",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

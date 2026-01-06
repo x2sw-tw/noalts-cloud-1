@@ -2,8 +2,8 @@
   "name": "ravefPNCqoc0",
   "session": "liam.collins02@outlook.com:highview20",
   "uuid": "551fcd98-dc75-44f8-9d7a-4e78e8a00f47",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-08:39",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-09:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,20 +14,17 @@
       {
         "type": "rich",
         "title": "`ravefPNCqoc0`",
-        "description": "||```liam.collins02@outlook.com:highview20```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1756221060:F>\nLast Login: <t:1758880500:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 39m`\nMoney: `13`\nShards: `36`\n\n**Account Info:**\nUUID: `551fcd98-dc75-44f8-9d7a-4e78e8a00f47`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1685477046:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
+        "description": "||```liam.collins02@outlook.com:highview20```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1756221060:F>\nLast Login: <t:1758880500:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 39m`\nMoney: `13`\nShards: `36`\n\n**Account Info:**\nUUID: `551fcd98-dc75-44f8-9d7a-4e78e8a00f47`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1685477046:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
         "color": 16756290,
-        "timestamp": "2026-01-05T00:39:52.948000+00:00",
+        "timestamp": "2026-01-06T01:02:11.933000+00:00",
         "author": {
-          "name": "319522/480522 | 11"
+          "name": "4169/4172 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/551fcd98-dc75-44f8-9d7a-4e78e8a00f47/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/VZjDTW33-jkvmLAeCHOO4maWVtEUTethsDb9HTB8rH0/https/mc-heads.net/body/551fcd98-dc75-44f8-9d7a-4e78e8a00f47/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
@@ -37,7 +34,7 @@
         }
       }
     ],
-    "timestamp": "2026-01-05T00:39:53.284000+00:00",
+    "timestamp": "2026-01-06T01:02:12.294000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -48,7 +45,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk0foh741ij2hih2saqnx8ny",
+            "custom_id": "credentials_cmk1vx11r1lgphih245t7i9au",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -58,8 +55,8 @@
         ]
       }
     ],
-    "id": "1457534033604116620",
-    "channel_id": "1457191841739964562",
+    "id": "1457902037684715731",
+    "channel_id": "1457554231081828598",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

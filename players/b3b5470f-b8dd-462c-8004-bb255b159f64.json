@@ -2,8 +2,8 @@
   "name": "ravePOMAymbZ",
   "session": "jakub.fory@gmail.com:BOBus12#",
   "uuid": "b3b5470f-b8dd-462c-8004-bb255b159f64",
-  "hypixel": "banned",
-  "log_time": "2026/01/04-21:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-17:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`ravePOMAymbZ`",
-        "description": "||```jakub.fory@gmail.com:BOBus12#```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 23d 23h 9m 14s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `32.49`\nFirst Login: <t:1596985620:F>\nLast Login: <t:1767009540:F>\nBedWars Stars: `11`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `b3b5470f-b8dd-462c-8004-bb255b159f64`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "description": "||```jakub.fory@gmail.com:BOBus12#```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 3h 9m 39s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 5 hours\n\n**Hypixel General Info:**\nLevel: `32.49`\nFirst Login: <t:1596985620:F>\nLast Login: <t:1767009540:F>\nBedWars Stars: `11`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `b3b5470f-b8dd-462c-8004-bb255b159f64`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1596985348:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-04T13:02:56.307000+00:00",
+        "timestamp": "2026-01-06T09:02:39.719000+00:00",
         "author": {
-          "name": "25381/25397 | 43"
+          "name": "47638/323102 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b3b5470f-b8dd-462c-8004-bb255b159f64/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "VYmGEgYrS4eXB4jXj2T8VwZYmnlyZXY=",
+          "placeholder": "AgiCAgArPI2VBhZIeo/U9wZYiYlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-04T13:02:59.909000+00:00",
+    "timestamp": "2026-01-06T09:02:39.829000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzqs7661gdbhih2brmuqfvt",
+            "custom_id": "credentials_cmk2d2wlk1m4ghih2xc7z3a6o",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457358655597838468",
-    "channel_id": "1457191841739964562",
+    "id": "1458022949129818228",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

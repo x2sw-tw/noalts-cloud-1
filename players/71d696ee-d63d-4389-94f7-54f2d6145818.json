@@ -2,8 +2,8 @@
   "name": "LinhcokVQ0104",
   "session": "miernikfilip823@gmail.com:miernik823!",
   "uuid": "71d696ee-d63d-4389-94f7-54f2d6145818",
-  "hypixel": "banned",
-  "log_time": "2026/01/06-01:03",
+  "hypixel": "unknown",
+  "log_time": "2026/01/06-10:27",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhcokVQ0104`",
-        "description": "||```miernikfilip823@gmail.com:miernik823!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767475260:F>\nLast Login: <t:1767531720:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 1m`\n\n**Account Info:**\nUUID: `71d696ee-d63d-4389-94f7-54f2d6145818`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1750271346:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-05T17:03:30.454000+00:00",
+        "description": "||```miernikfilip823@gmail.com:miernik823!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767475260:F>\nLast Login: <t:1767531720:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 1m`\n\n**Account Info:**\nUUID: `71d696ee-d63d-4389-94f7-54f2d6145818`\nMinecraft Capes: `Menace, Home, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1750271346:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-06T02:27:50.240000+00:00",
         "author": {
-          "name": "44202/384138 | 4"
+          "name": "74401/87861 | 138"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/71d696ee-d63d-4389-94f7-54f2d6145818/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T17:03:30.699000+00:00",
+    "timestamp": "2026-01-06T02:27:50.520000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1etfax1k7jhih2emfu2fpq",
+            "custom_id": "credentials_cmk1yz5rp1lnehih2rw3m9htn",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457781570583924863",
-    "channel_id": "1457554231081828598",
+    "id": "1457923588966318233",
+    "channel_id": "1457916584147550289",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

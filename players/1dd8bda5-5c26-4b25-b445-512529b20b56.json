@@ -3,7 +3,7 @@
   "session": "zabou11@outlook.fr:Zabou@111",
   "uuid": "1dd8bda5-5c26-4b25-b445-512529b20b56",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-20:02",
+  "log_time": "2026/01/07-10:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhXvMsW0106`",
-        "description": "||```zabou11@outlook.fr:Zabou@111```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 11m`\nShards: `35`\n\n**Account Info:**\nUUID: `1dd8bda5-5c26-4b25-b445-512529b20b56`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1735419458:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
-        "color": 65280,
-        "timestamp": "2026-01-06T12:02:36.097000+00:00",
+        "description": "||```zabou11@outlook.fr:Zabou@111```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `5.54`\nFirst Login: <t:1767696300:F>\nLast Login: <t:1767710340:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 16h 34m`\nMoney: `65.080.006`\nShards: `632`\n\n**Account Info:**\nUUID: `1dd8bda5-5c26-4b25-b445-512529b20b56`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1735419458:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-07T02:03:16.402000+00:00",
         "author": {
-          "name": "38862/74657 | 3"
+          "name": "43067/88354 | 77"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1dd8bda5-5c26-4b25-b445-512529b20b56/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T12:02:36.306000+00:00",
+    "timestamp": "2026-01-07T02:03:16.567000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk2jib4s1ml9hih259ykyibn",
+            "custom_id": "credentials_cmk3djf4i01dqhimeep05g755",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458068232836747501",
-    "channel_id": "1457916584147550289",
+    "id": "1458279794624954463",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

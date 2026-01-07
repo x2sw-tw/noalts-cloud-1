@@ -3,7 +3,7 @@
   "session": "nour24shreim@hotmail.com:Aziz1970",
   "uuid": "b61c952f-3586-42b2-ba37-b5132c698048",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-10:48",
+  "log_time": "2026/01/07-14:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`Jokinggggggggggg`",
-        "description": "||```nour24shreim@hotmail.com:Aziz1970```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy connection timed out\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 11 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 24m`\nMoney: `0`\nShards: `30`\n\n**Account Info:**\nUUID: `b61c952f-3586-42b2-ba37-b5132c698048`\nMinecraft Capes: `Vanilla, Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1609266560:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "description": "||```nour24shreim@hotmail.com:Aziz1970```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 23d 8h 25m 12s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 7 hours\n\n**Hypixel General Info:**\nLevel: `5.80`\nFirst Login: <t:1612986540:F>\nLast Login: <t:1767146940:F>\nBedWars Stars: `5`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 24m`\nMoney: `0`\nShards: `30`\n\n**Account Info:**\nUUID: `b61c952f-3586-42b2-ba37-b5132c698048`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-06T02:48:19.652000+00:00",
+        "timestamp": "2026-01-07T06:02:57.312000+00:00",
         "author": {
-          "name": "86958/87861 | 163"
+          "name": "56020/89272 | 13"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b61c952f-3586-42b2-ba37-b5132c698048/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "VteFGggrmZQJeJbGj3hp+AZYiXmBVWY=",
+          "placeholder": "jiiGEgIrqr4wZyKHf4r2dwZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -34,11 +34,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-06T02:48:19.890000+00:00",
+    "timestamp": "2026-01-07T06:02:57.482000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +48,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1zpibq1lpahih2702obnaa",
+            "custom_id": "credentials_cmk3m3nia01mthime0p1qotk6",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +58,8 @@
         ]
       }
     ],
-    "id": "1457928745318088756",
-    "channel_id": "1457916584147550289",
+    "id": "1458340112554266656",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -1,9 +1,9 @@
 {
-  "name": "Minlitz",
+  "name": "DaxelinGamer24",
   "session": "minlitz120@gmail.com:Jhennyfer.10",
   "uuid": "b3b293c5-5a72-4463-95b9-b19f04cb7469",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-16:02",
+  "log_time": "2026/01/07-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -13,12 +13,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`Minlitz`",
-        "description": "||```minlitz120@gmail.com:Jhennyfer.10```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.77`\nFirst Login: <t:1742863740:F>\nLast Login: <t:1767686520:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `b3b293c5-5a72-4463-95b9-b19f04cb7469`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-06T08:02:49.377000+00:00",
+        "title": "`DaxelinGamer24`",
+        "description": "||```minlitz120@gmail.com:Jhennyfer.10```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 6d 7h 45m 36s from this server!\n> Reason: Use of an inappropriate skin or cape on the server.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.61`\nFirst Login: <t:1742863740:F>\nLast Login: <t:1767689700:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 8m`\nShards: `77`\n\n**Account Info:**\nUUID: `b3b293c5-5a72-4463-95b9-b19f04cb7469`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1742863705:F>\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-07T02:02:24.262000+00:00",
         "author": {
-          "name": "44149/307246 | 12"
+          "name": "29300/88354 | 5"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b3b293c5-5a72-4463-95b9-b19f04cb7469/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T08:02:49.546000+00:00",
+    "timestamp": "2026-01-07T02:02:24.376000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk2axy9t1lzfhih2zi4kg8ws",
+            "custom_id": "credentials_cmk3diaw601cahimecthng5qf",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458007890391597057",
-    "channel_id": "1457916584147550289",
+    "id": "1458279575720038483",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,7 +3,7 @@
   "session": "saijlorelei@live.com:saij1998",
   "uuid": "c0a48f2d-7d0c-4b6b-b594-6cb0b5a62dde",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-10:03",
+  "log_time": "2026/01/07-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhWMWQs0105`",
-        "description": "||```saijlorelei@live.com:saij1998```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Unknown Reason\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767626820:F>\nLast Login: <t:1767638280:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 20m`\nMoney: `0`\nShards: `4`\n\n**Account Info:**\nUUID: `c0a48f2d-7d0c-4b6b-b594-6cb0b5a62dde`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
-        "color": 35529,
-        "timestamp": "2026-01-06T02:03:22.745000+00:00",
+        "description": "||```saijlorelei@live.com:saij1998```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767626820:F>\nLast Login: <t:1767638280:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 52m`\nMoney: `0`\nShards: `357`\n\n**Account Info:**\nUUID: `c0a48f2d-7d0c-4b6b-b594-6cb0b5a62dde`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-07T02:02:40.547000+00:00",
         "author": {
-          "name": "42328/87861 | 53"
+          "name": "40664/88354 | 42"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c0a48f2d-7d0c-4b6b-b594-6cb0b5a62dde/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "NkiCAgArQyRpx/5PqgwOmAZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -34,11 +34,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-06T02:03:23.008000+00:00",
+    "timestamp": "2026-01-07T02:02:46.152000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +48,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1y3pci1lk7hih230wjv4w3",
+            "custom_id": "credentials_cmk3dingh01cwhimezgmddf8q",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +58,8 @@
         ]
       }
     ],
-    "id": "1457917433775001610",
-    "channel_id": "1457916584147550289",
+    "id": "1458279667055460457",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

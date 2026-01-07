@@ -2,8 +2,8 @@
   "name": "poo_1eXX6_01_03",
   "session": "henriquefracalossi62@gmail.com:Haf2008a_981125990",
   "uuid": "17b1682c-6e0e-4ae5-b9e1-d48a1c3ca3a1",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-23:02",
+  "hypixel": "unknown",
+  "log_time": "2026/01/07-11:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`poo_1eXX6_01_03`",
-        "description": "||```henriquefracalossi62@gmail.com:Haf2008a_981125990```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 28d 14h 30m 28s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `3.82`\nFirst Login: <t:1767498480:F>\nLast Login: <t:1767504540:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 1m`\n\n**Account Info:**\nUUID: `17b1682c-6e0e-4ae5-b9e1-d48a1c3ca3a1`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-05T15:02:53.332000+00:00",
+        "description": "||```henriquefracalossi62@gmail.com:Haf2008a_981125990```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 27d 2h 30m 51s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.82`\nFirst Login: <t:1767498480:F>\nLast Login: <t:1767504540:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 1m`\nMoney: `200.000`\n\n**Account Info:**\nUUID: `17b1682c-6e0e-4ae5-b9e1-d48a1c3ca3a1`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767493087:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Go full locked-in with premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-07T03:02:49.193000+00:00",
         "author": {
-          "name": "39492/103941 | 12"
+          "name": "36662/36662 | 7"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/17b1682c-6e0e-4ae5-b9e1-d48a1c3ca3a1/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T15:02:53.541000+00:00",
+    "timestamp": "2026-01-07T03:02:49.324000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1aib3v1jvkhih2b19174v0",
+            "custom_id": "credentials_cmk3fnzxj01ifhimer61mlbgx",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457751215742910696",
-    "channel_id": "1457554231081828598",
+    "id": "1458294779854061580",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -1,9 +1,85 @@
 {
-  "channel_id": "1443783464762740946",
-  "name": "tzi_ipe6l_11_19",
-  "session": "rafferty75@hotmail.co.uk:Woodenplank123",
+  "name": "raveq8znl97V",
+  "session": "rafferty75@hotmail.co.uk:Woodenplank11",
   "uuid": "e385542e-6562-4c3d-9c81-d5300a2daf52",
-  "hypixel": "banned",
-  "log_time": "2025/11/29-05:11",
-  "message_id": "1444073279886200995"
+  "hypixel": "unknown",
+  "log_time": "2026/01/07-19:02",
+  "full_message": {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "`raveq8znl97V`",
+        "description": "||```rafferty75@hotmail.co.uk:Woodenplank11```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1763502780:F>\nLast Login: <t:1763538120:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `e385542e-6562-4c3d-9c81-d5300a2daf52`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
+        "color": 10175221,
+        "timestamp": "2026-01-07T11:02:59.604000+00:00",
+        "author": {
+          "name": "44083/185673 | 17"
+        },
+        "thumbnail": {
+          "url": "https://mc-heads.net/body/e385542e-6562-4c3d-9c81-d5300a2daf52/100/left",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/P2tHxsehJaTEIYBFWJFfKgLfKUCiaPDEVyonv1kgPfs/https/mc-heads.net/body/e385542e-6562-4c3d-9c81-d5300a2daf52/100/left",
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "footer": {
+          "text": "discord.gg/logs",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
+          "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
+        }
+      }
+    ],
+    "timestamp": "2026-01-07T11:02:59.873000+00:00",
+    "edited_timestamp": null,
+    "flags": 4096,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "credentials_cmk3wti6t01tchime5ebg81ec",
+            "style": 3,
+            "label": "Get Credentials",
+            "emoji": {
+              "name": "🔑"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "1458415620054978570",
+    "channel_id": "1458278979189477577",
+    "author": {
+      "id": "1435331490002112522",
+      "username": "DiscoveryService",
+      "avatar": "a0dd60da241a644266b65e78afc078da",
+      "discriminator": "5784",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
 }

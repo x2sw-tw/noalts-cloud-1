@@ -3,7 +3,7 @@
   "session": "abraramin620@gmail.com:abrar1300X",
   "uuid": "b39b393c-e0c4-4788-96ff-5b2006f1dae6",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-16:10",
+  "log_time": "2026/01/07-18:23",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,31 +14,27 @@
       {
         "type": "rich",
         "title": "`w8t_msmc_ddh`",
-        "description": "||```abraramin620@gmail.com:abrar1300X```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 14h 53m 46s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 12h 7m`\nMoney: `445`\nShards: `452`\n\n**Account Info:**\nUUID: `b39b393c-e0c4-4788-96ff-5b2006f1dae6`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1747303305:F>\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "description": "||```abraramin620@gmail.com:abrar1300X```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 12h 41m 16s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.79`\nFirst Login: <t:1747303380:F>\nLast Login: <t:1767343980:F>\nBedWars Stars: `3`\n\n**DonutSMP Info:**\nPlaytime: `0d 12h 7m`\nMoney: `445`\nShards: `452`\n\n**Account Info:**\nUUID: `b39b393c-e0c4-4788-96ff-5b2006f1dae6`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1747303305:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-06T08:10:35.087000+00:00",
+        "timestamp": "2026-01-07T10:23:06.077000+00:00",
         "author": {
-          "name": "75532/307246 | 41"
+          "name": "212872/249447 | 10"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b39b393c-e0c4-4788-96ff-5b2006f1dae6/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/_DhoLov7LwCIfHW7tZECxh4ce1PsFXiVD7OG7_XsVMs/https/mc-heads.net/body/b39b393c-e0c4-4788-96ff-5b2006f1dae6/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-06T08:10:35.201000+00:00",
+    "timestamp": "2026-01-07T10:23:06.461000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +45,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk2b7xn41m00hih2n69epxxf",
+            "custom_id": "credentials_cmk3ve7fk01snhimescdnvx5b",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +55,8 @@
         ]
       }
     ],
-    "id": "1458009843490361482",
-    "channel_id": "1457916584147550289",
+    "id": "1458405581357580330",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,7 +3,7 @@
   "session": "sebastianmilla841@gmail.com:seba19962",
   "uuid": "6bbe82ec-2ca8-4382-bd33-1176ad0cb7b2",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-16:02",
+  "log_time": "2026/01/07-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`raveoa97531P`",
-        "description": "||```sebastianmilla841@gmail.com:seba19962```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 19h 17m 38s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `8.15`\nFirst Login: <t:1642809540:F>\nLast Login: <t:1767320040:F>\nBedWars Stars: `4`\n\n**Account Info:**\nUUID: `6bbe82ec-2ca8-4382-bd33-1176ad0cb7b2`\nMinecraft Capes: `Pan, Mojang Office, Common, 15th Anniversary`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1636999102:F>\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-06T08:02:19.489000+00:00",
+        "description": "||```sebastianmilla841@gmail.com:seba19962```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 1h 17m 13s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `8.15`\nFirst Login: <t:1642809540:F>\nLast Login: <t:1767320040:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 22m`\nShards: `528`\n\n**Account Info:**\nUUID: `6bbe82ec-2ca8-4382-bd33-1176ad0cb7b2`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-07T02:02:20.850000+00:00",
         "author": {
-          "name": "37776/307246 | 1"
+          "name": "27643/88354 | 37"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6bbe82ec-2ca8-4382-bd33-1176ad0cb7b2/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T08:02:19.661000+00:00",
+    "timestamp": "2026-01-07T02:02:21.050000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk2axb7k1lz4hih20myj71xd",
+            "custom_id": "credentials_cmk3di89f01c6himenup61upk",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458007765044826213",
-    "channel_id": "1457916584147550289",
+    "id": "1458279561770045581",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

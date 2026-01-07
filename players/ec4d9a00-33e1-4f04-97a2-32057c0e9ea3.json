@@ -3,7 +3,7 @@
   "session": "kp62004@hotmail.com:Gjtlmk09!!",
   "uuid": "ec4d9a00-33e1-4f04-97a2-32057c0e9ea3",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-13:02",
+  "log_time": "2026/01/07-14:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`raveTEIwk8XL`",
-        "description": "||```kp62004@hotmail.com:Gjtlmk09!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNKNOWN`\n> Proxy connection timed out\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `15.50`\nFirst Login: <t:1444872480:F>\nLast Login: <t:1519939620:F>\nBedWars Stars: `10`\n\n**Account Info:**\nUUID: `ec4d9a00-33e1-4f04-97a2-32057c0e9ea3`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1424531295:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-06T05:02:21.799000+00:00",
+        "description": "||```kp62004@hotmail.com:Gjtlmk09!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `17.08`\nFirst Login: <t:1444872480:F>\nLast Login: <t:1767679980:F>\nBedWars Stars: `10`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 37m`\nShards: `200`\n\n**Account Info:**\nUUID: `ec4d9a00-33e1-4f04-97a2-32057c0e9ea3`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-07T06:03:23.327000+00:00",
         "author": {
-          "name": "11471/11471 | 2"
+          "name": "60084/89272 | 14"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/ec4d9a00-33e1-4f04-97a2-32057c0e9ea3/100/left",
@@ -34,10 +34,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T05:02:21.983000+00:00",
+    "timestamp": "2026-01-07T06:03:23.504000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -48,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk24hvnv1lu8hih2gu23dt77",
+            "custom_id": "credentials_cmk3m47kw01mvhimeytgoqxpy",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -58,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457962476300927110",
-    "channel_id": "1457916584147550289",
+    "id": "1458340221698445412",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

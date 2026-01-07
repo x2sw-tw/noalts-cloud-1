@@ -2,8 +2,8 @@
   "name": "huc_K7zSh",
   "session": "da0570@outlook.com:Rasmusek1000",
   "uuid": "fbb4fc7b-f9c8-4ca5-bbdb-03bf07b86099",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-23:12",
+  "hypixel": "unknown",
+  "log_time": "2026/01/07-23:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`huc_K7zSh`",
-        "description": "||```da0570@outlook.com:Rasmusek1000```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Account Info:**\nUUID: `fbb4fc7b-f9c8-4ca5-bbdb-03bf07b86099`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767505121:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-05T15:12:37.489000+00:00",
+        "description": "||```da0570@outlook.com:Rasmusek1000```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 5 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767617520:F>\nLast Login: <t:1767620580:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 59m`\nMoney: `0`\nShards: `333`\n\n**Account Info:**\nUUID: `fbb4fc7b-f9c8-4ca5-bbdb-03bf07b86099`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767505121:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-07T15:06:25.785000+00:00",
         "author": {
-          "name": "91821/103941 | 51"
+          "name": "72994/112864 | 7"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/fbb4fc7b-f9c8-4ca5-bbdb-03bf07b86099/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "0heGIgIriqkEhrRYip/2yAZYmXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T15:12:37.684000+00:00",
+    "timestamp": "2026-01-07T15:06:26.144000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1autva1jxfhih2cmk63izz",
+            "custom_id": "credentials_cmk45ikh100b2hi9cw7oigymq",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457753665816236116",
-    "channel_id": "1457554231081828598",
+    "id": "1458476883195986012",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

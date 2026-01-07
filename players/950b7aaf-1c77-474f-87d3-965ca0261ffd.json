@@ -3,7 +3,7 @@
   "session": "joseulloabaeza@gmail.com:CookieAndCream@",
   "uuid": "950b7aaf-1c77-474f-87d3-965ca0261ffd",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-17:02",
+  "log_time": "2026/01/07-22:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`TheJosephXD`",
-        "description": "||```joseulloabaeza@gmail.com:CookieAndCream@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 12 hours\n\n**Hypixel General Info:**\nLevel: `34.27`\nFirst Login: <t:1718971140:F>\nLast Login: <t:1767690120:F>\nBedWars Stars: `19`\n\n**Account Info:**\nUUID: `950b7aaf-1c77-474f-87d3-965ca0261ffd`\nMinecraft Capes: `Copper, Menace, Home, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1718937892:F>\nOther Games: `Minecraft Bedrock`",
-        "color": 65280,
-        "timestamp": "2026-01-06T09:02:14.531000+00:00",
+        "description": "||```joseulloabaeza@gmail.com:CookieAndCream@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 3h 7m 12s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 7 hours\n\n**Hypixel General Info:**\nLevel: `35.96`\nFirst Login: <t:1718971140:F>\nLast Login: <t:1767716040:F>\nBedWars Stars: `20`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 30m`\nShards: `704`\n\n**Account Info:**\nUUID: `950b7aaf-1c77-474f-87d3-965ca0261ffd`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`",
+        "color": 35529,
+        "timestamp": "2026-01-07T14:02:39.667000+00:00",
         "author": {
-          "name": "34248/323102 | 4"
+          "name": "28928/28944 | 27"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/950b7aaf-1c77-474f-87d3-965ca0261ffd/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T09:02:14.741000+00:00",
+    "timestamp": "2026-01-07T14:02:40.891000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk2d2d5u1m4dhih292xniztz",
+            "custom_id": "credentials_cmk438k46005hhi9c4t7frhhk",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458022843903119493",
-    "channel_id": "1457916607660818514",
+    "id": "1458460838922031139",
+    "channel_id": "1458278983983562863",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

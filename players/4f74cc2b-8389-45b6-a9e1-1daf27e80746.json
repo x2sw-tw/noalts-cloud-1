@@ -3,7 +3,7 @@
   "session": "dentedangel@msn.com:Korbyn0711",
   "uuid": "4f74cc2b-8389-45b6-a9e1-1daf27e80746",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-10:40",
+  "log_time": "2026/01/07-18:15",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,31 +14,27 @@
       {
         "type": "rich",
         "title": "`EnderAlt_QHpZO`",
-        "description": "||```dentedangel@msn.com:Korbyn0711```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNKNOWN`\n> Unknown Reason\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 49m`\nMoney: `4`\nShards: `558`\n\n**Account Info:**\nUUID: `4f74cc2b-8389-45b6-a9e1-1daf27e80746`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767531999:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`",
+        "description": "||```dentedangel@msn.com:Korbyn0711```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 15 hours\n\n**Hypixel General Info:**\nLevel: `1.20`\nFirst Login: <t:1767536700:F>\nLast Login: <t:1767552600:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 3m`\nMoney: `0`\nShards: `347`\n\n**Account Info:**\nUUID: `4f74cc2b-8389-45b6-a9e1-1daf27e80746`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767531999:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
         "color": 35529,
-        "timestamp": "2026-01-06T02:40:15.588000+00:00",
+        "timestamp": "2026-01-07T10:15:23.955000+00:00",
         "author": {
-          "name": "82695/87861 | 152"
+          "name": "150752/249447 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/4f74cc2b-8389-45b6-a9e1-1daf27e80746/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/K4j0tNYWieZ8aOu-1DvuPOtxfFMHdBr5PorY57fxkLk/https/mc-heads.net/body/4f74cc2b-8389-45b6-a9e1-1daf27e80746/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "EgmGIgArK4n3VahYh38W9wdYmYmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-06T02:40:15.829000+00:00",
+    "timestamp": "2026-01-07T10:15:24.444000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +45,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1zf4vr1lofhih2lhclc13o",
+            "custom_id": "credentials_cmk3v4auw01shhime9ku53xnd",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +55,8 @@
         ]
       }
     ],
-    "id": "1457926715019104270",
-    "channel_id": "1457916607660818514",
+    "id": "1458403643517829120",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

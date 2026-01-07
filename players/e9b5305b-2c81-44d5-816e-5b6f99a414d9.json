@@ -3,7 +3,7 @@
   "session": "binfa13@gmail.com:Fred300684!",
   "uuid": "e9b5305b-2c81-44d5-816e-5b6f99a414d9",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-13:01",
+  "log_time": "2026/01/07-19:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`ythz_e5tSI_12_25`",
-        "description": "||```binfa13@gmail.com:Fred300684!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1766866980:F>\nLast Login: <t:1766919780:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `e9b5305b-2c81-44d5-816e-5b6f99a414d9`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "description": "||```binfa13@gmail.com:Fred300684!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1766866980:F>\nLast Login: <t:1766919780:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `e9b5305b-2c81-44d5-816e-5b6f99a414d9`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1766667380:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-06T05:01:32.751000+00:00",
+        "timestamp": "2026-01-07T11:04:47.623000+00:00",
         "author": {
-          "name": "11468/11471 | 13"
+          "name": "61088/185673 | 31"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e9b5305b-2c81-44d5-816e-5b6f99a414d9/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "l0qBCgIrTq91RzfgUv7jWwZYiYlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T05:01:32.930000+00:00",
+    "timestamp": "2026-01-07T11:04:47.848000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk24gttb1ltshih2g1a7rjgi",
+            "custom_id": "credentials_cmk3wvtjp01u9hime7i4selds",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457962270557606024",
-    "channel_id": "1457916584147550289",
+    "id": "1458416072934948864",
+    "channel_id": "1458278979189477577",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

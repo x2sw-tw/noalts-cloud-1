@@ -3,7 +3,7 @@
   "session": "aderavik@hotmail.com:Tigerwood1",
   "uuid": "71f16068-afd9-4931-95b5-a2129241b719",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-00:02",
+  "log_time": "2026/01/08-10:19",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`wg_sYGZO_01_05`",
-        "description": "||```aderavik@hotmail.com:Tigerwood1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767758280:F>\nLast Login: <t:1767801720:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `71f16068-afd9-4931-95b5-a2129241b719`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
-        "color": 65280,
-        "timestamp": "2026-01-07T16:02:25.645000+00:00",
+        "description": "||```aderavik@hotmail.com:Tigerwood1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.00`\nFirst Login: <t:1767758280:F>\nLast Login: <t:1767814080:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 44m`\nShards: `482`\n\n**Account Info:**\nUUID: `71f16068-afd9-4931-95b5-a2129241b719`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767621566:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-08T02:19:25.939000+00:00",
         "author": {
-          "name": "7101/7159 | 12"
+          "name": "107723/238617 | 132"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/71f16068-afd9-4931-95b5-a2129241b719/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T16:02:25.932000+00:00",
+    "timestamp": "2026-01-08T02:19:26.155000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk47ikun00iahi9ckdcgh4i9",
+            "custom_id": "credentials_cmk4tk1w3024zhi9ch4v7ce3p",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458490975168237579",
-    "channel_id": "1458278979189477577",
+    "id": "1458646249237516383",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

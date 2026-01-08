@@ -3,7 +3,7 @@
   "session": "zralinagarcia@hotmail.com:Lina1021**",
   "uuid": "cae43add-3edc-4fd4-bfb6-372175a199ad",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-21:07",
+  "log_time": "2026/01/08-22:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,27 +14,31 @@
       {
         "type": "rich",
         "title": "`LinhvuppD0107`",
-        "description": "||```zralinagarcia@hotmail.com:Lina1021**```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `cae43add-3edc-4fd4-bfb6-372175a199ad`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767786910:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
-        "color": 65280,
-        "timestamp": "2026-01-07T13:07:53.690000+00:00",
+        "description": "||```zralinagarcia@hotmail.com:Lina1021**```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767789480:F>\nLast Login: <t:1767791220:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 25m`\n\n**Account Info:**\nUUID: `cae43add-3edc-4fd4-bfb6-372175a199ad`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-08T14:03:14.922000+00:00",
         "author": {
-          "name": "93823/110689 | 22"
+          "name": "32413/32413 | 32"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/cae43add-3edc-4fd4-bfb6-372175a199ad/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/ilLpwiajFPQOcMHTFqkX69JSN1kUWAZ6uKYybeCunuw/https/mc-heads.net/body/cae43add-3edc-4fd4-bfb6-372175a199ad/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T13:07:53.908000+00:00",
+    "timestamp": "2026-01-08T14:03:15.033000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -45,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk41a4pw001ghi9c7t2c20gn",
+            "custom_id": "credentials_cmk5ip5zg039bhi9c1gs6jntv",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -55,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458447052315824295",
-    "channel_id": "1458278979189477577",
+    "id": "1458823369989558506",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

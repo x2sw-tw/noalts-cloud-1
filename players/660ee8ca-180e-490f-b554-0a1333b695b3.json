@@ -3,7 +3,7 @@
   "session": "henriquestorres2012@hotmail.com:100703Ht@!",
   "uuid": "660ee8ca-180e-490f-b554-0a1333b695b3",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-20:02",
+  "log_time": "2026/01/08-22:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhTybLN0107`",
-        "description": "||```henriquestorres2012@hotmail.com:100703Ht@!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `17.73`\nFirst Login: <t:1455480960:F>\nLast Login: <t:1767786360:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `660ee8ca-180e-490f-b554-0a1333b695b3`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1437578373:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-07T12:02:35.530000+00:00",
+        "description": "||```henriquestorres2012@hotmail.com:100703Ht@!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `17.73`\nFirst Login: <t:1455480960:F>\nLast Login: <t:1767793860:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 3m`\nShards: `69`\n\n**Account Info:**\nUUID: `660ee8ca-180e-490f-b554-0a1333b695b3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-08T14:03:09.744000+00:00",
         "author": {
-          "name": "14711/22255 | 3"
+          "name": "32413/32413 | 41"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/660ee8ca-180e-490f-b554-0a1333b695b3/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "jRiKEgIrSX/FZ0lmb26n9wZYiXlxZXY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -34,11 +34,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-07T12:02:37.538000+00:00",
+    "timestamp": "2026-01-08T14:03:09.908000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +48,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3yy5ds01yihime56chokxa",
+            "custom_id": "credentials_cmk5ip1zo0397hi9ceoczry7a",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +58,8 @@
         ]
       }
     ],
-    "id": "1458430625869594782",
-    "channel_id": "1458278979189477577",
+    "id": "1458823348493746430",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

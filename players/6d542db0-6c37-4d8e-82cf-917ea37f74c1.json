@@ -3,7 +3,7 @@
   "session": "ricardo_gomes_lopes@outlook.com:Cruzeiro.2014",
   "uuid": "6d542db0-6c37-4d8e-82cf-917ea37f74c1",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-11:02",
+  "log_time": "2026/01/08-10:17",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhvqPmj0105`",
-        "description": "||```ricardo_gomes_lopes@outlook.com:Cruzeiro.2014```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767754860:F>\nLast Login: <t:1767754860:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `6d542db0-6c37-4d8e-82cf-917ea37f74c1`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767625922:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-07T03:02:10.091000+00:00",
+        "description": "||```ricardo_gomes_lopes@outlook.com:Cruzeiro.2014```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy connection timed out\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 0m`\nShards: `272`\n\n**Account Info:**\nUUID: `6d542db0-6c37-4d8e-82cf-917ea37f74c1`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767625922:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-08T02:17:19.331000+00:00",
         "author": {
-          "name": "36659/36662 | 8"
+          "name": "103797/238617 | 123"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6d542db0-6c37-4d8e-82cf-917ea37f74c1/100/left",
@@ -34,10 +34,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T03:02:10.311000+00:00",
+    "timestamp": "2026-01-08T02:17:19.610000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -48,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3fn5qh01i1himebvmz0d68",
+            "custom_id": "credentials_cmk4thc9x024ohi9cq1d7u5rp",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -58,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458294616221683976",
-    "channel_id": "1458278979189477577",
+    "id": "1458645718469447823",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

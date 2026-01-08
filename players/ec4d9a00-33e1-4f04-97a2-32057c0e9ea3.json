@@ -3,7 +3,7 @@
   "session": "kp62004@hotmail.com:Gjtlmk09!!",
   "uuid": "ec4d9a00-33e1-4f04-97a2-32057c0e9ea3",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-14:03",
+  "log_time": "2026/01/08-15:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`raveTEIwk8XL`",
-        "description": "||```kp62004@hotmail.com:Gjtlmk09!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `17.08`\nFirst Login: <t:1444872480:F>\nLast Login: <t:1767679980:F>\nBedWars Stars: `10`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 37m`\nShards: `200`\n\n**Account Info:**\nUUID: `ec4d9a00-33e1-4f04-97a2-32057c0e9ea3`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "description": "||```kp62004@hotmail.com:Gjtlmk09!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `17.08`\nFirst Login: <t:1444872480:F>\nLast Login: <t:1767679980:F>\nBedWars Stars: `10`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 37m`\nShards: `200`\n\n**Account Info:**\nUUID: `ec4d9a00-33e1-4f04-97a2-32057c0e9ea3`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1424531295:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-07T06:03:23.327000+00:00",
+        "timestamp": "2026-01-08T07:03:23.231000+00:00",
         "author": {
-          "name": "60084/89272 | 14"
+          "name": "34565/34565 | 4"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/ec4d9a00-33e1-4f04-97a2-32057c0e9ea3/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T06:03:23.504000+00:00",
+    "timestamp": "2026-01-08T07:03:23.398000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3m47kw01mvhimeytgoqxpy",
+            "custom_id": "credentials_cmk53p7yu02elhi9cjmt205xd",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458340221698445412",
-    "channel_id": "1458278979189477577",
+    "id": "1458717708613980232",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

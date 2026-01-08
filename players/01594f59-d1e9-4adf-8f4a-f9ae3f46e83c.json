@@ -3,7 +3,7 @@
   "session": "sheriea@hotmail.com:Stinger1",
   "uuid": "01594f59-d1e9-4adf-8f4a-f9ae3f46e83c",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-01:02",
+  "log_time": "2026/01/09-02:27",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`o4pportuneSppre`",
-        "description": "||```sheriea@hotmail.com:Stinger1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767804300:F>\nLast Login: <t:1767804300:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `01594f59-d1e9-4adf-8f4a-f9ae3f46e83c`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767802003:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "description": "||```sheriea@hotmail.com:Stinger1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767804300:F>\nLast Login: <t:1767804300:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 33m`\nMoney: `0`\nShards: `391`\n\n**Account Info:**\nUUID: `01594f59-d1e9-4adf-8f4a-f9ae3f46e83c`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767802003:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
         "color": 35529,
-        "timestamp": "2026-01-07T17:02:52.428000+00:00",
+        "timestamp": "2026-01-08T18:27:34.758000+00:00",
         "author": {
-          "name": "40660/323001 | 3"
+          "name": "319618/348177 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/01594f59-d1e9-4adf-8f4a-f9ae3f46e83c/100/left",
@@ -34,10 +34,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T17:02:52.663000+00:00",
+    "timestamp": "2026-01-08T18:27:35.382000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -48,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk49obar00qkhi9czy9qxn7n",
+            "custom_id": "credentials_cmk5s53tz043bhi9cf32lg4f1",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -58,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458506186780315669",
-    "channel_id": "1458278979189477577",
+    "id": "1458889893114679450",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

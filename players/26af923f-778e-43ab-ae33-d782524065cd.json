@@ -3,7 +3,7 @@
   "session": "dudu_zerbi@hotmail.com:Cejec.256",
   "uuid": "26af923f-778e-43ab-ae33-d782524065cd",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-02:28",
+  "log_time": "2026/01/08-10:08",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`vertex_xGclX_`",
-        "description": "||```dudu_zerbi@hotmail.com:Cejec.256```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767810480:F>\nLast Login: <t:1767810480:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `26af923f-778e-43ab-ae33-d782524065cd`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767805353:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-07T18:28:38.131000+00:00",
+        "description": "||```dudu_zerbi@hotmail.com:Cejec.256```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 5h 19m`\nMoney: `7`\nShards: `180`\n\n**Account Info:**\nUUID: `26af923f-778e-43ab-ae33-d782524065cd`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767805353:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-08T02:08:35.176000+00:00",
         "author": {
-          "name": "266743/284908 | 4"
+          "name": "83000/238617 | 92"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/26af923f-778e-43ab-ae33-d782524065cd/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T18:28:38.369000+00:00",
+    "timestamp": "2026-01-08T02:08:35.357000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4cqlqw012ehi9c18r7210g",
+            "custom_id": "credentials_cmk4t63rg0231hi9cos60p1fs",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458527769435705547",
-    "channel_id": "1458278979189477577",
+    "id": "1458643519592730726",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

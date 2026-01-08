@@ -3,7 +3,7 @@
   "session": "daniinazuma@hotmail.es:Cocacola0?",
   "uuid": "23c846a9-b574-4489-961a-81136b919d16",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-19:03",
+  "log_time": "2026/01/08-10:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`rave1Vwusgec`",
-        "description": "||```daniinazuma@hotmail.es:Cocacola0?```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1564570380:F>\nLast Login: <t:1767783660:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `23c846a9-b574-4489-961a-81136b919d16`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1441368756:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-07T11:03:10.757000+00:00",
+        "description": "||```daniinazuma@hotmail.es:Cocacola0?```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1564570380:F>\nLast Login: <t:1767806100:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 49m`\nShards: `275`\n\n**Account Info:**\nUUID: `23c846a9-b574-4489-961a-81136b919d16`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1441368756:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-08T02:06:33.973000+00:00",
         "author": {
-          "name": "48282/185673 | 10"
+          "name": "76047/238617 | 83"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/23c846a9-b574-4489-961a-81136b919d16/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T11:03:10.966000+00:00",
+    "timestamp": "2026-01-08T02:06:34.094000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3wtqrt01thhimemqpp41em",
+            "custom_id": "credentials_cmk4t3i9g022ohi9cdxufibwi",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458415666582392945",
-    "channel_id": "1458278979189477577",
+    "id": "1458643010978975898",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

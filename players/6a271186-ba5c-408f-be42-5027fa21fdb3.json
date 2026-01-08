@@ -3,7 +3,7 @@
   "session": "thanhantran1240@gmail.com:123456789aaa000!@#",
   "uuid": "6a271186-ba5c-408f-be42-5027fa21fdb3",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-10:02",
+  "log_time": "2026/01/08-10:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`wappa_XlYLb`",
-        "description": "||```thanhantran1240@gmail.com:123456789aaa000!@#```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 19d 4h 8m 19s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for cheating. Time Left: 13 day 6 hours 28 minutes Ban ID: #CNuelrCj\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 29 days and 8 hours\n\n**Hypixel General Info:**\nLevel: `4.63`\nFirst Login: <t:1625335020:F>\nLast Login: <t:1766815440:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 7m`\nMoney: `28.395`\nShards: `169`\n\n**Account Info:**\nUUID: `6a271186-ba5c-408f-be42-5027fa21fdb3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
+        "description": "||```thanhantran1240@gmail.com:123456789aaa000!@#```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy connection timed out\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for cheating. Time Left: 12 day 6 hours 25 minutes Ban ID: #CNuelrCj\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 8 hours\n\n**Hypixel General Info:**\nLevel: `4.63`\nFirst Login: <t:1625335020:F>\nLast Login: <t:1766815440:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 7m`\nMoney: `28.395`\nShards: `169`\n\n**Account Info:**\nUUID: `6a271186-ba5c-408f-be42-5027fa21fdb3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
         "color": 16756290,
-        "timestamp": "2026-01-07T02:02:45.496000+00:00",
+        "timestamp": "2026-01-08T02:06:03.933000+00:00",
         "author": {
-          "name": "42394/88354 | 64"
+          "name": "73483/238617 | 69"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6a271186-ba5c-408f-be42-5027fa21fdb3/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "SgiKCgIr9pgFqLPmlmBuCQZYiXpxVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T02:02:51.912000+00:00",
+    "timestamp": "2026-01-08T02:06:04.183000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3dir9x01d2himee1xfehuh",
+            "custom_id": "credentials_cmk4t2v51022ghi9cr6j7rp2r",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458279691214393396",
-    "channel_id": "1458278979189477577",
+    "id": "1458642885523144901",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,7 +3,7 @@
   "session": "frede.2000@hotmail.fr:Frederico150*",
   "uuid": "763222c5-752c-41de-937f-e767076fc32a",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-10:23",
+  "log_time": "2026/01/08-10:38",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`rave9pnb0OCq`",
-        "description": "||```frede.2000@hotmail.fr:Frederico150*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 2h 18m 14s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 21m`\nShards: `535`\n\n**Account Info:**\nUUID: `763222c5-752c-41de-937f-e767076fc32a`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1719056121:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "description": "||```frede.2000@hotmail.fr:Frederico150*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 2h 2m 57s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.24`\nFirst Login: <t:1767657780:F>\nLast Login: <t:1767674340:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 21m`\nShards: `535`\n\n**Account Info:**\nUUID: `763222c5-752c-41de-937f-e767076fc32a`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1719056121:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-07T02:23:09.011000+00:00",
+        "timestamp": "2026-01-08T02:38:05.039000+00:00",
         "author": {
-          "name": "45108/88354 | 108"
+          "name": "136819/238617 | 176"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/763222c5-752c-41de-937f-e767076fc32a/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "GkmKGgAreH/0d1d3fm8OmAZYiXmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -34,11 +34,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-07T02:23:09.420000+00:00",
+    "timestamp": "2026-01-08T02:38:05.241000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +48,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3e8zg401fmhime0tcru2l6",
+            "custom_id": "credentials_cmk4u81e5026ihi9ccw6t4j03",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +58,8 @@
         ]
       }
     ],
-    "id": "1458284797813199010",
-    "channel_id": "1458278979189477577",
+    "id": "1458650943024267297",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

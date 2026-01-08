@@ -2,8 +2,8 @@
   "name": "LinhSEzDE0103",
   "session": "jcools@hotmail.ca:bo3134CHO",
   "uuid": "679de7f3-b397-4625-9f32-b10171a4840c",
-  "hypixel": "banned",
-  "log_time": "2026/01/05-22:03",
+  "hypixel": "unknown",
+  "log_time": "2026/01/08-15:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhSEzDE0103`",
-        "description": "||```jcools@hotmail.ca:bo3134CHO```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> You are temporarily banned for 27d 18h 40m 27s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n\n\n**Hypixel General Info:**\nLevel: `1.01`\nFirst Login: <t:1582005600:F>\nLast Login: <t:1767429660:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `679de7f3-b397-4625-9f32-b10171a4840c`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1483712865:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "description": "||```jcools@hotmail.ca:bo3134CHO```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 1h 41m 18s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `1.01`\nFirst Login: <t:1582005600:F>\nLast Login: <t:1767429660:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `679de7f3-b397-4625-9f32-b10171a4840c`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1483712865:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-05T14:03:09.888000+00:00",
+        "timestamp": "2026-01-08T07:02:30.687000+00:00",
         "author": {
-          "name": "43889/504952 | 3"
+          "name": "34560/34565 | 5"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/679de7f3-b397-4625-9f32-b10171a4840c/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "2AeSAgArh3+0hzenkDW/RwZYmXqBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T14:03:09.984000+00:00",
+    "timestamp": "2026-01-08T07:02:30.876000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk18di3o1jqahih2nb70z15c",
+            "custom_id": "credentials_cmk53o3ee02efhi9cn6v8hfhz",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457736185215713385",
-    "channel_id": "1457554231081828598",
+    "id": "1458717488320745605",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,7 +3,7 @@
   "session": "shaner_219@hotmail.com:Tachyon1!",
   "uuid": "b79973d5-3721-4d2d-b758-27e8b8f966ea",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-01:08",
+  "log_time": "2026/01/08-10:27",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`bz_8S61n_01_08`",
-        "description": "||```shaner_219@hotmail.com:Tachyon1!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767805200:F>\nLast Login: <t:1767805200:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `b79973d5-3721-4d2d-b758-27e8b8f966ea`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767801882:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-07T17:08:22.090000+00:00",
+        "description": "||```shaner_219@hotmail.com:Tachyon1!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 51m`\nShards: `332`\n\n**Account Info:**\nUUID: `b79973d5-3721-4d2d-b758-27e8b8f966ea`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767801882:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-08T02:27:18.503000+00:00",
         "author": {
-          "name": "96030/323001 | 14"
+          "name": "121393/238617 | 149"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b79973d5-3721-4d2d-b758-27e8b8f966ea/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T17:08:22.305000+00:00",
+    "timestamp": "2026-01-08T02:27:18.805000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk49vdnz00smhi9cijruim3m",
+            "custom_id": "credentials_cmk4tu6mi025nhi9c4jsppi7l",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458507569399205919",
-    "channel_id": "1458278979189477577",
+    "id": "1458648231675297806",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

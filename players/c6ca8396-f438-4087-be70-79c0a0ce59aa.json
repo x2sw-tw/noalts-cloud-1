@@ -3,7 +3,7 @@
   "session": "lucasrauberaraujo@hotmail.com:Kkk&7000",
   "uuid": "c6ca8396-f438-4087-be70-79c0a0ce59aa",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-19:03",
+  "log_time": "2026/01/08-10:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhBAkmo0103`",
-        "description": "||```lucasrauberaraujo@hotmail.com:Kkk&7000```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 25 days and 7 hours\n\n**Hypixel General Info:**\nLevel: `1.00`\nFirst Login: <t:1754690280:F>\nLast Login: <t:1767379080:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 30m`\nMoney: `80.000`\n\n**Account Info:**\nUUID: `c6ca8396-f438-4087-be70-79c0a0ce59aa`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "description": "||```lucasrauberaraujo@hotmail.com:Kkk&7000```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 24 days and 16 hours\n\n**Hypixel General Info:**\nLevel: `1.00`\nFirst Login: <t:1754690280:F>\nLast Login: <t:1767379080:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 30m`\nMoney: `80.000`\n\n**Account Info:**\nUUID: `c6ca8396-f438-4087-be70-79c0a0ce59aa`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-07T11:03:01.782000+00:00",
+        "timestamp": "2026-01-08T02:03:29.443000+00:00",
         "author": {
-          "name": "45051/185673 | 19"
+          "name": "59284/238617 | 40"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c6ca8396-f438-4087-be70-79c0a0ce59aa/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T11:03:02.060000+00:00",
+    "timestamp": "2026-01-08T02:03:29.543000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3wtjuf01tdhimesea2ux9j",
+            "custom_id": "credentials_cmk4szjut021qhi9cpdid9zf0",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458415629228052577",
-    "channel_id": "1458278979189477577",
+    "id": "1458642236916105248",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

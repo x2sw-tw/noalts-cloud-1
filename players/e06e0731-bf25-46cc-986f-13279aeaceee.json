@@ -3,7 +3,7 @@
   "session": "tratraj@outlook.com:goodies33",
   "uuid": "e06e0731-bf25-46cc-986f-13279aeaceee",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-10:03",
+  "log_time": "2026/01/08-10:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`fecklessdepen9d`",
-        "description": "||```tratraj@outlook.com:goodies33```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Alt\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 21 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767566040:F>\nLast Login: <t:1767573900:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 11m`\nShards: `299`\n\n**Account Info:**\nUUID: `e06e0731-bf25-46cc-986f-13279aeaceee`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "description": "||```tratraj@outlook.com:goodies33```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> Alt\n**CubeCraft Status:** `UNKNOWN`\n> Proxy connection timed out\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767566040:F>\nLast Login: <t:1767573900:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 11m`\nShards: `299`\n\n**Account Info:**\nUUID: `e06e0731-bf25-46cc-986f-13279aeaceee`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-06T02:03:23.541000+00:00",
+        "timestamp": "2026-01-08T02:03:50.183000+00:00",
         "author": {
-          "name": "42435/87861 | 32"
+          "name": "61809/238617 | 37"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e06e0731-bf25-46cc-986f-13279aeaceee/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "l0qBCgIrTq91RzfgUv7jWwZYiYlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T02:03:23.688000+00:00",
+    "timestamp": "2026-01-08T02:03:50.345000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1y3pyn1lk8hih29zgwvn7n",
+            "custom_id": "credentials_cmk4szzv4021yhi9ctz93gf36",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1457917436627124408",
-    "channel_id": "1457916584147550289",
+    "id": "1458642324166017128",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

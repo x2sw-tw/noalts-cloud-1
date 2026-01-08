@@ -3,7 +3,7 @@
   "session": "samuyr3000@hotmail.com:Samu1011511975*",
   "uuid": "2031e387-a734-4f8b-8bde-b3014545aa05",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-10:02",
+  "log_time": "2026/01/08-11:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,31 +14,27 @@
       {
         "type": "rich",
         "title": "`LinhpQixn0107`",
-        "description": "||```samuyr3000@hotmail.com:Samu1011511975*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767732180:F>\nLast Login: <t:1767732300:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 1m`\n\n**Account Info:**\nUUID: `2031e387-a734-4f8b-8bde-b3014545aa05`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-07T02:02:24.352000+00:00",
+        "description": "||```samuyr3000@hotmail.com:Samu1011511975*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 38m`\nMoney: `0`\nShards: `363`\n\n**Account Info:**\nUUID: `2031e387-a734-4f8b-8bde-b3014545aa05`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767731408:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-08T03:04:53.365000+00:00",
         "author": {
-          "name": "29366/88354 | 15"
+          "name": "66768/73559 | 48"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/2031e387-a734-4f8b-8bde-b3014545aa05/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/u63FC7FIGlpEzjkH7iYhiCq2m-OtdHOiTyCCocr7DuA/https/mc-heads.net/body/2031e387-a734-4f8b-8bde-b3014545aa05/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-07T02:02:24.670000+00:00",
+    "timestamp": "2026-01-08T03:04:54.070000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +45,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3diayr01cbhime3bayjf10",
+            "custom_id": "credentials_cmk4v6idx02aghi9c0rebvmu3",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +55,8 @@
         ]
       }
     ],
-    "id": "1458279576953159731",
-    "channel_id": "1458278979189477577",
+    "id": "1458657690942443642",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

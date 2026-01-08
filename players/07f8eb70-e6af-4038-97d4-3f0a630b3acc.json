@@ -3,7 +3,7 @@
   "session": "bryanh00974@hotmail.fr:Thalya@974",
   "uuid": "07f8eb70-e6af-4038-97d4-3f0a630b3acc",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-11:02",
+  "log_time": "2026/01/08-10:42",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`xthonkismEaamb`",
-        "description": "||```bryanh00974@hotmail.fr:Thalya@974```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 8 hours\n\n**Hypixel General Info:**\nLevel: `3.71`\nFirst Login: <t:1764185760:F>\nLast Login: <t:1767130080:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `07f8eb70-e6af-4038-97d4-3f0a630b3acc`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1764157021:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "description": "||```bryanh00974@hotmail.fr:Thalya@974```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 351d 19h 7m 27s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 8 hours\n\n**Hypixel General Info:**\nLevel: `3.71`\nFirst Login: <t:1764185760:F>\nLast Login: <t:1767130080:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `07f8eb70-e6af-4038-97d4-3f0a630b3acc`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1764157021:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-07T03:02:55.769000+00:00",
+        "timestamp": "2026-01-08T02:42:06.940000+00:00",
         "author": {
-          "name": "36662/36662 | 10"
+          "name": "141615/238617 | 186"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/07f8eb70-e6af-4038-97d4-3f0a630b3acc/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T03:02:55.978000+00:00",
+    "timestamp": "2026-01-08T02:42:07.180000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3fo4za01ighimeyyj0esou",
+            "custom_id": "credentials_cmk4ud82d026vhi9cic4eder5",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458294807762960499",
-    "channel_id": "1458278979189477577",
+    "id": "1458651957790118009",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

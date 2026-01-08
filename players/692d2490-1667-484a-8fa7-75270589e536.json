@@ -3,7 +3,7 @@
   "session": "jefinho867@hotmail.com:88200828Je",
   "uuid": "692d2490-1667-484a-8fa7-75270589e536",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-00:02",
+  "log_time": "2026/01/08-10:31",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`competentPinest`",
-        "description": "||```jefinho867@hotmail.com:88200828Je```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767798060:F>\nLast Login: <t:1767799440:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `692d2490-1667-484a-8fa7-75270589e536`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-07T16:02:30.170000+00:00",
+        "description": "||```jefinho867@hotmail.com:88200828Je```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767798060:F>\nLast Login: <t:1767806160:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 44m`\nMoney: `50.000`\nShards: `347`\n\n**Account Info:**\nUUID: `692d2490-1667-484a-8fa7-75270589e536`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767796142:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-08T02:31:48.145000+00:00",
         "author": {
-          "name": "7129/7159 | 25"
+          "name": "128550/238617 | 163"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/692d2490-1667-484a-8fa7-75270589e536/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T16:02:30.630000+00:00",
+    "timestamp": "2026-01-08T02:31:48.473000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk47ioc900ighi9c4i2tiwx6",
+            "custom_id": "credentials_cmk4tzynq0262hi9cszsp7xdo",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458490994873078005",
-    "channel_id": "1458278979189477577",
+    "id": "1458649362745004210",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

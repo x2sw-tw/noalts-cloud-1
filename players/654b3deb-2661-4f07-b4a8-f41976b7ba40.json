@@ -3,7 +3,7 @@
   "session": "hikaru727@hotmail.co.jp:nekonoshippo727",
   "uuid": "654b3deb-2661-4f07-b4a8-f41976b7ba40",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-20:04",
+  "log_time": "2026/01/08-10:39",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,31 +14,27 @@
       {
         "type": "rich",
         "title": "`LinheiRhb0102`",
-        "description": "||```hikaru727@hotmail.co.jp:nekonoshippo727```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Unknown Reason\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `654b3deb-2661-4f07-b4a8-f41976b7ba40`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1550701498:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "description": "||```hikaru727@hotmail.co.jp:nekonoshippo727```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 12d 13h 24m 34s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `654b3deb-2661-4f07-b4a8-f41976b7ba40`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1550701498:F>\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-06T12:04:29.569000+00:00",
+        "timestamp": "2026-01-08T02:39:55.928000+00:00",
         "author": {
-          "name": "64903/74657 | 9"
+          "name": "139053/238617 | 179"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/654b3deb-2661-4f07-b4a8-f41976b7ba40/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/pImJnH4boWPFTaJRYsBCV-n5cxIx_II1aoM5ghVGLFE/https/mc-heads.net/body/654b3deb-2661-4f07-b4a8-f41976b7ba40/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-06T12:04:29.772000+00:00",
+    "timestamp": "2026-01-08T02:39:56.133000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +45,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk2jkqsc1mlkhih2r0z506db",
+            "custom_id": "credentials_cmk4uaeyd026ohi9cnjrsrw8s",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +55,8 @@
         ]
       }
     ],
-    "id": "1458068708747640988",
-    "channel_id": "1457916584147550289",
+    "id": "1458651408139161700",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

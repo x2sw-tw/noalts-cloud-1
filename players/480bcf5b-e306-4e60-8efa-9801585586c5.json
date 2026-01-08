@@ -3,7 +3,7 @@
   "session": "andersondiogo123@hotmail.com:Warzombie123456!",
   "uuid": "480bcf5b-e306-4e60-8efa-9801585586c5",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-19:04",
+  "log_time": "2026/01/08-21:05",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,31 +14,27 @@
       {
         "type": "rich",
         "title": "`raveRKTRFDBz`",
-        "description": "||```andersondiogo123@hotmail.com:Warzombie123456!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy connection timed out\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767717840:F>\nLast Login: <t:1767783000:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `480bcf5b-e306-4e60-8efa-9801585586c5`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1740587293:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-07T11:04:31.283000+00:00",
+        "description": "||```andersondiogo123@hotmail.com:Warzombie123456!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 7h 9m 43s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 36m`\nShards: `351`\n\n**Account Info:**\nUUID: `480bcf5b-e306-4e60-8efa-9801585586c5`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1740587293:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-08T13:05:51.687000+00:00",
         "author": {
-          "name": "60055/185673 | 26"
+          "name": "57436/205620 | 18"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/480bcf5b-e306-4e60-8efa-9801585586c5/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/aSVImjtLhv7TenzqgvA61_vNKZaGyVEZzJDRbm_peTA/https/mc-heads.net/body/480bcf5b-e306-4e60-8efa-9801585586c5/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-07T11:04:31.396000+00:00",
+    "timestamp": "2026-01-08T13:05:51.877000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +45,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3wvgwj01u6himepb60mnm1",
+            "custom_id": "credentials_cmk5gnd6j033nhi9cijy54mt5",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +55,8 @@
         ]
       }
     ],
-    "id": "1458416003930259517",
-    "channel_id": "1458278979189477577",
+    "id": "1458808928346312808",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

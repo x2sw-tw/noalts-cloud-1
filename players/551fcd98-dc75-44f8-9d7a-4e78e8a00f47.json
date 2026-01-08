@@ -3,7 +3,7 @@
   "session": "liam.collins02@outlook.com:highview20",
   "uuid": "551fcd98-dc75-44f8-9d7a-4e78e8a00f47",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-19:03",
+  "log_time": "2026/01/08-21:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`ravefPNCqoc0`",
-        "description": "||```liam.collins02@outlook.com:highview20```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1756221060:F>\nLast Login: <t:1758880500:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 39m`\nMoney: `13`\nShards: `36`\n\n**Account Info:**\nUUID: `551fcd98-dc75-44f8-9d7a-4e78e8a00f47`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "description": "||```liam.collins02@outlook.com:highview20```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy connection timed out\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 39m`\nMoney: `13`\nShards: `36`\n\n**Account Info:**\nUUID: `551fcd98-dc75-44f8-9d7a-4e78e8a00f47`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1685477046:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-07T11:03:17.616000+00:00",
+        "timestamp": "2026-01-08T13:06:27.410000+00:00",
         "author": {
-          "name": "50080/185673 | 11"
+          "name": "61298/205620 | 17"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/551fcd98-dc75-44f8-9d7a-4e78e8a00f47/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "lziGEggr95tz6DSHf2739gZYinpyZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T11:03:17.939000+00:00",
+    "timestamp": "2026-01-08T13:06:27.630000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3wtw2h01tkhimenk81p22x",
+            "custom_id": "credentials_cmk5go4ra033rhi9c60ej7byc",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458415695829143603",
-    "channel_id": "1458278979189477577",
+    "id": "1458809078305521706",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

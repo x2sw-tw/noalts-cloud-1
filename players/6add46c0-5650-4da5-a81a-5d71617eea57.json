@@ -3,7 +3,7 @@
   "session": "cebanseva@hotmail.com:Seva311224!",
   "uuid": "6add46c0-5650-4da5-a81a-5d71617eea57",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-10:03",
+  "log_time": "2026/01/08-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`Linhvcdup0104`",
-        "description": "||```cebanseva@hotmail.com:Seva311224!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy connection timed out\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 20 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767528660:F>\nLast Login: <t:1767529140:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `6add46c0-5650-4da5-a81a-5d71617eea57`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767527790:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
+        "description": "||```cebanseva@hotmail.com:Seva311224!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 20 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `6add46c0-5650-4da5-a81a-5d71617eea57`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767527790:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
         "color": 16756290,
-        "timestamp": "2026-01-07T02:03:21.747000+00:00",
+        "timestamp": "2026-01-08T02:02:21.087000+00:00",
         "author": {
-          "name": "43071/88354 | 6"
+          "name": "39743/238617 | 10"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6add46c0-5650-4da5-a81a-5d71617eea57/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T02:03:21.970000+00:00",
+    "timestamp": "2026-01-08T02:02:21.322000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3djj8x01dshimeu6g33r82",
+            "custom_id": "credentials_cmk4sy353020hhi9c1jq22qmg",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458279817286910153",
-    "channel_id": "1458278979189477577",
+    "id": "1458641950776229941",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

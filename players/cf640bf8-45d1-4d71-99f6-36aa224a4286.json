@@ -3,7 +3,7 @@
   "session": "sgavornik@hotmail.com:Wesdxc85",
   "uuid": "cf640bf8-45d1-4d71-99f6-36aa224a4286",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-01:30",
+  "log_time": "2026/01/09-02:27",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,17 +14,20 @@
       {
         "type": "rich",
         "title": "`raver2MAymaY`",
-        "description": "||```sgavornik@hotmail.com:Wesdxc85```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `cf640bf8-45d1-4d71-99f6-36aa224a4286`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1734206148:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-07T17:30:23.774000+00:00",
+        "description": "||```sgavornik@hotmail.com:Wesdxc85```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 23 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767801840:F>\nLast Login: <t:1767804360:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 25m`\nMoney: `5`\nShards: `264`\n\n**Account Info:**\nUUID: `cf640bf8-45d1-4d71-99f6-36aa224a4286`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1734206148:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-08T18:27:38.323000+00:00",
         "author": {
-          "name": "212280/323001 | 27"
+          "name": "320086/348177 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/cf640bf8-45d1-4d71-99f6-36aa224a4286/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/fRg8ZiM0OQRzxCbOK8F4Xz0C72CM8U0Dva7FPozAwI0/https/mc-heads.net/body/cf640bf8-45d1-4d71-99f6-36aa224a4286/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
@@ -34,7 +37,7 @@
         }
       }
     ],
-    "timestamp": "2026-01-07T17:30:24.055000+00:00",
+    "timestamp": "2026-01-08T18:27:38.589000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -45,7 +48,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4anpl400wrhi9cv0k07u98",
+            "custom_id": "credentials_cmk5s56bj043chi9cy2z5z4mx",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -55,8 +58,8 @@
         ]
       }
     ],
-    "id": "1458513113220649133",
-    "channel_id": "1458278979189477577",
+    "id": "1458889906565939394",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -1,9 +1,9 @@
 {
-  "name": "lukelaidogdo",
+  "name": "MeowDaJOD",
   "session": "laiyouhua980315@gmail.com:0502momo",
   "uuid": "27f91254-07c3-46c6-bf93-7a69a3662706",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-18:09",
+  "log_time": "2026/01/08-10:41",
   "full_message": {
     "type": 0,
     "content": "",
@@ -13,12 +13,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`lukelaidogdo`",
-        "description": "||```laiyouhua980315@gmail.com:0502momo```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `4.48`\nFirst Login: <t:1762949640:F>\nLast Login: <t:1767780540:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\nMoney: `0`\n\n**Account Info:**\nUUID: `27f91254-07c3-46c6-bf93-7a69a3662706`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1762932850:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-07T10:09:22.985000+00:00",
+        "title": "`MeowDaJOD`",
+        "description": "||```laiyouhua980315@gmail.com:0502momo```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `4.48`\nFirst Login: <t:1762949640:F>\nLast Login: <t:1767783060:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `27f91254-07c3-46c6-bf93-7a69a3662706`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1762932850:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-08T02:41:19.444000+00:00",
         "author": {
-          "name": "95094/249447 | 6"
+          "name": "140690/238617 | 185"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/27f91254-07c3-46c6-bf93-7a69a3662706/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T10:09:23.347000+00:00",
+    "timestamp": "2026-01-08T02:41:19.653000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk3uwkbv01sbhimeraen1iat",
+            "custom_id": "credentials_cmk4uc7f1026shi9c5p3sd5zo",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458402128967106682",
-    "channel_id": "1458278979189477577",
+    "id": "1458651758447562857",
+    "channel_id": "1458641408142348339",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

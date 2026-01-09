@@ -3,7 +3,7 @@
   "session": "doug_shock@hotmail.com:Shock1105!",
   "uuid": "7f535ed0-7e86-4d8f-97c1-230e605225eb",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-05:02",
+  "log_time": "2026/01/09-11:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinheVxOd0107`",
-        "description": "||```doug_shock@hotmail.com:Shock1105!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing several bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767729540:F>\nLast Login: <t:1767735960:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 6m`\nShards: `267`\n\n**Account Info:**\nUUID: `7f535ed0-7e86-4d8f-97c1-230e605225eb`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767728883:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "description": "||```doug_shock@hotmail.com:Shock1105!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing several bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767729540:F>\nLast Login: <t:1767735960:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 6m`\nShards: `267`\n\n**Account Info:**\nUUID: `7f535ed0-7e86-4d8f-97c1-230e605225eb`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767728883:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-07T21:02:28.011000+00:00",
+        "timestamp": "2026-01-09T03:03:01.952000+00:00",
         "author": {
-          "name": "2916/2916 | 4"
+          "name": "62439/85889 | 44"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/7f535ed0-7e86-4d8f-97c1-230e605225eb/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T21:02:28.302000+00:00",
+    "timestamp": "2026-01-09T03:03:02.165000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4i8fkt01hzhi9co0s2mhz8",
+            "custom_id": "credentials_cmk6ajz3505fehi9ci6gvj59f",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458566482580475988",
-    "channel_id": "1458278979189477577",
+    "id": "1459019609444323339",
+    "channel_id": "1459003783051874458",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

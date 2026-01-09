@@ -3,7 +3,7 @@
   "session": "bbiznesscafe@hotmail.com:orange10",
   "uuid": "a53522f1-1cf9-4a86-a96c-18edb39d6d5d",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-11:02",
+  "log_time": "2026/01/09-12:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,17 +14,20 @@
       {
         "type": "rich",
         "title": "`g0ld_J4VRK_01_08`",
-        "description": "||```bbiznesscafe@hotmail.com:orange10```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767841320:F>\nLast Login: <t:1767841320:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `a53522f1-1cf9-4a86-a96c-18edb39d6d5d`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-08T03:02:36.531000+00:00",
+        "description": "||```bbiznesscafe@hotmail.com:orange10```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767841320:F>\nLast Login: <t:1767841440:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 7m`\nMoney: `10`\nShards: `332`\n\n**Account Info:**\nUUID: `a53522f1-1cf9-4a86-a96c-18edb39d6d5d`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-09T04:02:24.182000+00:00",
         "author": {
-          "name": "48702/73559 | 31"
+          "name": "57179/66887 | 12"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/a53522f1-1cf9-4a86-a96c-18edb39d6d5d/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/Iu1SGLpWETuu9HMfRGVMtTbX6P7d_AWSzf0tEsZ502Q/https/mc-heads.net/body/a53522f1-1cf9-4a86-a96c-18edb39d6d5d/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
@@ -35,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T03:02:36.704000+00:00",
+    "timestamp": "2026-01-09T04:02:24.349000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -46,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4v3ksx029fhi9cm6i2wcel",
+            "custom_id": "credentials_cmk6cobq105iuhi9cnse5oqjf",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -56,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458657114787414037",
-    "channel_id": "1458641408142348339",
+    "id": "1459034550326923419",
+    "channel_id": "1459003783051874458",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

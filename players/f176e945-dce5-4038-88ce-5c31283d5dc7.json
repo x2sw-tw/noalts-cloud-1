@@ -3,7 +3,7 @@
   "session": "m.van.vollevelde@live.nl:Waktiwortu!",
   "uuid": "f176e945-dce5-4038-88ce-5c31283d5dc7",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-10:44",
+  "log_time": "2026/01/09-12:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`vertex_cAWRw_`",
-        "description": "||```m.van.vollevelde@live.nl:Waktiwortu!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 14h 59m 13s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing several bans\n\n**DonutSMP Info:**\nPlaytime: `0d 5h 7m`\nMoney: `8`\nShards: `255`\n\n**Account Info:**\nUUID: `f176e945-dce5-4038-88ce-5c31283d5dc7`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767802560:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
-        "color": 35529,
-        "timestamp": "2026-01-08T02:44:03.339000+00:00",
+        "description": "||```m.van.vollevelde@live.nl:Waktiwortu!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 13h 40m 36s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing several bans\n\n**DonutSMP Info:**\nPlaytime: `0d 5h 7m`\nMoney: `0`\nShards: `304`\n\n**Account Info:**\nUUID: `f176e945-dce5-4038-88ce-5c31283d5dc7`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-09T04:02:21.657000+00:00",
         "author": {
-          "name": "143923/238617 | 190"
+          "name": "56185/66887 | 20"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/f176e945-dce5-4038-88ce-5c31283d5dc7/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T02:44:03.521000+00:00",
+    "timestamp": "2026-01-09T04:02:21.804000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4ufpuv0274hi9cbfb5hjo4",
+            "custom_id": "credentials_cmk6co9rt05irhi9ccyouo3xe",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458652445759770809",
-    "channel_id": "1458641408142348339",
+    "id": "1459034539652288615",
+    "channel_id": "1459003783051874458",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

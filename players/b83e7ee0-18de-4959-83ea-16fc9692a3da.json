@@ -1,0 +1,86 @@
+{
+  "name": "ravecEJyitxB",
+  "session": "kizaron0@gmail.com:Carnator2003-+,",
+  "uuid": "b83e7ee0-18de-4959-83ea-16fc9692a3da",
+  "hypixel": "unknown",
+  "log_time": "2026/01/09-21:12",
+  "full_message": {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "`ravecEJyitxB`",
+        "description": "||```kizaron0@gmail.com:Carnator2003-+,```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `13.14`\nFirst Login: <t:1615752780:F>\nLast Login: <t:1767937260:F>\nBedWars Stars: `12`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `b83e7ee0-18de-4959-83ea-16fc9692a3da`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1506361737:F>\nOther Games: `Minecraft Bedrock`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-09T13:12:50.190000+00:00",
+        "author": {
+          "name": "123210/292355 | 6"
+        },
+        "thumbnail": {
+          "url": "https://mc-heads.net/body/b83e7ee0-18de-4959-83ea-16fc9692a3da/100/left",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/dUiQuFWUGk5VnSQwzlBLXCiz-T1SXZcJAOabBnWD9Z0/https/mc-heads.net/body/b83e7ee0-18de-4959-83ea-16fc9692a3da/100/left",
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "footer": {
+          "text": "discord.gg/logs",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
+          "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
+        },
+        "content_scan_version": 3
+      }
+    ],
+    "timestamp": "2026-01-09T13:12:50.567000+00:00",
+    "edited_timestamp": null,
+    "flags": 4096,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "credentials_cmk6wc6uq06a4hi9ccpo1acvp",
+            "style": 3,
+            "label": "Get Credentials",
+            "emoji": {
+              "name": "🔑"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "1459173072325312656",
+    "channel_id": "1459003783051874458",
+    "author": {
+      "id": "1435331490002112522",
+      "username": "DiscoveryService",
+      "avatar": "a0dd60da241a644266b65e78afc078da",
+      "discriminator": "5784",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+}

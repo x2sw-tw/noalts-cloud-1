@@ -3,7 +3,7 @@
   "session": "wilfriedknorrn2@hotmail.com:Fiff040655",
   "uuid": "b8b29e00-9b50-4139-869d-779204a53bd1",
   "hypixel": "unknown",
-  "log_time": "2026/01/09-03:04",
+  "log_time": "2026/01/10-04:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhlHLBq0109`",
-        "description": "||```wilfriedknorrn2@hotmail.com:Fiff040655```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767898080:F>\nLast Login: <t:1767898920:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `b8b29e00-9b50-4139-869d-779204a53bd1`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767897549:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-08T19:04:44.141000+00:00",
+        "description": "||```wilfriedknorrn2@hotmail.com:Fiff040655```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 3 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767898080:F>\nLast Login: <t:1767909240:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `30`\n\n**Account Info:**\nUUID: `b8b29e00-9b50-4139-869d-779204a53bd1`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767897549:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "color": 16756290,
+        "timestamp": "2026-01-09T20:02:34.974000+00:00",
         "author": {
-          "name": "38321/38321 | 40"
+          "name": "15107/21512 | 3"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b8b29e00-9b50-4139-869d-779204a53bd1/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T19:04:44.283000+00:00",
+    "timestamp": "2026-01-09T20:02:35.179000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk5tgvq3049whi9cvrks3pzf",
+            "custom_id": "credentials_cmk7az4hy07ythi9cr30x0sso",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458899241803190417",
-    "channel_id": "1458641408142348339",
+    "id": "1459276187661635776",
+    "channel_id": "1459003783051874458",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,7 +3,7 @@
   "session": "berkuh58@gmail.com:HBK1bbk2fbk3",
   "uuid": "cfcc30c2-2a50-4315-8bec-3469bc4026a2",
   "hypixel": "unknown",
-  "log_time": "2026/01/06-10:02",
+  "log_time": "2026/01/09-19:21",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`zz_Rabgt_12_31`",
-        "description": "||```berkuh58@gmail.com:HBK1bbk2fbk3```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 22 hours\n\n**Hypixel General Info:**\nLevel: `2.91`\nFirst Login: <t:1761649560:F>\nLast Login: <t:1762535820:F>\nBedWars Stars: `3`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `cfcc30c2-2a50-4315-8bec-3469bc4026a2`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "description": "||```berkuh58@gmail.com:HBK1bbk2fbk3```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 13 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `cfcc30c2-2a50-4315-8bec-3469bc4026a2`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1748156016:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-06T02:02:13.860000+00:00",
+        "timestamp": "2026-01-09T11:21:01.267000+00:00",
         "author": {
-          "name": "15567/87861 | 12"
+          "name": "136684/211540 | 42"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/cfcc30c2-2a50-4315-8bec-3469bc4026a2/100/left",
@@ -34,11 +34,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-06T02:02:14.026000+00:00",
+    "timestamp": "2026-01-09T11:21:01.498000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +48,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk1y287a1lithih2zvt1h5um",
+            "custom_id": "credentials_cmk6sce4h061fhi9cssq4gi1j",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +58,8 @@
         ]
       }
     ],
-    "id": "1457917144443650068",
-    "channel_id": "1457916584147550289",
+    "id": "1459144932450107403",
+    "channel_id": "1459003783051874458",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

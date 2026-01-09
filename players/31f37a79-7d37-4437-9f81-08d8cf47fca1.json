@@ -3,7 +3,7 @@
   "session": "ivicuervito@hotmail.com:Elciclon2013.",
   "uuid": "31f37a79-7d37-4437-9f81-08d8cf47fca1",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-10:29",
+  "log_time": "2026/01/09-12:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`Mirthix`",
-        "description": "||```ivicuervito@hotmail.com:Elciclon2013.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 55m`\nMoney: `0`\nShards: `146`\n\n**Account Info:**\nUUID: `31f37a79-7d37-4437-9f81-08d8cf47fca1`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767409872:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-08T02:29:46.216000+00:00",
+        "description": "||```ivicuervito@hotmail.com:Elciclon2013.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.84`\nFirst Login: <t:1767781020:F>\nLast Login: <t:1767814500:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 17h 15m`\nMoney: `92.913`\nShards: `210`\n\n**Account Info:**\nUUID: `31f37a79-7d37-4437-9f81-08d8cf47fca1`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767409872:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-09T04:01:52.662000+00:00",
         "author": {
-          "name": "125681/238617 | 153"
+          "name": "35395/66887 | 4"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/31f37a79-7d37-4437-9f81-08d8cf47fca1/100/left",
@@ -37,7 +37,7 @@
         }
       }
     ],
-    "timestamp": "2026-01-08T02:29:46.552000+00:00",
+    "timestamp": "2026-01-09T04:01:52.870000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -48,7 +48,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4txchz025shi9cynxxsn7c",
+            "custom_id": "credentials_cmk6cnnew05iihi9ck9xdlon1",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -58,8 +58,8 @@
         ]
       }
     ],
-    "id": "1458648851371004066",
-    "channel_id": "1458641408142348339",
+    "id": "1459034418294296668",
+    "channel_id": "1459003783051874458",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

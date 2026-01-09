@@ -3,7 +3,7 @@
   "session": "henriquestorres2012@hotmail.com:100703Ht@!",
   "uuid": "660ee8ca-180e-490f-b554-0a1333b695b3",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-22:03",
+  "log_time": "2026/01/09-23:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhTybLN0107`",
-        "description": "||```henriquestorres2012@hotmail.com:100703Ht@!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `17.73`\nFirst Login: <t:1455480960:F>\nLast Login: <t:1767793860:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 3m`\nShards: `69`\n\n**Account Info:**\nUUID: `660ee8ca-180e-490f-b554-0a1333b695b3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "description": "||```henriquestorres2012@hotmail.com:100703Ht@!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 6 hours\n\n**Hypixel General Info:**\nLevel: `17.73`\nFirst Login: <t:1455480960:F>\nLast Login: <t:1767793860:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 3m`\nShards: `69`\n\n**Account Info:**\nUUID: `660ee8ca-180e-490f-b554-0a1333b695b3`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1437578373:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-08T14:03:09.744000+00:00",
+        "timestamp": "2026-01-09T15:03:04.211000+00:00",
         "author": {
-          "name": "32413/32413 | 41"
+          "name": "21348/673973 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/660ee8ca-180e-490f-b554-0a1333b695b3/100/left",
@@ -34,10 +34,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T14:03:09.908000+00:00",
+    "timestamp": "2026-01-09T15:03:04.685000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -48,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk5ip1zo0397hi9ceoczry7a",
+            "custom_id": "credentials_cmk709ybo06p9hi9caroan3vz",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -58,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458823348493746430",
-    "channel_id": "1458641408142348339",
+    "id": "1459200813946765454",
+    "channel_id": "1459003783051874458",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

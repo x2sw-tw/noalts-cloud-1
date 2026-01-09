@@ -3,7 +3,7 @@
   "session": "allann.rheurysson@hotmail.com:Soma2026",
   "uuid": "d979d373-7a6b-43a7-bbac-d51de6fe746b",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-19:02",
+  "log_time": "2026/01/09-21:20",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`LinhpkzlZ0108`",
-        "description": "||```allann.rheurysson@hotmail.com:Soma2026```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767869400:F>\nLast Login: <t:1767870120:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `d979d373-7a6b-43a7-bbac-d51de6fe746b`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767868185:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-08T11:02:46.700000+00:00",
+        "description": "||```allann.rheurysson@hotmail.com:Soma2026```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767869400:F>\nLast Login: <t:1767870120:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `117`\n\n**Account Info:**\nUUID: `d979d373-7a6b-43a7-bbac-d51de6fe746b`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767868185:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-09T13:20:56.237000+00:00",
         "author": {
-          "name": "51379/124278 | 6"
+          "name": "188720/292355 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/d979d373-7a6b-43a7-bbac-d51de6fe746b/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "GkmKGgAreH/0d1d3fm8OmAZYiXmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T11:02:46.924000+00:00",
+    "timestamp": "2026-01-09T13:20:56.814000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk5c92vo02qjhi9c0b915xuw",
+            "custom_id": "credentials_cmk6wmlw306anhi9cphf9h0ns",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458777953608663113",
-    "channel_id": "1458641408142348339",
+    "id": "1459175111793053830",
+    "channel_id": "1459003783051874458",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

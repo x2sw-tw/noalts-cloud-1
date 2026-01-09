@@ -1,9 +1,9 @@
 {
-  "name": "Anya_Thoughtmane",
+  "name": "raveCk8od1PD",
   "session": "magnokinetic8bit@hotmail.co.uk:UserpowerNS6",
   "uuid": "7aa58409-adde-4e38-9828-4bdf6a253af8",
   "hypixel": "unknown",
-  "log_time": "2026/01/09-03:03",
+  "log_time": "2026/01/10-04:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -13,28 +13,32 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`Anya_Thoughtmane`",
-        "description": "||```magnokinetic8bit@hotmail.co.uk:UserpowerNS6```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767893580:F>\nLast Login: <t:1767898920:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `7aa58409-adde-4e38-9828-4bdf6a253af8`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-08T19:03:34.925000+00:00",
+        "title": "`raveCk8od1PD`",
+        "description": "||```magnokinetic8bit@hotmail.co.uk:UserpowerNS6```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767893580:F>\nLast Login: <t:1767898980:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 11m`\nShards: `202`\n\n**Account Info:**\nUUID: `7aa58409-adde-4e38-9828-4bdf6a253af8`\nMinecraft Capes: `Pan, Yearn, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1764240349:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
+        "color": 35529,
+        "timestamp": "2026-01-09T20:02:52.080000+00:00",
         "author": {
-          "name": "24593/38321 | 15"
+          "name": "21506/21512 | 10"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/7aa58409-adde-4e38-9828-4bdf6a253af8/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/bglB2al2PyulnmGp-E6ajqDZfXMrlGMK8JuPy752FYI/https/mc-heads.net/body/7aa58409-adde-4e38-9828-4bdf6a253af8/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "NkiCAgArQyRpx/5PqgwOmAZYinlxZWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T19:03:35.115000+00:00",
+    "timestamp": "2026-01-09T20:02:52.411000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -45,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk5tfebk048hhi9c8yoltvic",
+            "custom_id": "credentials_cmk7azhov07z4hi9cyoeyr452",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -55,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458898951691440169",
-    "channel_id": "1458641408142348339",
+    "id": "1459276259937747162",
+    "channel_id": "1459003783051874458",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

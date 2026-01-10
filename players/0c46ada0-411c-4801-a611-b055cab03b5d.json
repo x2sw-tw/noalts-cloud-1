@@ -1,9 +1,16 @@
 {
-  "name": "DarkTaker_7",
+  "name": "SquatLocation",
   "session": "selva.vignesh@hotmail.com:Vikki1997!",
   "uuid": "0c46ada0-411c-4801-a611-b055cab03b5d",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-01:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/11-03:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -13,12 +20,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`DarkTaker_7`",
-        "description": "||```selva.vignesh@hotmail.com:Vikki1997!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `0c46ada0-411c-4801-a611-b055cab03b5d`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-08T17:02:50.978000+00:00",
+        "title": "`SquatLocation`",
+        "description": "||```selva.vignesh@hotmail.com:Vikki1997!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767804180:F>\nLast Login: <t:1767891720:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `0c46ada0-411c-4801-a611-b055cab03b5d`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1681383898:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-10T19:02:54.306000+00:00",
         "author": {
-          "name": "15374/15399 | 23"
+          "name": "24667/337987 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0c46ada0-411c-4801-a611-b055cab03b5d/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "4weSCgIrSHj3lwmJoHH41wZYmXlxVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -34,10 +41,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T17:02:51.193000+00:00",
+    "timestamp": "2026-01-10T19:02:55.253000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -48,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk5p44uk03pyhi9c468ju1r2",
+            "custom_id": "credentials_cmk8oa8wu0bl4hi9c1wkkfeyz",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -58,8 +66,8 @@
         ]
       }
     ],
-    "id": "1458868568480284919",
-    "channel_id": "1458641408142348339",
+    "id": "1459623560229158912",
+    "channel_id": "1459366171970240657",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

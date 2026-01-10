@@ -1,17 +1,18 @@
 {
   "date": "2026-01-11",
-  "total_logs": 4,
+  "total_logs": 5,
   "ban_status": {
     "hypixel_unbanned": 1,
     "donut_unbanned": 0,
     "cubecraft_unbanned": 0,
-    "all_banned": 3,
+    "all_banned": 4,
     "unknown": 0
   },
   "unique_players": [
-    "6adae102-0447-4a3f-81c2-9bc4a6a538f5",
+    "cfcc30c2-2a50-4315-8bec-3469bc4026a2",
     "95573f1c-b6e8-4f9d-ae47-4562eae7f40d",
     "26254f03-3a82-4dd3-9ad2-0f4db8f152b4",
+    "6adae102-0447-4a3f-81c2-9bc4a6a538f5",
     "cf8c468d-b387-4cc9-9eba-879da5f07b50"
   ]
 }

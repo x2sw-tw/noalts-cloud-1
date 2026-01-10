@@ -3,7 +3,7 @@
   "session": "filipyan@outlook.com:0212Yanic!",
   "uuid": "97c3ca69-9896-4044-bcda-6bf291f6cafb",
   "hypixel": "unknown",
-  "log_time": "2026/01/09-11:03",
+  "log_time": "2026/01/10-17:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`raveaf3SGui6`",
-        "description": "||```filipyan@outlook.com:0212Yanic!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767810780:F>\nLast Login: <t:1767811920:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 12m`\nMoney: `5`\nShards: `255`\n\n**Account Info:**\nUUID: `97c3ca69-9896-4044-bcda-6bf291f6cafb`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "description": "||```filipyan@outlook.com:0212Yanic!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 13d 5h 1m 48s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767810780:F>\nLast Login: <t:1767811920:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 12m`\nMoney: `5`\nShards: `255`\n\n**Account Info:**\nUUID: `97c3ca69-9896-4044-bcda-6bf291f6cafb`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
         "color": 16756290,
-        "timestamp": "2026-01-09T03:03:18.625000+00:00",
+        "timestamp": "2026-01-10T09:02:15.975000+00:00",
         "author": {
-          "name": "65417/85889 | 54"
+          "name": "20735/20735 | 44"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/97c3ca69-9896-4044-bcda-6bf291f6cafb/100/left",
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T03:03:18.796000+00:00",
+    "timestamp": "2026-01-10T09:02:27.411000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk6akby305fohi9czi9pygak",
+            "custom_id": "credentials_cmk82tsxv09pyhi9cinob4911",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1459019679199658067",
-    "channel_id": "1459003783051874458",
+    "id": "1459472448507613309",
+    "channel_id": "1459366171970240657",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

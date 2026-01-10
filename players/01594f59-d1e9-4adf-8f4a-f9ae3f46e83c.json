@@ -2,8 +2,15 @@
   "name": "o4pportuneSppre",
   "session": "sheriea@hotmail.com:Stinger1",
   "uuid": "01594f59-d1e9-4adf-8f4a-f9ae3f46e83c",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-03:03",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/11-05:19",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`o4pportuneSppre`",
-        "description": "||```sheriea@hotmail.com:Stinger1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 23 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767804300:F>\nLast Login: <t:1767804300:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 40m`\nMoney: `30.002`\nShards: `822`\n\n**Account Info:**\nUUID: `01594f59-d1e9-4adf-8f4a-f9ae3f46e83c`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767802003:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`",
+        "description": "||```sheriea@hotmail.com:Stinger1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 21 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 3m`\nMoney: `0`\nShards: `380`\n\n**Account Info:**\nUUID: `01594f59-d1e9-4adf-8f4a-f9ae3f46e83c`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `Yes`\nName Changeable: `No`\nAccount Creation Date: <t:1767802003:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
         "color": 35529,
-        "timestamp": "2026-01-09T19:03:18.300000+00:00",
+        "timestamp": "2026-01-10T21:19:27.435000+00:00",
         "author": {
-          "name": "40612/406051 | 1"
+          "name": "114388/134206 | 31"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/01594f59-d1e9-4adf-8f4a-f9ae3f46e83c/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "lBiKGgQrWYDJR1eHf3r4qAZYinlyZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T19:03:18.571000+00:00",
+    "timestamp": "2026-01-10T21:19:27.510000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk78uw9307m9hi9ck7p60eg0",
+            "custom_id": "credentials_cmk8t5u5u0by8hi9cd0lzqdvs",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459261270166605908",
-    "channel_id": "1459003775019647019",
+    "id": "1459657921045467231",
+    "channel_id": "1459366171970240657",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

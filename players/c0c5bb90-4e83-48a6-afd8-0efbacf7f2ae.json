@@ -2,8 +2,15 @@
   "name": "iiLorv",
   "session": "lucas.wede@outlook.com:Sverigeerbest73!",
   "uuid": "c0c5bb90-4e83-48a6-afd8-0efbacf7f2ae",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-02:49",
+  "ban_status": {
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/11-05:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`iiLorv`",
-        "description": "||```lucas.wede@outlook.com:Sverigeerbest73!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.74`\nFirst Login: <t:1705914120:F>\nLast Login: <t:1767984540:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 15h 56m`\nMoney: `8.577`\n\n**Account Info:**\nUUID: `c0c5bb90-4e83-48a6-afd8-0efbacf7f2ae`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1705914150:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-09T18:49:07.860000+00:00",
+        "description": "||```lucas.wede@outlook.com:Sverigeerbest73!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 58 day 22 hours 16 minutes Ban ID: #yeaTgII4\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `c0c5bb90-4e83-48a6-afd8-0efbacf7f2ae`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1705914150:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-10T21:06:01.276000+00:00",
         "author": {
-          "name": "539683/663084 | 24"
+          "name": "54941/134206 | 12"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c0c5bb90-4e83-48a6-afd8-0efbacf7f2ae/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "CQiGAgArP79UBxUAAAAAAAZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -34,10 +41,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T18:49:08.120000+00:00",
+    "timestamp": "2026-01-10T21:06:01.441000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -48,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk78co1207ihhi9cpofq25wy",
+            "custom_id": "credentials_cmk8sok4h0bx5hi9ck5jmtl6d",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -58,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459257703116312609",
-    "channel_id": "1459003783051874458",
+    "id": "1459654540147294491",
+    "channel_id": "1459366171970240657",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

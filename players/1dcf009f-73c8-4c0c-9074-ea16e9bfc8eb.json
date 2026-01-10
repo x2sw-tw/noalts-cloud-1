@@ -2,8 +2,15 @@
   "name": "rendow_L",
   "session": "ajmi.saoud@gmail.com:sFEA-2007",
   "uuid": "1dcf009f-73c8-4c0c-9074-ea16e9bfc8eb",
-  "hypixel": "unknown",
-  "log_time": "2026/01/08-22:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/11-01:17",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`rendow_L`",
-        "description": "||```ajmi.saoud@gmail.com:sFEA-2007```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `1dcf009f-73c8-4c0c-9074-ea16e9bfc8eb`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
-        "color": 65280,
-        "timestamp": "2026-01-08T14:02:48.196000+00:00",
+        "description": "||```ajmi.saoud@gmail.com:sFEA-2007```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 5h 45m 3s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 18 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 5h 12m`\nMoney: `0`\n\n**Account Info:**\nUUID: `1dcf009f-73c8-4c0c-9074-ea16e9bfc8eb`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1658106095:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-10T17:17:41.648000+00:00",
         "author": {
-          "name": "32396/32413 | 11"
+          "name": "107624/236553 | 30"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1dcf009f-73c8-4c0c-9074-ea16e9bfc8eb/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "VteFGggrmZQJeJbGj3hp+AZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T14:02:48.613000+00:00",
+    "timestamp": "2026-01-10T17:17:41.816000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk5iold3038qhi9cg2zsc1ww",
+            "custom_id": "credentials_cmk8kixf10b6phi9chou1vmsu",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1458823259176046884",
-    "channel_id": "1458641408142348339",
+    "id": "1459597079755100162",
+    "channel_id": "1459366171970240657",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

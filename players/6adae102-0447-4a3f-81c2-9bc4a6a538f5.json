@@ -2,8 +2,15 @@
   "name": "DaxelinOnDcEBOQQ",
   "session": "larkin.anderson22@gmail.com:Vedder04!",
   "uuid": "6adae102-0447-4a3f-81c2-9bc4a6a538f5",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-19:01",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-00:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`DaxelinOnDcEBOQQ`",
-        "description": "||```larkin.anderson22@gmail.com:Vedder04!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 14h 59m 26s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `10.84`\nFirst Login: <t:1693867980:F>\nLast Login: <t:1767319080:F>\nBedWars Stars: `6`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 6m`\nShards: `587`\n\n**Account Info:**\nUUID: `6adae102-0447-4a3f-81c2-9bc4a6a538f5`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1693867717:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
-        "color": 10175221,
-        "timestamp": "2026-01-09T11:01:46.863000+00:00",
+        "description": "||```larkin.anderson22@gmail.com:Vedder04!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 21d 9h 57m 39s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `10.84`\nFirst Login: <t:1693867980:F>\nLast Login: <t:1767319080:F>\nBedWars Stars: `6`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 6m`\nShards: `587`\n\n**Account Info:**\nUUID: `6adae102-0447-4a3f-81c2-9bc4a6a538f5`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1693867717:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-10T16:03:44.908000+00:00",
         "author": {
-          "name": "19723/211540 | 1"
+          "name": "49507/489105 | 4"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6adae102-0447-4a3f-81c2-9bc4a6a538f5/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "riiKCgIr8ViYurkMgcgQeAZYmnmBZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T11:01:47.504000+00:00",
+    "timestamp": "2026-01-10T16:03:45.472000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk6rnnix05yzhi9cjdp4gtid",
+            "custom_id": "credentials_cmk8hvu4s0auyhi9cev5fithg",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459140092248457331",
-    "channel_id": "1459003783051874458",
+    "id": "1459578472379846727",
+    "channel_id": "1459366171970240657",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

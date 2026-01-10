@@ -3,7 +3,7 @@
   "session": "rfm106@hotmail.com:Mariana@1010",
   "uuid": "0a8c600a-150d-45b7-b898-6e9b97222b05",
   "hypixel": "unknown",
-  "log_time": "2026/01/08-11:02",
+  "log_time": "2026/01/10-11:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,31 +14,27 @@
       {
         "type": "rich",
         "title": "`g0ld_fXpc7_01_06`",
-        "description": "||```rfm106@hotmail.com:Mariana@1010```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767735780:F>\nLast Login: <t:1767740040:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 15m`\nMoney: `18.200`\nShards: `635`\n\n**Account Info:**\nUUID: `0a8c600a-150d-45b7-b898-6e9b97222b05`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767734802:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "description": "||```rfm106@hotmail.com:Mariana@1010```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767735780:F>\nLast Login: <t:1767740040:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 15m`\nMoney: `18.200`\nShards: `635`\n\n**Account Info:**\nUUID: `0a8c600a-150d-45b7-b898-6e9b97222b05`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767734802:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
         "color": 10175221,
-        "timestamp": "2026-01-08T03:02:57.539000+00:00",
+        "timestamp": "2026-01-10T03:02:12.828000+00:00",
         "author": {
-          "name": "53152/73559 | 39"
+          "name": "29454/29459 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0a8c600a-150d-45b7-b898-6e9b97222b05/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/p_TfoGTi0igb3RsCJUocOjzhiV897QJAMoHvdvbBIWw/https/mc-heads.net/body/0a8c600a-150d-45b7-b898-6e9b97222b05/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "EwiGAgArLH8DdJdogOmAaQZYinlxZWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-08T03:02:57.721000+00:00",
+    "timestamp": "2026-01-10T03:02:13.012000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +45,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4v410g029whi9cue7hdki5",
+            "custom_id": "credentials_cmk7pyruw0964hi9ccbhv98ft",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +55,8 @@
         ]
       }
     ],
-    "id": "1458657202939367588",
-    "channel_id": "1458641408142348339",
+    "id": "1459381791147298917",
+    "channel_id": "1459366171970240657",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

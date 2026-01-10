@@ -3,7 +3,7 @@
   "session": "feoyguapo12@hotmail.com:Esteban2212",
   "uuid": "0a44072f-3d58-4806-92f0-0b5fe55011c2",
   "hypixel": "unknown",
-  "log_time": "2026/01/07-21:02",
+  "log_time": "2026/01/10-18:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +14,11 @@
       {
         "type": "rich",
         "title": "`raveQKJxl9XL`",
-        "description": "||```feoyguapo12@hotmail.com:Esteban2212```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767769260:F>\nLast Login: <t:1767790920:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 16m`\n\n**Account Info:**\nUUID: `0a44072f-3d58-4806-92f0-0b5fe55011c2`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1607372624:F>\nOther Games: `Minecraft Bedrock`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
-        "color": 65280,
-        "timestamp": "2026-01-07T13:02:25.796000+00:00",
+        "description": "||```feoyguapo12@hotmail.com:Esteban2212```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.04`\nFirst Login: <t:1767769260:F>\nLast Login: <t:1767806340:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 30m`\nShards: `10`\n\n**Account Info:**\nUUID: `0a44072f-3d58-4806-92f0-0b5fe55011c2`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1607372624:F>\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-10T10:01:46.206000+00:00",
         "author": {
-          "name": "27346/110689 | 4"
+          "name": "25579/48380 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0a44072f-3d58-4806-92f0-0b5fe55011c2/100/left",
@@ -26,7 +26,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +38,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T13:02:26.315000+00:00",
+    "timestamp": "2026-01-10T10:01:46.394000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +49,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4133mr000ghi9c0ad77zjb",
+            "custom_id": "credentials_cmk84ybrt09svhi9cmyv3na2r",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "id": "1458445678291452127",
-    "channel_id": "1458278979189477577",
+    "id": "1459487375964242002",
+    "channel_id": "1459366171970240657",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

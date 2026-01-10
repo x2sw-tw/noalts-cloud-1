@@ -2,8 +2,15 @@
   "name": "7c4_msmc_rdb",
   "session": "lukasbara2011@hotmail.com:Lukasarnas14",
   "uuid": "2a90bb13-fdcd-4262-95a6-da73a81ab3c1",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-14:01",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/10-22:26",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,27 +21,31 @@
       {
         "type": "rich",
         "title": "`7c4_msmc_rdb`",
-        "description": "||```lukasbara2011@hotmail.com:Lukasarnas14```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767823080:F>\nLast Login: <t:1767938460:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `2a90bb13-fdcd-4262-95a6-da73a81ab3c1`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1733340533:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-09T06:01:53.062000+00:00",
+        "description": "||```lukasbara2011@hotmail.com:Lukasarnas14```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 11 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767823080:F>\nLast Login: <t:1767938460:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `7d 22h 7m`\nMoney: `0`\nShards: `691`\n\n**Account Info:**\nUUID: `2a90bb13-fdcd-4262-95a6-da73a81ab3c1`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1733340533:F>\nOther Games: `Minecraft Bedrock`",
+        "color": 35529,
+        "timestamp": "2026-01-10T14:26:27.195000+00:00",
         "author": {
-          "name": "21835/21835 | 4"
+          "name": "189770/1012112 | 6"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/2a90bb13-fdcd-4262-95a6-da73a81ab3c1/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/G70TgwrtRXBzUMZuhxOrDZsl7dQ91HN1_kVBDTxwQvI/https/mc-heads.net/body/2a90bb13-fdcd-4262-95a6-da73a81ab3c1/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "C/iFAgAruJcFpkWMn/UInQZYmXmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T06:01:53.274000+00:00",
+    "timestamp": "2026-01-10T14:26:28.080000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -45,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk6gxz9l05lihi9cgbv55xlj",
+            "custom_id": "credentials_cmk8eeq310aifhi9ctxubwisb",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -55,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459064618977857536",
-    "channel_id": "1459003783051874458",
+    "id": "1459553988583358601",
+    "channel_id": "1459366159806631979",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

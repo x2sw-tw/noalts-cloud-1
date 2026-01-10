@@ -2,8 +2,15 @@
   "name": "i8r_msmc_kv8",
   "session": "alfredo_ccapa@hotmail.com:alfred2214",
   "uuid": "dc21257d-5e5d-48e7-9db6-8d8f5ba856d2",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-01:03",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-03:19",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`i8r_msmc_kv8`",
-        "description": "||```alfredo_ccapa@hotmail.com:alfred2214```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `19.29`\nFirst Login: <t:1430587800:F>\nLast Login: <t:1767891780:F>\nBedWars Stars: `5`\n\n**Account Info:**\nUUID: `dc21257d-5e5d-48e7-9db6-8d8f5ba856d2`\nMinecraft Capes: `Pan, Migrator, 15th Anniversary`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1429659428:F>\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-08T17:03:35.071000+00:00",
+        "description": "||```alfredo_ccapa@hotmail.com:alfred2214```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 13d 15h 44m 53s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 22 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 23m`\nMoney: `7`\nShards: `765`\n\n**Account Info:**\nUUID: `dc21257d-5e5d-48e7-9db6-8d8f5ba856d2`\nMinecraft Capes: `Pan, Migrator, Common, 15th Anniversary`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1429659428:F>\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-10T19:19:27.257000+00:00",
         "author": {
-          "name": "15399/15399 | 38"
+          "name": "100250/337987 | 14"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/dc21257d-5e5d-48e7-9db6-8d8f5ba856d2/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "KBiGCgArVmn19niIj57/OgZYiXlyZXY=",
+          "placeholder": "DwiGAgArjrxGKQZrj6f2eAZYmnmBZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T17:03:35.238000+00:00",
+    "timestamp": "2026-01-10T19:19:27.596000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk5p52vd03qnhi9cjrcmq9q3",
+            "custom_id": "credentials_cmk8ovike0bo3hi9cer0bzh7p",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1458868753218666498",
-    "channel_id": "1458641408142348339",
+    "id": "1459627722417504477",
+    "channel_id": "1459366171970240657",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

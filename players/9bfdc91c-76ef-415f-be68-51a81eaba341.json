@@ -2,8 +2,15 @@
   "name": "2ton7lu558",
   "session": "rayanlouismarie09@gmail.com:Jatla._5",
   "uuid": "9bfdc91c-76ef-415f-be68-51a81eaba341",
-  "hypixel": "unknown",
-  "log_time": "2026/01/08-10:32",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/11-00:37",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`2ton7lu558`",
-        "description": "||```rayanlouismarie09@gmail.com:Jatla._5```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 14m 15s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1764997560:F>\nLast Login: <t:1767144720:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 41m`\nShards: `845`\n\n**Account Info:**\nUUID: `9bfdc91c-76ef-415f-be68-51a81eaba341`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1764868697:F>\nOther Games: `Minecraft Bedrock`",
+        "description": "||```rayanlouismarie09@gmail.com:Jatla._5```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 19d 10h 9m 24s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1764997560:F>\nLast Login: <t:1767144720:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 25m`\nShards: `996`\n\n**Account Info:**\nUUID: `9bfdc91c-76ef-415f-be68-51a81eaba341`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1764868697:F>\nOther Games: `Minecraft Bedrock`",
         "color": 35529,
-        "timestamp": "2026-01-08T02:32:44.609000+00:00",
+        "timestamp": "2026-01-10T16:37:29.366000+00:00",
         "author": {
-          "name": "129882/238617 | 165"
+          "name": "248402/489105 | 12"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9bfdc91c-76ef-415f-be68-51a81eaba341/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "iSiCCgIryp8gRtHHk6AJSQZYmomBZXY=",
+          "placeholder": "X2mGIgorXJAIhcX1iEx/uAZYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T02:32:44.815000+00:00",
+    "timestamp": "2026-01-10T16:37:29.817000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4u165b0265hi9cr3dvjvv0",
+            "custom_id": "credentials_cmk8j38920azghi9c786hsbb9",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1458649599060213955",
-    "channel_id": "1458641398109704202",
+    "id": "1459586963098304748",
+    "channel_id": "1459366159806631979",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

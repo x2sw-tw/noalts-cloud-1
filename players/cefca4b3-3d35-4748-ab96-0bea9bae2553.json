@@ -2,8 +2,15 @@
   "name": "raveTIQECrpd",
   "session": "josue7rayo@hotmail.com:Hotdog20513",
   "uuid": "cefca4b3-3d35-4748-ab96-0bea9bae2553",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-12:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:25",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`raveTIQECrpd`",
-        "description": "||```josue7rayo@hotmail.com:Hotdog20513```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Hacked\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 12 hours\n\n**Hypixel General Info:**\nLevel: `17.04`\nFirst Login: <t:1578190080:F>\nLast Login: <t:1757239380:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `cefca4b3-3d35-4748-ab96-0bea9bae2553`\nMinecraft Capes: `Vanilla, Cherry Blossom, Pan, Migrator, Common, 15th Anniversary, Follower's`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1577052459:F>\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "description": "||```josue7rayo@hotmail.com:Hotdog20513```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Hacked\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 13 hours\n\n**Hypixel General Info:**\nLevel: `17.04`\nFirst Login: <t:1578190080:F>\nLast Login: <t:1757239380:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `cefca4b3-3d35-4748-ab96-0bea9bae2553`\nMinecraft Capes: `Vanilla, Cherry Blossom, Pan, Migrator, Common, 15th Anniversary, Follower's`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1577052459:F>\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-10T04:02:32.076000+00:00",
+        "timestamp": "2026-01-11T02:25:40.916000+00:00",
         "author": {
-          "name": "57151/88756 | 1"
+          "name": "118604/163396 | 188"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/cefca4b3-3d35-4748-ab96-0bea9bae2553/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T04:02:32.424000+00:00",
+    "timestamp": "2026-01-11T02:25:41.012000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk7s4cl9099zhi9cwig8b73n",
+            "custom_id": "credentials_cmk943n840cqjhi9ceds8aqie",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459396972061524019",
-    "channel_id": "1459366171970240657",
+    "id": "1459734985098530970",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

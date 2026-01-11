@@ -2,8 +2,15 @@
   "name": "raveMm5OGGhv",
   "session": "dhrama_@outlook.com:Carlan1423",
   "uuid": "2f2986e5-5baa-4357-87c6-6edf2c318c29",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-20:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:05",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`raveMm5OGGhv`",
-        "description": "||```dhrama_@outlook.com:Carlan1423```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 23h 41m 1s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 2 hours\n\n**Hypixel General Info:**\nRank: `VIP`\nLevel: `71.13`\nFirst Login: <t:1566006060:F>\nLast Login: <t:1767958260:F>\nBedWars Stars: `38`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `199`\n\n**Account Info:**\nUUID: `2f2986e5-5baa-4357-87c6-6edf2c318c29`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1566005675:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "description": "||```dhrama_@outlook.com:Carlan1423```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 9h 37m 30s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 12 hours\n\n**Hypixel General Info:**\nRank: `VIP`\nLevel: `71.13`\nFirst Login: <t:1566006060:F>\nLast Login: <t:1767958260:F>\nBedWars Stars: `38`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `199`\n\n**Account Info:**\nUUID: `2f2986e5-5baa-4357-87c6-6edf2c318c29`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1566005675:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-10T12:02:27.212000+00:00",
+        "timestamp": "2026-01-11T02:05:52.645000+00:00",
         "author": {
-          "name": "37506/66247 | 3"
+          "name": "73628/163396 | 105"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/2f2986e5-5baa-4357-87c6-6edf2c318c29/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T12:02:27.523000+00:00",
+    "timestamp": "2026-01-11T02:05:52.908000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk899iy90a49hi9cti7p906g",
+            "custom_id": "credentials_cmk93e6cf0clwhi9cfq4q1k7v",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459517747460440237",
-    "channel_id": "1459366171970240657",
+    "id": "1459730001829298401",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

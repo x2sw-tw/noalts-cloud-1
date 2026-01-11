@@ -2,8 +2,15 @@
   "name": "LinhbFHlZ0110",
   "session": "nexus-xbox@live.de:NicoK12109419",
   "uuid": "275ccb81-c131-4a7a-9bd8-5ee0164ba17b",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-17:02",
+  "ban_status": {
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/11-19:10",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhbFHlZ0110`",
-        "description": "||```nexus-xbox@live.de:NicoK12109419```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768033980:F>\nLast Login: <t:1768035660:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `275ccb81-c131-4a7a-9bd8-5ee0164ba17b`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-10T09:02:14.770000+00:00",
+        "description": "||```nexus-xbox@live.de:NicoK12109419```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768033980:F>\nLast Login: <t:1768035660:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `367`\n\n**Account Info:**\nUUID: `275ccb81-c131-4a7a-9bd8-5ee0164ba17b`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768032774:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
+        "color": 10175221,
+        "timestamp": "2026-01-11T11:10:56.306000+00:00",
         "author": {
-          "name": "20734/20735 | 46"
+          "name": "86225/95357 | 22"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/275ccb81-c131-4a7a-9bd8-5ee0164ba17b/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T09:02:22.009000+00:00",
+    "timestamp": "2026-01-11T11:10:56.584000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk82ts0f09pwhi9c4mbittww",
+            "custom_id": "credentials_cmk9mv4qf0dgghi9c8l91la79",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459472425849716850",
-    "channel_id": "1459366171970240657",
+    "id": "1459867170988232830",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

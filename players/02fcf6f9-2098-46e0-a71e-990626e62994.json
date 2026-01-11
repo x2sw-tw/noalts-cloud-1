@@ -2,8 +2,15 @@
   "name": "Perm_Army_bot_4",
   "session": "joosepkirsi@gmail.com:Emmepoja",
   "uuid": "02fcf6f9-2098-46e0-a71e-990626e62994",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-18:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:17",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`Perm_Army_bot_4`",
-        "description": "||```joosepkirsi@gmail.com:Emmepoja```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 3h 6m 19s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 37 day 8 hours 52 minutes Ban ID: #MC4iAwC9\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 1 day and 23 hours\n\n**Hypixel General Info:**\nLevel: `2.33`\nFirst Login: <t:1716060900:F>\nLast Login: <t:1767358020:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `02fcf6f9-2098-46e0-a71e-990626e62994`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "description": "||```joosepkirsi@gmail.com:Emmepoja```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 21d 10h 51m 2s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 36 day 16 hours 37 minutes Ban ID: #MC4iAwC9\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 1 day and 6 hours\n\n**Hypixel General Info:**\nLevel: `2.33`\nFirst Login: <t:1716060900:F>\nLast Login: <t:1767358020:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `02fcf6f9-2098-46e0-a71e-990626e62994`\nMinecraft Capes: `Menace, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1682680595:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-10T10:02:14.338000+00:00",
+        "timestamp": "2026-01-11T02:17:36.742000+00:00",
         "author": {
-          "name": "45256/48380 | 17"
+          "name": "105752/163396 | 158"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/02fcf6f9-2098-46e0-a71e-990626e62994/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T10:02:14.430000+00:00",
+    "timestamp": "2026-01-11T02:17:36.991000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk84yxga09tihi9cmukkr5t4",
+            "custom_id": "credentials_cmk93t9ny0colhi9c9iil689j",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459487493555486804",
-    "channel_id": "1459366171970240657",
+    "id": "1459732954967179368",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

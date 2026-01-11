@@ -2,8 +2,15 @@
   "name": "13ReasonWhyPxdro",
   "session": "xemil@interia.pl:Lolxdbeka123@",
   "uuid": "986092af-fc4e-438f-ae34-e828dacc4a0c",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-11:03",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`13ReasonWhyPxdro`",
-        "description": "||```xemil@interia.pl:Lolxdbeka123@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s You are temporarily banned for joining on an another account while being banned. Date: 31/12/2025 Ban ID: #kUXdUU90\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Staff witnessed use of prohibited modifications\n> Expires: 28 days and 19 hours\n\n**Hypixel General Info:**\nLevel: `15.34`\nFirst Login: <t:1563205380:F>\nLast Login: <t:1767162360:F>\nBedWars Stars: `11`\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 8m`\nMoney: `886.425`\nShards: `425`\n\n**Account Info:**\nUUID: `986092af-fc4e-438f-ae34-e828dacc4a0c`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
+        "description": "||```xemil@interia.pl:Lolxdbeka123@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s You are temporarily banned for joining on an another account while being banned. Date: 31/12/2025 Ban ID: #kUXdUU90\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Staff witnessed use of prohibited modifications\n> Expires: 26 days and 20 hours\n\n**Hypixel General Info:**\nLevel: `15.34`\nFirst Login: <t:1563205380:F>\nLast Login: <t:1767162360:F>\nBedWars Stars: `11`\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 8m`\nMoney: `886.425`\nShards: `425`\n\n**Account Info:**\nUUID: `986092af-fc4e-438f-ae34-e828dacc4a0c`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
         "color": 16756290,
-        "timestamp": "2026-01-09T03:03:50.111000+00:00",
+        "timestamp": "2026-01-11T02:02:04.342000+00:00",
         "author": {
-          "name": "69808/85889 | 62"
+          "name": "23677/163396 | 19"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/986092af-fc4e-438f-ae34-e828dacc4a0c/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "TjiOGggriI+lSBhnb3/39gZYi3pyZXY=",
+          "placeholder": "YjqKKgQruIkHSPbGinD6VwZYiYlxVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T03:03:50.273000+00:00",
+    "timestamp": "2026-01-11T02:02:04.512000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk6al08q05g8hi9cpxww46rd",
+            "custom_id": "credentials_cmk939a6r0cjchi9c6wj5wa6q",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459019811223896207",
-    "channel_id": "1459003783051874458",
+    "id": "1459729043867045959",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

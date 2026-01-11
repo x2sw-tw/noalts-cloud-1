@@ -1,7 +1,93 @@
 {
-  "name": "Wizztopher",
+  "name": "khaosmatapcd",
   "session": "jacque.cresswell09@gmail.com:Crocodile2003",
   "uuid": "a43aa0e8-ab35-40fc-8e5e-0d91fc5d2021",
-  "hypixel": "unbanned",
-  "log_time": "2026/01/03-03:26"
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-21:03",
+  "full_message": {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "`khaosmatapcd`",
+        "description": "||```jacque.cresswell09@gmail.com:Crocodile2003```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 24d 8h 20m 9s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 7 hours\n\n**Hypixel General Info:**\nLevel: `21.57`\nFirst Login: <t:1725009120:F>\nLast Login: <t:1767644760:F>\nBedWars Stars: `12`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 20m`\nMoney: `36.877`\nShards: `6`\n\n**Account Info:**\nUUID: `a43aa0e8-ab35-40fc-8e5e-0d91fc5d2021`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1676307003:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-11T13:03:15.122000+00:00",
+        "author": {
+          "name": "52121/70967 | 1"
+        },
+        "thumbnail": {
+          "url": "https://mc-heads.net/body/a43aa0e8-ab35-40fc-8e5e-0d91fc5d2021/100/left",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/i3uu2MVLpkkuacO2MIbFp-DpdP66uU-zXScFnuAeatc/https/mc-heads.net/body/a43aa0e8-ab35-40fc-8e5e-0d91fc5d2021/100/left",
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "footer": {
+          "text": "discord.gg/logs",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
+          "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
+        },
+        "content_scan_version": 3
+      }
+    ],
+    "timestamp": "2026-01-11T13:03:15.588000+00:00",
+    "edited_timestamp": null,
+    "flags": 4096,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "credentials_cmk9qvkk80du1hi9cx50j5grq",
+            "style": 3,
+            "label": "Get Credentials",
+            "emoji": {
+              "name": "🔑"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "1459895436419666230",
+    "channel_id": "1459728559684718644",
+    "author": {
+      "id": "1435331490002112522",
+      "username": "DiscoveryService",
+      "avatar": "a0dd60da241a644266b65e78afc078da",
+      "discriminator": "5784",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
 }

@@ -2,8 +2,15 @@
   "name": "SenpaiSpider1m",
   "session": "lucas_n_borges@hotmail.com:Lulu8023##",
   "uuid": "931d6e5d-1552-4129-b558-1a0179922adc",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-11:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:12",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`SenpaiSpider1m`",
-        "description": "||```lucas_n_borges@hotmail.com:Lulu8023##```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 10d 11h 2m 23s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 12 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1724346900:F>\nLast Login: <t:1724353140:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 23h 42m`\nMoney: `0`\nShards: `498`\n\n**Account Info:**\nUUID: `931d6e5d-1552-4129-b558-1a0179922adc`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
-        "color": 35529,
-        "timestamp": "2026-01-09T03:02:16.588000+00:00",
+        "description": "||```lucas_n_borges@hotmail.com:Lulu8023##```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 8d 11h 52m 8s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 13 hours\n\n**DonutSMP Info:**\nPlaytime: `1d 0h 10m`\nMoney: `0`\nShards: `1154`\n\n**Account Info:**\nUUID: `931d6e5d-1552-4129-b558-1a0179922adc`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1724345127:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-11T02:12:26.797000+00:00",
         "author": {
-          "name": "44186/85889 | 14"
+          "name": "95206/163396 | 141"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/931d6e5d-1552-4129-b558-1a0179922adc/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "mCiGCgIr2aoHuKXprZBmCAZYiXmBVWY=",
+          "placeholder": "W2qCAgArIDE6yNd0YBMGNAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T03:02:16.723000+00:00",
+    "timestamp": "2026-01-11T02:12:27.291000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk6aj03c05eqhi9ccmwnu4ly",
+            "custom_id": "credentials_cmk93mmi50cnlhi9c3ib3mk33",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459019418846761045",
-    "channel_id": "1459003783051874458",
+    "id": "1459731655991496736",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

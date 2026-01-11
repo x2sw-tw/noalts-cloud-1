@@ -2,8 +2,15 @@
   "name": "raveVWUIOMBp",
   "session": "davvedavve55@hotmail.com:Brunella12!",
   "uuid": "72f9c298-923c-48dd-b0de-b909351d6e6b",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-11:03",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:23",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`raveVWUIOMBp`",
-        "description": "||```davvedavve55@hotmail.com:Brunella12!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing several bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1737069480:F>\nLast Login: <t:1737088020:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 53m`\nShards: `192`\n\n**Account Info:**\nUUID: `72f9c298-923c-48dd-b0de-b909351d6e6b`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "description": "||```davvedavve55@hotmail.com:Brunella12!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing several bans\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 53m`\nShards: `192`\n\n**Account Info:**\nUUID: `72f9c298-923c-48dd-b0de-b909351d6e6b`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1656005315:F>\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-09T03:03:23.337000+00:00",
+        "timestamp": "2026-01-11T02:23:24.163000+00:00",
         "author": {
-          "name": "66210/85889 | 47"
+          "name": "115283/163396 | 183"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/72f9c298-923c-48dd-b0de-b909351d6e6b/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "C/iFAgAruJcFpkWMn/UInQZYmXmBVWY=",
+          "placeholder": "UoeKGhAriH+0dzeIgHP3xwZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T03:03:23.573000+00:00",
+    "timestamp": "2026-01-11T02:23:24.493000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk6akflz05fqhi9c2o6mwbtu",
+            "custom_id": "credentials_cmk940psv0cq8hi9czs9wyshb",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459019699235852332",
-    "channel_id": "1459003783051874458",
+    "id": "1459734412496207974",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

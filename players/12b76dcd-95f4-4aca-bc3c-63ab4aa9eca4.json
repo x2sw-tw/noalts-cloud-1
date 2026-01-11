@@ -2,8 +2,15 @@
   "name": "msmc_d8t",
   "session": "mbrience@hotmail.com:Zeto030466#",
   "uuid": "12b76dcd-95f4-4aca-bc3c-63ab4aa9eca4",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-19:01",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`msmc_d8t`",
-        "description": "||```mbrience@hotmail.com:Zeto030466#```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for joining on an another account while being banned. Time Left: 399 day 12 hours 44 minutes Ban ID: #7BegvaUK\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.32`\nFirst Login: <t:1718428020:F>\nLast Login: <t:1767622260:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `12b76dcd-95f4-4aca-bc3c-63ab4aa9eca4`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1718405406:F>\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
-        "color": 10175221,
-        "timestamp": "2026-01-10T11:01:49.236000+00:00",
+        "description": "||```mbrience@hotmail.com:Zeto030466#```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for joining on an another account while being banned. Time Left: 398 day 21 hours 41 minutes Ban ID: #7BegvaUK\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 12 hours\n\n**Hypixel General Info:**\nLevel: `1.32`\nFirst Login: <t:1718428020:F>\nLast Login: <t:1767622260:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `12b76dcd-95f4-4aca-bc3c-63ab4aa9eca4`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1718405406:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-11T02:04:56.906000+00:00",
         "author": {
-          "name": "10533/10533 | 2"
+          "name": "68191/163396 | 90"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/12b76dcd-95f4-4aca-bc3c-63ab4aa9eca4/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T11:01:49.399000+00:00",
+    "timestamp": "2026-01-11T02:04:57.078000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk873jvg09ybhi9chpvyn3k9",
+            "custom_id": "credentials_cmk93czcg0clihi9ceww15yx4",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459502488062398648",
-    "channel_id": "1459366171970240657",
+    "id": "1459729767661310109",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

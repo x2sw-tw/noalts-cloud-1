@@ -1,9 +1,16 @@
 {
-  "name": "vitoins",
+  "name": "LinheqELe0110",
   "session": "vitoresper@hotmail.com:Car10car10.",
   "uuid": "d7bf2d65-2a4d-43fc-8f91-9e643b0373a5",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-21:02",
+  "ban_status": {
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/11-10:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -13,12 +20,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`vitoins`",
-        "description": "||```vitoresper@hotmail.com:Car10car10.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `42.84`\nFirst Login: <t:1407607920:F>\nLast Login: <t:1768050120:F>\nBedWars Stars: `21`\n\n**Account Info:**\nUUID: `d7bf2d65-2a4d-43fc-8f91-9e643b0373a5`\nMinecraft Capes: `Vanilla, Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1407607216:F>\nOther Games: `Minecraft Bedrock`",
-        "color": 65280,
-        "timestamp": "2026-01-10T13:02:38.313000+00:00",
+        "title": "`LinheqELe0110`",
+        "description": "||```vitoresper@hotmail.com:Car10car10.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 11h 50m 4s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `42.94`\nFirst Login: <t:1407607920:F>\nLast Login: <t:1768053180:F>\nBedWars Stars: `21`\n\n**Account Info:**\nUUID: `d7bf2d65-2a4d-43fc-8f91-9e643b0373a5`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-11T02:04:02.371000+00:00",
         "author": {
-          "name": "28284/1104873 | 2"
+          "name": "61631/163396 | 81"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/d7bf2d65-2a4d-43fc-8f91-9e643b0373a5/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T13:02:38.662000+00:00",
+    "timestamp": "2026-01-11T02:04:02.561000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8bexf90a7whi9cy18o61gt",
+            "custom_id": "credentials_cmk93bt990cl6hi9cjbvohewt",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459532893675061350",
-    "channel_id": "1459366159806631979",
+    "id": "1459729539000434873",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

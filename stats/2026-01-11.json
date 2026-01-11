@@ -1,11 +1,11 @@
 {
   "date": "2026-01-11",
-  "total_logs": 423,
+  "total_logs": 424,
   "ban_status": {
     "hypixel_unbanned": 105,
     "donut_unbanned": 0,
     "cubecraft_unbanned": 90,
-    "all_banned": 228,
+    "all_banned": 229,
     "unknown": 0
   },
   "unique_players": [
@@ -126,6 +126,7 @@
     "3d2d0205-8e08-402f-a7b6-1373ea2406dd",
     "71f16068-afd9-4931-95b5-a2129241b719",
     "11126935-c68c-48cd-8c49-d67af5203819",
+    "de8dba79-36d5-4bf9-9055-c7cc765e47a0",
     "5ff12c03-f34e-4a5f-8f27-06e511a31bbd",
     "dda1fa2e-61a4-4500-834e-9edf5134a6ce",
     "85766f32-4021-426e-b7a1-07a63d0b2f65",
@@ -268,8 +269,8 @@
     "fc9549bb-62f1-4e3e-bbc4-e9085c92b7ea",
     "2be6d0a7-cc26-4d18-9861-96bf54fb89e1",
     "7f5bae37-3afc-48e0-983d-518c6e8dc9eb",
-    "aab7e707-d586-49a7-aa71-95e3ac5641d9",
     "32d9e383-e8b9-43ba-975a-2c5ea000cedb",
+    "aab7e707-d586-49a7-aa71-95e3ac5641d9",
     "cefca4b3-3d35-4748-ab96-0bea9bae2553",
     "e03c5c51-3e6b-4010-8cb9-a676d0acc21e",
     "dd3d91dc-75d1-4d91-b636-82972afbde81",

@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/11-01:40",
+  "log_time": "2026/01/11-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`voxerismDrkSj`",
-        "description": "||```marcelrolak05@outlook.com:nyger_11```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 11d 14h 59m 11s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Bot-Account\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Use of illegal modifications: <\n> Expires: 16 days\n\n**Hypixel General Info:**\nLevel: `15.98`\nFirst Login: <t:1611938520:F>\nLast Login: <t:1766459580:F>\nBedWars Stars: `7`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 14m`\nMoney: `0`\n\n**Account Info:**\nUUID: `876ff735-55fd-465c-8d3a-acd5f22e11b6`\nMinecraft Capes: `Vanilla, Pan, Common, 15th Anniversary, Follower's`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1611677210:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "description": "||```marcelrolak05@outlook.com:nyger_11```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> Bot-Account\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing several bans\n\n**Hypixel General Info:**\nLevel: `15.98`\nFirst Login: <t:1611938520:F>\nLast Login: <t:1766459580:F>\nBedWars Stars: `7`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 14m`\nMoney: `0`\n\n**Account Info:**\nUUID: `876ff735-55fd-465c-8d3a-acd5f22e11b6`\nMinecraft Capes: `Vanilla, Pan, Common, 15th Anniversary, Follower's`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1611677210:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
         "color": 16756290,
-        "timestamp": "2026-01-10T17:40:22.081000+00:00",
+        "timestamp": "2026-01-11T02:01:55.467000+00:00",
         "author": {
-          "name": "161030/236553 | 38"
+          "name": "18382/163396 | 4"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/876ff735-55fd-465c-8d3a-acd5f22e11b6/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T17:40:22.451000+00:00",
+    "timestamp": "2026-01-11T02:01:55.635000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8lc38s0b8xhi9co8pqamj4",
+            "custom_id": "credentials_cmk9393cc0cj6hi9ceao1epws",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459602786671923295",
-    "channel_id": "1459366171970240657",
+    "id": "1459729006634209311",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

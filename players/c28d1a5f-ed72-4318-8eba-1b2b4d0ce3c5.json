@@ -3,14 +3,14 @@
   "session": "pepijnverdoold@hotmail.com:Wasdexc1!",
   "uuid": "c28d1a5f-ed72-4318-8eba-1b2b4d0ce3c5",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "status": "hypixel_unbanned",
+    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
+    "is_unbanned": true,
+    "is_hypixel_ok": true,
+    "is_donut_ok": true
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/11-03:03",
+  "embed_color": "0x00FF00",
+  "log_time": "2026/01/11-10:22",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`Poo_DVTwU_01_10`",
-        "description": "||```pepijnverdoold@hotmail.com:Wasdexc1!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `c28d1a5f-ed72-4318-8eba-1b2b4d0ce3c5`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1613384491:F>\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-10T19:03:06.095000+00:00",
+        "description": "||```pepijnverdoold@hotmail.com:Wasdexc1!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 31m`\nMoney: `9`\nShards: `255`\n\n**Account Info:**\nUUID: `c28d1a5f-ed72-4318-8eba-1b2b4d0ce3c5`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1613384491:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "color": 65280,
+        "timestamp": "2026-01-11T02:22:20.953000+00:00",
         "author": {
-          "name": "33249/337987 | 4"
+          "name": "113713/163396 | 179"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c28d1a5f-ed72-4318-8eba-1b2b4d0ce3c5/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T19:03:06.366000+00:00",
+    "timestamp": "2026-01-11T02:22:21.257000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8oaheq0bl7hi9cv3hinkya",
+            "custom_id": "credentials_cmk93zd0h0cpwhi9c6eeox50s",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459623606840590366",
-    "channel_id": "1459366171970240657",
+    "id": "1459734147265200180",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

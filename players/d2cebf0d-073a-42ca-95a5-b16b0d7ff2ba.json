@@ -2,8 +2,15 @@
   "name": "LinhLHcNo0107",
   "session": "leonardo.sobral.afiliado@hotmail.com:R3yv2tfd1!",
   "uuid": "d2cebf0d-073a-42ca-95a5-b16b0d7ff2ba",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-22:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:44",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhLHcNo0107`",
-        "description": "||```leonardo.sobral.afiliado@hotmail.com:R3yv2tfd1!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767782580:F>\nLast Login: <t:1767787320:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 4m`\nShards: `46`\n\n**Account Info:**\nUUID: `d2cebf0d-073a-42ca-95a5-b16b0d7ff2ba`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-09T14:02:59.145000+00:00",
+        "description": "||```leonardo.sobral.afiliado@hotmail.com:R3yv2tfd1!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 12 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767782580:F>\nLast Login: <t:1767787320:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 4m`\nShards: `46`\n\n**Account Info:**\nUUID: `d2cebf0d-073a-42ca-95a5-b16b0d7ff2ba`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Copper, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767781923:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
+        "color": 16756290,
+        "timestamp": "2026-01-11T02:44:53.407000+00:00",
         "author": {
-          "name": "19210/19210 | 14"
+          "name": "135993/163396 | 226"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/d2cebf0d-073a-42ca-95a5-b16b0d7ff2ba/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "YjqKKgQruIkHSPbGinD6VwZYiYlxVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T14:02:59.500000+00:00",
+    "timestamp": "2026-01-11T02:44:53.730000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk6y4oh306f7hi9cgsxw0n6s",
+            "custom_id": "credentials_cmk94scks0ct4hi9ct5v3pylt",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459185692705030154",
-    "channel_id": "1459003783051874458",
+    "id": "1459739819948245286",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

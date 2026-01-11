@@ -1,0 +1,111 @@
+{
+  "name": "tzi_cAg74_01_10",
+  "session": "carlosvenanciosp@hotmail.com:Debora01301994$",
+  "uuid": "df1e0789-bba1-4580-a9e3-ecdda779ecdb",
+  "ban_status": {
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/11-18:02",
+  "full_message": {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "`tzi_cAg74_01_10`",
+        "description": "||```carlosvenanciosp@hotmail.com:Debora01301994$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 13h 43m 38s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `7.81`\nFirst Login: <t:1768049520:F>\nLast Login: <t:1768088640:F>\nBedWars Stars: `3`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `df1e0789-bba1-4580-a9e3-ecdda779ecdb`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768044402:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-11T10:02:19.584000+00:00",
+        "author": {
+          "name": "28271/28271 | 5"
+        },
+        "thumbnail": {
+          "url": "https://mc-heads.net/body/df1e0789-bba1-4580-a9e3-ecdda779ecdb/100/left",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/FHw2TgIcWx6CATAmimrePbUrJFYcFqQ8NtZGr04B7pk/https/mc-heads.net/body/df1e0789-bba1-4580-a9e3-ecdda779ecdb/100/left",
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "EUmGCgYrmqR3eAX3rHPvOQZYiXmBVWY=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "footer": {
+          "text": "discord.gg/logs",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
+          "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
+        },
+        "content_scan_version": 3
+      }
+    ],
+    "timestamp": "2026-01-11T10:02:19.804000+00:00",
+    "edited_timestamp": null,
+    "flags": 4096,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "credentials_cmk9kew770dbuhi9c32l91qro",
+            "style": 3,
+            "label": "Get Credentials",
+            "emoji": {
+              "name": "🔑"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "1459849903961407573",
+    "channel_id": "1459728559684718644",
+    "author": {
+      "id": "1435331490002112522",
+      "username": "DiscoveryService",
+      "avatar": "a0dd60da241a644266b65e78afc078da",
+      "discriminator": "5784",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+}

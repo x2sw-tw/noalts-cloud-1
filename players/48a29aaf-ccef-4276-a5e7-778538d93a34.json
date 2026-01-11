@@ -3,14 +3,14 @@
   "session": "claralangner2@hotmail.com:Healthpoint19",
   "uuid": "48a29aaf-ccef-4276-a5e7-778538d93a34",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "status": "hypixel_unbanned",
+    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
+    "is_unbanned": true,
+    "is_hypixel_ok": true,
+    "is_donut_ok": true
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/11-08:03",
+  "embed_color": "0x00FF00",
+  "log_time": "2026/01/11-10:59",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`Poo_jdrzq_01_10`",
-        "description": "||```claralangner2@hotmail.com:Healthpoint19```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `15.85`\nFirst Login: <t:1585538880:F>\nLast Login: <t:1768089480:F>\nBedWars Stars: `7`\n\n**Account Info:**\nUUID: `48a29aaf-ccef-4276-a5e7-778538d93a34`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-11T00:03:16.310000+00:00",
+        "description": "||```claralangner2@hotmail.com:Healthpoint19```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `48a29aaf-ccef-4276-a5e7-778538d93a34`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1396836893:F>\nOther Games: `Minecraft Bedrock`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
+        "color": 65280,
+        "timestamp": "2026-01-11T02:59:27.409000+00:00",
         "author": {
-          "name": "5749/5750 | 23"
+          "name": "145395/163396 | 251"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/48a29aaf-ccef-4276-a5e7-778538d93a34/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T00:03:19.467000+00:00",
+    "timestamp": "2026-01-11T02:59:27.755000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8z0i620c9fhi9cv7gb9ukr",
+            "custom_id": "credentials_cmk95b2zx0cv4hi9c6q9egaqm",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459699159262036090",
-    "channel_id": "1459366171970240657",
+    "id": "1459743485874802708",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

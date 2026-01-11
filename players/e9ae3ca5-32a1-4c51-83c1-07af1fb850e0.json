@@ -1,16 +1,16 @@
 {
-  "name": "Yair1028",
+  "name": "frzty__",
   "session": "jimzjhony10@gmail.com:gokussj01",
   "uuid": "e9ae3ca5-32a1-4c51-83c1-07af1fb850e0",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/11-02:16",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/11-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,28 +20,32 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`Yair1028`",
-        "description": "||```jimzjhony10@gmail.com:gokussj01```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `4.68`\nFirst Login: <t:1743468240:F>\nLast Login: <t:1762064280:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `e9ae3ca5-32a1-4c51-83c1-07af1fb850e0`\nMinecraft Capes: `Purple Heart, Home, Pan, Common, Follower's`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1743214714:F>\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-10T18:16:58.808000+00:00",
+        "title": "`frzty__`",
+        "description": "||```jimzjhony10@gmail.com:gokussj01```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 59 day 17 hours 6 minutes Ban ID: #ASDvK7n3\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `e9ae3ca5-32a1-4c51-83c1-07af1fb850e0`\nMinecraft Capes: `Purple Heart, Home, Pan, Common, Follower's`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1743214714:F>\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-11T02:02:15.822000+00:00",
         "author": {
-          "name": "133319/626352 | 5"
+          "name": "30330/163396 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e9ae3ca5-32a1-4c51-83c1-07af1fb850e0/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/E9c-te1wEMG5l2nNL9FpdYw5B4xnWtGqDJKSJs4p0i4/https/mc-heads.net/body/e9ae3ca5-32a1-4c51-83c1-07af1fb850e0/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T18:16:59.057000+00:00",
+    "timestamp": "2026-01-11T02:02:16.012000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -52,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8mn68z0bdrhi9c8x75op3k",
+            "custom_id": "credentials_cmk939j1l0cjkhi9chpnkh7kl",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -62,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459611999905513595",
-    "channel_id": "1459366171970240657",
+    "id": "1459729092101275669",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

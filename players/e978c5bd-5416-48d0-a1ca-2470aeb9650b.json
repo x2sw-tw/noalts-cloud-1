@@ -2,8 +2,15 @@
   "name": "LinhAwivf0110",
   "session": "isseihyoudu@outlook.com:Fatestaynight1",
   "uuid": "e978c5bd-5416-48d0-a1ca-2470aeb9650b",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-09:01",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:05",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhAwivf0110`",
-        "description": "||```isseihyoudu@outlook.com:Fatestaynight1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768005480:F>\nLast Login: <t:1768006860:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `e978c5bd-5416-48d0-a1ca-2470aeb9650b`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-10T01:01:56.510000+00:00",
+        "description": "||```isseihyoudu@outlook.com:Fatestaynight1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 1 hour\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768005480:F>\nLast Login: <t:1768013160:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 8m`\nShards: `854`\n\n**Account Info:**\nUUID: `e978c5bd-5416-48d0-a1ca-2470aeb9650b`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "color": 16756290,
+        "timestamp": "2026-01-11T02:05:37.273000+00:00",
         "author": {
-          "name": "1466/1480 | 18"
+          "name": "72138/163396 | 99"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e978c5bd-5416-48d0-a1ca-2470aeb9650b/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T01:02:01.125000+00:00",
+    "timestamp": "2026-01-11T02:05:37.609000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk7lo3p708wrhi9csyjdasno",
+            "custom_id": "credentials_cmk93duhr0clshi9c1n3kixyi",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459351542300807431",
-    "channel_id": "1459003783051874458",
+    "id": "1459729937660645559",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

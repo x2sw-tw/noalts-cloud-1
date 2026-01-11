@@ -9,8 +9,8 @@
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/11-01:54",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:52",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhEijrW0110`",
-        "description": "||```francisco.fdossantos@hotmail.com:af230806```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 22h 21m 55s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.57`\nFirst Login: <t:1767995940:F>\nLast Login: <t:1768061580:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `c4f6af21-fda3-4f84-b340-c48e868e1ee7`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1744031704:F>\nOther Games: `Minecraft Bedrock`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
-        "color": 35529,
-        "timestamp": "2026-01-10T17:54:07.962000+00:00",
+        "description": "||```francisco.fdossantos@hotmail.com:af230806```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 13h 23m 30s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 29 days and 16 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `56`\n\n**Account Info:**\nUUID: `c4f6af21-fda3-4f84-b340-c48e868e1ee7`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1744031704:F>\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
+        "color": 16756290,
+        "timestamp": "2026-01-11T02:52:28.122000+00:00",
         "author": {
-          "name": "187805/236553 | 45"
+          "name": "141109/163396 | 239"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c4f6af21-fda3-4f84-b340-c48e868e1ee7/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T17:54:08.377000+00:00",
+    "timestamp": "2026-01-11T02:52:28.350000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8ltsic0bauhi9ctsxmg833",
+            "custom_id": "credentials_cmk9523gh0cu2hi9clokpsds3",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459606250856911084",
-    "channel_id": "1459366171970240657",
+    "id": "1459741726762860618",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

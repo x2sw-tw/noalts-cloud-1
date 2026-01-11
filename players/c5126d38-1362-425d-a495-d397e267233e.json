@@ -2,8 +2,15 @@
   "name": "nicealts_798LT",
   "session": "bitsoforest@outlook.com:$@#Coa12",
   "uuid": "c5126d38-1362-425d-a495-d397e267233e",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-20:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:20",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`nicealts_798LT`",
-        "description": "||```bitsoforest@outlook.com:$@#Coa12```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 19d 14h 43m 34s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767147600:F>\nLast Login: <t:1767148680:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `c5126d38-1362-425d-a495-d397e267233e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767141077:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "description": "||```bitsoforest@outlook.com:$@#Coa12```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 19d 25m 44s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767147600:F>\nLast Login: <t:1767148680:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `c5126d38-1362-425d-a495-d397e267233e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767141077:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-10T12:02:22.621000+00:00",
+        "timestamp": "2026-01-11T02:20:22.923000+00:00",
         "author": {
-          "name": "34029/66247 | 6"
+          "name": "110543/163396 | 169"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c5126d38-1362-425d-a495-d397e267233e/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T12:02:22.689000+00:00",
+    "timestamp": "2026-01-11T02:20:23.044000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk899fev0a47hi9cyxla4sys",
+            "custom_id": "credentials_cmk93wtvw0cpdhi9cf39s6lmb",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459517727185309698",
-    "channel_id": "1459366171970240657",
+    "id": "1459733651443945593",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

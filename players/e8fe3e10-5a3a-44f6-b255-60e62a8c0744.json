@@ -2,8 +2,15 @@
   "name": "wappa_IRyof",
   "session": "noxt6@hotmail.com:77918779T",
   "uuid": "e8fe3e10-5a3a-44f6-b255-60e62a8c0744",
-  "hypixel": "banned",
-  "log_time": "2026/01/03-22:25",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/12-01:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`wappa_IRyof`",
-        "description": "||```noxt6@hotmail.com:77918779T```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `e8fe3e10-5a3a-44f6-b255-60e62a8c0744`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1720038720:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "description": "||```noxt6@hotmail.com:77918779T```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Staff witnessed use of prohibited modifications\n> Expires: 22 days and 4 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767445620:F>\nLast Login: <t:1767446940:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `e8fe3e10-5a3a-44f6-b255-60e62a8c0744`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1720038720:F>\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
         "color": 16756290,
-        "timestamp": "2026-01-03T14:25:32.006000+00:00",
+        "timestamp": "2026-01-11T17:06:41.435000+00:00",
         "author": {
-          "name": "125464/179602 | 74"
+          "name": "78666/78914 | 6"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e8fe3e10-5a3a-44f6-b255-60e62a8c0744/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-03T14:25:32.413000+00:00",
+    "timestamp": "2026-01-11T17:06:41.762000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjyeakfu1d8fhih2gw9dpss5",
+            "custom_id": "credentials_cmk9zkmrw0esjhi9cf7hd34o4",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1457017040039579658",
-    "channel_id": "1456829435763363940",
+    "id": "1459956699153694720",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

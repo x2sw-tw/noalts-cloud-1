@@ -2,8 +2,15 @@
   "name": "raveR5ec0YWK",
   "session": "zuza.radzicka@hotmail.com:Akle1280.",
   "uuid": "bd761a7f-5a8d-4efa-b20c-696c0cf93d05",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-18:02",
+  "ban_status": {
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/11-10:48",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`raveR5ec0YWK`",
-        "description": "||```zuza.radzicka@hotmail.com:Akle1280.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.22`\nFirst Login: <t:1708369140:F>\nLast Login: <t:1767942360:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `bd761a7f-5a8d-4efa-b20c-696c0cf93d05`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "description": "||```zuza.radzicka@hotmail.com:Akle1280.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `bd761a7f-5a8d-4efa-b20c-696c0cf93d05`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1703697003:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-10T10:02:34.179000+00:00",
+        "timestamp": "2026-01-11T02:48:46.777000+00:00",
         "author": {
-          "name": "48380/48380 | 28"
+          "name": "138732/163396 | 233"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/bd761a7f-5a8d-4efa-b20c-696c0cf93d05/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T10:02:34.342000+00:00",
+    "timestamp": "2026-01-11T02:48:47.165000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk84zcrg09u0hi9cvads0936",
+            "custom_id": "credentials_cmk94xcp90ctihi9ctzhvvi29",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459487577072730165",
-    "channel_id": "1459366171970240657",
+    "id": "1459740799045599438",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

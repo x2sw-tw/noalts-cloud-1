@@ -2,8 +2,15 @@
   "name": "voidOG_UrODg",
   "session": "mcjp5523@gmail.com:Qqqacewd3214@",
   "uuid": "a41bb894-3e98-44f2-af5b-b2a18bdc4260",
-  "hypixel": "unknown",
-  "log_time": "2026/01/08-23:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`voidOG_UrODg`",
-        "description": "||```mcjp5523@gmail.com:Qqqacewd3214@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767790860:F>\nLast Login: <t:1767791100:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 55m`\n\n**Account Info:**\nUUID: `a41bb894-3e98-44f2-af5b-b2a18bdc4260`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767788400:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-08T15:02:57.424000+00:00",
+        "description": "||```mcjp5523@gmail.com:Qqqacewd3214@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767790860:F>\nLast Login: <t:1767791100:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 55m`\n\n**Account Info:**\nUUID: `a41bb894-3e98-44f2-af5b-b2a18bdc4260`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `Yes`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-11T02:02:39.569000+00:00",
         "author": {
-          "name": "38602/38602 | 7"
+          "name": "39706/163396 | 32"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/a41bb894-3e98-44f2-af5b-b2a18bdc4260/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T15:02:57.662000+00:00",
+    "timestamp": "2026-01-11T02:02:45.856000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk5kty9503e8hi9ck9wurg6d",
+            "custom_id": "credentials_cmk93a1dc0ckdhi9cfwwdcfnx",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1458838396624441387",
-    "channel_id": "1458641408142348339",
+    "id": "1459729217276088403",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,14 +3,14 @@
   "session": "cowenkk87@outlook.com:Callum87!",
   "uuid": "01ee8086-b25a-49e9-ad13-1e3e7ac2aa33",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
     "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/11-09:02",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/11-10:16",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`yxy939`",
-        "description": "||```cowenkk87@outlook.com:Callum87!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `1.51`\nFirst Login: <t:1659448860:F>\nLast Login: <t:1768093320:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 18h 34m`\nMoney: `0`\nShards: `681`\n\n**Account Info:**\nUUID: `01ee8086-b25a-49e9-ad13-1e3e7ac2aa33`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1659448395:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-11T01:02:35.059000+00:00",
+        "description": "||```cowenkk87@outlook.com:Callum87!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 23h 47m 21s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.82`\nFirst Login: <t:1659448860:F>\nLast Login: <t:1768096620:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 18h 34m`\nMoney: `0`\nShards: `681`\n\n**Account Info:**\nUUID: `01ee8086-b25a-49e9-ad13-1e3e7ac2aa33`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1659448395:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-11T02:16:28.094000+00:00",
         "author": {
-          "name": "53890/241147 | 4"
+          "name": "103535/163396 | 154"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/01ee8086-b25a-49e9-ad13-1e3e7ac2aa33/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T01:02:35.312000+00:00",
+    "timestamp": "2026-01-11T02:16:28.309000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk914s4r0cfghi9c9i6cy99w",
+            "custom_id": "credentials_cmk93rsnw0codhi9cyy8bv4p3",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459714073557209222",
-    "channel_id": "1459366171970240657",
+    "id": "1459732666893992068",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

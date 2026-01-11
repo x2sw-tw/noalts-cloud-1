@@ -1,16 +1,16 @@
 {
   "name": "xzhy_",
-  "session": "farishaog@gmail.com:GEN4321EQ",
+  "session": "perzevius12345@gmail.com:GEN4321EQ",
   "uuid": "6ac1e028-f3e5-4766-a0ec-898e025f88f5",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/12-02:40",
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/12-05:09",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`xzhy_`",
-        "description": "||```farishaog@gmail.com:GEN4321EQ```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Account Info:**\nUUID: `6ac1e028-f3e5-4766-a0ec-898e025f88f5`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1414843197:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-11T18:40:15.536000+00:00",
+        "description": "||```perzevius12345@gmail.com:GEN4321EQ```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 23h 11m 47s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Staff witnessed use of prohibited modifications\n> Expires: 29 days and 22 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `144`\n\n**Account Info:**\nUUID: `6ac1e028-f3e5-4766-a0ec-898e025f88f5`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1414843197:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-11T21:09:48.265000+00:00",
         "author": {
-          "name": "223004/1343485 | 14"
+          "name": "61588/129347 | 22"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6ac1e028-f3e5-4766-a0ec-898e025f88f5/100/left",
@@ -41,10 +41,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T18:40:15.869000+00:00",
+    "timestamp": "2026-01-11T21:09:48.505000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmka2wynf0f5phi9cks3m3z14",
+            "custom_id": "credentials_cmka899z50fsphi9cvzx45y9e",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +66,7 @@
         ]
       }
     ],
-    "id": "1459980246425014417",
+    "id": "1460017880388206603",
     "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",

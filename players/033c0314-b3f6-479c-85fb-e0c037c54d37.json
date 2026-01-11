@@ -2,8 +2,15 @@
   "name": "rave4DJxl9XM",
   "session": "tom.2211@icloud.com:Tom.Eder.5154",
   "uuid": "033c0314-b3f6-479c-85fb-e0c037c54d37",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-14:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-22:54",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`rave4DJxl9XM`",
-        "description": "||```tom.2211@icloud.com:Tom.Eder.5154```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `18.96`\nFirst Login: <t:1600606620:F>\nLast Login: <t:1767806640:F>\nBedWars Stars: `15`\n\n**Account Info:**\nUUID: `033c0314-b3f6-479c-85fb-e0c037c54d37`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Vanilla, Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1600532010:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
-        "color": 35529,
-        "timestamp": "2026-01-09T06:02:05.292000+00:00",
+        "description": "||```tom.2211@icloud.com:Tom.Eder.5154```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 8 hours\n\n**Hypixel General Info:**\nLevel: `18.96`\nFirst Login: <t:1600606620:F>\nLast Login: <t:1767806640:F>\nBedWars Stars: `15`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 19m`\nMoney: `5`\nShards: `466`\n\n**Account Info:**\nUUID: `033c0314-b3f6-479c-85fb-e0c037c54d37`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Vanilla, Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1600532010:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-11T14:54:04.250000+00:00",
         "author": {
-          "name": "21835/21835 | 2"
+          "name": "440676/537555 | 15"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/033c0314-b3f6-479c-85fb-e0c037c54d37/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "B/iFAgArqZ0yNgXG/uCzCgZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T06:02:05.458000+00:00",
+    "timestamp": "2026-01-11T14:54:04.741000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk6gy8pb05lmhi9ci7lse1ha",
+            "custom_id": "credentials_cmk9uu2z20e70hi9c21lmrm3c",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459064670080995511",
-    "channel_id": "1459003783051874458",
+    "id": "1459923324988821639",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

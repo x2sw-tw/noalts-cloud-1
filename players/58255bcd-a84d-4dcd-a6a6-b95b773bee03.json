@@ -2,8 +2,15 @@
   "name": "LinhrNWdG0110",
   "session": "pierre.hanko@hotmail.com:NOLANrula4!",
   "uuid": "58255bcd-a84d-4dcd-a6a6-b95b773bee03",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-17:01",
+  "ban_status": {
+    "status": "hypixel_unbanned",
+    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
+    "is_unbanned": true,
+    "is_hypixel_ok": true,
+    "is_donut_ok": true
+  },
+  "embed_color": "0x00FF00",
+  "log_time": "2026/01/11-10:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhrNWdG0110`",
-        "description": "||```pierre.hanko@hotmail.com:NOLANrula4!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `15.24`\nFirst Login: <t:1373495580:F>\nLast Login: <t:1768033920:F>\nBedWars Stars: `4`\n\n**Account Info:**\nUUID: `58255bcd-a84d-4dcd-a6a6-b95b773bee03`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-10T09:01:52.222000+00:00",
+        "description": "||```pierre.hanko@hotmail.com:NOLANrula4!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `17.56`\nFirst Login: <t:1373495580:F>\nLast Login: <t:1768096980:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 6m`\nMoney: `0`\nShards: `389`\n\n**Account Info:**\nUUID: `58255bcd-a84d-4dcd-a6a6-b95b773bee03`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "color": 65280,
+        "timestamp": "2026-01-11T02:03:45.633000+00:00",
         "author": {
-          "name": "20720/20735 | 17"
+          "name": "59243/163396 | 77"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/58255bcd-a84d-4dcd-a6a6-b95b773bee03/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T09:01:57.533000+00:00",
+    "timestamp": "2026-01-11T02:03:45.833000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk82tam009p4hi9ckgb2m2e8",
+            "custom_id": "credentials_cmk93bgcj0cl0hi9crsn77rku",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459472323190194207",
-    "channel_id": "1459366171970240657",
+    "id": "1459729468837859574",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

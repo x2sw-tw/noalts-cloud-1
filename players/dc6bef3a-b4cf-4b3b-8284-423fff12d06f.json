@@ -2,8 +2,15 @@
   "name": "Satan_spawn666",
   "session": "little-demonbug@outlook.com:sacu8326",
   "uuid": "dc6bef3a-b4cf-4b3b-8284-423fff12d06f",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-20:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/11-10:28",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`Satan_spawn666`",
-        "description": "||```little-demonbug@outlook.com:sacu8326```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 8 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767445860:F>\nLast Login: <t:1767446940:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 33m`\nShards: `607`\n\n**Account Info:**\nUUID: `dc6bef3a-b4cf-4b3b-8284-423fff12d06f`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`",
+        "description": "||```little-demonbug@outlook.com:sacu8326```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 1 day and 18 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 45m`\nShards: `466`\n\n**Account Info:**\nUUID: `dc6bef3a-b4cf-4b3b-8284-423fff12d06f`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767290599:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
         "color": 35529,
-        "timestamp": "2026-01-10T12:02:46.573000+00:00",
+        "timestamp": "2026-01-11T02:28:38.677000+00:00",
         "author": {
-          "name": "49288/66247 | 12"
+          "name": "122458/163396 | 196"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/dc6bef3a-b4cf-4b3b-8284-423fff12d06f/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T12:02:46.830000+00:00",
+    "timestamp": "2026-01-11T02:28:38.819000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk899xxc0a4ehi9c8amb1kww",
+            "custom_id": "credentials_cmk947gdy0cr5hi9c36prlrhs",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459517828439998646",
-    "channel_id": "1459366159806631979",
+    "id": "1459735730875011239",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -1,9 +1,16 @@
 {
   "name": "rave6E5THl9X",
-  "session": "pamelacaroline06@hotmail.com:Pam23052001",
+  "session": "pamelacaroline06@hotmail.com:Pamela23052001",
   "uuid": "29313947-da1e-4438-85a4-a5475ce65c6d",
-  "hypixel": "unbanned",
-  "log_time": "2026/01/05-20:01",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/11-23:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`rave6E5THl9X`",
-        "description": "||```pamelacaroline06@hotmail.com:Pam23052001```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `UNBANNED`\n> Joined successfully\n\n\n**Hypixel General Info:**\nLevel: `5.99`\nFirst Login: <t:1613872320:F>\nLast Login: <t:1767614040:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `29313947-da1e-4438-85a4-a5475ce65c6d`\nMinecraft Capes: `Cherry Blossom, Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1606668136:F>\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-05T12:01:55.218000+00:00",
+        "description": "||```pamelacaroline06@hotmail.com:Pamela23052001```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 23d 21h 36m 24s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 22 hours\n\n**Hypixel General Info:**\nLevel: `6.12`\nFirst Login: <t:1613872320:F>\nLast Login: <t:1767616320:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `29313947-da1e-4438-85a4-a5475ce65c6d`\nMinecraft Capes: `Cherry Blossom, Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1606668136:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-11T15:03:18.109000+00:00",
         "author": {
-          "name": "4040/7009 | 1"
+          "name": "24356/381771 | 2"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/29313947-da1e-4438-85a4-a5475ce65c6d/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "sxiGCgIr4l8luccvxPFSLAZYi3qBZWY=",
+          "placeholder": "JBiKCgIr1oMJieaYf2b9CAZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-05T12:01:55.781000+00:00",
+    "timestamp": "2026-01-11T15:03:18.563000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk141l521jg9hih2dv55iy1o",
+            "custom_id": "credentials_cmk9v5ygd0e86hi9cxxbb5z4z",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1457705674996715766",
-    "channel_id": "1457554231081828598",
+    "id": "1459925647886651618",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

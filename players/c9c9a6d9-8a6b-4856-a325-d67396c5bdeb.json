@@ -3,14 +3,14 @@
   "session": "boskimanowar@hotmail.com:Bolasnegras",
   "uuid": "c9c9a6d9-8a6b-4856-a325-d67396c5bdeb",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/11-05:05",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`huc_OOecy`",
-        "description": "||```boskimanowar@hotmail.com:Bolasnegras```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.66`\nFirst Login: <t:1767583260:F>\nLast Login: <t:1767617100:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 36m`\nMoney: `188.492`\nShards: `11`\n\n**Account Info:**\nUUID: `c9c9a6d9-8a6b-4856-a325-d67396c5bdeb`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767488550:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-10T21:05:40.924000+00:00",
+        "description": "||```boskimanowar@hotmail.com:Bolasnegras```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1.66`\nFirst Login: <t:1767583260:F>\nLast Login: <t:1767617100:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 36m`\nMoney: `188.492`\nShards: `11`\n\n**Account Info:**\nUUID: `c9c9a6d9-8a6b-4856-a325-d67396c5bdeb`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-11T02:01:50.434000+00:00",
         "author": {
-          "name": "51883/134206 | 9"
+          "name": "15368/163396 | 11"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c9c9a6d9-8a6b-4856-a325-d67396c5bdeb/100/left",
@@ -41,10 +41,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T21:05:41.229000+00:00",
+    "timestamp": "2026-01-11T02:01:50.595000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8so4jn0bx2hi9ccnya0kgr",
+            "custom_id": "credentials_cmk938zgg0cj1hi9cujorobar",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459654455372025947",
-    "channel_id": "1459366171970240657",
+    "id": "1459728985494786181",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

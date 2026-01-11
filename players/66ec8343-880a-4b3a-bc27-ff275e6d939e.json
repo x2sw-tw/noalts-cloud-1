@@ -2,8 +2,15 @@
   "name": "huc_c2XR1",
   "session": "mehmeteymen1003@gmail.com:Adanaliyiz01@",
   "uuid": "66ec8343-880a-4b3a-bc27-ff275e6d939e",
-  "hypixel": "unknown",
-  "log_time": "2026/01/06-18:03",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-09:13",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`huc_c2XR1`",
-        "description": "||```mehmeteymen1003@gmail.com:Adanaliyiz01@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 21h 46m 43s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 4 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767064020:F>\nLast Login: <t:1767080640:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `66ec8343-880a-4b3a-bc27-ff275e6d939e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767057504:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "description": "||```mehmeteymen1003@gmail.com:Adanaliyiz01@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 18d 6h 36m 35s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 23 days and 13 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `66ec8343-880a-4b3a-bc27-ff275e6d939e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767057504:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-06T10:03:21.935000+00:00",
+        "timestamp": "2026-01-11T01:13:25.600000+00:00",
         "author": {
-          "name": "53434/227481 | 7"
+          "name": "167313/241147 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/66ec8343-880a-4b3a-bc27-ff275e6d939e/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "p2yKIgQrd391aFingGAb+QZYiXmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T10:03:22.130000+00:00",
+    "timestamp": "2026-01-11T01:13:25.901000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk2f8yz71mavhih2ubpf75vo",
+            "custom_id": "credentials_cmk91iq2m0cg6hi9c857bjhha",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1458038226047602791",
-    "channel_id": "1457916584147550289",
+    "id": "1459716802325250262",
+    "channel_id": "1459366171970240657",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

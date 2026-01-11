@@ -1,9 +1,16 @@
 {
-  "name": "jcjstuga",
+  "name": "g4er554e",
   "session": "joaocarlos08@live.com.pt:Joaocarolina99@",
   "uuid": "34b5dac2-efc6-4c0d-9d83-16762f718967",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-21:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/11-10:45",
   "full_message": {
     "type": 0,
     "content": "",
@@ -13,12 +20,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`jcjstuga`",
-        "description": "||```joaocarlos08@live.com.pt:Joaocarolina99@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768042980:F>\nLast Login: <t:1768050120:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `34b5dac2-efc6-4c0d-9d83-16762f718967`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1702400277:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
-        "color": 65280,
-        "timestamp": "2026-01-10T13:02:58.546000+00:00",
+        "title": "`g4er554e`",
+        "description": "||```joaocarlos08@live.com.pt:Joaocarolina99@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `34b5dac2-efc6-4c0d-9d83-16762f718967`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1702400277:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-11T02:45:35.302000+00:00",
         "author": {
-          "name": "42305/1104873 | 5"
+          "name": "136460/163396 | 229"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/34b5dac2-efc6-4c0d-9d83-16762f718967/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T13:02:58.759000+00:00",
+    "timestamp": "2026-01-11T02:45:35.420000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8bfcwm0a7zhi9cmmryk4lg",
+            "custom_id": "credentials_cmk94t8uf0ctahi9ci2vuzvav",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459532977968123998",
-    "channel_id": "1459366171970240657",
+    "id": "1459739994808914224",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

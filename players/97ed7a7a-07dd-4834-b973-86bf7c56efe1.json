@@ -2,8 +2,15 @@
   "name": "LinhmsEPt1230",
   "session": "didicosson@hotmail.fr:21112000Adri*",
   "uuid": "97ed7a7a-07dd-4834-b973-86bf7c56efe1",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-17:01",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/11-10:27",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhmsEPt1230`",
-        "description": "||```didicosson@hotmail.fr:21112000Adri*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 19d 5h 2m 3s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 29 days and 14 hours\n\n**Hypixel General Info:**\nLevel: `3.25`\nFirst Login: <t:1767100800:F>\nLast Login: <t:1767102300:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\n\n**Account Info:**\nUUID: `97ed7a7a-07dd-4834-b973-86bf7c56efe1`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1640199831:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "description": "||```didicosson@hotmail.fr:21112000Adri*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 18d 11h 36m 19s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 20 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\n\n**Account Info:**\nUUID: `97ed7a7a-07dd-4834-b973-86bf7c56efe1`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1640199831:F>\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
         "color": 16756290,
-        "timestamp": "2026-01-10T09:01:42.366000+00:00",
+        "timestamp": "2026-01-11T02:27:22.418000+00:00",
         "author": {
-          "name": "20544/20735 | 5"
+          "name": "120828/163396 | 193"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/97ed7a7a-07dd-4834-b973-86bf7c56efe1/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T09:01:42.526000+00:00",
+    "timestamp": "2026-01-11T02:27:22.604000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk82t30c09oshi9chnq8g4yh",
+            "custom_id": "credentials_cmk945tjp0cqyhi9cuhkmrtut",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459472260246011905",
-    "channel_id": "1459366171970240657",
+    "id": "1459735411206393960",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

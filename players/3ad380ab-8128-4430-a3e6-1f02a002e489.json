@@ -2,8 +2,15 @@
   "name": "LinhNUvNk0106",
   "session": "cadaresa3@hotmail.com:Superpato123456",
   "uuid": "3ad380ab-8128-4430-a3e6-1f02a002e489",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-18:02",
+  "ban_status": {
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/11-10:11",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhNUvNk0106`",
-        "description": "||```cadaresa3@hotmail.com:Superpato123456```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 4h 40m 35s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.72`\nFirst Login: <t:1767675240:F>\nLast Login: <t:1767709980:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 30m`\nShards: `634`\n\n**Account Info:**\nUUID: `3ad380ab-8128-4430-a3e6-1f02a002e489`\nMinecraft Capes: `Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1640992287:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "description": "||```cadaresa3@hotmail.com:Superpato123456```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.72`\nFirst Login: <t:1767675240:F>\nLast Login: <t:1767709980:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 30m`\nShards: `634`\n\n**Account Info:**\nUUID: `3ad380ab-8128-4430-a3e6-1f02a002e489`\nMinecraft Capes: `Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1640992287:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-10T10:02:05.980000+00:00",
+        "timestamp": "2026-01-11T02:11:52.701000+00:00",
         "author": {
-          "name": "40172/48380 | 10"
+          "name": "93816/163396 | 136"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/3ad380ab-8128-4430-a3e6-1f02a002e489/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T10:02:06.142000+00:00",
+    "timestamp": "2026-01-11T02:11:52.889000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk84yr0609tahi9c15b6l1ln",
+            "custom_id": "credentials_cmk93lw650cnhhi9c3hxn1t2h",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459487458793230538",
-    "channel_id": "1459366171970240657",
+    "id": "1459731511698915530",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

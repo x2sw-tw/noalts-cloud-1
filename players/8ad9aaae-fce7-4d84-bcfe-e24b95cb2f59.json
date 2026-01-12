@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x9B42F5",
-  "log_time": "2026/01/11-01:03",
+  "log_time": "2026/01/13-06:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,27 +21,31 @@
       {
         "type": "rich",
         "title": "`ravebWUIwui6`",
-        "description": "||```andreiavieira_cruz@hotmail.com:mnrel333```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 3m 32s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `5.89`\nFirst Login: <t:1767876720:F>\nLast Login: <t:1767977880:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 10m`\nMoney: `0`\nShards: `153`\n\n**Account Info:**\nUUID: `8ad9aaae-fce7-4d84-bcfe-e24b95cb2f59`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "description": "||```andreiavieira_cruz@hotmail.com:mnrel333```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 19h 3m 5s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `5.89`\nFirst Login: <t:1767876720:F>\nLast Login: <t:1767977880:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 10m`\nMoney: `0`\nShards: `153`\n\n**Account Info:**\nUUID: `8ad9aaae-fce7-4d84-bcfe-e24b95cb2f59`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1686147864:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
         "color": 10175221,
-        "timestamp": "2026-01-10T17:03:37.044000+00:00",
+        "timestamp": "2026-01-12T22:03:55.830000+00:00",
         "author": {
-          "name": "50943/236553 | 11"
+          "name": "51767/59889 | 33"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/8ad9aaae-fce7-4d84-bcfe-e24b95cb2f59/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/xjuu8Dm1TwFTPBQ5EgU0ZJGJBoeQpjSHTjZb8ZfbZpg/https/mc-heads.net/body/8ad9aaae-fce7-4d84-bcfe-e24b95cb2f59/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "BwiGAgArh3+Sdyd3f4j1dwZYiXlxZXY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T17:03:37.207000+00:00",
+    "timestamp": "2026-01-12T22:03:56.023000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -52,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8k0tpt0b3dhi9c0uvx1oqe",
+            "custom_id": "credentials_cmkbpmqfw0jc1hi9cswcbwth1",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -62,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459593537208189214",
-    "channel_id": "1459366171970240657",
+    "id": "1460393889331417370",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

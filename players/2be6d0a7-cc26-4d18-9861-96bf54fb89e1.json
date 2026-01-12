@@ -3,14 +3,14 @@
   "session": "dimterbonacichian@gmail.com:stranger090mars",
   "uuid": "2be6d0a7-cc26-4d18-9861-96bf54fb89e1",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/11-01:03",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/12-23:52",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`mo5_FreeAlts_ex9`",
-        "description": "||```dimterbonacichian@gmail.com:stranger090mars```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 7h 20m 18s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `1.02`\nFirst Login: <t:1761096480:F>\nLast Login: <t:1767917700:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 5h 23m`\nMoney: `137.713`\nShards: `10`\n\n**Account Info:**\nUUID: `2be6d0a7-cc26-4d18-9861-96bf54fb89e1`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1760827958:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-10T17:03:21.444000+00:00",
+        "description": "||```dimterbonacichian@gmail.com:stranger090mars```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 8h 31m 16s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.02`\nFirst Login: <t:1761096480:F>\nLast Login: <t:1767917700:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 5h 23m`\nMoney: `137.713`\nShards: `10`\n\n**Account Info:**\nUUID: `2be6d0a7-cc26-4d18-9861-96bf54fb89e1`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1760827958:F>\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-12T15:52:33.277000+00:00",
         "author": {
-          "name": "42757/236553 | 7"
+          "name": "148858/154478 | 41"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/2be6d0a7-cc26-4d18-9861-96bf54fb89e1/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "riiKCgIr8ViYurkMgcgQeAZYmnmBZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,10 +41,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T17:03:21.599000+00:00",
+    "timestamp": "2026-01-12T15:52:33.701000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8k0hoi0b3ahi9chg070ze0",
+            "custom_id": "credentials_cmkbcd57s0i00hi9c7tkkgjmr",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459593471743623424",
-    "channel_id": "1459366171970240657",
+    "id": "1460300430499250421",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

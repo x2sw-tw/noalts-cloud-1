@@ -3,14 +3,14 @@
   "session": "testicle187@hotmail.com:P00p00p00",
   "uuid": "0bb7bdd2-5701-49e0-94af-722d7099ab23",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
     "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/11-08:03",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/12-09:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`Out_j_2`",
-        "description": "||```testicle187@hotmail.com:P00p00p00```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768086420:F>\nLast Login: <t:1768089660:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `10`\n\n**Account Info:**\nUUID: `0bb7bdd2-5701-49e0-94af-722d7099ab23`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-11T00:03:19.248000+00:00",
+        "description": "||```testicle187@hotmail.com:P00p00p00```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 2h 5m 51s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `5.14`\nFirst Login: <t:1768086420:F>\nLast Login: <t:1768100640:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 23m`\nMoney: `0`\nShards: `175`\n\n**Account Info:**\nUUID: `0bb7bdd2-5701-49e0-94af-722d7099ab23`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1670126952:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
+        "color": 10175221,
+        "timestamp": "2026-01-12T01:04:58.946000+00:00",
         "author": {
-          "name": "5749/5750 | 48"
+          "name": "20135/46234 | 2"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0bb7bdd2-5701-49e0-94af-722d7099ab23/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "HCiKCgIrx48VObbooHDF9wZYiXmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T00:03:25.776000+00:00",
+    "timestamp": "2026-01-12T01:04:59.211000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8z0kfo0c9lhi9cbzr1xzir",
+            "custom_id": "credentials_cmkagnptf0gg7hi9cl2bv658y",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459699185724031061",
-    "channel_id": "1459366171970240657",
+    "id": "1460077064978960414",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

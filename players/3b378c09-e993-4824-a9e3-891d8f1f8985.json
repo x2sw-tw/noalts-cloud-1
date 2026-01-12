@@ -9,8 +9,8 @@
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/11-10:18",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/12-16:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`t2y_msmc_iag`",
-        "description": "||```yolobilal@outlook.com:Joetla50!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 7m`\nMoney: `0`\nShards: `141`\n\n**Account Info:**\nUUID: `3b378c09-e993-4824-a9e3-891d8f1f8985`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1673815038:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-11T02:18:34.739000+00:00",
+        "description": "||```yolobilal@outlook.com:Joetla50!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 16 hours\n\n**Hypixel General Info:**\nLevel: `8.49`\nFirst Login: <t:1674143940:F>\nLast Login: <t:1768089780:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 18m`\nMoney: `0`\nShards: `242`\n\n**Account Info:**\nUUID: `3b378c09-e993-4824-a9e3-891d8f1f8985`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
+        "color": 16756290,
+        "timestamp": "2026-01-12T08:02:46.317000+00:00",
         "author": {
-          "name": "107461/163396 | 162"
+          "name": "47825/47867 | 20"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/3b378c09-e993-4824-a9e3-891d8f1f8985/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T02:18:34.913000+00:00",
+    "timestamp": "2026-01-12T08:02:46.477000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk93uidt0cothi9cs3ihqn0n",
+            "custom_id": "credentials_cmkavkzwn0gxdhi9c5c1i26ts",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459733197909655649",
-    "channel_id": "1459728559684718644",
+    "id": "1460182204712751145",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

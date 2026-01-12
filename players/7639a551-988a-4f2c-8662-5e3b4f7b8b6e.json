@@ -1,16 +1,16 @@
 {
-  "name": "ninfetapiranha",
+  "name": "k29_msmc_o5x",
   "session": "danilaogostosao@hotmail.com:Ratao8101.",
   "uuid": "7639a551-988a-4f2c-8662-5e3b4f7b8b6e",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/10-23:04",
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/12-13:45",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,12 +20,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`ninfetapiranha`",
-        "description": "||```danilaogostosao@hotmail.com:Ratao8101.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `7639a551-988a-4f2c-8662-5e3b4f7b8b6e`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1438785110:F>\nOther Games: `Minecraft Bedrock`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
-        "color": 65280,
-        "timestamp": "2026-01-10T15:04:05.548000+00:00",
+        "title": "`k29_msmc_o5x`",
+        "description": "||```danilaogostosao@hotmail.com:Ratao8101.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 6h 15m 24s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 9 hours\n\n**Account Info:**\nUUID: `7639a551-988a-4f2c-8662-5e3b4f7b8b6e`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1438785110:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-12T05:45:57.934000+00:00",
         "author": {
-          "name": "51552/677054 | 6"
+          "name": "362511/2502369 | 2"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/7639a551-988a-4f2c-8662-5e3b4f7b8b6e/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T15:04:05.755000+00:00",
+    "timestamp": "2026-01-12T05:45:58.280000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8fr46m0amphi9cpxh4ic69",
+            "custom_id": "credentials_cmkaqp2eh0gqghi9cimmsoi21",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459563457958379719",
-    "channel_id": "1459366171970240657",
+    "id": "1460147777039368344",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

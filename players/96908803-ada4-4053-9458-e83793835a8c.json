@@ -9,8 +9,8 @@
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/12-01:04",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/13-03:10",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`Angry_xd92`",
-        "description": "||```yarnebouwen@hotmail.com:Tobyzino02```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `28.00`\nFirst Login: <t:1511107020:F>\nLast Login: <t:1767379140:F>\nBedWars Stars: `26`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `96908803-ada4-4053-9458-e83793835a8c`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1510768899:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-11T17:04:12.080000+00:00",
+        "description": "||```yarnebouwen@hotmail.com:Tobyzino02```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 79d 23h 51m 33s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 28 days and 22 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 8m`\nShards: `205`\n\n**Account Info:**\nUUID: `96908803-ada4-4053-9458-e83793835a8c`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1510768899:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-12T19:10:30.744000+00:00",
         "author": {
-          "name": "59624/78914 | 2"
+          "name": "80395/178214 | 11"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/96908803-ada4-4053-9458-e83793835a8c/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "wweCAgArHFSa9SkFag8AAAZYinlxZWY=",
+          "placeholder": "m/eFGgIr+agnqrO2jm/9+QZYmnmCZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T17:04:12.338000+00:00",
+    "timestamp": "2026-01-12T19:10:31.131000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk9zhff30es7hi9csr5zjwq8",
+            "custom_id": "credentials_cmkbjfpx30iychi9cyt4piu0v",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459956072424149124",
-    "channel_id": "1459728559684718644",
+    "id": "1460350248051540284",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,14 +3,14 @@
   "session": "tryston206@gmail.com:Rene_1126",
   "uuid": "96784332-7b21-4e2c-a23e-ce419ec282bf",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/11-11:02",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/12-23:05",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`Poo_sScnx_01_10`",
-        "description": "||```tryston206@gmail.com:Rene_1126```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.23`\nFirst Login: <t:1659596340:F>\nLast Login: <t:1768100520:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `96784332-7b21-4e2c-a23e-ce419ec282bf`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1658935341:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-11T03:02:38.229000+00:00",
+        "description": "||```tryston206@gmail.com:Rene_1126```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 13h 39m 46s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 2 hours\n\n**Hypixel General Info:**\nLevel: `4.94`\nFirst Login: <t:1659596340:F>\nLast Login: <t:1768102860:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 19m`\nMoney: `6.371`\nShards: `206`\n\n**Account Info:**\nUUID: `96784332-7b21-4e2c-a23e-ce419ec282bf`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1658935341:F>\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-12T15:05:10.129000+00:00",
         "author": {
-          "name": "54147/57016 | 10"
+          "name": "38679/154478 | 2"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/96784332-7b21-4e2c-a23e-ce419ec282bf/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "C/iFAgAruJcFpkWMn/UInQZYmXmBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T03:02:38.371000+00:00",
+    "timestamp": "2026-01-12T15:05:10.304000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk95f64c0cvohi9cq52b0qzf",
+            "custom_id": "credentials_cmkbao7bm0htfhi9c06wmz4vr",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459744285376380973",
-    "channel_id": "1459728559684718644",
+    "id": "1460288504427843888",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

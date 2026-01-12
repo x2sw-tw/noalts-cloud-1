@@ -3,14 +3,14 @@
   "session": "trici.prados@hotmail.com:Pys942005",
   "uuid": "b1e00176-f5da-44b5-b918-346bc0b2fbaf",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/11-08:03",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/12-09:05",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhKiXYZ0111`",
-        "description": "||```trici.prados@hotmail.com:Pys942005```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768089360:F>\nLast Login: <t:1768089720:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 1m`\nShards: `1`\n\n**Account Info:**\nUUID: `b1e00176-f5da-44b5-b918-346bc0b2fbaf`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-11T00:03:21.846000+00:00",
+        "description": "||```trici.prados@hotmail.com:Pys942005```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 24m 52s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 23 hours\n\n**Hypixel General Info:**\nLevel: `4.30`\nFirst Login: <t:1768089360:F>\nLast Login: <t:1768093320:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 17m`\nShards: `159`\n\n**Account Info:**\nUUID: `b1e00176-f5da-44b5-b918-346bc0b2fbaf`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768088499:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-12T01:05:18.579000+00:00",
         "author": {
-          "name": "5750/5750 | 43"
+          "name": "35030/46234 | 5"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b1e00176-f5da-44b5-b918-346bc0b2fbaf/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T00:03:31.046000+00:00",
+    "timestamp": "2026-01-12T01:05:18.789000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8z0mfq0c9phi9cmq8p0lye",
+            "custom_id": "credentials_cmkago4yj0ggbhi9cf3bkzwrs",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459699207828144150",
-    "channel_id": "1459366171970240657",
+    "id": "1460077147094913074",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

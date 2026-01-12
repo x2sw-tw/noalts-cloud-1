@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/11-10:06",
+  "log_time": "2026/01/12-18:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`ravenPLTHPNB`",
-        "description": "||```perrievictor29@gmail.com:Vic66mic```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767333840:F>\nLast Login: <t:1767693900:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 44m`\nShards: `492`\n\n**Account Info:**\nUUID: `bfb41ef3-5646-4d5d-a8c5-e046a0ecfa28`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1752445210:F>\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "description": "||```perrievictor29@gmail.com:Vic66mic```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 6 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767333840:F>\nLast Login: <t:1767693900:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 44m`\nShards: `492`\n\n**Account Info:**\nUUID: `bfb41ef3-5646-4d5d-a8c5-e046a0ecfa28`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1752445210:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-11T02:06:12.794000+00:00",
+        "timestamp": "2026-01-12T10:02:28.934000+00:00",
         "author": {
-          "name": "75411/163396 | 108"
+          "name": "28606/88441 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/bfb41ef3-5646-4d5d-a8c5-e046a0ecfa28/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "yfeJAgAr2KYGuKMQMgYjcwZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T02:06:13.043000+00:00",
+    "timestamp": "2026-01-12T10:02:29.088000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk93elx50clxhi9cg9z1x7zn",
+            "custom_id": "credentials_cmkazuy1z0h21hi9c9hxfppfs",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459730086281351404",
-    "channel_id": "1459728559684718644",
+    "id": "1460212330767057065",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

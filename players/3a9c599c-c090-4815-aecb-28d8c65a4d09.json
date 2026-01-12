@@ -2,8 +2,15 @@
   "name": "wappa_lvbxR",
   "session": "stephenraybach12@hotmail.com:Tgyhtgyh5656",
   "uuid": "3a9c599c-c090-4815-aecb-28d8c65a4d09",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-19:20",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/13-07:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,31 +21,27 @@
       {
         "type": "rich",
         "title": "`wappa_lvbxR`",
-        "description": "||```stephenraybach12@hotmail.com:Tgyhtgyh5656```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 33m`\nShards: `1432`\n\n**Account Info:**\nUUID: `3a9c599c-c090-4815-aecb-28d8c65a4d09`\nMinecraft Capes: `Vanilla, Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1573867405:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-09T11:20:43.049000+00:00",
+        "description": "||```stephenraybach12@hotmail.com:Tgyhtgyh5656```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1576090560:F>\nLast Login: <t:1584446760:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 33m`\nShards: `1432`\n\n**Account Info:**\nUUID: `3a9c599c-c090-4815-aecb-28d8c65a4d09`\nMinecraft Capes: `Vanilla, Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1573867405:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "color": 16756290,
+        "timestamp": "2026-01-12T23:02:14.807000+00:00",
         "author": {
-          "name": "135690/211540 | 40"
+          "name": "9987/9989 | 4"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/3a9c599c-c090-4815-aecb-28d8c65a4d09/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/HRgovPQLj2E4H8ARi0zdUggoLyVg65xkRczLysgss98/https/mc-heads.net/body/3a9c599c-c090-4815-aecb-28d8c65a4d09/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-09T11:20:43.317000+00:00",
+    "timestamp": "2026-01-12T23:02:14.947000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +52,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk6sc052061dhi9cmdhzxfg5",
+            "custom_id": "credentials_cmkbrpq9p0jelhi9c3x0b08a1",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +62,8 @@
         ]
       }
     ],
-    "id": "1459144856193470487",
-    "channel_id": "1459003783051874458",
+    "id": "1460408564882604128",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

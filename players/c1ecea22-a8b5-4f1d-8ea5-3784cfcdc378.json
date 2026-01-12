@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/12-01:04",
+  "log_time": "2026/01/13-02:24",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`g0ld_sjxh2_01_07`",
-        "description": "||```tannerbowen00@outlook.com:Bailee09```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 19h 28m 3s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing several bans\n\n**Hypixel General Info:**\nLevel: `2.20`\nFirst Login: <t:1767823140:F>\nLast Login: <t:1767874740:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 30m`\nMoney: `10`\nShards: `252`\n\n**Account Info:**\nUUID: `c1ecea22-a8b5-4f1d-8ea5-3784cfcdc378`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767813037:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Go full locked-in with premium — `/premium generate`.*",
+        "description": "||```tannerbowen00@outlook.com:Bailee09```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 18h 7m 49s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing several bans\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 30m`\nMoney: `10`\nShards: `252`\n\n**Account Info:**\nUUID: `c1ecea22-a8b5-4f1d-8ea5-3784cfcdc378`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767813037:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
         "color": 16756290,
-        "timestamp": "2026-01-11T17:04:18.758000+00:00",
+        "timestamp": "2026-01-12T18:24:23.549000+00:00",
         "author": {
-          "name": "61490/78914 | 3"
+          "name": "130949/386352 | 16"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c1ecea22-a8b5-4f1d-8ea5-3784cfcdc378/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "riiKCgIr8ViYurkMgcgQeAZYmnmBZXY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,10 +41,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T17:04:18.957000+00:00",
+    "timestamp": "2026-01-12T18:24:23.881000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk9zhkku0es9hi9cexg6pmyp",
+            "custom_id": "credentials_cmkbhserq0ipahi9c6gy9spfv",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459956100186243306",
-    "channel_id": "1459728559684718644",
+    "id": "1460338641363533897",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

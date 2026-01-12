@@ -9,8 +9,8 @@
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/11-10:11",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/12-16:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`6t5_msmc_zp3`",
-        "description": "||```jurgenpasche@hotmail.com:Pasche18```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768028880:F>\nLast Login: <t:1768089780:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 7m`\nShards: `134`\n\n**Account Info:**\nUUID: `ab781d52-8672-468b-80b4-bbc751d79c0c`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1691165878:F>\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-11T02:11:36.096000+00:00",
+        "description": "||```jurgenpasche@hotmail.com:Pasche18```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 18h 22m 12s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `3.05`\nFirst Login: <t:1768028880:F>\nLast Login: <t:1768092960:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 22m`\nShards: `156`\n\n**Account Info:**\nUUID: `ab781d52-8672-468b-80b4-bbc751d79c0c`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1691165878:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-12T08:02:00.549000+00:00",
         "author": {
-          "name": "93069/163396 | 135"
+          "name": "15997/47867 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/ab781d52-8672-468b-80b4-bbc751d79c0c/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "X2mGIgorXJAIhcX1iEx/uAZYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,11 +41,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-11T02:11:36.324000+00:00",
+    "timestamp": "2026-01-12T08:02:01.164000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk93ljcv0cnghi9ccaa5lh1q",
+            "custom_id": "credentials_cmkavk0qz0gwuhi9crjbp6mtc",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1459731442220142602",
-    "channel_id": "1459728559684718644",
+    "id": "1460182014656385136",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

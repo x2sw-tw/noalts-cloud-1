@@ -3,14 +3,14 @@
   "session": "julienmandon69ol@hotmail.com:Lyon69lyon69.",
   "uuid": "5b3cff8d-5b22-4e5c-8c26-b9546c636cd4",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/11-10:02",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/12-12:34",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`croo5kedeternal`",
-        "description": "||```julienmandon69ol@hotmail.com:Lyon69lyon69.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768096920:F>\nLast Login: <t:1768096920:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `5b3cff8d-5b22-4e5c-8c26-b9546c636cd4`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-11T02:02:37.757000+00:00",
+        "description": "||```julienmandon69ol@hotmail.com:Lyon69lyon69.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768096920:F>\nLast Login: <t:1768096920:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 13m`\nShards: `627`\n\n**Account Info:**\nUUID: `5b3cff8d-5b22-4e5c-8c26-b9546c636cd4`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768086424:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "color": 16756290,
+        "timestamp": "2026-01-12T04:34:53.340000+00:00",
         "author": {
-          "name": "38860/163396 | 51"
+          "name": "309454/3010149 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/5b3cff8d-5b22-4e5c-8c26-b9546c636cd4/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T02:02:41.170000+00:00",
+    "timestamp": "2026-01-12T04:34:53.573000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk939zz00ckahi9c4785hsf1",
+            "custom_id": "credentials_cmkao5ntj0gonhi9cux6qlttd",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459729197621706898",
-    "channel_id": "1459728559684718644",
+    "id": "1460129889561874549",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

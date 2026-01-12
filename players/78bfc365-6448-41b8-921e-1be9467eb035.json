@@ -1,9 +1,16 @@
 {
   "name": "ksyzISchefiXYcM",
-  "session": "amnordberg94@hotmail.com:Michael33$",
+  "session": "amnordberg94@hotmail.com:Michael33$$",
   "uuid": "78bfc365-6448-41b8-921e-1be9467eb035",
-  "hypixel": "unknown",
-  "log_time": "2026/01/10-02:29",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/12-08:05",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`ksyzISchefiXYcM`",
-        "description": "||```amnordberg94@hotmail.com:Michael33$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 4d 8h 49m 58s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.07`\nFirst Login: <t:1688056560:F>\nLast Login: <t:1765768140:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `78bfc365-6448-41b8-921e-1be9467eb035`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1674993802:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-09T18:29:23.845000+00:00",
+        "description": "||```amnordberg94@hotmail.com:Michael33$$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Account Info:**\nUUID: `78bfc365-6448-41b8-921e-1be9467eb035`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1674993802:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-12T00:05:06.651000+00:00",
         "author": {
-          "name": "354095/663084 | 13"
+          "name": "1554/1555 | 4"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/78bfc365-6448-41b8-921e-1be9467eb035/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "CAiGAgArWYgFlpccn7HxGQZYinlxZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T18:29:24.161000+00:00",
+    "timestamp": "2026-01-12T00:05:06.781000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk77nag907fchi9c42wwtmjq",
+            "custom_id": "credentials_cmkaeiq080gcqhi9cxvpgffr6",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459252737232339153",
-    "channel_id": "1459003783051874458",
+    "id": "1460061997235437602",
+    "channel_id": "1459728559684718644",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

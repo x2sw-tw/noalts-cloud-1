@@ -3,14 +3,14 @@
   "session": "funfmog2vfooji2@outlook.com:chicuong1234",
   "uuid": "1a9f49d0-02d8-48bd-9031-c2e656d4a209",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/10-23:48",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/12-15:18",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhEEXqs0110`",
-        "description": "||```funfmog2vfooji2@outlook.com:chicuong1234```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `1d 18h 1m`\nMoney: `185.025.914`\nShards: `387`\n\n**Account Info:**\nUUID: `1a9f49d0-02d8-48bd-9031-c2e656d4a209`\nMinecraft Capes: `Menace, Home, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1707561040:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-10T15:48:08.995000+00:00",
+        "description": "||```funfmog2vfooji2@outlook.com:chicuong1234```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 8h 32m 17s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**DonutSMP Info:**\nPlaytime: `1d 18h 1m`\nMoney: `185.025.914`\nShards: `387`\n\n**Account Info:**\nUUID: `1a9f49d0-02d8-48bd-9031-c2e656d4a209`\nMinecraft Capes: `Menace, Home, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1707561040:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-12T07:18:25.139000+00:00",
         "author": {
-          "name": "174126/677054 | 15"
+          "name": "186269/501293 | 3"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1a9f49d0-02d8-48bd-9031-c2e656d4a209/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "SOiFCgIreZ+ieEZnf4sGGAZYiXmBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T15:48:09.365000+00:00",
+    "timestamp": "2026-01-12T07:18:25.472000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8hbryq0aslhi9cpdolffd1",
+            "custom_id": "credentials_cmkatzyn40guhhi9cseqqlxci",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459574546062643281",
-    "channel_id": "1459366171970240657",
+    "id": "1460171043649093764",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

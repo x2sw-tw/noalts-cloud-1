@@ -1,16 +1,16 @@
 {
-  "name": "Snowininnit",
+  "name": "ehr_msmc_e89",
   "session": "sdgroundworks@hotmail.com:Harry2470!",
   "uuid": "a9565d72-d78d-43c8-9635-a5e217f13221",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/11-10:04",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/12-16:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,12 +20,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`Snowininnit`",
-        "description": "||```sdgroundworks@hotmail.com:Harry2470!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768030140:F>\nLast Login: <t:1768052220:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 14m`\nShards: `513`\n\n**Account Info:**\nUUID: `a9565d72-d78d-43c8-9635-a5e217f13221`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1718219434:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`",
-        "color": 35529,
-        "timestamp": "2026-01-11T02:04:25.650000+00:00",
+        "title": "`ehr_msmc_e89`",
+        "description": "||```sdgroundworks@hotmail.com:Harry2470!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768030140:F>\nLast Login: <t:1768052220:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `a9565d72-d78d-43c8-9635-a5e217f13221`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-12T08:02:31.150000+00:00",
         "author": {
-          "name": "64642/163396 | 84"
+          "name": "41373/47867 | 12"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/a9565d72-d78d-43c8-9635-a5e217f13221/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "F3mKIg4rOoBKt4jGh2CNCAZYiolxZWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T02:04:25.885000+00:00",
+    "timestamp": "2026-01-12T08:02:31.364000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk93cb950cl9hi9c8gp28lg6",
+            "custom_id": "credentials_cmkavko8c0gx6hi9c6qu04y6b",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459729636828123375",
-    "channel_id": "1459728530005819643",
+    "id": "1460182141324362007",
+    "channel_id": "1460090945633779733",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

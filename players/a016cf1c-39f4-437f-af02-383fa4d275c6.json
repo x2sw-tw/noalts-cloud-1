@@ -1,16 +1,16 @@
 {
-  "name": "Vonnerkindly4",
+  "name": "ZukiNetwork",
   "session": "gus_tavito8@hotmail.com:24209451Gus@",
   "uuid": "a016cf1c-39f4-437f-af02-383fa4d275c6",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
     "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/11-20:02",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/13-17:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,12 +20,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`Vonnerkindly4`",
-        "description": "||```gus_tavito8@hotmail.com:24209451Gus@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `12.75`\nFirst Login: <t:1709769840:F>\nLast Login: <t:1768132860:F>\nBedWars Stars: `4`\n\n**Account Info:**\nUUID: `a016cf1c-39f4-437f-af02-383fa4d275c6`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1671397970:F>\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
-        "color": 65280,
-        "timestamp": "2026-01-11T12:02:01.107000+00:00",
+        "title": "`ZukiNetwork`",
+        "description": "||```gus_tavito8@hotmail.com:24209451Gus@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `a016cf1c-39f4-437f-af02-383fa4d275c6`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1671397970:F>\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-13T09:03:23.630000+00:00",
         "author": {
-          "name": "2919/2921 | 1"
+          "name": "52256/150522 | 5"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/a016cf1c-39f4-437f-af02-383fa4d275c6/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T12:02:01.525000+00:00",
+    "timestamp": "2026-01-13T09:03:23.737000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk9ootmk0dk5hi9cnnglw2c5",
+            "custom_id": "credentials_cmkcd6t5f0jxjhi9c630fh4od",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459880026282524746",
-    "channel_id": "1459728559684718644",
+    "id": "1460559848352649352",
+    "channel_id": "1460453318328324282",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

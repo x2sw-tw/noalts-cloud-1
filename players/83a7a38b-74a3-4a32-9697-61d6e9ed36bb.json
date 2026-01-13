@@ -1,16 +1,16 @@
 {
-  "name": "Rayconnn",
+  "name": "DeckrFinalBossXd",
   "session": "rayconchaso@outlook.es:Caiunlam12...",
   "uuid": "83a7a38b-74a3-4a32-9697-61d6e9ed36bb",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/13-02:38",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/13-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,12 +20,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`Rayconnn`",
-        "description": "||```rayconchaso@outlook.es:Caiunlam12...```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 207d 19h 55m from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 10h 55m`\nMoney: `0`\nShards: `938`\n\n**Account Info:**\nUUID: `83a7a38b-74a3-4a32-9697-61d6e9ed36bb`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `Yes`\nName Changeable: `Yes`\nAccount Creation Date: <t:1407628693:F>\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-12T18:38:01.166000+00:00",
+        "title": "`DeckrFinalBossXd`",
+        "description": "||```rayconchaso@outlook.es:Caiunlam12...```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 207d 12h 31m 5s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 29 days and 17 hours\n\n**Hypixel General Info:**\nLevel: `21.70`\nFirst Login: <t:1407639480:F>\nLast Login: <t:1755095280:F>\nBedWars Stars: `3`\n\n**Account Info:**\nUUID: `83a7a38b-74a3-4a32-9697-61d6e9ed36bb`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
+        "color": 16756290,
+        "timestamp": "2026-01-13T02:01:47.025000+00:00",
         "author": {
-          "name": "169463/386352 | 20"
+          "name": "4252/20684 | 12"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/83a7a38b-74a3-4a32-9697-61d6e9ed36bb/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-12T18:38:01.529000+00:00",
+    "timestamp": "2026-01-13T02:01:56.099000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkbi9xlm0isghi9cnf8ihp03",
+            "custom_id": "credentials_cmkby4m650jirhi9co9ofnj8r",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460342070827815011",
-    "channel_id": "1460090945633779733",
+    "id": "1460453784311300241",
+    "channel_id": "1460453318328324282",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

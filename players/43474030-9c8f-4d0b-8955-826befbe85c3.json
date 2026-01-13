@@ -1,16 +1,16 @@
 {
-  "name": "Nobynaka",
+  "name": "Banana_nLU",
   "session": "kapustbogdan@mail.ru:polp2288",
   "uuid": "43474030-9c8f-4d0b-8955-826befbe85c3",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/12-21:08",
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/13-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,12 +20,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`Nobynaka`",
-        "description": "||```kapustbogdan@mail.ru:polp2288```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `21.83`\nFirst Login: <t:1598425380:F>\nLast Login: <t:1768223280:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `43474030-9c8f-4d0b-8955-826befbe85c3`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1598425266:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`",
-        "color": 65280,
-        "timestamp": "2026-01-12T13:08:42.035000+00:00",
+        "title": "`Banana_nLU`",
+        "description": "||```kapustbogdan@mail.ru:polp2288```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 11h 31m 16s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `22.01`\nFirst Login: <t:1598425380:F>\nLast Login: <t:1768224600:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `43474030-9c8f-4d0b-8955-826befbe85c3`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1598425266:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-13T02:01:43.159000+00:00",
         "author": {
-          "name": "70752/504222 | 12"
+          "name": "4196/20684 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/43474030-9c8f-4d0b-8955-826befbe85c3/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-12T13:08:42.384000+00:00",
+    "timestamp": "2026-01-13T02:01:44.955000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkb6ifee0hfdhi9cl9s3mxka",
+            "custom_id": "credentials_cmkby4j6o0jikhi9cb1vs4kbu",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460259194967031912",
-    "channel_id": "1460090928713957489",
+    "id": "1460453737570107392",
+    "channel_id": "1460453318328324282",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

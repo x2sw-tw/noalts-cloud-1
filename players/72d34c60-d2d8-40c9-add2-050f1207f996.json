@@ -3,14 +3,14 @@
   "session": "alexbrownlie2@outlook.com:IHadCL2019!",
   "uuid": "72d34c60-d2d8-40c9-add2-050f1207f996",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/12-18:10",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/13-23:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`raveRhnbZEsg`",
-        "description": "||```alexbrownlie2@outlook.com:IHadCL2019!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 23d 13h 47m 25s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 13 hours\n\n**Hypixel General Info:**\nLevel: `12.44`\nFirst Login: <t:1613838840:F>\nLast Login: <t:1767650460:F>\nBedWars Stars: `5`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 52m`\nMoney: `0`\nShards: `353`\n\n**Account Info:**\nUUID: `72d34c60-d2d8-40c9-add2-050f1207f996`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1613837307:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-12T10:10:01.894000+00:00",
+        "description": "||```alexbrownlie2@outlook.com:IHadCL2019!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 8h 51m 17s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 52m`\nMoney: `0`\nShards: `353`\n\n**Account Info:**\nUUID: `72d34c60-d2d8-40c9-add2-050f1207f996`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1613837307:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-13T15:06:17.960000+00:00",
         "author": {
-          "name": "77008/88441 | 45"
+          "name": "60867/73135 | 19"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/72d34c60-d2d8-40c9-add2-050f1207f996/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "XLmGKhQrrcd4avanh3B6CAZYmnqBZWY=",
+          "placeholder": "2AeSAgArh3+0hzenkDW/RwZYmXqBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-12T10:10:02.206000+00:00",
+    "timestamp": "2026-01-13T15:06:18.209000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkb04nna0h3bhi9c1yw60bvg",
+            "custom_id": "credentials_cmkcq5ies0kq8hi9ch2inwhnb",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460214231281434865",
-    "channel_id": "1460090945633779733",
+    "id": "1460651177107525736",
+    "channel_id": "1460453318328324282",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

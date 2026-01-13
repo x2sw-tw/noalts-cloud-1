@@ -3,14 +3,14 @@
   "session": "mr_totitonoto@hotmail.com:wolfenge889",
   "uuid": "a748f247-c69a-46bb-bb8c-c411ed08e786",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/13-03:03",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/14-05:57",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhymeuW0112`",
-        "description": "||```mr_totitonoto@hotmail.com:wolfenge889```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 23h 4m 23s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.88`\nFirst Login: <t:1408761420:F>\nLast Login: <t:1768241220:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 14m`\nShards: `60`\n\n**Account Info:**\nUUID: `a748f247-c69a-46bb-bb8c-c411ed08e786`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1375571911:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
-        "color": 35529,
-        "timestamp": "2026-01-12T19:03:52.673000+00:00",
+        "description": "||```mr_totitonoto@hotmail.com:wolfenge889```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 20h 11m 8s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.88`\nFirst Login: <t:1408761420:F>\nLast Login: <t:1768241220:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 14m`\nMoney: `1`\nShards: `428`\n\n**Account Info:**\nUUID: `a748f247-c69a-46bb-bb8c-c411ed08e786`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1375571911:F>\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
+        "color": 10175221,
+        "timestamp": "2026-01-13T21:57:06.381000+00:00",
         "author": {
-          "name": "46407/178214 | 6"
+          "name": "485939/1279068 | 13"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/a748f247-c69a-46bb-bb8c-c411ed08e786/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "kyiKEgQrL3JLhadrdbBWBwZYiXmBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-12T19:03:52.879000+00:00",
+    "timestamp": "2026-01-13T21:57:06.713000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkbj76ny0ixehi9chtzlfpnf",
+            "custom_id": "credentials_cmkd4ttae0m25hi9ccif85vmk",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460348577661325537",
-    "channel_id": "1460090945633779733",
+    "id": "1460754560426574039",
+    "channel_id": "1460453318328324282",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,14 +3,14 @@
   "session": "ap_ikue@hotmail.com:apikue01120112",
   "uuid": "bab6e768-3a44-422e-84f6-3d84fe79e03e",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/12-14:50",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/13-17:13",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhLKlUJ0112`",
-        "description": "||```ap_ikue@hotmail.com:apikue01120112```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768167720:F>\nLast Login: <t:1768198080:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `bab6e768-3a44-422e-84f6-3d84fe79e03e`\nMinecraft Capes: `Pan`\nOptifine Cape: `Unknown`\nName Changeable: `No`\nAccount Creation Date: <t:1768161010:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-12T06:50:17.857000+00:00",
+        "description": "||```ap_ikue@hotmail.com:apikue01120112```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 13d 5h 50m 37s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 21 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 59m`\nMoney: `5`\nShards: `61`\n\n**Account Info:**\nUUID: `bab6e768-3a44-422e-84f6-3d84fe79e03e`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768161010:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-13T09:13:12.904000+00:00",
         "author": {
-          "name": "405588/2051369 | 6"
+          "name": "101156/150522 | 11"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/bab6e768-3a44-422e-84f6-3d84fe79e03e/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-12T06:50:18.183000+00:00",
+    "timestamp": "2026-01-13T09:13:13.253000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkaszsr50gsohi9cq2ih2opy",
+            "custom_id": "credentials_cmkcdjfxi0jxvhi9cda6lwc2a",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460163966646095872",
-    "channel_id": "1460090945633779733",
+    "id": "1460562320962093127",
+    "channel_id": "1460453318328324282",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x9B42F5",
-  "log_time": "2026/01/13-04:03",
+  "log_time": "2026/01/13-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`wappa_IOvxh`",
-        "description": "||```miharuu255@gmail.com:Pikachu2551```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 19d 12h 21m 56s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `5.05`\nFirst Login: <t:1432004880:F>\nLast Login: <t:1767341460:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 25m`\nMoney: `0`\nShards: `298`\n\n**Account Info:**\nUUID: `257478e4-7e41-44e5-91b8-71e8c870feef`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "description": "||```miharuu255@gmail.com:Pikachu2551```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `5.05`\nFirst Login: <t:1432004880:F>\nLast Login: <t:1767341460:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 25m`\nMoney: `0`\nShards: `298`\n\n**Account Info:**\nUUID: `257478e4-7e41-44e5-91b8-71e8c870feef`\nMinecraft Capes: `Home, Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1285458892:F>\nOther Games: `Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-12T20:03:57.382000+00:00",
+        "timestamp": "2026-01-13T02:01:41.979000+00:00",
         "author": {
-          "name": "16033/16047 | 11"
+          "name": "4162/20684 | 4"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/257478e4-7e41-44e5-91b8-71e8c870feef/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-12T20:03:57.772000+00:00",
+    "timestamp": "2026-01-13T02:01:42.146000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkblcg2y0j30hi9cy1iresux",
+            "custom_id": "credentials_cmkby4i9v0jidhi9c2nw2eu7k",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460363697678455016",
-    "channel_id": "1460090945633779733",
+    "id": "1460453725788307690",
+    "channel_id": "1460453318328324282",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

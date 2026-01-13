@@ -3,14 +3,14 @@
   "session": "asso772009@gmail.com:Arf@708965",
   "uuid": "6b7ceab9-5f9e-4c41-a0c9-b485bfc73c73",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/11-05:19",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/13-20:18",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`poo_RHaH4_01_10`",
-        "description": "||```asso772009@gmail.com:Arf@708965```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Finished check\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `6b7ceab9-5f9e-4c41-a0c9-b485bfc73c73`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768072898:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-10T21:19:18.253000+00:00",
+        "description": "||```asso772009@gmail.com:Arf@708965```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 27d 10h 18m 33s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768083780:F>\nLast Login: <t:1768084560:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 15m`\nShards: `292`\n\n**Account Info:**\nUUID: `6b7ceab9-5f9e-4c41-a0c9-b485bfc73c73`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768072898:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-13T12:18:13.979000+00:00",
         "author": {
-          "name": "113862/134206 | 30"
+          "name": "105618/354047 | 10"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6b7ceab9-5f9e-4c41-a0c9-b485bfc73c73/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "IAiKCgIraYCKh6eHkE0JlwZYiolxZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-10T21:19:23.787000+00:00",
+    "timestamp": "2026-01-13T12:18:14.134000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk8t5r6c0by7hi9cf7mzvz3w",
+            "custom_id": "credentials_cmkck5dhf0k8ehi9cbogl39hj",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459657905430069475",
-    "channel_id": "1459366171970240657",
+    "id": "1460608881431543966",
+    "channel_id": "1460453318328324282",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

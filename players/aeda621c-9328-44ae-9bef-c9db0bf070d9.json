@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x008AC9",
-  "log_time": "2026/01/14-05:43",
+  "log_time": "2026/01/14-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`ravesXf0YHan`",
-        "description": "||```jespervanggaard@hotmail.dk:Tqr94nxh!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 18d 1h 43m 39s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.91`\nFirst Login: <t:1463314740:F>\nLast Login: <t:1767309300:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `aeda621c-9328-44ae-9bef-c9db0bf070d9`\nMinecraft Capes: `Vanilla, Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1397412905:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "description": "||```jespervanggaard@hotmail.dk:Tqr94nxh!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 17d 21h 25m 20s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.91`\nFirst Login: <t:1463314740:F>\nLast Login: <t:1767309300:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\n\n**Account Info:**\nUUID: `aeda621c-9328-44ae-9bef-c9db0bf070d9`\nMinecraft Capes: `Vanilla, Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1397412905:F>\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
         "color": 35529,
-        "timestamp": "2026-01-13T21:43:54.292000+00:00",
+        "timestamp": "2026-01-14T02:02:21.833000+00:00",
         "author": {
-          "name": "399821/1279068 | 12"
+          "name": "16554/196134 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/aeda621c-9328-44ae-9bef-c9db0bf070d9/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T21:43:54.632000+00:00",
+    "timestamp": "2026-01-14T02:02:21.943000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkd4cu3k0lxyhi9cfgn5x103",
+            "custom_id": "credentials_cmkddl7oq0mmqhi9cr55rz9dq",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460751238197940357",
-    "channel_id": "1460453318328324282",
+    "id": "1460816280574627842",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

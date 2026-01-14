@@ -3,14 +3,14 @@
   "session": "little-demonbug@outlook.com:sacu8326",
   "uuid": "dc6bef3a-b4cf-4b3b-8284-423fff12d06f",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/13-20:38",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/14-10:24",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`Satan_spawn666`",
-        "description": "||```little-demonbug@outlook.com:sacu8326```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 13d 16h 25m 42s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 56m`\nMoney: `0`\nShards: `482`\n\n**Account Info:**\nUUID: `dc6bef3a-b4cf-4b3b-8284-423fff12d06f`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767290599:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
-        "color": 10175221,
-        "timestamp": "2026-01-13T12:38:10.319000+00:00",
+        "description": "||```little-demonbug@outlook.com:sacu8326```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 13d 2h 39m 15s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 29 days and 11 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767445860:F>\nLast Login: <t:1767446940:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 56m`\nMoney: `0`\nShards: `482`\n\n**Account Info:**\nUUID: `dc6bef3a-b4cf-4b3b-8284-423fff12d06f`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767290599:F>\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-14T02:24:26.367000+00:00",
         "author": {
-          "name": "158414/354047 | 15"
+          "name": "146501/196134 | 147"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/dc6bef3a-b4cf-4b3b-8284-423fff12d06f/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T12:38:10.632000+00:00",
+    "timestamp": "2026-01-14T02:24:26.581000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkckv0ow0k9thi9cvrslpbwp",
+            "custom_id": "credentials_cmkdedlpa0mrihi9cukypbfcv",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460613899908022283",
-    "channel_id": "1460453318328324282",
+    "id": "1460821836509216829",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

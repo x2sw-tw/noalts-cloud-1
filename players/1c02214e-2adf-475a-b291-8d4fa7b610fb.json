@@ -1,9 +1,16 @@
 {
   "name": "wappa_CGLUp",
-  "session": "florianbecker89@web.de:Merlin.1212",
+  "session": "florianbecker89@web.de:Edertalsperre89",
   "uuid": "1c02214e-2adf-475a-b291-8d4fa7b610fb",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-21:03",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/15-02:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`wappa_CGLUp`",
-        "description": "||```florianbecker89@web.de:Merlin.1212```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 19d 42m 47s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 15 hours\n\n**Hypixel General Info:**\nLevel: `2.13`\nFirst Login: <t:1766758800:F>\nLast Login: <t:1767015480:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `1c02214e-2adf-475a-b291-8d4fa7b610fb`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1696939486:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "description": "||```florianbecker89@web.de:Edertalsperre89```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 13d 19h 41m 50s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `2.13`\nFirst Login: <t:1766758800:F>\nLast Login: <t:1767015480:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `1c02214e-2adf-475a-b291-8d4fa7b610fb`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-09T13:03:21.795000+00:00",
+        "timestamp": "2026-01-14T18:04:36.194000+00:00",
         "author": {
-          "name": "49078/292355 | 1"
+          "name": "6792/6795 | 25"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1c02214e-2adf-475a-b291-8d4fa7b610fb/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "/BeCAgArpnBqibdYeY/T9wZYinlxZWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-09T13:03:22.701000+00:00",
+    "timestamp": "2026-01-14T18:04:41.128000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk6w00oy0691hi9cpmtilxkm",
+            "custom_id": "credentials_cmkebynsx0of1hi9cjb42lyn0",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1459170690522419290",
-    "channel_id": "1459003783051874458",
+    "id": "1461058456269357218",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

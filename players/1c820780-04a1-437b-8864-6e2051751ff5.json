@@ -2,8 +2,15 @@
   "name": "huc_MnKkN",
   "session": "chancetanner560@gmail.com:Chancetan2010!",
   "uuid": "1c820780-04a1-437b-8864-6e2051751ff5",
-  "hypixel": "unknown",
-  "log_time": "2026/01/06-17:03",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/15-02:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`huc_MnKkN`",
-        "description": "||```chancetanner560@gmail.com:Chancetan2010!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNKNOWN`\n> Proxy connection timed out\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767285000:F>\nLast Login: <t:1767682980:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `1c820780-04a1-437b-8864-6e2051751ff5`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767278171:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-06T09:03:00.934000+00:00",
+        "description": "||```chancetanner560@gmail.com:Chancetan2010!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 3 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767285000:F>\nLast Login: <t:1767690060:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `1d 20h 47m`\nMoney: `160.214`\nShards: `24`\n\n**Account Info:**\nUUID: `1c820780-04a1-437b-8864-6e2051751ff5`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
+        "color": 16756290,
+        "timestamp": "2026-01-14T18:04:22.491000+00:00",
         "author": {
-          "name": "51141/323102 | 2"
+          "name": "6783/6795 | 14"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1c820780-04a1-437b-8864-6e2051751ff5/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "BQiGAgAreH/VeEltz9737AZYmXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T09:03:01.211000+00:00",
+    "timestamp": "2026-01-14T18:04:22.656000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk2d3cyu1m4jhih2t4253ot6",
+            "custom_id": "credentials_cmkebyd890oefhi9cy6y2qfwj",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1458023038812426387",
-    "channel_id": "1457916584147550289",
+    "id": "1461058378792173610",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

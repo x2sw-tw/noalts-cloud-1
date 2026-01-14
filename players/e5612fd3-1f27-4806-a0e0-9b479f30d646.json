@@ -1,16 +1,16 @@
 {
-  "name": "ThatHen71",
+  "name": "evvwshusband",
   "session": "jonas-fraga01@hotmail.com:697549739Jo$",
   "uuid": "e5612fd3-1f27-4806-a0e0-9b479f30d646",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/14-04:03",
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/14-10:19",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,18 +20,21 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`ThatHen71`",
-        "description": "||```jonas-fraga01@hotmail.com:697549739Jo$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768331280:F>\nLast Login: <t:1768334580:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `e5612fd3-1f27-4806-a0e0-9b479f30d646`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1655656772:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-13T20:03:35.169000+00:00",
+        "title": "`evvwshusband`",
+        "description": "||```jonas-fraga01@hotmail.com:697549739Jo$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768331280:F>\nLast Login: <t:1768341600:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 17m`\nMoney: `80`\n\n**Account Info:**\nUUID: `e5612fd3-1f27-4806-a0e0-9b479f30d646`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1655656772:F>\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
+        "color": 35529,
+        "timestamp": "2026-01-14T02:19:15.209000+00:00",
         "author": {
-          "name": "47305/680692 | 3"
+          "name": "131613/196134 | 124"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e5612fd3-1f27-4806-a0e0-9b479f30d646/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/FvlMrQZN85tuvBcaMYQ5m-elW2oi-CBIzPFns1-vxpM/https/mc-heads.net/body/e5612fd3-1f27-4806-a0e0-9b479f30d646/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
@@ -42,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T20:03:40.530000+00:00",
+    "timestamp": "2026-01-14T02:19:15.384000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -53,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkd0rxl80lquhi9c61sg1g07",
+            "custom_id": "credentials_cmkde6xm00mqthi9cbahqn21z",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -63,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460726013225992235",
-    "channel_id": "1460453318328324282",
+    "id": "1460820531254132807",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

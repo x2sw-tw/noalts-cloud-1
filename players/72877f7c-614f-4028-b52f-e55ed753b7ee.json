@@ -3,14 +3,14 @@
   "session": "ricardo2012felipe@hotmail.com:badbreubala1987",
   "uuid": "72877f7c-614f-4028-b52f-e55ed753b7ee",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/13-23:02",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/14-10:13",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`IAmKunal10k`",
-        "description": "||```ricardo2012felipe@hotmail.com:badbreubala1987```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 23d 3h 2m 53s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.08`\nFirst Login: <t:1767275760:F>\nLast Login: <t:1767722220:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 33m`\nMoney: `0`\nShards: `904`\n\n**Account Info:**\nUUID: `72877f7c-614f-4028-b52f-e55ed753b7ee`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1761665101:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-13T15:02:38.787000+00:00",
+        "description": "||```ricardo2012felipe@hotmail.com:badbreubala1987```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 15h 52m 14s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 16 hours\n\n**Hypixel General Info:**\nLevel: `1.08`\nFirst Login: <t:1767275760:F>\nLast Login: <t:1767722220:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 33m`\nMoney: `0`\nShards: `904`\n\n**Account Info:**\nUUID: `72877f7c-614f-4028-b52f-e55ed753b7ee`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1761665101:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-14T02:13:17.610000+00:00",
         "author": {
-          "name": "14779/73135 | 3"
+          "name": "112678/196134 | 114"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/72877f7c-614f-4028-b52f-e55ed753b7ee/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T15:02:39.538000+00:00",
+    "timestamp": "2026-01-14T02:13:17.703000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkcq0tck0kp7hi9cjngd7qcw",
+            "custom_id": "credentials_cmkddz9ox0mq5hi9ca2ui86wa",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460650259935002795",
-    "channel_id": "1460453318328324282",
+    "id": "1460819031031418891",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

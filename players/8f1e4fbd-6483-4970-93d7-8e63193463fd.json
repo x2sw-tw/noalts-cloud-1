@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x9B42F5",
-  "log_time": "2026/01/12-07:05",
+  "log_time": "2026/01/14-19:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhZPxOV0104`",
-        "description": "||```sargeantluke@outlook.com:@2001Dec13```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767469740:F>\nLast Login: <t:1767469800:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 33m`\nMoney: `4`\nShards: `58`\n\n**Account Info:**\nUUID: `8f1e4fbd-6483-4970-93d7-8e63193463fd`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767465965:F>\nOther Games: `Minecraft Bedrock`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "description": "||```sargeantluke@outlook.com:@2001Dec13```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767469740:F>\nLast Login: <t:1767469800:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 33m`\nMoney: `4`\nShards: `58`\n\n**Account Info:**\nUUID: `8f1e4fbd-6483-4970-93d7-8e63193463fd`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767465965:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-11T23:05:19.215000+00:00",
+        "timestamp": "2026-01-14T11:02:26.286000+00:00",
         "author": {
-          "name": "34271/40317 | 3"
+          "name": "36320/47508 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/8f1e4fbd-6483-4970-93d7-8e63193463fd/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "CAiGAgArSogFpZd6maBqCQZYinlxZWY=",
+          "placeholder": "aAiOCgArmIUYePaJfp/I+QZYmnmBZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T23:05:19.316000+00:00",
+    "timestamp": "2026-01-14T11:02:26.777000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkacdtvz0g7xhi9c1loi0f7z",
+            "custom_id": "credentials_cmkdwvr4d0nczhi9c3mhts776",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460046950316507148",
-    "channel_id": "1459728559684718644",
+    "id": "1460952196299489331",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/13-21:42",
+  "log_time": "2026/01/14-10:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`raveRjy3c8Od`",
-        "description": "||```seo2479@hotmail.com:19491949Aa```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Account Info:**\nUUID: `86d3e46f-72b3-40fb-9c22-872d2a989f6d`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1708082591:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "description": "||```seo2479@hotmail.com:19491949Aa```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Account Info:**\nUUID: `86d3e46f-72b3-40fb-9c22-872d2a989f6d`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1708082591:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-13T13:42:15.901000+00:00",
+        "timestamp": "2026-01-14T02:06:41.747000+00:00",
         "author": {
-          "name": "154865/156495 | 49"
+          "name": "85003/196134 | 75"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/86d3e46f-72b3-40fb-9c22-872d2a989f6d/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T13:42:16.149000+00:00",
+    "timestamp": "2026-01-14T02:06:41.866000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkcn5fye0keshi9c028x0dut",
+            "custom_id": "credentials_cmkddqs8k0mouhi9ccq3f1m9b",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460630029175226561",
-    "channel_id": "1460453318328324282",
+    "id": "1460817370770837517",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

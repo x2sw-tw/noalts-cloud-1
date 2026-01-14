@@ -3,14 +3,14 @@
   "session": "kammerjaeger.heidesee@outlook.de:Damilio2010!",
   "uuid": "fc9549bb-62f1-4e3e-bbc4-e9085c92b7ea",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/13-21:02",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/14-10:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`vertex_LwTcD_`",
-        "description": "||```kammerjaeger.heidesee@outlook.de:Damilio2010!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767785460:F>\nLast Login: <t:1767806280:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 20m`\nMoney: `0`\nShards: `274`\n\n**Account Info:**\nUUID: `fc9549bb-62f1-4e3e-bbc4-e9085c92b7ea`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767783001:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-13T13:02:35.139000+00:00",
+        "description": "||```kammerjaeger.heidesee@outlook.de:Damilio2010!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 19 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767785460:F>\nLast Login: <t:1767806280:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 20m`\nMoney: `0`\nShards: `274`\n\n**Account Info:**\nUUID: `fc9549bb-62f1-4e3e-bbc4-e9085c92b7ea`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-14T02:03:57.527000+00:00",
         "author": {
-          "name": "35755/156495 | 7"
+          "name": "61400/196134 | 62"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/fc9549bb-62f1-4e3e-bbc4-e9085c92b7ea/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T13:02:35.413000+00:00",
+    "timestamp": "2026-01-14T02:03:57.685000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkclqeue0kb0hi9cpes0za7g",
+            "custom_id": "credentials_cmkddn9ix0mo5hi9cwl1g7aht",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460620043644702792",
-    "channel_id": "1460453318328324282",
+    "id": "1460816682145812675",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

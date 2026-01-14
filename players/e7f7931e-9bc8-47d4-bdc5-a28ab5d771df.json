@@ -1,9 +1,16 @@
 {
-  "name": "Xeno_rl",
+  "name": "DaxelinOnDcMAIKL",
   "session": "raphaelspicker@gmail.com:Raphael0608.",
   "uuid": "e7f7931e-9bc8-47d4-bdc5-a28ab5d771df",
-  "hypixel": "unknown",
-  "log_time": "2026/01/06-16:02",
+  "ban_status": {
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/15-02:05",
   "full_message": {
     "type": 0,
     "content": "",
@@ -13,12 +20,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`Xeno_rl`",
-        "description": "||```raphaelspicker@gmail.com:Raphael0608.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1704155880:F>\nLast Login: <t:1767686460:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 18m`\nMoney: `500.000`\n\n**Account Info:**\nUUID: `e7f7931e-9bc8-47d4-bdc5-a28ab5d771df`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1682010072:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-06T08:02:03.026000+00:00",
+        "title": "`DaxelinOnDcMAIKL`",
+        "description": "||```raphaelspicker@gmail.com:Raphael0608.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `7.23`\nFirst Login: <t:1704155880:F>\nLast Login: <t:1767750300:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 20m`\nMoney: `598.523`\nShards: `99`\n\n**Account Info:**\nUUID: `e7f7931e-9bc8-47d4-bdc5-a28ab5d771df`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
+        "color": 16756290,
+        "timestamp": "2026-01-14T18:05:38.068000+00:00",
         "author": {
-          "name": "27094/307246 | 8"
+          "name": "6795/6795 | 94"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e7f7931e-9bc8-47d4-bdc5-a28ab5d771df/100/left",
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-06T08:02:03.239000+00:00",
+    "timestamp": "2026-01-14T18:05:44.955000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk2awyic1lywhih251kdga4m",
+            "custom_id": "credentials_cmkebzzjm0ogyhi9cbbwbcwyy",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1458007696166096946",
-    "channel_id": "1457916584147550289",
+    "id": "1461058723979198659",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

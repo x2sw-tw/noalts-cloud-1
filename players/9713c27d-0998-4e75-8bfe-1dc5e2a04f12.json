@@ -3,14 +3,14 @@
   "session": "luxinxuan0312@outlook.com:200312Az",
   "uuid": "9713c27d-0998-4e75-8bfe-1dc5e2a04f12",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/14-07:39",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/14-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`poo_CeBEL_01_13`",
-        "description": "||```luxinxuan0312@outlook.com:200312Az```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `9713c27d-0998-4e75-8bfe-1dc5e2a04f12`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768343157:F>\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-13T23:39:10.718000+00:00",
+        "description": "||```luxinxuan0312@outlook.com:200312Az```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768347480:F>\nLast Login: <t:1768348620:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `9713c27d-0998-4e75-8bfe-1dc5e2a04f12`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768343157:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-14T02:02:14.159000+00:00",
         "author": {
-          "name": "185388/391213 | 19"
+          "name": "11353/196134 | 3"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9713c27d-0998-4e75-8bfe-1dc5e2a04f12/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T23:39:11.095000+00:00",
+    "timestamp": "2026-01-14T02:02:14.357000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkd8h2uv0mdqhi9c5qu0uhxp",
+            "custom_id": "credentials_cmkddl1rq0mmhhi9cyzemrx3c",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460780247946629345",
-    "channel_id": "1460453318328324282",
+    "id": "1460816248756633730",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

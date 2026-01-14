@@ -3,14 +3,14 @@
   "session": "jakuuru@outlook.jp:Tenpa212",
   "uuid": "22dbacc8-55dd-4274-acd0-b41db5eb193e",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
     "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/13-21:16",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/14-10:22",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`raveapPOyGry`",
-        "description": "||```jakuuru@outlook.jp:Tenpa212```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `22dbacc8-55dd-4274-acd0-b41db5eb193e`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1360800861:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-13T13:16:08.526000+00:00",
+        "description": "||```jakuuru@outlook.jp:Tenpa212```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 12m`\nShards: `249`\n\n**Account Info:**\nUUID: `22dbacc8-55dd-4274-acd0-b41db5eb193e`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1360800861:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-14T02:22:51.942000+00:00",
         "author": {
-          "name": "99931/156495 | 32"
+          "name": "142099/196134 | 136"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/22dbacc8-55dd-4274-acd0-b41db5eb193e/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T13:16:08.773000+00:00",
+    "timestamp": "2026-01-14T02:22:52.351000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkcm7uk20kc7hi9car1b7ge5",
+            "custom_id": "credentials_cmkdebky70mr7hi9cyc1g8593",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460623455123804193",
-    "channel_id": "1460453318328324282",
+    "id": "1460821441279819932",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

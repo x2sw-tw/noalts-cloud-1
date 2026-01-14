@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x9B42F5",
-  "log_time": "2026/01/14-03:09",
+  "log_time": "2026/01/14-10:24",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,17 +21,20 @@
       {
         "type": "rich",
         "title": "`zz_QqWgn_01_11`",
-        "description": "||```junior-indiapora@hotmail.com:Younger1986```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.68`\nFirst Login: <t:1742726460:F>\nLast Login: <t:1742981460:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 51m`\nShards: `591`\n\n**Account Info:**\nUUID: `b22a5ab4-01ee-4ac0-beef-2d1df8156472`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1742712624:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
+        "description": "||```junior-indiapora@hotmail.com:Younger1986```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.68`\nFirst Login: <t:1742726460:F>\nLast Login: <t:1742981460:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 51m`\nShards: `591`\n\n**Account Info:**\nUUID: `b22a5ab4-01ee-4ac0-beef-2d1df8156472`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1742712624:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-13T19:09:52.711000+00:00",
+        "timestamp": "2026-01-14T02:24:09.259000+00:00",
         "author": {
-          "name": "75072/385510 | 10"
+          "name": "145700/196134 | 144"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b22a5ab4-01ee-4ac0-beef-2d1df8156472/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/q7pFAFG6OE-JqiYIpNXqD-zg9c9bDM8BMtrOH3vrcdY/https/mc-heads.net/body/b22a5ab4-01ee-4ac0-beef-2d1df8156472/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
@@ -42,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T19:09:53.031000+00:00",
+    "timestamp": "2026-01-14T02:24:09.538000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -53,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkcyur8p0lj6hi9chqcbuwsx",
+            "custom_id": "credentials_cmkded8ja0mrehi9catpaoqgo",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -63,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460712476113899710",
-    "channel_id": "1460453318328324282",
+    "id": "1460821765025431690",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

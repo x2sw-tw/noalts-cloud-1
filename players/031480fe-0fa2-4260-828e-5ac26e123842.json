@@ -3,14 +3,14 @@
   "session": "vincentzubot@icloud.com:Bumblebee2007",
   "uuid": "031480fe-0fa2-4260-828e-5ac26e123842",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/13-10:02",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/14-10:42",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`SerraneandoxBufo`",
-        "description": "||```vincentzubot@icloud.com:Bumblebee2007```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 23d 10h 32m 12s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `12.44`\nFirst Login: <t:1543804980:F>\nLast Login: <t:1767701940:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `031480fe-0fa2-4260-828e-5ac26e123842`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1542431189:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
-        "color": 35529,
-        "timestamp": "2026-01-13T02:02:49.170000+00:00",
+        "description": "||```vincentzubot@icloud.com:Bumblebee2007```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 9h 52m 38s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `031480fe-0fa2-4260-828e-5ac26e123842`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1542431189:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-14T02:42:34.059000+00:00",
         "author": {
-          "name": "4360/20684 | 34"
+          "name": "188344/196134 | 185"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/031480fe-0fa2-4260-828e-5ac26e123842/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "CAiGAgArTJ+iFhUAAAAAAAZYinmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T02:02:49.362000+00:00",
+    "timestamp": "2026-01-14T02:42:34.413000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkby5y5p0jj9hi9ciu08qepa",
+            "custom_id": "credentials_cmkdf0x2m0mt8hi9c9ki6diw2",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460454007712514227",
-    "channel_id": "1460453318328324282",
+    "id": "1460826399207325871",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

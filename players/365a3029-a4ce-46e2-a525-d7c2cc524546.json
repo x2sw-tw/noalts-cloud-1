@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x9B42F5",
-  "log_time": "2026/01/13-09:02",
+  "log_time": "2026/01/14-12:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`8ob_msmc_wir`",
-        "description": "||```kubilayata_@hotmail.com:Plokmijn09.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 12h 38m 10s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `22.52`\nFirst Login: <t:1533891240:F>\nLast Login: <t:1767878880:F>\nBedWars Stars: `9`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 5m`\nMoney: `3`\nShards: `392`\n\n**Account Info:**\nUUID: `365a3029-a4ce-46e2-a525-d7c2cc524546`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1528370159:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "description": "||```kubilayata_@hotmail.com:Plokmijn09.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 24d 9h 38m 8s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `22.52`\nFirst Login: <t:1533891240:F>\nLast Login: <t:1767878880:F>\nBedWars Stars: `9`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 5m`\nMoney: `3`\nShards: `392`\n\n**Account Info:**\nUUID: `365a3029-a4ce-46e2-a525-d7c2cc524546`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1528370159:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-13T01:02:20.038000+00:00",
+        "timestamp": "2026-01-14T04:02:11.335000+00:00",
         "author": {
-          "name": "4260/4260 | 3"
+          "name": "2241/2242 | 2"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/365a3029-a4ce-46e2-a525-d7c2cc524546/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "ziiGGgQrxo9jeEelb2n4xgZYmoqBZWY=",
+          "placeholder": "ikiGCgQrS5joCIcMqb1w2QZYinpxZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,10 +41,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T01:02:20.233000+00:00",
+    "timestamp": "2026-01-14T04:02:11.753000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkbw05v50jhthi9ca9bjpxxp",
+            "custom_id": "credentials_cmkdhvb5n0mw0hi9cla7dsvj4",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460438786042499334",
-    "channel_id": "1460090945633779733",
+    "id": "1460846436823466015",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

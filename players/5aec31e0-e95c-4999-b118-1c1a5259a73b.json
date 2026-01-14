@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/13-10:01",
+  "log_time": "2026/01/14-10:40",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`zz_CQobm_01_12`",
-        "description": "||```sonyafitness@hotmail.com:So0003456```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Hypixel General Info:**\nLevel: `3.01`\nFirst Login: <t:1768187220:F>\nLast Login: <t:1768232100:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 45m`\nMoney: `8`\nShards: `101`\n\n**Account Info:**\nUUID: `5aec31e0-e95c-4999-b118-1c1a5259a73b`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "description": "||```sonyafitness@hotmail.com:So0003456```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNKNOWN`\n> You are not logged into your Minecraft account. If you are logged into your Minecraft account, try restarting your Minecraft client.\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Hypixel General Info:**\nLevel: `3.01`\nFirst Login: <t:1768187220:F>\nLast Login: <t:1768232100:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 45m`\nMoney: `8`\nShards: `101`\n\n**Account Info:**\nUUID: `5aec31e0-e95c-4999-b118-1c1a5259a73b`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768156514:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-13T02:01:45.815000+00:00",
+        "timestamp": "2026-01-14T02:40:33.757000+00:00",
         "author": {
-          "name": "4244/20684 | 18"
+          "name": "184514/196134 | 180"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/5aec31e0-e95c-4999-b118-1c1a5259a73b/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T02:01:50.496000+00:00",
+    "timestamp": "2026-01-14T02:40:34.022000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkby4l8f0jinhi9cr9nqtldp",
+            "custom_id": "credentials_cmkdeyc6w0mt3hi9ctzapbxpv",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460453760810746051",
-    "channel_id": "1460453318328324282",
+    "id": "1460825894250614917",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

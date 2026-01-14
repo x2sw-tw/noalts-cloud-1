@@ -3,14 +3,14 @@
   "session": "porzaasd04@gmail.com:famen1n1",
   "uuid": "5ce8e999-1c0c-4304-8fb2-a052e6c35d5b",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/14-07:03",
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/14-10:12",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`flamine56`",
-        "description": "||```porzaasd04@gmail.com:famen1n1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `5ce8e999-1c0c-4304-8fb2-a052e6c35d5b`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1745564478:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-13T23:03:41.415000+00:00",
+        "description": "||```porzaasd04@gmail.com:famen1n1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 28m`\nMoney: `0`\n\n**Account Info:**\nUUID: `5ce8e999-1c0c-4304-8fb2-a052e6c35d5b`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1745564478:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-14T02:12:58.708000+00:00",
         "author": {
-          "name": "53425/391213 | 7"
+          "name": "111593/196134 | 111"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/5ce8e999-1c0c-4304-8fb2-a052e6c35d5b/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T23:03:41.601000+00:00",
+    "timestamp": "2026-01-14T02:12:58.992000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkd77frh0mbahi9cp1ioow01",
+            "custom_id": "credentials_cmkddyv4i0mq2hi9co5p4cy9b",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460771316201164943",
-    "channel_id": "1460453318328324282",
+    "id": "1460818952551792853",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

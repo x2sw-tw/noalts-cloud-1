@@ -3,14 +3,14 @@
   "session": "nigontolau@outlook.com:Vegetta777240403!",
   "uuid": "d35af82d-6727-40c6-9d8e-9b7b31f1bed6",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/12-07:05",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/14-14:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`ravedKymaYMq`",
-        "description": "||```nigontolau@outlook.com:Vegetta777240403!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 23d 14h 53m 29s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 15 hours\n\n**Hypixel General Info:**\nLevel: `6.49`\nFirst Login: <t:1392133500:F>\nLast Login: <t:1767621060:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 30m`\nMoney: `0`\nShards: `557`\n\n**Account Info:**\nUUID: `d35af82d-6727-40c6-9d8e-9b7b31f1bed6`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-11T23:05:57.969000+00:00",
+        "description": "||```nigontolau@outlook.com:Vegetta777240403!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 21d 7h 52m 35s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `6.49`\nFirst Login: <t:1392133500:F>\nLast Login: <t:1767621060:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 30m`\nMoney: `0`\nShards: `557`\n\n**Account Info:**\nUUID: `d35af82d-6727-40c6-9d8e-9b7b31f1bed6`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1391352388:F>\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-14T06:06:38.420000+00:00",
         "author": {
-          "name": "40317/40317 | 17"
+          "name": "70925/611109 | 3"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/d35af82d-6727-40c6-9d8e-9b7b31f1bed6/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "UHaFCgIrszkHCdpLuP9jvAZXiXmBVWc=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T23:05:58.223000+00:00",
+    "timestamp": "2026-01-14T06:06:38.831000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkacense0g8chi9c3gfdcf38",
+            "custom_id": "credentials_cmkdmbcvu0n2bhi9capa3z4z8",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460047113504297090",
-    "channel_id": "1459728559684718644",
+    "id": "1460877756018589788",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

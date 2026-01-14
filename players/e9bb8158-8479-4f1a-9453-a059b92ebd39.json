@@ -3,14 +3,14 @@
   "session": "felipe.mnr@hotmail.com:010203luiz",
   "uuid": "e9bb8158-8479-4f1a-9453-a059b92ebd39",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/14-03:08",
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/14-10:18",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`joxyy1`",
-        "description": "||```felipe.mnr@hotmail.com:010203luiz```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `e9bb8158-8479-4f1a-9453-a059b92ebd39`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1675906338:F>\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
-        "color": 65280,
-        "timestamp": "2026-01-13T19:08:45.495000+00:00",
+        "description": "||```felipe.mnr@hotmail.com:010203luiz```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 49m`\nMoney: `2`\n\n**Account Info:**\nUUID: `e9bb8158-8479-4f1a-9453-a059b92ebd39`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1675906338:F>\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-14T02:18:57.321000+00:00",
         "author": {
-          "name": "70535/385510 | 8"
+          "name": "130753/196134 | 123"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e9bb8158-8479-4f1a-9453-a059b92ebd39/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T19:08:45.734000+00:00",
+    "timestamp": "2026-01-14T02:18:57.688000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkcytbab0lj0hi9co6j8w2kl",
+            "custom_id": "credentials_cmkde6jwu0mqshi9cu96f33kv",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460712193849954501",
-    "channel_id": "1460453318328324282",
+    "id": "1460820457031991510",
+    "channel_id": "1460815706051444766",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

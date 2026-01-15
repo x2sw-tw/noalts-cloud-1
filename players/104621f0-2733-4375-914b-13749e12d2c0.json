@@ -3,14 +3,14 @@
   "session": "broydman@hotmail.com:Emanon55",
   "uuid": "104621f0-2733-4375-914b-13749e12d2c0",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/14-00:02",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/15-15:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`tzi_aohuT_01_13`",
-        "description": "||```broydman@hotmail.com:Emanon55```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `4.63`\nFirst Login: <t:1768237080:F>\nLast Login: <t:1768310520:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 7h 5m`\nShards: `396`\n\n**Account Info:**\nUUID: `104621f0-2733-4375-914b-13749e12d2c0`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768234740:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-13T16:02:22.760000+00:00",
+        "description": "||```broydman@hotmail.com:Emanon55```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing Bans\n\n**Hypixel General Info:**\nLevel: `4.63`\nFirst Login: <t:1768237080:F>\nLast Login: <t:1768310520:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 7h 5m`\nShards: `396`\n\n**Account Info:**\nUUID: `104621f0-2733-4375-914b-13749e12d2c0`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768234740:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "color": 16756290,
+        "timestamp": "2026-01-15T07:02:32.014000+00:00",
         "author": {
-          "name": "6845/6845 | 5"
+          "name": "39989/406477 | 3"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/104621f0-2733-4375-914b-13749e12d2c0/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "TRiGCgIrVmSpZwplb4jyVwZYiXmBVWY=",
+          "placeholder": "pSiKEgQrtoAsasdnf3321wZYiXlxZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T16:02:22.930000+00:00",
+    "timestamp": "2026-01-15T07:02:32.192000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkcs5mmh0kuahi9cqjchx7tg",
+            "custom_id": "credentials_cmkf3r33p0puehi9cn040fn04",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460665289770402007",
-    "channel_id": "1460453318328324282",
+    "id": "1461254208899649681",
+    "channel_id": "1461178074371457125",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

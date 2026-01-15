@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/14-12:02",
+  "log_time": "2026/01/15-15:45",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`willfulorgan0iz`",
-        "description": "||```jadders25785@hotmail.co.uk:Jadaisgr8!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Use of illegal modifications:\n> Expires: 28 days and 14 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767784620:F>\nLast Login: <t:1767799800:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `1d 4h 13m`\nMoney: `47.647`\nShards: `855`\n\n**Account Info:**\nUUID: `018e7be8-dbc4-4a32-a581-416dd29ef11e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767784445:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "description": "||```jadders25785@hotmail.co.uk:Jadaisgr8!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Use of illegal modifications:\n> Expires: 27 days and 10 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767784620:F>\nLast Login: <t:1767799800:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `1d 4h 13m`\nMoney: `47.647`\nShards: `855`\n\n**Account Info:**\nUUID: `018e7be8-dbc4-4a32-a581-416dd29ef11e`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767784445:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
         "color": 16756290,
-        "timestamp": "2026-01-14T04:02:11.325000+00:00",
+        "timestamp": "2026-01-15T07:45:35.464000+00:00",
         "author": {
-          "name": "2241/2242 | 3"
+          "name": "255297/406477 | 18"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/018e7be8-dbc4-4a32-a581-416dd29ef11e/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "5geOCgArd3rmpwjXlGCfOQZYiXpxVWY=",
+          "placeholder": "DiiKEgYreH+lR0d4f4z3twZYinpxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,11 +41,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-14T04:02:11.513000+00:00",
+    "timestamp": "2026-01-15T07:45:35.787000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkdhvb5b0mvzhi9cwpv10smd",
+            "custom_id": "credentials_cmkf5agm60pw3hi9c2idr1r42",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1460846435816837141",
-    "channel_id": "1460815706051444766",
+    "id": "1461265045282357301",
+    "channel_id": "1461178074371457125",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

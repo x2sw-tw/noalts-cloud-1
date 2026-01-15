@@ -1,16 +1,16 @@
 {
-  "name": "SharkGou",
+  "name": "Mustafa_Go0",
   "session": "pau_lara25@hotmail.com:Chinis0401",
   "uuid": "47016554-b3c4-4834-b837-495133779482",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/14-21:02",
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/15-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,12 +20,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`SharkGou`",
-        "description": "||```pau_lara25@hotmail.com:Chinis0401```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `6.49`\nFirst Login: <t:1688243280:F>\nLast Login: <t:1768395720:F>\nBedWars Stars: `4`\n\n**Account Info:**\nUUID: `47016554-b3c4-4834-b837-495133779482`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1681761561:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-14T13:02:32.136000+00:00",
+        "title": "`Mustafa_Go0`",
+        "description": "||```pau_lara25@hotmail.com:Chinis0401```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `6.49`\nFirst Login: <t:1688243280:F>\nLast Login: <t:1768395720:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 22m`\nShards: `374`\n\n**Account Info:**\nUUID: `47016554-b3c4-4834-b837-495133779482`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-15T02:02:41.199000+00:00",
         "author": {
-          "name": "21033/25666 | 7"
+          "name": "3530/12951 | 62"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/47016554-b3c4-4834-b837-495133779482/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-14T13:02:32.329000+00:00",
+    "timestamp": "2026-01-15T02:02:47.859000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmke1676x0nklhi9cqacqw7h6",
+            "custom_id": "credentials_cmket1hah0pekhi9ceer8ztpe",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460982418574934017",
-    "channel_id": "1460815706051444766",
+    "id": "1461178777139806219",
+    "channel_id": "1461178074371457125",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/14-10:02",
+  "log_time": "2026/01/15-12:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`raveJaFsKxtp`",
-        "description": "||```amandvard@hotmail.se:Blixten02```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 17 hours\n\n**Hypixel General Info:**\nLevel: `8.20`\nFirst Login: <t:1405672860:F>\nLast Login: <t:1768147920:F>\nBedWars Stars: `5`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 8m`\nShards: `240`\n\n**Account Info:**\nUUID: `8fbc51f4-2abe-47e4-bef3-05ee9639dfca`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
+        "description": "||```amandvard@hotmail.se:Blixten02```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 12h 12m 53s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 15 hours\n\n**Hypixel General Info:**\nLevel: `8.20`\nFirst Login: <t:1405672860:F>\nLast Login: <t:1768147920:F>\nBedWars Stars: `5`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 8m`\nShards: `240`\n\n**Account Info:**\nUUID: `8fbc51f4-2abe-47e4-bef3-05ee9639dfca`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
         "color": 16756290,
-        "timestamp": "2026-01-14T02:02:23.392000+00:00",
+        "timestamp": "2026-01-15T04:01:48.262000+00:00",
         "author": {
-          "name": "17676/196134 | 16"
+          "name": "758/758 | 16"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/8fbc51f4-2abe-47e4-bef3-05ee9639dfca/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "TgiCAgAr5HnziOX1jVXvWAZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-14T02:02:24.216000+00:00",
+    "timestamp": "2026-01-15T04:01:54.531000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkddl8wa0mmshi9cbzmr8wb6",
+            "custom_id": "credentials_cmkexanzw0pp0hi9cptdjxddy",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460816290108276931",
-    "channel_id": "1460815706051444766",
+    "id": "1461208752454897665",
+    "channel_id": "1461178074371457125",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

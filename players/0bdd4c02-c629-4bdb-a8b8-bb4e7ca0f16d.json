@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x9B42F5",
-  "log_time": "2026/01/15-02:04",
+  "log_time": "2026/01/15-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`Poo_EnTBl_01_10`",
-        "description": "||```kevrary@yahoo.co.uk:Gmoney13@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 7h 11m 52s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.85`\nFirst Login: <t:1676823540:F>\nLast Login: <t:1768093800:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 34m`\nMoney: `1`\nShards: `32`\n\n**Account Info:**\nUUID: `0bdd4c02-c629-4bdb-a8b8-bb4e7ca0f16d`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "description": "||```kevrary@yahoo.co.uk:Gmoney13@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 23h 13m 42s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.85`\nFirst Login: <t:1676823540:F>\nLast Login: <t:1768093800:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 34m`\nMoney: `1`\nShards: `32`\n\n**Account Info:**\nUUID: `0bdd4c02-c629-4bdb-a8b8-bb4e7ca0f16d`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
         "color": 10175221,
-        "timestamp": "2026-01-14T18:04:17.493000+00:00",
+        "timestamp": "2026-01-15T02:02:15.443000+00:00",
         "author": {
-          "name": "6767/6795 | 16"
+          "name": "3437/12951 | 31"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0bdd4c02-c629-4bdb-a8b8-bb4e7ca0f16d/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-14T18:04:17.653000+00:00",
+    "timestamp": "2026-01-15T02:02:24.354000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkeby9df0oebhi9cxznsnrwh",
+            "custom_id": "credentials_cmket0xf30pdshi9c75ii1wak",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461058357808070696",
-    "channel_id": "1460815706051444766",
+    "id": "1461178678552695029",
+    "channel_id": "1461178074371457125",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

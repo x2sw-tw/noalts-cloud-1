@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/14-10:02",
+  "log_time": "2026/01/15-12:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`raveDFJjJZ1M`",
-        "description": "||```kevin_kool@hotmail.com:K19931005v```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 6 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1615703760:F>\nLast Login: <t:1768147920:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 41m`\nMoney: `7`\n\n**Account Info:**\nUUID: `10101615-2385-4293-955a-7d9d296911b3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "description": "||```kevin_kool@hotmail.com:K19931005v```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 4 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1615703760:F>\nLast Login: <t:1768147920:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 41m`\nMoney: `11`\n\n**Account Info:**\nUUID: `10101615-2385-4293-955a-7d9d296911b3`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1613235148:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-14T02:02:45.545000+00:00",
+        "timestamp": "2026-01-15T04:01:47.263000+00:00",
         "author": {
-          "name": "33377/196134 | 35"
+          "name": "758/758 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/10101615-2385-4293-955a-7d9d296911b3/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "1veFEgAre5UIduVbhGAXBgZYiXpxVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-14T02:02:45.640000+00:00",
+    "timestamp": "2026-01-15T04:01:48.928000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkddlpzd0mnbhi9cc8ch03ty",
+            "custom_id": "credentials_cmkexan880poxhi9cpg3zrwdc",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460816379966918677",
-    "channel_id": "1460815706051444766",
+    "id": "1461208728954081341",
+    "channel_id": "1461178074371457125",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

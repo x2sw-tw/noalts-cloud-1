@@ -1,9 +1,16 @@
 {
   "name": "LinhozvFH0103",
-  "session": "enzofallz123@outlook.com:Biteof88",
+  "session": "enzofallz123@outlook.com:Biteof88_",
   "uuid": "5108191f-9bb6-405b-a64e-81abc301e920",
-  "hypixel": "banned",
-  "log_time": "2026/01/04-20:08",
+  "ban_status": {
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
+  },
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/16-05:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhozvFH0103`",
-        "description": "||```enzofallz123@outlook.com:Biteof88```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://authtoken.villainsrule.xyz/)\n\n**Hypixel Ban Status:** `BANNED`\n> Your account has been blocked.\n\n\n**Account Info:**\nUUID: `5108191f-9bb6-405b-a64e-81abc301e920`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1734224773:F>\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-04T12:08:58.984000+00:00",
+        "description": "||```enzofallz123@outlook.com:Biteof88_```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767378180:F>\nLast Login: <t:1767379800:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `5108191f-9bb6-405b-a64e-81abc301e920`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1734224773:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "color": 10175221,
+        "timestamp": "2026-01-15T21:04:53.861000+00:00",
         "author": {
-          "name": "79601/137778 | 34"
+          "name": "19508/24715 | 55"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/5108191f-9bb6-405b-a64e-81abc301e920/100/left",
@@ -26,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-04T12:08:59.401000+00:00",
+    "timestamp": "2026-01-15T21:04:54.271000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmjzoutbe1g8ehih2su4i3ljo",
+            "custom_id": "credentials_cmkfxudft0rv4hi9cqznzgsje",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +66,8 @@
         ]
       }
     ],
-    "id": "1457345063922438296",
-    "channel_id": "1457191841739964562",
+    "id": "1461466197743894674",
+    "channel_id": "1461178074371457125",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

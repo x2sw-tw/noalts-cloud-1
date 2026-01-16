@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/16-04:03",
+  "log_time": "2026/01/16-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`Deexks`",
-        "description": "||```deecksito@outlook.com:Detodounpoco1@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 8h 5m 8s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 55 day 19 hours 59 minutes Ban ID: #4RHHVMDz\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 7 hours\n\n**Hypixel General Info:**\nLevel: `5.11`\nFirst Login: <t:1768100460:F>\nLast Login: <t:1768102500:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `62f80db4-f551-441d-b2ff-6a8ea2559470`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767499189:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "description": "||```deecksito@outlook.com:Detodounpoco1@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 2h 6m 44s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 55 day 14 hours 1 minutes Ban ID: #4RHHVMDz\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 1 hour\n\n**Hypixel General Info:**\nLevel: `5.11`\nFirst Login: <t:1768100460:F>\nLast Login: <t:1768102500:F>\nBedWars Stars: `2`\n\n**Account Info:**\nUUID: `62f80db4-f551-441d-b2ff-6a8ea2559470`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-15T20:03:48.947000+00:00",
+        "timestamp": "2026-01-16T02:02:18.297000+00:00",
         "author": {
-          "name": "31399/284965 | 2"
+          "name": "34726/406281 | 14"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/62f80db4-f551-441d-b2ff-6a8ea2559470/100/left",
@@ -41,10 +41,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T20:03:49.336000+00:00",
+    "timestamp": "2026-01-16T02:02:18.480000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkfvntou0rnshi9cgz1bl520",
+            "custom_id": "credentials_cmkg8guag0semhi9cy2z1f95l",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461450825892233474",
-    "channel_id": "1461178074371457125",
+    "id": "1461541041780818022",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

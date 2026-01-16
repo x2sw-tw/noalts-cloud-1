@@ -3,14 +3,14 @@
   "session": "displacebog@hotmail.com:Biloide123*",
   "uuid": "7bcbd697-ba24-42d6-8ed0-b9cf87067c5d",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/15-14:03",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/16-10:24",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhEWLIR0107`",
-        "description": "||```displacebog@hotmail.com:Biloide123*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> An error occurred logging in:\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767812880:F>\nLast Login: <t:1767824940:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 7m`\nMoney: `42.504`\n\n**Account Info:**\nUUID: `7bcbd697-ba24-42d6-8ed0-b9cf87067c5d`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767803290:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-15T06:03:56.936000+00:00",
+        "description": "||```displacebog@hotmail.com:Biloide123*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767812880:F>\nLast Login: <t:1767824940:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 7m`\nMoney: `42.504`\n\n**Account Info:**\nUUID: `7bcbd697-ba24-42d6-8ed0-b9cf87067c5d`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767803290:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-16T02:24:00.199000+00:00",
         "author": {
-          "name": "67606/89739 | 2"
+          "name": "183541/406281 | 114"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/7bcbd697-ba24-42d6-8ed0-b9cf87067c5d/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T06:03:57.274000+00:00",
+    "timestamp": "2026-01-16T02:24:00.521000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkf1nqyd0psrhi9ccc7s2hwr",
+            "custom_id": "credentials_cmkg98qy50shyhi9cd81b1ez7",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461239466264891601",
-    "channel_id": "1461178074371457125",
+    "id": "1461546502936723782",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

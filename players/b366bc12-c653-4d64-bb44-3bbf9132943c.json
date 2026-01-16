@@ -9,8 +9,8 @@
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/15-23:03",
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/16-10:55",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhfgJVS0115`",
-        "description": "||```tommymcghee@hotmail.co.uk:Therock23```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNKNOWN`\n> You are not logged into your Minecraft account. If you are logged into your Minecraft account, try restarting your Minecraft client.\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Account Info:**\nUUID: `b366bc12-c653-4d64-bb44-3bbf9132943c`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-15T15:03:11.217000+00:00",
+        "description": "||```tommymcghee@hotmail.co.uk:Therock23```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768490040:F>\nLast Login: <t:1768490460:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 12m`\nShards: `141`\n\n**Account Info:**\nUUID: `b366bc12-c653-4d64-bb44-3bbf9132943c`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768489288:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
+        "color": 35529,
+        "timestamp": "2026-01-16T02:55:34.744000+00:00",
         "author": {
-          "name": "18745/18748 | 30"
+          "name": "317694/406281 | 195"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b366bc12-c653-4d64-bb44-3bbf9132943c/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T15:03:11.368000+00:00",
+    "timestamp": "2026-01-16T02:55:34.906000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkfkx7kd0qqbhi9cwdaitvy9",
+            "custom_id": "credentials_cmkgadcp00sljhi9ctbo8ludb",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461375169171030207",
-    "channel_id": "1461178074371457125",
+    "id": "1461554448563306496",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

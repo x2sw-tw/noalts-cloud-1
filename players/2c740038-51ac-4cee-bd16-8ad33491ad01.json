@@ -9,8 +9,8 @@
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/15-10:02",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/16-15:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhosCxc0114`",
-        "description": "||```gabrielpinto2008@hotmail.com:Acp92901478```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `31.64`\nFirst Login: <t:1482243900:F>\nLast Login: <t:1768335000:F>\nBedWars Stars: `23`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 57m`\nMoney: `0`\nShards: `284`\n\n**Account Info:**\nUUID: `2c740038-51ac-4cee-bd16-8ad33491ad01`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1451317625:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
-        "color": 35529,
-        "timestamp": "2026-01-15T02:02:05.757000+00:00",
+        "description": "||```gabrielpinto2008@hotmail.com:Acp92901478```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `31.64`\nFirst Login: <t:1482243900:F>\nLast Login: <t:1768335000:F>\nBedWars Stars: `23`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 57m`\nMoney: `0`\nShards: `404`\n\n**Account Info:**\nUUID: `2c740038-51ac-4cee-bd16-8ad33491ad01`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "color": 16756290,
+        "timestamp": "2026-01-16T07:02:37.960000+00:00",
         "author": {
-          "name": "3022/12951 | 10"
+          "name": "6973/6977 | 13"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/2c740038-51ac-4cee-bd16-8ad33491ad01/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "HwiSAgArp4cHeNdMz5jk/QZYinpxVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T02:02:05.964000+00:00",
+    "timestamp": "2026-01-16T07:02:38.114000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmket0py30pdahi9cmdmxp6qg",
+            "custom_id": "credentials_cmkgj72cm0swyhi9c2a6azhho",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461178601419571240",
-    "channel_id": "1461178074371457125",
+    "id": "1461616621604049083",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

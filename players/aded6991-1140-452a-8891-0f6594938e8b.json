@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/15-19:02",
+  "log_time": "2026/01/16-10:44",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`nnfy`",
-        "description": "||```fervane@hotmail.com:Fer99384407198011```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 27d 19h 37m 6s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 27 days and 19 hours\n\n**Hypixel General Info:**\nLevel: `3.03`\nFirst Login: <t:1768240560:F>\nLast Login: <t:1768284360:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `aded6991-1140-452a-8891-0f6594938e8b`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "description": "||```fervane@hotmail.com:Fer99384407198011```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 27d 3h 54m 45s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 27 days and 4 hours\n\n**Hypixel General Info:**\nLevel: `3.03`\nFirst Login: <t:1768240560:F>\nLast Login: <t:1768284360:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `aded6991-1140-452a-8891-0f6594938e8b`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1686426950:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
         "color": 16756290,
-        "timestamp": "2026-01-15T11:02:33.379000+00:00",
+        "timestamp": "2026-01-16T02:44:54.111000+00:00",
         "author": {
-          "name": "37352/72602 | 15"
+          "name": "275129/406281 | 170"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/aded6991-1140-452a-8891-0f6594938e8b/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T11:02:33.577000+00:00",
+    "timestamp": "2026-01-16T02:44:54.414000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkfcbr950q6ihi9c1hvnwlbe",
+            "custom_id": "credentials_cmkg9zmh00skehi9c215ydfjg",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461314612686491648",
-    "channel_id": "1461178074371457125",
+    "id": "1461551762145017948",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

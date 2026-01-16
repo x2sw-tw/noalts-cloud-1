@@ -3,14 +3,13 @@
   "session": "portugal33mil@hotmail.fr:portugal33",
   "uuid": "cb2c0020-e8f1-4613-9570-643e7881466b",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/13-11:01",
+  "log_time": "2026/01/17-06:44",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,31 +20,27 @@
       {
         "type": "rich",
         "title": "`gauzyuninterrup`",
-        "description": "||```portugal33mil@hotmail.fr:portugal33```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768272300:F>\nLast Login: <t:1768272300:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `cb2c0020-e8f1-4613-9570-643e7881466b`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "description": "||```portugal33mil@hotmail.fr:portugal33```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 8h 31m 55s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `cb2c0020-e8f1-4613-9570-643e7881466b`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768271870:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
         "color": 35529,
-        "timestamp": "2026-01-13T03:01:36.404000+00:00",
+        "timestamp": "2026-01-16T22:44:43.185000+00:00",
         "author": {
-          "name": "4688/4700 | 13"
+          "name": "30212/30595 | 86"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/cb2c0020-e8f1-4613-9570-643e7881466b/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/fB--5qJro3FSgJ6vgPvNypwZqT4ocMr-qpxY4cmHD-E/https/mc-heads.net/body/cb2c0020-e8f1-4613-9570-643e7881466b/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-13T03:01:42.032000+00:00",
+    "timestamp": "2026-01-16T22:44:43.679000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +51,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkc09jqo0jl1hi9cc6ho6oex",
+            "custom_id": "credentials_cmkhgullm029rhiaqqr6tbgoc",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +61,8 @@
         ]
       }
     ],
-    "id": "1460468824804557014",
-    "channel_id": "1460453318328324282",
+    "id": "1461853707007299698",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

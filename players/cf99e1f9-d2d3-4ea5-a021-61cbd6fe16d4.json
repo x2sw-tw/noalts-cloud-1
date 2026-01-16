@@ -9,8 +9,8 @@
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/15-20:02",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/16-10:26",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,27 +21,31 @@
       {
         "type": "rich",
         "title": "`LinhRRNjs0114`",
-        "description": "||```miamiller5683@hotmail.com:MIAKODANOA1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `cf99e1f9-d2d3-4ea5-a021-61cbd6fe16d4`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1617985554:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
-        "color": 35529,
-        "timestamp": "2026-01-15T12:02:05.829000+00:00",
+        "description": "||```miamiller5683@hotmail.com:MIAKODANOA1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768396380:F>\nLast Login: <t:1768464420:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 28m`\nMoney: `2.411`\nShards: `246`\n\n**Account Info:**\nUUID: `cf99e1f9-d2d3-4ea5-a021-61cbd6fe16d4`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1617985554:F>\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-16T02:26:56.412000+00:00",
         "author": {
-          "name": "28837/30565 | 3"
+          "name": "197171/406281 | 124"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/cf99e1f9-d2d3-4ea5-a021-61cbd6fe16d4/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/AkTRrOv0vDGkM66TkqP8gtY4Do7EXx6pwY6sxRjrpY8/https/mc-heads.net/body/cf99e1f9-d2d3-4ea5-a021-61cbd6fe16d4/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T12:02:06.031000+00:00",
+    "timestamp": "2026-01-16T02:26:56.649000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -52,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkfegbse0qa9hi9cfio3puu2",
+            "custom_id": "credentials_cmkg9cit90siihi9cnhnv40q8",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -62,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461329596644327527",
-    "channel_id": "1461178074371457125",
+    "id": "1461547241671102660",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

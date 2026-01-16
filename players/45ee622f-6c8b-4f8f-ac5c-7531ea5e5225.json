@@ -9,8 +9,8 @@
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/14-10:24",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/16-17:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`cr4ft3r__`",
-        "description": "||```room0317@hotmail.com:Yunmo1517```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1717295400:F>\nLast Login: <t:1768173060:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 10m`\nMoney: `3`\nShards: `407`\n\n**Account Info:**\nUUID: `45ee622f-6c8b-4f8f-ac5c-7531ea5e5225`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1623506003:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-14T02:24:24.280000+00:00",
+        "description": "||```room0317@hotmail.com:Yunmo1517```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 19 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1717295400:F>\nLast Login: <t:1768173060:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 19h 31m`\nMoney: `428.307`\nShards: `195`\n\n**Account Info:**\nUUID: `45ee622f-6c8b-4f8f-ac5c-7531ea5e5225`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-16T09:02:24.250000+00:00",
         "author": {
-          "name": "146402/196134 | 145"
+          "name": "4872/4882 | 13"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/45ee622f-6c8b-4f8f-ac5c-7531ea5e5225/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-14T02:24:24.525000+00:00",
+    "timestamp": "2026-01-16T09:02:24.480000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkdedk3d0mrhhi9c5oferi5f",
+            "custom_id": "credentials_cmkgnh3bs0t3yhi9cv1oh7jlo",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460821827885732003",
-    "channel_id": "1460815706051444766",
+    "id": "1461646763407708232",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

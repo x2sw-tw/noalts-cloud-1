@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/15-15:02",
+  "log_time": "2026/01/16-10:20",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`tzi_aohuT_01_13`",
-        "description": "||```broydman@hotmail.com:Emanon55```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing Bans\n\n**Hypixel General Info:**\nLevel: `4.63`\nFirst Login: <t:1768237080:F>\nLast Login: <t:1768310520:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 7h 5m`\nShards: `396`\n\n**Account Info:**\nUUID: `104621f0-2733-4375-914b-13749e12d2c0`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768234740:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "description": "||```broydman@hotmail.com:Emanon55```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing Bans\n\n**DonutSMP Info:**\nPlaytime: `0d 7h 5m`\nShards: `396`\n\n**Account Info:**\nUUID: `104621f0-2733-4375-914b-13749e12d2c0`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768234740:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-15T07:02:32.014000+00:00",
+        "timestamp": "2026-01-16T02:20:58.095000+00:00",
         "author": {
-          "name": "39989/406477 | 3"
+          "name": "169340/406281 | 108"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/104621f0-2733-4375-914b-13749e12d2c0/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T07:02:32.192000+00:00",
+    "timestamp": "2026-01-16T02:20:58.261000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkf3r33p0puehi9cn040fn04",
+            "custom_id": "credentials_cmkg94uc00shshi9co3kzmw5h",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461254208899649681",
-    "channel_id": "1461178074371457125",
+    "id": "1461545738482880542",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

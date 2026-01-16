@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x008AC9",
-  "log_time": "2026/01/15-20:02",
+  "log_time": "2026/01/16-10:38",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`m32_msmc_rac`",
-        "description": "||```crazy849@hotmail.com:Joeybum11```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `2.12`\nFirst Login: <t:1768056480:F>\nLast Login: <t:1768058700:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `0b340531-5af1-45dc-88e6-fb9f1f5a1806`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1637992933:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "description": "||```crazy849@hotmail.com:Joeybum11```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 10 hours\n\n**Hypixel General Info:**\nLevel: `2.12`\nFirst Login: <t:1768056480:F>\nLast Login: <t:1768058700:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 17m`\nShards: `236`\n\n**Account Info:**\nUUID: `0b340531-5af1-45dc-88e6-fb9f1f5a1806`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1637992933:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
         "color": 35529,
-        "timestamp": "2026-01-15T12:02:09.781000+00:00",
+        "timestamp": "2026-01-16T02:38:33.021000+00:00",
         "author": {
-          "name": "30543/30565 | 6"
+          "name": "248030/406281 | 159"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0b340531-5af1-45dc-88e6-fb9f1f5a1806/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T12:02:09.884000+00:00",
+    "timestamp": "2026-01-16T02:38:33.218000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkfegeu40qabhi9c1gqldhg9",
+            "custom_id": "credentials_cmkg9rgbz0sjthi9cw2zthihg",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461329612804984876",
-    "channel_id": "1461178074371457125",
+    "id": "1461550163293241394",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

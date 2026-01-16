@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x008AC9",
-  "log_time": "2026/01/16-03:16",
+  "log_time": "2026/01/16-10:53",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`powerguido_gab`",
-        "description": "||```tyler.enkelmann6@gmail.com:LenCo1969```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 2h 30m 38s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `16.31`\nFirst Login: <t:1501495620:F>\nLast Login: <t:1768167780:F>\nBedWars Stars: `11`\n\n**DonutSMP Info:**\nPlaytime: `0d 13h 2m`\nMoney: `794.732`\nShards: `575`\n\n**Account Info:**\nUUID: `152a9594-b71f-43ba-b41b-b77ef59c244a`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1501494200:F>\nOther Games: `Minecraft Bedrock`",
+        "description": "||```tyler.enkelmann6@gmail.com:LenCo1969```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 18h 53m 48s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `16.31`\nFirst Login: <t:1501495620:F>\nLast Login: <t:1768167780:F>\nBedWars Stars: `11`\n\n**DonutSMP Info:**\nPlaytime: `0d 15h 1m`\nMoney: `25.737`\nShards: `85`\n\n**Account Info:**\nUUID: `152a9594-b71f-43ba-b41b-b77ef59c244a`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1501494200:F>\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
         "color": 35529,
-        "timestamp": "2026-01-15T19:16:57.142000+00:00",
+        "timestamp": "2026-01-16T02:53:49.679000+00:00",
         "author": {
-          "name": "121865/530074 | 12"
+          "name": "310888/406281 | 191"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/152a9594-b71f-43ba-b41b-b77ef59c244a/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T19:16:57.416000+00:00",
+    "timestamp": "2026-01-16T02:53:49.867000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkftzk0l0rkjhi9ctv251uis",
+            "custom_id": "credentials_cmkgab3mi0slehi9czbdp5jfr",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461439031844802600",
-    "channel_id": "1461178113927938089",
+    "id": "1461554007997939844",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

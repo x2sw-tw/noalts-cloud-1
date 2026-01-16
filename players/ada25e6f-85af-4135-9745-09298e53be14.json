@@ -3,14 +3,14 @@
   "session": "lukehicklin@hotmail.com:Thewalkingdead",
   "uuid": "ada25e6f-85af-4135-9745-09298e53be14",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/14-06:11",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/16-17:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,17 +21,20 @@
       {
         "type": "rich",
         "title": "`LinhIuroz0114`",
-        "description": "||```lukehicklin@hotmail.com:Thewalkingdead```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `ada25e6f-85af-4135-9745-09298e53be14`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Vanilla, Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1629923728:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
-        "color": 65280,
-        "timestamp": "2026-01-13T22:11:07.568000+00:00",
+        "description": "||```lukehicklin@hotmail.com:Thewalkingdead```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 27 days and 13 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1629925020:F>\nLast Login: <t:1768342320:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 40m`\nMoney: `4`\n\n**Account Info:**\nUUID: `ada25e6f-85af-4135-9745-09298e53be14`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Vanilla, Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1629923728:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-16T09:02:31.630000+00:00",
         "author": {
-          "name": "97814/556206 | 10"
+          "name": "4881/4882 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/ada25e6f-85af-4135-9745-09298e53be14/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/IjMm0dnfTavWgdSk5u4ctcxCC8jF7IXCM92q8TX_nbc/https/mc-heads.net/body/ada25e6f-85af-4135-9745-09298e53be14/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "pSiKEgQrtoAsasdnf3321wZYiXlxZXY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
@@ -42,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-13T22:11:11.996000+00:00",
+    "timestamp": "2026-01-16T09:02:40.139000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -53,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkd5bxhj0m4xhi9cz0lsvc1d",
+            "custom_id": "credentials_cmkgnh90t0t4ghi9c4wv9uekq",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -63,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460758105800314983",
-    "channel_id": "1460453318328324282",
+    "id": "1461646829086048502",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

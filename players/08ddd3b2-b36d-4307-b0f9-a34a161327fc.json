@@ -3,14 +3,13 @@
   "session": "bartholomeus2004@outlook.com:Trompet2004#",
   "uuid": "08ddd3b2-b36d-4307-b0f9-a34a161327fc",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/14-10:02",
+  "log_time": "2026/01/17-05:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`nbw_msmc_0oe`",
-        "description": "||```bartholomeus2004@outlook.com:Trompet2004#```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.01`\nFirst Login: <t:1664049360:F>\nLast Login: <t:1768048260:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 9h 51m`\nMoney: `2`\nShards: `161`\n\n**Account Info:**\nUUID: `08ddd3b2-b36d-4307-b0f9-a34a161327fc`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-14T02:02:26.966000+00:00",
+        "description": "||```bartholomeus2004@outlook.com:Trompet2004#```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `1.01`\nFirst Login: <t:1664049360:F>\nLast Login: <t:1768048260:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 9h 51m`\nMoney: `2`\nShards: `161`\n\n**Account Info:**\nUUID: `08ddd3b2-b36d-4307-b0f9-a34a161327fc`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1663957195:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-16T21:02:22.577000+00:00",
         "author": {
-          "name": "20298/196134 | 18"
+          "name": "15858/211437 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/08ddd3b2-b36d-4307-b0f9-a34a161327fc/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "6ReOCgArd4jWxwf2k4IOCgZYmXmBVWY=",
+          "placeholder": "jveFAgArCmoVNofwynsLagZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-14T02:02:27.160000+00:00",
+    "timestamp": "2026-01-16T21:02:22.964000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkddlbnq0mmwhi9cqbbr5uca",
+            "custom_id": "credentials_cmkhd6zhv01uwhiaql1hoa8yi",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1460816302456311914",
-    "channel_id": "1460815706051444766",
+    "id": "1461827950981808199",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,14 +3,14 @@
   "session": "dave.master.240@outlook.com:Haza_7869!",
   "uuid": "a4c79dde-6a95-4da2-8c1c-10643357050d",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/13-02:04",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/16-10:19",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`ravetxFDLzyw`",
-        "description": "||```dave.master.240@outlook.com:Haza_7869!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 21d 22h 48m 13s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 2m`\nMoney: `1.405`\nShards: `11`\n\n**Account Info:**\nUUID: `a4c79dde-6a95-4da2-8c1c-10643357050d`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1656262025:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-12T18:04:31.268000+00:00",
+        "description": "||```dave.master.240@outlook.com:Haza_7869!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 18d 14h 32m 38s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 27 days and 18 hours\n\n**Hypixel General Info:**\nLevel: `9.00`\nFirst Login: <t:1656264540:F>\nLast Login: <t:1767542760:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 2m`\nMoney: `1.405`\nShards: `11`\n\n**Account Info:**\nUUID: `a4c79dde-6a95-4da2-8c1c-10643357050d`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1656262025:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-16T02:19:59.800000+00:00",
         "author": {
-          "name": "59721/386352 | 10"
+          "name": "164289/406281 | 104"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/a4c79dde-6a95-4da2-8c1c-10643357050d/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "uSiGEgQrFlHI9Hmon2mvGAdYmYmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-12T18:04:31.557000+00:00",
+    "timestamp": "2026-01-16T02:19:59.867000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkbh2ur50imihi9c6uteehqt",
+            "custom_id": "credentials_cmkg93lcu0shohi9c8ij1465a",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1460333640394477781",
-    "channel_id": "1460090945633779733",
+    "id": "1461545493560692762",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/15-12:01",
+  "log_time": "2026/01/16-10:37",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`t2y_msmc_iag`",
-        "description": "||```yolobilal@outlook.com:Joetla50!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `8.49`\nFirst Login: <t:1674143940:F>\nLast Login: <t:1768089780:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 18m`\nMoney: `0`\nShards: `242`\n\n**Account Info:**\nUUID: `3b378c09-e993-4824-a9e3-891d8f1f8985`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "description": "||```yolobilal@outlook.com:Joetla50!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 24 days and 21 hours\n\n**Hypixel General Info:**\nLevel: `8.49`\nFirst Login: <t:1674143940:F>\nLast Login: <t:1768089780:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 18m`\nMoney: `0`\nShards: `242`\n\n**Account Info:**\nUUID: `3b378c09-e993-4824-a9e3-891d8f1f8985`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1673815038:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
         "color": 16756290,
-        "timestamp": "2026-01-15T04:01:50.299000+00:00",
+        "timestamp": "2026-01-16T02:37:54.182000+00:00",
         "author": {
-          "name": "758/758 | 27"
+          "name": "245207/406281 | 157"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/3b378c09-e993-4824-a9e3-891d8f1f8985/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T04:01:59.624000+00:00",
+    "timestamp": "2026-01-16T02:37:54.346000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkexapkf0pp4hi9c4horn3x2",
+            "custom_id": "credentials_cmkg9qmdq0sjrhi9c00ofhav7",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461208773816225804",
-    "channel_id": "1461178074371457125",
+    "id": "1461550000252125216",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

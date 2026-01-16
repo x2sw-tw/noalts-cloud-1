@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x008AC9",
-  "log_time": "2026/01/16-00:03",
+  "log_time": "2026/01/16-10:10",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,27 +21,31 @@
       {
         "type": "rich",
         "title": "`bedwarsgamerpro2`",
-        "description": "||```iftiaquddin@hotmail.com:Duskinbeast1212!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 6h 59m 42s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `16.88`\nBedWars Stars: `8`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `6`\n\n**Account Info:**\nUUID: `9da33f1a-8e07-4929-93e8-cbb18dd6f8ab`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "description": "||```iftiaquddin@hotmail.com:Duskinbeast1212!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 24d 20h 52m 9s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 16 hours\n\n**Hypixel General Info:**\nLevel: `16.88`\nBedWars Stars: `8`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 22m`\nShards: `252`\n\n**Account Info:**\nUUID: `9da33f1a-8e07-4929-93e8-cbb18dd6f8ab`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1505065319:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
         "color": 35529,
-        "timestamp": "2026-01-15T16:03:04.674000+00:00",
+        "timestamp": "2026-01-16T02:10:34.667000+00:00",
         "author": {
-          "name": "57904/106638 | 15"
+          "name": "112926/406281 | 69"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9da33f1a-8e07-4929-93e8-cbb18dd6f8ab/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/f9-bgx80rAwxu-HdGEjKhIgXjdtNpewqowBzUDMUO8o/https/mc-heads.net/body/9da33f1a-8e07-4929-93e8-cbb18dd6f8ab/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T16:03:04.843000+00:00",
+    "timestamp": "2026-01-16T02:10:34.742000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -52,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkfn28b30qwahi9chvcpsemo",
+            "custom_id": "credentials_cmkg8rhan0sg9hi9c2qnaafbf",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -62,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461390241297596456",
-    "channel_id": "1461178074371457125",
+    "id": "1461543123254513922",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

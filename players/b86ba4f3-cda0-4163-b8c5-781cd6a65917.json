@@ -3,14 +3,14 @@
   "session": "angelj1229@hotmail.com:Pastor121929@",
   "uuid": "b86ba4f3-cda0-4163-b8c5-781cd6a65917",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "status": "all_banned",
+    "display": "All Banned",
+    "is_unbanned": false,
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/16-07:02",
+  "embed_color": "0x008AC9",
+  "log_time": "2026/01/16-10:18",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhEeaPp0116`",
-        "description": "||```angelj1229@hotmail.com:Pastor121929@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768517340:F>\nLast Login: <t:1768518120:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `b86ba4f3-cda0-4163-b8c5-781cd6a65917`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768516464:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
-        "color": 65280,
-        "timestamp": "2026-01-15T23:02:16.654000+00:00",
+        "description": "||```angelj1229@hotmail.com:Pastor121929@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 21h 21m 18s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 23 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768517340:F>\nLast Login: <t:1768520040:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 42m`\nShards: `17`\n\n**Account Info:**\nUUID: `b86ba4f3-cda0-4163-b8c5-781cd6a65917`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768516464:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-16T02:18:33.560000+00:00",
         "author": {
-          "name": "2319/2319 | 6"
+          "name": "156749/406281 | 99"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b86ba4f3-cda0-4163-b8c5-781cd6a65917/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T23:02:16.823000+00:00",
+    "timestamp": "2026-01-16T02:18:33.807000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkg21bpi0s3fhi9cgybwd9ix",
+            "custom_id": "credentials_cmkg91qtf0shjhi9cwi1305la",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461495736347922454",
-    "channel_id": "1461178074371457125",
+    "id": "1461545132598886586",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -9,8 +9,8 @@
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/15-12:01",
+  "embed_color": "0xFFAE42",
+  "log_time": "2026/01/16-17:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`SquatLocation`",
-        "description": "||```selva.vignesh@hotmail.com:Vikki1997!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 13d 6h 1m 47s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 5 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767804180:F>\nLast Login: <t:1767891720:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `1d 21h 29m`\nMoney: `5.158`\nShards: `196`\n\n**Account Info:**\nUUID: `0c46ada0-411c-4801-a611-b055cab03b5d`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`",
-        "color": 35529,
-        "timestamp": "2026-01-15T04:01:44.279000+00:00",
+        "description": "||```selva.vignesh@hotmail.com:Vikki1997!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 12d 1h 1m 1s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767804180:F>\nLast Login: <t:1767891720:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `2d 20h 2m`\nMoney: `44.237`\nShards: `412`\n\n**Account Info:**\nUUID: `0c46ada0-411c-4801-a611-b055cab03b5d`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-16T09:02:27.619000+00:00",
         "author": {
-          "name": "758/758 | 21"
+          "name": "4876/4882 | 21"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0c46ada0-411c-4801-a611-b055cab03b5d/100/left",
@@ -33,7 +33,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "DAiKAgArqIkGaMY+r+HzGgZYinlxZWY=",
+          "placeholder": "qomGCggrtn+FGchncGv7eAZYinmBZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T04:01:44.477000+00:00",
+    "timestamp": "2026-01-16T09:02:27.816000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkexakx70pothi9ccedreho3",
+            "custom_id": "credentials_cmkgnh5xe0t45hi9cn94qr7z5",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461208710285099069",
-    "channel_id": "1461178113927938089",
+    "id": "1461646777399906365",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

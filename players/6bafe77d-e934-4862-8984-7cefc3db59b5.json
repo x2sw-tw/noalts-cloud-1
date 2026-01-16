@@ -3,14 +3,14 @@
   "session": "guilherme.s.gonzaga@hotmail.com:Guilherme455456..",
   "uuid": "6bafe77d-e934-4862-8984-7cefc3db59b5",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
     "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "is_hypixel_ok": false,
+    "is_donut_ok": false
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/16-00:02",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/16-10:15",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`LinhflATj0115`",
-        "description": "||```guilherme.s.gonzaga@hotmail.com:Guilherme455456..```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1763382900:F>\nLast Login: <t:1768492920:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 5h 47m`\nMoney: `0`\nShards: `10`\n\n**Account Info:**\nUUID: `6bafe77d-e934-4862-8984-7cefc3db59b5`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-15T16:02:55.012000+00:00",
+        "description": "||```guilherme.s.gonzaga@hotmail.com:Guilherme455456..```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1763382900:F>\nLast Login: <t:1768492920:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 8h 18m`\nMoney: `107.087`\nShards: `90`\n\n**Account Info:**\nUUID: `6bafe77d-e934-4862-8984-7cefc3db59b5`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1763378809:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-16T02:15:18.904000+00:00",
         "author": {
-          "name": "53065/106638 | 12"
+          "name": "139406/406281 | 87"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6bafe77d-e934-4862-8984-7cefc3db59b5/100/left",
@@ -41,10 +41,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T16:02:55.206000+00:00",
+    "timestamp": "2026-01-16T02:15:19.145000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkfn20un0qw6hi9c6bnsxhl4",
+            "custom_id": "credentials_cmkg8xkm10sh3hi9cs3iizvyv",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461390200876957827",
-    "channel_id": "1461178074371457125",
+    "id": "1461544316127150093",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

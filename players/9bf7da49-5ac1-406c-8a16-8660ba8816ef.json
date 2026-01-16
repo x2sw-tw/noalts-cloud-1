@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0xFFAE42",
-  "log_time": "2026/01/15-15:32",
+  "log_time": "2026/01/16-10:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`ythz_qbVQn_01_06`",
-        "description": "||```maquio901@outlook.com:Maquio991!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767673860:F>\nLast Login: <t:1768152180:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 5h 2m`\nMoney: `0`\nShards: `78`\n\n**Account Info:**\nUUID: `9bf7da49-5ac1-406c-8a16-8660ba8816ef`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767670726:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
+        "description": "||```maquio901@outlook.com:Maquio991!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 25 days and 15 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767673860:F>\nLast Login: <t:1768152180:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 5h 2m`\nMoney: `0`\nShards: `78`\n\n**Account Info:**\nUUID: `9bf7da49-5ac1-406c-8a16-8660ba8816ef`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-15T07:32:49.455000+00:00",
+        "timestamp": "2026-01-16T02:03:33.331000+00:00",
         "author": {
-          "name": "202938/406477 | 16"
+          "name": "61301/406281 | 38"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9bf7da49-5ac1-406c-8a16-8660ba8816ef/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T07:32:49.700000+00:00",
+    "timestamp": "2026-01-16T02:03:33.541000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkf4u1jp0pvhhi9cyaehhs26",
+            "custom_id": "credentials_cmkg8ig6y0sf5hi9cau7lqrg8",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461261832080855283",
-    "channel_id": "1461178074371457125",
+    "id": "1461541356609601638",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

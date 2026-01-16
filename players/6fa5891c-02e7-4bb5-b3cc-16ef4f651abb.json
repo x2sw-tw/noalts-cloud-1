@@ -1,5 +1,5 @@
 {
-  "name": "NotCubz",
+  "name": "YellowCraft0YT",
   "session": "lay0325@hotmail.com:Lay860048@",
   "uuid": "6fa5891c-02e7-4bb5-b3cc-16ef4f651abb",
   "ban_status": {
@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x008AC9",
-  "log_time": "2026/01/16-05:06",
+  "log_time": "2026/01/16-10:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,18 +20,21 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`NotCubz`",
-        "description": "||```lay0325@hotmail.com:Lay860048@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 145d 5h 7m 22s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `6fa5891c-02e7-4bb5-b3cc-16ef4f651abb`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1424344704:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "title": "`YellowCraft0YT`",
+        "description": "||```lay0325@hotmail.com:Lay860048@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 145d 6m 43s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.67`\nFirst Login: <t:1744455000:F>\nLast Login: <t:1749953340:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 12h 46m`\nMoney: `13.800`\nShards: `90`\n\n**Account Info:**\nUUID: `6fa5891c-02e7-4bb5-b3cc-16ef4f651abb`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1424344704:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
         "color": 35529,
-        "timestamp": "2026-01-15T21:06:25.274000+00:00",
+        "timestamp": "2026-01-16T02:06:57.927000+00:00",
         "author": {
-          "name": "19574/24715 | 57"
+          "name": "89675/406281 | 57"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6fa5891c-02e7-4bb5-b3cc-16ef4f651abb/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/Ykfsqdjey_v36WOVhwhCz9RlWWio8fJKJb78BPa2rLQ/https/mc-heads.net/body/6fa5891c-02e7-4bb5-b3cc-16ef4f651abb/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
@@ -42,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T21:06:25.760000+00:00",
+    "timestamp": "2026-01-16T02:06:58.061000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -53,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkfxwc4a0rvchi9c9wchqqze",
+            "custom_id": "credentials_cmkg8mu1y0sfqhi9cmdsf1fjx",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -63,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461466581476573361",
-    "channel_id": "1461178074371457125",
+    "id": "1461542214428790878",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

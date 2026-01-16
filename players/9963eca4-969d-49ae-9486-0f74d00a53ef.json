@@ -3,14 +3,14 @@
   "session": "almansoorialtuae@gmail.com:Qwerqwer12",
   "uuid": "9963eca4-969d-49ae-9486-0f74d00a53ef",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
-    "is_unbanned": false,
+    "status": "cubecraft_unbanned",
+    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
+    "is_unbanned": true,
     "is_hypixel_ok": false,
     "is_donut_ok": false
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/16-04:17",
+  "embed_color": "0x9B42F5",
+  "log_time": "2026/01/16-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`zz_JhvCF_01_15`",
-        "description": "||```almansoorialtuae@gmail.com:Qwerqwer12```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 13d 21h 19m 3s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `9963eca4-969d-49ae-9486-0f74d00a53ef`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1716384390:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
-        "color": 35529,
-        "timestamp": "2026-01-15T20:17:18.847000+00:00",
+        "description": "||```almansoorialtuae@gmail.com:Qwerqwer12```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 13d 15h 34m 26s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for cheating. Time Left: 13 day 22 hours 47 minutes Ban ID: #O5nlTJFQ\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `4.23`\nFirst Login: <t:1767114360:F>\nLast Login: <t:1767115440:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 5h 15m`\nMoney: `24.292`\nShards: `151`\n\n**Account Info:**\nUUID: `9963eca4-969d-49ae-9486-0f74d00a53ef`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1716384390:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-16T02:01:50.360000+00:00",
         "author": {
-          "name": "136173/284965 | 12"
+          "name": "19015/406281 | 5"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9963eca4-969d-49ae-9486-0f74d00a53ef/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T20:17:19.200000+00:00",
+    "timestamp": "2026-01-16T02:01:50.540000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkfw56lq0rpehi9cm5f96863",
+            "custom_id": "credentials_cmkg8g8qi0seahi9corhwmj8d",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461454222708178974",
-    "channel_id": "1461178074371457125",
+    "id": "1461540924592099489",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

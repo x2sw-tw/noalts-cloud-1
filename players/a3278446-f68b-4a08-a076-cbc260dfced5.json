@@ -10,7 +10,7 @@
     "is_donut_ok": false
   },
   "embed_color": "0x9B42F5",
-  "log_time": "2026/01/15-11:02",
+  "log_time": "2026/01/16-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +21,11 @@
       {
         "type": "rich",
         "title": "`tzi_gi2Kc_12_29`",
-        "description": "||```trenton987654321123456789@outlook.com:withoutme1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 15d 3h 23m 38s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.31`\nFirst Login: <t:1766974080:F>\nLast Login: <t:1766974740:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 32m`\nShards: `174`\n\n**Account Info:**\nUUID: `a3278446-f68b-4a08-a076-cbc260dfced5`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "description": "||```trenton987654321123456789@outlook.com:withoutme1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 14d 4h 23m 35s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.31`\nFirst Login: <t:1766974080:F>\nLast Login: <t:1766974740:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 32m`\nShards: `174`\n\n**Account Info:**\nUUID: `a3278446-f68b-4a08-a076-cbc260dfced5`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
         "color": 10175221,
-        "timestamp": "2026-01-15T03:02:35.417000+00:00",
+        "timestamp": "2026-01-16T02:02:38.879000+00:00",
         "author": {
-          "name": "47676/75376 | 37"
+          "name": "47578/406281 | 26"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/a3278446-f68b-4a08-a076-cbc260dfced5/100/left",
@@ -45,7 +45,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T03:02:35.605000+00:00",
+    "timestamp": "2026-01-16T02:02:39.093000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +56,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkev6imz0pkuhi9cixcxsxkk",
+            "custom_id": "credentials_cmkg8ha6a0sevhi9cfkatg2fv",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +66,8 @@
         ]
       }
     ],
-    "id": "1461193825237336312",
-    "channel_id": "1461178074371457125",
+    "id": "1461541128238141693",
+    "channel_id": "1461540462585184388",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

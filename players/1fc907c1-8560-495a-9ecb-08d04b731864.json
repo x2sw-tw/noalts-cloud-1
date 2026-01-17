@@ -3,14 +3,13 @@
   "session": "outifaussone_@hotmail.com:M3nd13tta@",
   "uuid": "1fc907c1-8560-495a-9ecb-08d04b731864",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/16-17:02",
+  "log_time": "2026/01/17-18:25",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,20 +20,17 @@
       {
         "type": "rich",
         "title": "`zz_EeaRq_01_15`",
-        "description": "||```outifaussone_@hotmail.com:M3nd13tta@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 27d 23h 16m 56s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `17.80`\nFirst Login: <t:1654705200:F>\nLast Login: <t:1768366260:F>\nBedWars Stars: `8`\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 44m`\nMoney: `567.883`\nShards: `130`\n\n**Account Info:**\nUUID: `1fc907c1-8560-495a-9ecb-08d04b731864`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-16T09:02:31.394000+00:00",
+        "description": "||```outifaussone_@hotmail.com:M3nd13tta@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 21h 54m 21s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `17.80`\nFirst Login: <t:1654705200:F>\nLast Login: <t:1768366260:F>\nBedWars Stars: `8`\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 44m`\nMoney: `567.883`\nShards: `130`\n\n**Account Info:**\nUUID: `1fc907c1-8560-495a-9ecb-08d04b731864`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1654652419:F>\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-17T10:25:05.671000+00:00",
         "author": {
-          "name": "4881/4882 | 23"
+          "name": "317960/349523 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1fc907c1-8560-495a-9ecb-08d04b731864/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/av0RoApAHYcCRAHuKbr8YpoHPI7qs8qvWo8BJeJUDqI/https/mc-heads.net/body/1fc907c1-8560-495a-9ecb-08d04b731864/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "CwiGCgAraH+0V0hXf6j0uQZYinpxZWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
@@ -45,7 +41,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T09:02:39.930000+00:00",
+    "timestamp": "2026-01-17T10:25:05.859000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +52,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgnh8u70t4fhi9c94z2oe1x",
+            "custom_id": "credentials_cmki5va9503h4hiaqukmmtoel",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +62,8 @@
         ]
       }
     ],
-    "id": "1461646828209438794",
-    "channel_id": "1461540462585184388",
+    "id": "1462029960804962439",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

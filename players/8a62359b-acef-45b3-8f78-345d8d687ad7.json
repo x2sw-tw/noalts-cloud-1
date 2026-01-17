@@ -1,16 +1,15 @@
 {
-  "name": "Malegio",
+  "name": "HazelMoor",
   "session": "marciscrying@outlook.com:Marsam04!",
   "uuid": "8a62359b-acef-45b3-8f78-345d8d687ad7",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/16-19:01",
+  "log_time": "2026/01/17-20:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,12 +19,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`Malegio`",
-        "description": "||```marciscrying@outlook.com:Marsam04!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `8a62359b-acef-45b3-8f78-345d8d687ad7`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1663949008:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-16T11:01:47.346000+00:00",
+        "title": "`HazelMoor`",
+        "description": "||```marciscrying@outlook.com:Marsam04!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 56m`\nMoney: `1.424`\nShards: `1092`\n\n**Account Info:**\nUUID: `8a62359b-acef-45b3-8f78-345d8d687ad7`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1663949008:F>\nOther Games: `Minecraft Bedrock`",
+        "color": 35529,
+        "timestamp": "2026-01-17T12:03:05.508000+00:00",
         "author": {
-          "name": "3536/3541 | 10"
+          "name": "47903/163831 | 6"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/8a62359b-acef-45b3-8f78-345d8d687ad7/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "C/iFAgAruJcFpkWMn/UInQZYmXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T11:01:54.109000+00:00",
+    "timestamp": "2026-01-17T12:03:05.715000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgrqmet0tfuhi9ci9q4k41g",
+            "custom_id": "credentials_cmki9db6303qihiaq8dpqq48h",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461676835011170501",
-    "channel_id": "1461540462585184388",
+    "id": "1462054622708633650",
+    "channel_id": "1461902899687981117",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

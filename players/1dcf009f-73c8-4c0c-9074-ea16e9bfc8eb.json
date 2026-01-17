@@ -3,14 +3,13 @@
   "session": "ajmi.saoud@gmail.com:sFEA-2007",
   "uuid": "1dcf009f-73c8-4c0c-9074-ea16e9bfc8eb",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/15-02:04",
+  "log_time": "2026/01/17-17:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`NotAuraGaming`",
-        "description": "||```ajmi.saoud@gmail.com:sFEA-2007```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 17 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 7h 39m`\nMoney: `3`\nShards: `460`\n\n**Account Info:**\nUUID: `1dcf009f-73c8-4c0c-9074-ea16e9bfc8eb`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "description": "||```ajmi.saoud@gmail.com:sFEA-2007```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 hours and 43 minutes\n\n**Hypixel General Info:**\nLevel: `2.11`\nFirst Login: <t:1702627800:F>\nLast Login: <t:1767912600:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 7h 39m`\nMoney: `3`\nShards: `460`\n\n**Account Info:**\nUUID: `1dcf009f-73c8-4c0c-9074-ea16e9bfc8eb`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-14T18:04:47.380000+00:00",
+        "timestamp": "2026-01-17T09:02:27.495000+00:00",
         "author": {
-          "name": "6794/6795 | 41"
+          "name": "17946/17962 | 45"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1dcf009f-73c8-4c0c-9074-ea16e9bfc8eb/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "JAiKCgIrw0wGxqh7r7X3SgZYinlxZXY=",
+          "placeholder": "khiSEgIrhW+lWWqFb2r3pgZYiXqAVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-14T18:04:54.195000+00:00",
+    "timestamp": "2026-01-17T09:02:35.148000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkebywfq0ofehi9cnv89mepj",
+            "custom_id": "credentials_cmki2x0hw03azhiaq9lkxrfs2",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461058511076065331",
-    "channel_id": "1460815706051444766",
+    "id": "1462009196017877128",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,14 +3,13 @@
   "session": "adryanantonio138@gmail.com:adryan2011",
   "uuid": "583fada6-a94b-4351-9968-ffedf660461d",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/16-10:14",
+  "log_time": "2026/01/17-11:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ravewWUSGuth`",
-        "description": "||```adryanantonio138@gmail.com:adryan2011```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 23d 6m 14s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 7 hours\n\n**Hypixel General Info:**\nLevel: `3.09`\nFirst Login: <t:1767898140:F>\nLast Login: <t:1767925140:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `583fada6-a94b-4351-9968-ffedf660461d`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1760803452:F>\nOther Games: `Minecraft Bedrock`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "description": "||```adryanantonio138@gmail.com:adryan2011```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 21d 23h 18m 23s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 6 hours\n\n**Hypixel General Info:**\nLevel: `3.09`\nFirst Login: <t:1767898140:F>\nLast Login: <t:1767925140:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `583fada6-a94b-4351-9968-ffedf660461d`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-16T02:14:57.202000+00:00",
+        "timestamp": "2026-01-17T03:02:45.479000+00:00",
         "author": {
-          "name": "137355/406281 | 82"
+          "name": "6424/6513 | 22"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/583fada6-a94b-4351-9968-ffedf660461d/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "D3mGEggrqHoHebe3hXBaBwZYmXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T02:14:57.533000+00:00",
+    "timestamp": "2026-01-17T03:02:48.130000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkg8x3zl0sgwhi9cwk73chp1",
+            "custom_id": "credentials_cmkhq2fpm02rehiaq6ieu7p2z",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461544225479987377",
-    "channel_id": "1461540462585184388",
+    "id": "1461918653502193805",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -3,14 +3,13 @@
   "session": "mariocppaiva@hotmail.com:D02m02a7.",
   "uuid": "85e6452b-6ee8-48ec-9375-77847d70470b",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/16-10:02",
+  "log_time": "2026/01/17-17:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhxeVEk0111`",
-        "description": "||```mariocppaiva@hotmail.com:D02m02a7.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `2.98`\nFirst Login: <t:1768147020:F>\nLast Login: <t:1768212180:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 4m`\nShards: `125`\n\n**Account Info:**\nUUID: `85e6452b-6ee8-48ec-9375-77847d70470b`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768136882:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "description": "||```mariocppaiva@hotmail.com:D02m02a7.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> You are already connected to this proxy!\n\n**Hypixel General Info:**\nLevel: `2.98`\nFirst Login: <t:1768147020:F>\nLast Login: <t:1768212180:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 4m`\nShards: `125`\n\n**Account Info:**\nUUID: `85e6452b-6ee8-48ec-9375-77847d70470b`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-16T02:02:50.302000+00:00",
+        "timestamp": "2026-01-17T09:02:21.144000+00:00",
         "author": {
-          "name": "52285/406281 | 29"
+          "name": "17938/17962 | 33"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/85e6452b-6ee8-48ec-9375-77847d70470b/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "TKeFCgYr5pUEx+Mpb5/i9gZYmomBZXY=",
+          "placeholder": "iSiCCgIryp8gRtHHk6AJSQZYmomBZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T02:02:50.607000+00:00",
+    "timestamp": "2026-01-17T09:02:29.390000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkg8hj0f0sezhi9c9muuob8k",
+            "custom_id": "credentials_cmki2wvlj03athiaqydvgquqw",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461541176531489022",
-    "channel_id": "1461540462585184388",
+    "id": "1462009171867209932",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

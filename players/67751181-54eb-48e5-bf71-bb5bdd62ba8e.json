@@ -3,14 +3,13 @@
   "session": "v-kerkin@hotmail.com:Beagle2026",
   "uuid": "67751181-54eb-48e5-bf71-bb5bdd62ba8e",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/16-10:10",
+  "log_time": "2026/01/17-12:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhpZEdh0112`",
-        "description": "||```v-kerkin@hotmail.com:Beagle2026```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 14 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768220760:F>\nLast Login: <t:1768224780:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 33m`\nMoney: `484.481`\nShards: `456`\n\n**Account Info:**\nUUID: `67751181-54eb-48e5-bf71-bb5bdd62ba8e`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768217458:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "description": "||```v-kerkin@hotmail.com:Beagle2026```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Can you please make a ticket in the Donut SMP Discord? discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 13 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768220760:F>\nLast Login: <t:1768224780:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 33m`\nMoney: `484.481`\nShards: `456`\n\n**Account Info:**\nUUID: `67751181-54eb-48e5-bf71-bb5bdd62ba8e`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768217458:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-16T02:10:28.870000+00:00",
+        "timestamp": "2026-01-17T04:02:06.872000+00:00",
         "author": {
-          "name": "112319/406281 | 67"
+          "name": "4542/4542 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/67751181-54eb-48e5-bf71-bb5bdd62ba8e/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T02:10:28.990000+00:00",
+    "timestamp": "2026-01-17T04:02:07.088000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkg8rctl0sg7hi9ctgjzjx7i",
+            "custom_id": "credentials_cmkhs6rp602vihiaqfnv0d0qb",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461543099128872981",
-    "channel_id": "1461540462585184388",
+    "id": "1461933580853968896",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

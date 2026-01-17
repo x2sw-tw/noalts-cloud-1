@@ -3,14 +3,13 @@
   "session": "zmud4825@outlook.com:Zarrick48$",
   "uuid": "6589e869-7823-4571-a3a9-b3b2cf7b726b",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/16-21:02",
+  "log_time": "2026/01/18-06:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,20 +20,17 @@
       {
         "type": "rich",
         "title": "`LinhXZofW0112`",
-        "description": "||```zmud4825@outlook.com:Zarrick48$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 18 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768159080:F>\nLast Login: <t:1768161960:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 3m`\nMoney: `220`\nShards: `102`\n\n**Account Info:**\nUUID: `6589e869-7823-4571-a3a9-b3b2cf7b726b`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768158303:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
+        "description": "||```zmud4825@outlook.com:Zarrick48$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 1 day and 9 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768159080:F>\nLast Login: <t:1768161960:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 3m`\nMoney: `220`\nShards: `102`\n\n**Account Info:**\nUUID: `6589e869-7823-4571-a3a9-b3b2cf7b726b`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
         "color": 16756290,
-        "timestamp": "2026-01-16T13:02:20.021000+00:00",
+        "timestamp": "2026-01-17T22:02:52.676000+00:00",
         "author": {
-          "name": "20318/23715 | 3"
+          "name": "37686/37706 | 13"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6589e869-7823-4571-a3a9-b3b2cf7b726b/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/3OXSGwxKIDBpqIa9WL76YHqAQNHtkNti0d5gfKT6-GU/https/mc-heads.net/body/6589e869-7823-4571-a3a9-b3b2cf7b726b/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
@@ -45,7 +41,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T13:02:20.242000+00:00",
+    "timestamp": "2026-01-17T22:02:52.936000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +52,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgw1n6g0tqphi9c7ei3utf2",
+            "custom_id": "credentials_cmkiusn1j063chiaqxbvak6ao",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +62,8 @@
         ]
       }
     ],
-    "id": "1461707143609581833",
-    "channel_id": "1461540462585184388",
+    "id": "1462205564053622865",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

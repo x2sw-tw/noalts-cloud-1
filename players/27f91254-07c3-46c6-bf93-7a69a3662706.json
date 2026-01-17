@@ -2,8 +2,14 @@
   "name": "MeowDaJOD",
   "session": "laiyouhua980315@gmail.com:0502momo",
   "uuid": "27f91254-07c3-46c6-bf93-7a69a3662706",
-  "hypixel": "unknown",
-  "log_time": "2026/01/08-10:41",
+  "ban_status": {
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
+  },
+  "log_time": "2026/01/18-00:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,11 +20,11 @@
       {
         "type": "rich",
         "title": "`MeowDaJOD`",
-        "description": "||```laiyouhua980315@gmail.com:0502momo```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `4.48`\nFirst Login: <t:1762949640:F>\nLast Login: <t:1767783060:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `27f91254-07c3-46c6-bf93-7a69a3662706`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1762932850:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "description": "||```laiyouhua980315@gmail.com:0502momo```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `4.48`\nFirst Login: <t:1762949640:F>\nLast Login: <t:1767783060:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `27f91254-07c3-46c6-bf93-7a69a3662706`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-08T02:41:19.444000+00:00",
+        "timestamp": "2026-01-17T16:03:12.368000+00:00",
         "author": {
-          "name": "140690/238617 | 185"
+          "name": "23933/52142 | 15"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/27f91254-07c3-46c6-bf93-7a69a3662706/100/left",
@@ -26,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "mhiOCgIruJoGWdbZroD6mQZYmoqBZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -38,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T02:41:19.653000+00:00",
+    "timestamp": "2026-01-17T16:03:12.457000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4uc7f1026shi9c5p3sd5zo",
+            "custom_id": "credentials_cmkihy3ip04rvhiaqanseh3fq",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +65,8 @@
         ]
       }
     ],
-    "id": "1458651758447562857",
-    "channel_id": "1458641408142348339",
+    "id": "1462115048963969305",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

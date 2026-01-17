@@ -1,16 +1,15 @@
 {
-  "name": "brnnn7z",
+  "name": "rave62Euv3d4",
   "session": "bhatab8@outlook.com:Bruno20102",
   "uuid": "af5c1526-f4c5-40eb-9cc8-fd423b235914",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/16-19:01",
+  "log_time": "2026/01/17-20:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,12 +19,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`brnnn7z`",
-        "description": "||```bhatab8@outlook.com:Bruno20102```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `29.64`\nFirst Login: <t:1609787220:F>\nLast Login: <t:1687495980:F>\nBedWars Stars: `17`\n\n**Account Info:**\nUUID: `af5c1526-f4c5-40eb-9cc8-fd423b235914`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-16T11:01:44.488000+00:00",
+        "title": "`rave62Euv3d4`",
+        "description": "||```bhatab8@outlook.com:Bruno20102```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 11 hours\n\n**Hypixel General Info:**\nLevel: `29.64`\nFirst Login: <t:1609787220:F>\nLast Login: <t:1687495980:F>\nBedWars Stars: `17`\n\n**Account Info:**\nUUID: `af5c1526-f4c5-40eb-9cc8-fd423b235914`\nMinecraft Capes: `Vanilla, Pan, Common, 15th Anniversary`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1609786976:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "color": 16756290,
+        "timestamp": "2026-01-17T12:02:50.317000+00:00",
         "author": {
-          "name": "3534/3541 | 15"
+          "name": "40527/163831 | 5"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/af5c1526-f4c5-40eb-9cc8-fd423b235914/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "C/iFAgAruJcFpkWMn/UInQZYmXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T11:01:53.150000+00:00",
+    "timestamp": "2026-01-17T12:02:50.510000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgrqk7c0tfphi9chtq9hn1f",
+            "custom_id": "credentials_cmki9czh003qfhiaqx58ytcee",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461676830988963993",
-    "channel_id": "1461540462585184388",
+    "id": "1462054558934241325",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

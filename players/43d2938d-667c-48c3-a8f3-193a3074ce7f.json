@@ -3,14 +3,13 @@
   "session": "yeaboyyy234567@gmail.com:Brennanrojas09$",
   "uuid": "43d2938d-667c-48c3-a8f3-193a3074ce7f",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/15-10:02",
+  "log_time": "2026/01/17-17:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`IRQ_HAMMODY`",
-        "description": "||```yeaboyyy234567@gmail.com:Brennanrojas09$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.61`\nFirst Login: <t:1682990760:F>\nLast Login: <t:1767877440:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `2d 12h 10m`\nMoney: `4`\nShards: `132`\n\n**Account Info:**\nUUID: `43d2938d-667c-48c3-a8f3-193a3074ce7f`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-15T02:02:17.677000+00:00",
+        "description": "||```yeaboyyy234567@gmail.com:Brennanrojas09$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 11 hours\n\n**Hypixel General Info:**\nLevel: `2.61`\nFirst Login: <t:1682990760:F>\nLast Login: <t:1767877440:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `2d 12h 10m`\nMoney: `4`\nShards: `132`\n\n**Account Info:**\nUUID: `43d2938d-667c-48c3-a8f3-193a3074ce7f`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
+        "color": 16756290,
+        "timestamp": "2026-01-17T09:02:40.833000+00:00",
         "author": {
-          "name": "3464/12951 | 28"
+          "name": "17957/17962 | 39"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/43d2938d-667c-48c3-a8f3-193a3074ce7f/100/left",
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T02:02:25.264000+00:00",
+    "timestamp": "2026-01-17T09:02:47.711000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmket0z540pdwhi9cvbih4jf4",
+            "custom_id": "credentials_cmki2xasg03bbhiaqap9hg8iz",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461178682369376348",
-    "channel_id": "1461178074371457125",
+    "id": "1462009248710922425",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

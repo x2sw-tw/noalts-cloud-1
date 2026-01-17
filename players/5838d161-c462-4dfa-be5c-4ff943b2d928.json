@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/17-06:02",
+  "log_time": "2026/01/18-07:15",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`vertex_JUBwu_`",
-        "description": "||```desmondnigel1@hotmail.com:hungry2020```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Account Info:**\nUUID: `5838d161-c462-4dfa-be5c-4ff943b2d928`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1763431987:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "description": "||```desmondnigel1@hotmail.com:hungry2020```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNKNOWN`\n> You are not logged into your Minecraft account. If you are logged into your Minecraft account, try restarting your Minecraft client.\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Account Info:**\nUUID: `5838d161-c462-4dfa-be5c-4ff943b2d928`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1763431987:F>\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-16T22:02:44.185000+00:00",
+        "timestamp": "2026-01-17T23:15:14.127000+00:00",
         "author": {
-          "name": "17685/30595 | 9"
+          "name": "105622/416812 | 19"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/5838d161-c462-4dfa-be5c-4ff943b2d928/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T22:02:44.376000+00:00",
+    "timestamp": "2026-01-17T23:15:14.477000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkhfcltz0221hiaq3a7wji0z",
+            "custom_id": "credentials_cmkixdp1i067yhiaqeiixxqd6",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461843140284645623",
-    "channel_id": "1461540462585184388",
+    "id": "1462223773796274216",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

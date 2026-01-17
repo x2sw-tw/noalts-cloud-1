@@ -3,14 +3,13 @@
   "session": "emrakilic2005@hotmail.com:Scorpion##2026",
   "uuid": "f206ba4c-b6b6-4e26-8adf-ad708294b658",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/16-10:57",
+  "log_time": "2026/01/17-19:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ravetCSpiWx1`",
-        "description": "||```emrakilic2005@hotmail.com:Scorpion##2026```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 357d 29m 20s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 18m`\n\n**Account Info:**\nUUID: `f206ba4c-b6b6-4e26-8adf-ad708294b658`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1693263326:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-16T02:57:04.898000+00:00",
+        "description": "||```emrakilic2005@hotmail.com:Scorpion##2026```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 355d 16h 23m 34s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 19 hours\n\n**Hypixel General Info:**\nLevel: `4.96`\nFirst Login: <t:1710017460:F>\nLast Login: <t:1768274520:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 18m`\n\n**Account Info:**\nUUID: `f206ba4c-b6b6-4e26-8adf-ad708294b658`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1693263326:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "color": 16756290,
+        "timestamp": "2026-01-17T11:02:46.334000+00:00",
         "author": {
-          "name": "323636/406281 | 202"
+          "name": "47864/101946 | 3"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/f206ba4c-b6b6-4e26-8adf-ad708294b658/100/left",
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T02:57:05.348000+00:00",
+    "timestamp": "2026-01-17T11:02:46.517000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgafaaf0slshi9cc0ca2wv4",
+            "custom_id": "credentials_cmki77qlm03k5hiaq0lomjdd1",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461554827904418030",
-    "channel_id": "1461540462585184388",
+    "id": "1462039442691854500",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/17-03:13",
+  "log_time": "2026/01/17-10:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`meta3llicSnchar`",
-        "description": "||```dbahamon77@hotmail.com:Dbdb0718.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `6872d2a1-112b-4dec-9327-dc3af8b02ce6`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `Unknown`\nName Changeable: `No`\nAccount Creation Date: <t:1768584819:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-16T19:13:24.852000+00:00",
+        "description": "||```dbahamon77@hotmail.com:Dbdb0718.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 19h 32s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 18 hours\n\n**Hypixel General Info:**\nLevel: `2.44`\nFirst Login: <t:1768585680:F>\nLast Login: <t:1768597140:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `405`\n\n**Account Info:**\nUUID: `6872d2a1-112b-4dec-9327-dc3af8b02ce6`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
+        "color": 35529,
+        "timestamp": "2026-01-17T02:03:12.178000+00:00",
         "author": {
-          "name": "105040/183820 | 20"
+          "name": "21755/69464 | 46"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6872d2a1-112b-4dec-9327-dc3af8b02ce6/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T19:13:25.300000+00:00",
+    "timestamp": "2026-01-17T02:03:12.325000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkh9auz401cmhiaqkiqrq0rn",
+            "custom_id": "credentials_cmkhnxuj202mfhiaq1wwt1u4y",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461800530031542434",
-    "channel_id": "1461540462585184388",
+    "id": "1461903655488851999",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

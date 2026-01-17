@@ -3,14 +3,13 @@
   "session": "eduardonishimatsu@hotmail.com:Dududancer25",
   "uuid": "c4757b24-d664-4a35-9639-86bfe3b7e0b3",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/16-17:02",
+  "log_time": "2026/01/17-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ABBAS_XI`",
-        "description": "||```eduardonishimatsu@hotmail.com:Dududancer25```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Hypixel General Info:**\nRank: `MVP+`\nLevel: `22.29`\nFirst Login: <t:1591576080:F>\nLast Login: <t:1767894240:F>\nBedWars Stars: `10`\n\n**Account Info:**\nUUID: `c4757b24-d664-4a35-9639-86bfe3b7e0b3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
+        "description": "||```eduardonishimatsu@hotmail.com:Dududancer25```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNKNOWN`\n> You are not logged into your Minecraft account. If you are logged into your Minecraft account, try restarting your Minecraft client.\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Hypixel General Info:**\nRank: `MVP+`\nLevel: `22.29`\nFirst Login: <t:1591576080:F>\nLast Login: <t:1767894240:F>\nBedWars Stars: `10`\n\n**Account Info:**\nUUID: `c4757b24-d664-4a35-9639-86bfe3b7e0b3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-16T09:02:33.562000+00:00",
+        "timestamp": "2026-01-17T02:02:44.151000+00:00",
         "author": {
-          "name": "4881/4882 | 16"
+          "name": "15744/69464 | 27"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c4757b24-d664-4a35-9639-86bfe3b7e0b3/100/left",
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T09:02:40.246000+00:00",
+    "timestamp": "2026-01-17T02:02:51.600000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgnhaie0t4hhi9cbd1lxozh",
+            "custom_id": "credentials_cmkhnx8wt02lxhiaqjokettz1",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461646829534969868",
-    "channel_id": "1461540462585184388",
+    "id": "1461903568561766583",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

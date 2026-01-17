@@ -1,16 +1,15 @@
 {
   "name": "LinhCWAVV0107",
-  "session": "fininhold@hotmail.com:M@ndruva_1997",
+  "session": "fininhold@hotmail.com:Mandruva_1997",
   "uuid": "9c6304c0-0f1b-4531-80cf-a010fbbd2ae3",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/13-03:03",
+  "log_time": "2026/01/18-01:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhCWAVV0107`",
-        "description": "||```fininhold@hotmail.com:M@ndruva_1997```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 24d 18h 21m 41s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 5 hours\n\n**Hypixel General Info:**\nLevel: `4.93`\nFirst Login: <t:1767783000:F>\nLast Login: <t:1767791100:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `101`\n\n**Account Info:**\nUUID: `9c6304c0-0f1b-4531-80cf-a010fbbd2ae3`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767781230:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "description": "||```fininhold@hotmail.com:Mandruva_1997```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 19d 20h 21m 53s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `4.93`\nFirst Login: <t:1767783000:F>\nLast Login: <t:1767791100:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `101`\n\n**Account Info:**\nUUID: `9c6304c0-0f1b-4531-80cf-a010fbbd2ae3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-12T19:03:37.444000+00:00",
+        "timestamp": "2026-01-17T17:03:25.842000+00:00",
         "author": {
-          "name": "39074/178214 | 3"
+          "name": "10069/10092 | 19"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9c6304c0-0f1b-4531-80cf-a010fbbd2ae3/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-12T19:03:37.675000+00:00",
+    "timestamp": "2026-01-17T17:03:26.022000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkbj6uwx0ix6hi9c7hpauzu4",
+            "custom_id": "credentials_cmkik3jrr051hhiaqgki9d5cc",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1460348513891258419",
-    "channel_id": "1460090945633779733",
+    "id": "1462130205354365214",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

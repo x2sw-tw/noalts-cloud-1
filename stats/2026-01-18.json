@@ -1,12 +1,12 @@
 {
   "date": "2026-01-18",
-  "total_logs": 170,
+  "total_logs": 171,
   "ban_status": {
     "hypixel_unbanned": 0,
     "donut_unbanned": 0,
     "cubecraft_unbanned": 0,
     "all_banned": 0,
-    "unknown": 170
+    "unknown": 171
   },
   "unique_players": [
     "6589e869-7823-4571-a3a9-b3b2cf7b726b",
@@ -41,8 +41,8 @@
     "246ad110-764e-4841-9dbb-ab9f0e8b3480",
     "d2a1c70b-d4e5-4fbe-ac3d-a94d24e12c76",
     "f0dc134a-9295-458a-94b0-fecb3c1fc1a2",
-    "a5abab97-b9a5-4449-b41c-8483c592b4e4",
     "5c2592d1-d0b0-466e-912e-55492fc1dea5",
+    "a5abab97-b9a5-4449-b41c-8483c592b4e4",
     "27f91254-07c3-46c6-bf93-7a69a3662706",
     "1630996a-9084-4022-b7cd-12d6023eb16a",
     "b029d50f-d5ac-45d7-9cb1-bf69ae1a211e",
@@ -73,7 +73,6 @@
     "fdc21e88-c1c3-421a-a63a-a60f7ecec951",
     "a14a0faa-0442-4b78-922a-7695bb28400d",
     "3d95f1ea-53f8-4e5a-bc0f-899d2fcfa04e",
-    "6ae9f26b-d7a9-44f7-b533-2506216d8277",
     "de8eca72-049b-402f-8cbe-41d759f98561",
     "fb418ccc-1627-4fd7-ac0e-177ba5615417",
     "37aeee54-5ed3-431e-8450-9bceb6d53167",
@@ -125,6 +124,7 @@
     "c55c07f0-27f2-4f53-8e09-d3bdb5a7d569",
     "46b9ae08-af50-4740-ba31-ac9dd7919cdf",
     "04df420f-82ed-4486-ab9e-da3152984468",
+    "58e562a0-16cd-4653-b999-8405baf40a66",
     "67e4162f-91e8-49f5-b5e7-21f13c197698",
     "3e624986-765c-45e7-a4e1-02a9ef410dab",
     "c347dfa1-2298-4aa0-bec0-96415fb45638",
@@ -168,6 +168,7 @@
     "e9761112-5676-4249-9111-d4f443a38087",
     "ebd05e5d-17d1-4633-9113-861d73dc5ca4",
     "02901c03-32e8-4814-b438-a6822fc23f9c",
+    "a770cbca-a787-41bc-913e-e0ba6dc12a4a",
     "5ea5801a-3975-431b-b592-a78881af37fc",
     "e7c4d602-7830-49c3-9032-a9195701c951",
     "ac547ced-4159-4bca-bb61-f0ec64fd2c74",
@@ -175,7 +176,7 @@
     "aeefa0dd-ccaf-4059-9926-dc0973d5609e",
     "70a0f522-f360-48ab-98c9-fa9862125c19",
     "2c6745a8-47d8-48c6-82c7-4c9b1b22fd00",
-    "58e562a0-16cd-4653-b999-8405baf40a66",
+    "6ae9f26b-d7a9-44f7-b533-2506216d8277",
     "bb006c66-5e7e-420c-82c3-bdfa269f856d"
   ]
 }

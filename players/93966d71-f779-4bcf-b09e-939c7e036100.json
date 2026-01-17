@@ -1,16 +1,15 @@
 {
   "name": "shrillIor1mal",
-  "session": "hi_ckey@hotmail.com:Peachwet0045",
+  "session": "hi_ckey@hotmail.com:Peachwet1977",
   "uuid": "93966d71-f779-4bcf-b09e-939c7e036100",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/14-10:02",
+  "log_time": "2026/01/17-21:13",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,20 +20,17 @@
       {
         "type": "rich",
         "title": "`shrillIor1mal`",
-        "description": "||```hi_ckey@hotmail.com:Peachwet0045```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 14h 4m 43s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.84`\nFirst Login: <t:1768308840:F>\nLast Login: <t:1768320240:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 8m`\nMoney: `1.442`\nShards: `11`\n\n**Account Info:**\nUUID: `93966d71-f779-4bcf-b09e-939c7e036100`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-14T02:02:17.776000+00:00",
+        "description": "||```hi_ckey@hotmail.com:Peachwet1977```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 2h 53m 46s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `3.84`\nFirst Login: <t:1768308840:F>\nLast Login: <t:1768320240:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 35m`\nMoney: `0`\nShards: `389`\n\n**Account Info:**\nUUID: `93966d71-f779-4bcf-b09e-939c7e036100`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768307884:F>\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-17T13:13:21.684000+00:00",
         "author": {
-          "name": "13825/196134 | 10"
+          "name": "115139/147986 | 33"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/93966d71-f779-4bcf-b09e-939c7e036100/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/AYgmcqIO_8lv0TyYpuTpNv8mPnEer4fK8ItqKzqx3rg/https/mc-heads.net/body/93966d71-f779-4bcf-b09e-939c7e036100/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
@@ -45,7 +41,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-14T02:02:17.958000+00:00",
+    "timestamp": "2026-01-17T13:13:22.269000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +52,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkddl4k60mmnhi9czbnl1o8z",
+            "custom_id": "credentials_cmkibvons03yrhiaq202o6mnt",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +62,8 @@
         ]
       }
     ],
-    "id": "1460816263860322525",
-    "channel_id": "1460815706051444766",
+    "id": "1462072308217942200",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

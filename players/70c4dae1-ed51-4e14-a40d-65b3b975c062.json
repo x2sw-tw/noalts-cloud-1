@@ -3,14 +3,13 @@
   "session": "happydaniel2023@outlook.com:Lyk-20112011",
   "uuid": "70c4dae1-ed51-4e14-a40d-65b3b975c062",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/16-11:05",
+  "log_time": "2026/01/17-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`n42_post_gz4`",
-        "description": "||```happydaniel2023@outlook.com:Lyk-20112011```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s You are temporarily banned for joining on an another account while being banned. Date: 27/12/2025 Ban ID: #S4Z2K3qF\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 4 hours\n\n**Hypixel General Info:**\nLevel: `2.79`\nFirst Login: <t:1699774800:F>\nLast Login: <t:1759954980:F>\nBedWars Stars: `4`\n\n**Account Info:**\nUUID: `70c4dae1-ed51-4e14-a40d-65b3b975c062`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1699774677:F>\nOther Games: `Minecraft Bedrock`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "description": "||```happydaniel2023@outlook.com:Lyk-20112011```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s You are temporarily banned for joining on an another account while being banned. Date: 27/12/2025 Ban ID: #S4Z2K3qF\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> An error occurred obtaining your player ID (bungeecord231)\n\n**Hypixel General Info:**\nLevel: `2.79`\nFirst Login: <t:1699774800:F>\nLast Login: <t:1759954980:F>\nBedWars Stars: `4`\n\n**Account Info:**\nUUID: `70c4dae1-ed51-4e14-a40d-65b3b975c062`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
         "color": 16756290,
-        "timestamp": "2026-01-16T03:05:30.744000+00:00",
+        "timestamp": "2026-01-17T02:02:50.572000+00:00",
         "author": {
-          "name": "68315/70564 | 10"
+          "name": "18948/69464 | 32"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/70c4dae1-ed51-4e14-a40d-65b3b975c062/100/left",
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T03:05:31.093000+00:00",
+    "timestamp": "2026-01-17T02:02:52.262000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgaq4oc0smjhi9c1qfvtjjr",
+            "custom_id": "credentials_cmkhnxdv202m0hiaq38ze3jqt",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461556949152956418",
-    "channel_id": "1461540462585184388",
+    "id": "1461903571338399918",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

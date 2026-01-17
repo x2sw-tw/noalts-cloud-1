@@ -3,14 +3,13 @@
   "session": "oxygen12@live.com:Ilikecows12!",
   "uuid": "0245ba4c-6d3a-4c1a-9e4c-54455cebd255",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/16-19:01",
+  "log_time": "2026/01/18-07:50",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhPpgFP0116`",
-        "description": "||```oxygen12@live.com:Ilikecows12!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 23 hours\n\n**Hypixel General Info:**\nLevel: `2.12`\nFirst Login: <t:1768523520:F>\nLast Login: <t:1768560720:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 4m`\nShards: `56`\n\n**Account Info:**\nUUID: `0245ba4c-6d3a-4c1a-9e4c-54455cebd255`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-16T11:01:44.430000+00:00",
+        "description": "||```oxygen12@live.com:Ilikecows12!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 11h 39m 40s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 10 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 6m`\nShards: `895`\n\n**Account Info:**\nUUID: `0245ba4c-6d3a-4c1a-9e4c-54455cebd255`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768519820:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-17T23:50:17.815000+00:00",
         "author": {
-          "name": "3534/3541 | 16"
+          "name": "231652/416812 | 41"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0245ba4c-6d3a-4c1a-9e4c-54455cebd255/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T11:01:47.890000+00:00",
+    "timestamp": "2026-01-17T23:50:18.074000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgrqk5q0tfnhi9cil2uohcf",
+            "custom_id": "credentials_cmkiyms8y06bghiaqrlhsubck",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461676808926920775",
-    "channel_id": "1461540462585184388",
+    "id": "1462232596921712706",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

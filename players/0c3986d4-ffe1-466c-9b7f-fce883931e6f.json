@@ -3,14 +3,13 @@
   "session": "irynapetryna@gmail.com:Loloco2011?",
   "uuid": "0c3986d4-ffe1-466c-9b7f-fce883931e6f",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/16-10:06",
+  "log_time": "2026/01/17-17:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`af1_msmc_zyy`",
-        "description": "||```irynapetryna@gmail.com:Loloco2011?```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.00`\nFirst Login: <t:1640612520:F>\nLast Login: <t:1768169160:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `0c3986d4-ffe1-466c-9b7f-fce883931e6f`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1640116784:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-16T02:06:55.673000+00:00",
+        "description": "||```irynapetryna@gmail.com:Loloco2011?```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 13d 4h 2m 29s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1.00`\nFirst Login: <t:1640612520:F>\nLast Login: <t:1768169160:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `0c3986d4-ffe1-466c-9b7f-fce883931e6f`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1640116784:F>\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-17T09:02:02.824000+00:00",
         "author": {
-          "name": "89430/406281 | 55"
+          "name": "13634/17962 | 10"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0c3986d4-ffe1-466c-9b7f-fce883931e6f/100/left",
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T02:06:55.904000+00:00",
+    "timestamp": "2026-01-17T09:02:03.026000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkg8msbe0sfphi9cs5znawbu",
+            "custom_id": "credentials_cmki2whgr03a3hiaqljkaohre",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461542205381546237",
-    "channel_id": "1461540462585184388",
+    "id": "1462009061288575083",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

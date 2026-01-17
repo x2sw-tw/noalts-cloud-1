@@ -3,14 +3,13 @@
   "session": "adnan1057@hotmail.com:Ac8057ac1",
   "uuid": "0818199d-e97b-42d8-bbd4-b6376203a083",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/16-20:02",
+  "log_time": "2026/01/17-10:03",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhyKGyV0116`",
-        "description": "||```adnan1057@hotmail.com:Ac8057ac1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.4`\nFirst Login: <t:1752948180:F>\nLast Login: <t:1768564800:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `0818199d-e97b-42d8-bbd4-b6376203a083`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-16T12:02:15.201000+00:00",
+        "description": "||```adnan1057@hotmail.com:Ac8057ac1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `5.14`\nFirst Login: <t:1752948180:F>\nLast Login: <t:1768578420:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 17h 15m`\nMoney: `769`\nShards: `4`\n\n**Account Info:**\nUUID: `0818199d-e97b-42d8-bbd4-b6376203a083`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-17T02:03:21.613000+00:00",
         "author": {
-          "name": "23438/23443 | 29"
+          "name": "21981/69464 | 51"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0818199d-e97b-42d8-bbd4-b6376203a083/100/left",
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T12:02:15.423000+00:00",
+    "timestamp": "2026-01-17T02:03:27.556000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgtwdoh0tlghi9c7iav4o3m",
+            "custom_id": "credentials_cmkhny1t802mxhiaqif0phxjd",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461692023902830655",
-    "channel_id": "1461540462585184388",
+    "id": "1461903719372165131",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

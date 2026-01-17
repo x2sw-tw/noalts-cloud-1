@@ -3,14 +3,13 @@
   "session": "millermarquis7@outlook.com:Mm1080439$$$",
   "uuid": "0ce57221-597a-456e-84b4-4fa2c89ff217",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/16-10:02",
+  "log_time": "2026/01/17-11:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`spora5dicundete`",
-        "description": "||```millermarquis7@outlook.com:Mm1080439$$$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 1 day\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767866520:F>\nLast Login: <t:1767866520:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 42m`\nMoney: `0`\nShards: `748`\n\n**Account Info:**\nUUID: `0ce57221-597a-456e-84b4-4fa2c89ff217`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-16T02:02:20.284000+00:00",
+        "description": "||```millermarquis7@outlook.com:Mm1080439$$$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767866520:F>\nLast Login: <t:1767866520:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 42m`\nMoney: `0`\nShards: `748`\n\n**Account Info:**\nUUID: `0ce57221-597a-456e-84b4-4fa2c89ff217`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1767864168:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-17T03:02:38.136000+00:00",
         "author": {
-          "name": "36130/406281 | 20"
+          "name": "6396/6513 | 7"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0ce57221-597a-456e-84b4-4fa2c89ff217/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "yQWCGgArb5cYhnaBZ1/55QdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T02:02:20.398000+00:00",
+    "timestamp": "2026-01-17T03:02:42.689000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkg8gvto0senhi9cde5g4ey1",
+            "custom_id": "credentials_cmkhq2a1k02r5hiaqs8zr5xd8",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461541049825624068",
-    "channel_id": "1461540462585184388",
+    "id": "1461918630680854631",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

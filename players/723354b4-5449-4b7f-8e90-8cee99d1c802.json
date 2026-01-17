@@ -3,14 +3,13 @@
   "session": "joshuadanielrolls@hotmail.com:Oilers2026*",
   "uuid": "723354b4-5449-4b7f-8e90-8cee99d1c802",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/16-12:02",
+  "log_time": "2026/01/17-10:08",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`voxerismCPLep`",
-        "description": "||```joshuadanielrolls@hotmail.com:Oilers2026*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNKNOWN`\n> You are not logged into your Minecraft account. If you are logged into your Minecraft account, try restarting your Minecraft client.\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Account Info:**\nUUID: `723354b4-5449-4b7f-8e90-8cee99d1c802`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1655290854:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "description": "||```joshuadanielrolls@hotmail.com:Oilers2026*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNKNOWN`\n> You are not logged into your Minecraft account. If you are logged into your Minecraft account, try restarting your Minecraft client.\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Account Info:**\nUUID: `723354b4-5449-4b7f-8e90-8cee99d1c802`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1655290854:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-16T04:02:09.321000+00:00",
+        "timestamp": "2026-01-17T02:08:41.640000+00:00",
         "author": {
-          "name": "19794/19795 | 8"
+          "name": "23048/69464 | 79"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/723354b4-5449-4b7f-8e90-8cee99d1c802/100/left",
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T04:02:09.666000+00:00",
+    "timestamp": "2026-01-17T02:08:41.893000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgcqywu0splhi9chkihykcv",
+            "custom_id": "credentials_cmkho4wqz02o1hiaq2z7nyc1x",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461571203801153606",
-    "channel_id": "1461540462585184388",
+    "id": "1461905037797232661",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

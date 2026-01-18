@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/17-06:04",
+  "log_time": "2026/01/18-08:14",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`raveU3XEfLI6`",
-        "description": "||```pedroandradedd@outlook.com:Herivelto```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.31`\nFirst Login: <t:1697995380:F>\nLast Login: <t:1768601040:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `ca4be895-2252-4891-ba26-a5e44d990202`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1697119534:F>\nOther Games: `Minecraft Bedrock`\n\n*Support the project and unlock extras: `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-16T22:04:57.327000+00:00",
+        "description": "||```pedroandradedd@outlook.com:Herivelto```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 22h 45m 8s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.98`\nFirst Login: <t:1697995380:F>\nLast Login: <t:1768603740:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `249`\n\n**Account Info:**\nUUID: `ca4be895-2252-4891-ba26-a5e44d990202`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1697119534:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "color": 10175221,
+        "timestamp": "2026-01-18T00:14:38.659000+00:00",
         "author": {
-          "name": "22405/30595 | 61"
+          "name": "119210/530312 | 12"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/ca4be895-2252-4891-ba26-a5e44d990202/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T22:04:57.501000+00:00",
+    "timestamp": "2026-01-18T00:14:38.947000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkhffgk2023jhiaquqhv6a02",
+            "custom_id": "credentials_cmkizi3fb06dchiaqeksszhk5",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461843698651500594",
-    "channel_id": "1461540462585184388",
+    "id": "1462238724267184272",
+    "channel_id": "1461902850123632661",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

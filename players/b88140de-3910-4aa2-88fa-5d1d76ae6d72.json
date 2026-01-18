@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/17-20:12",
+  "log_time": "2026/01/19-04:21",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,31 +20,27 @@
       {
         "type": "rich",
         "title": "`raveo8WKymbZ`",
-        "description": "||```ash.enriquez08@hotmail.com:Compstar12!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `7.37`\nFirst Login: <t:1577625900:F>\nLast Login: <t:1767870240:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 15m`\nShards: `441`\n\n**Account Info:**\nUUID: `b88140de-3910-4aa2-88fa-5d1d76ae6d72`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1566002977:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
-        "color": 10175221,
-        "timestamp": "2026-01-17T12:12:41.505000+00:00",
+        "description": "||```ash.enriquez08@hotmail.com:Compstar12!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `7.37`\nFirst Login: <t:1577625900:F>\nLast Login: <t:1767870240:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 15m`\nShards: `441`\n\n**Account Info:**\nUUID: `b88140de-3910-4aa2-88fa-5d1d76ae6d72`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1566002977:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-18T20:21:37.032000+00:00",
         "author": {
-          "name": "101218/163831 | 12"
+          "name": "46058/46058 | 27"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b88140de-3910-4aa2-88fa-5d1d76ae6d72/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/CCr3v2ibHiWI7JZzVJHUFQ5y6TYyADlduJx-gT9zVqM/https/mc-heads.net/body/b88140de-3910-4aa2-88fa-5d1d76ae6d72/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "jKeCAgIrqrgKOTdgAm9KCQZYiXmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-17T12:12:41.820000+00:00",
+    "timestamp": "2026-01-18T20:21:37.271000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +51,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmki9pnp803rmhiaqkld7yq1y",
+            "custom_id": "credentials_cmkk6m9pk06hmhiaqcx1bbkl8",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +61,8 @@
         ]
       }
     ],
-    "id": "1462057039068139673",
-    "channel_id": "1461902850123632661",
+    "id": "1462542468732948530",
+    "channel_id": "1462265247564828693",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

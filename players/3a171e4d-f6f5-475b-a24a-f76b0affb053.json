@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/18-08:02",
+  "log_time": "2026/01/19-06:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`yzy_msmc_2n3`",
-        "description": "||```wag-service@hotmail.fr:LeKa678Xd```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 12 hours\n\n**Hypixel General Info:**\nLevel: `7.37`\nFirst Login: <t:1384369740:F>\nLast Login: <t:1768613340:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 16m`\nShards: `864`\n\n**Account Info:**\nUUID: `3a171e4d-f6f5-475b-a24a-f76b0affb053`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1384181442:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "description": "||```wag-service@hotmail.fr:LeKa678Xd```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 15 hours\n\n**Hypixel General Info:**\nLevel: `7.37`\nFirst Login: <t:1384369740:F>\nLast Login: <t:1768613340:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 16m`\nShards: `864`\n\n**Account Info:**\nUUID: `3a171e4d-f6f5-475b-a24a-f76b0affb053`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1384181442:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-18T00:02:57.812000+00:00",
+        "timestamp": "2026-01-18T22:00:53.710000+00:00",
         "author": {
-          "name": "28304/530312 | 1"
+          "name": "6337/6341 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/3a171e4d-f6f5-475b-a24a-f76b0affb053/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-18T00:02:57.997000+00:00",
+    "timestamp": "2026-01-18T22:00:54.044000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkiz32l206c8hiaq69j4huxr",
+            "custom_id": "credentials_cmkka5xwl06tthiaqu4pnxtvl",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462235784269660234",
-    "channel_id": "1461902850123632661",
+    "id": "1462567453250031750",
+    "channel_id": "1462265247564828693",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

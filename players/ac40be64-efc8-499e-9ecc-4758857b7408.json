@@ -3,14 +3,13 @@
   "session": "kmins37@outlook.com:@rlaalstJ30!!",
   "uuid": "ac40be64-efc8-499e-9ecc-4758857b7408",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/14-10:13",
+  "log_time": "2026/01/19-23:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`raven1wnRd2N`",
-        "description": "||```kmins37@outlook.com:@rlaalstJ30!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.01`\nFirst Login: <t:1768152600:F>\nLast Login: <t:1768162020:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 27m`\nMoney: `250.000`\nShards: `10`\n\n**Account Info:**\nUUID: `ac40be64-efc8-499e-9ecc-4758857b7408`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1658843358:F>\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
-        "color": 35529,
-        "timestamp": "2026-01-14T02:13:15.134000+00:00",
+        "description": "||```kmins37@outlook.com:@rlaalstJ30!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 1 day and 13 hours\n\n**Hypixel General Info:**\nLevel: `1.01`\nFirst Login: <t:1768152600:F>\nLast Login: <t:1768162020:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 36m`\nMoney: `9`\nShards: `536`\n\n**Account Info:**\nUUID: `ac40be64-efc8-499e-9ecc-4758857b7408`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1658843358:F>\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-19T15:00:49.018000+00:00",
         "author": {
-          "name": "112534/196134 | 113"
+          "name": "17303/52334 | 4"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/ac40be64-efc8-499e-9ecc-4758857b7408/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "SQiGCgQrPKb3CIdohH8n+AZYinpxZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-14T02:13:15.266000+00:00",
+    "timestamp": "2026-01-19T15:00:49.258000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkddz7rx0mq4hi9c3jdkhmyt",
+            "custom_id": "credentials_cmklalkk4015lhiej7x53mtuu",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1460819020809769016",
-    "channel_id": "1460815706051444766",
+    "id": "1462824124580761674",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

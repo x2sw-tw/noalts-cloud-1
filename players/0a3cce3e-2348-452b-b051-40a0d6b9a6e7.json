@@ -3,14 +3,13 @@
   "session": "wilhelm.ljungberg10@outlook.com:ecolog89922998",
   "uuid": "0a3cce3e-2348-452b-b051-40a0d6b9a6e7",
   "ban_status": {
-    "status": "hypixel_unbanned",
-    "display": "Hypixel Unbanned (DonutSMP Unbanned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": true,
-    "is_donut_ok": true
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
   },
-  "embed_color": "0x00FF00",
-  "log_time": "2026/01/15-14:01",
+  "log_time": "2026/01/19-10:55",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhWnDqx0115`",
-        "description": "||```wilhelm.ljungberg10@outlook.com:ecolog89922998```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `4.79`\nFirst Login: <t:1722691860:F>\nLast Login: <t:1768456860:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `1d 1h 47m`\nMoney: `2.589.174`\nShards: `108`\n\n**Account Info:**\nUUID: `0a3cce3e-2348-452b-b051-40a0d6b9a6e7`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1672694221:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`",
-        "color": 65280,
-        "timestamp": "2026-01-15T06:01:59.864000+00:00",
+        "description": "||```wilhelm.ljungberg10@outlook.com:ecolog89922998```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `4.79`\nFirst Login: <t:1722691860:F>\nLast Login: <t:1768459860:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `1d 7h 15m`\nMoney: `0`\nShards: `472`\n\n**Account Info:**\nUUID: `0a3cce3e-2348-452b-b051-40a0d6b9a6e7`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-19T02:55:09.049000+00:00",
         "author": {
-          "name": "42377/89739 | 1"
+          "name": "45136/97184 | 35"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0a3cce3e-2348-452b-b051-40a0d6b9a6e7/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "IAiSAgArp39VeNeRT8D0KgZYinlyZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T06:02:00.295000+00:00",
+    "timestamp": "2026-01-19T02:55:09.218000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkf1l8ng0psohi9cb988rpmo",
+            "custom_id": "credentials_cmkkkocuq07hqhiaqnhcq2ght",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461238975619403910",
-    "channel_id": "1461178113927938089",
+    "id": "1462641504416694429",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

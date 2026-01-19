@@ -3,14 +3,13 @@
   "session": "ozgurbatuhan2@hotmail.com:Alemci123",
   "uuid": "5206cf33-a10b-4f99-b59b-80869a3bdbfe",
   "ban_status": {
-    "status": "cubecraft_unbanned",
-    "display": "CubeCraft Unbanned (Hypixel & Donut Banned)",
-    "is_unbanned": true,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
   },
-  "embed_color": "0x9B42F5",
-  "log_time": "2026/01/16-12:02",
+  "log_time": "2026/01/19-10:44",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhOvrmx0114`",
-        "description": "||```ozgurbatuhan2@hotmail.com:Alemci123```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 15h 35m 32s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nRank: `VIP`\nLevel: `22.72`\nFirst Login: <t:1552677120:F>\nLast Login: <t:1768415820:F>\nBedWars Stars: `11`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 29m`\nShards: `489`\n\n**Account Info:**\nUUID: `5206cf33-a10b-4f99-b59b-80869a3bdbfe`\nOptifine Cape: `Yes`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-16T04:02:18.256000+00:00",
+        "description": "||```ozgurbatuhan2@hotmail.com:Alemci123```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 16h 53m 17s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 1 hour\n\n**Hypixel General Info:**\nRank: `VIP`\nLevel: `22.72`\nFirst Login: <t:1552677120:F>\nLast Login: <t:1768415820:F>\nBedWars Stars: `11`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 29m`\nShards: `489`\n\n**Account Info:**\nUUID: `5206cf33-a10b-4f99-b59b-80869a3bdbfe`\nOptifine Cape: `Yes`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "color": 16756290,
+        "timestamp": "2026-01-19T02:44:30.620000+00:00",
         "author": {
-          "name": "19795/19795 | 14"
+          "name": "45452/94178 | 39"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/5206cf33-a10b-4f99-b59b-80869a3bdbfe/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "CAiKAgArWYjoB4cvr8DSCAdYmYmBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-16T04:02:18.330000+00:00",
+    "timestamp": "2026-01-19T02:44:33.567000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkgcr5t10spphi9c82mz384b",
+            "custom_id": "credentials_cmkkkao8x07g5hiaqc7es880v",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461571240140734652",
-    "channel_id": "1461540462585184388",
+    "id": "1462638838303297820",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

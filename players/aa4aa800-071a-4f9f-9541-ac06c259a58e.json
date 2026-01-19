@@ -1,5 +1,5 @@
 {
-  "name": "AloneBoy999",
+  "name": "NexusAlts_HeLiW",
   "session": "ms22cn@hotmail.com:Woodhorse68!",
   "uuid": "aa4aa800-071a-4f9f-9541-ac06c259a58e",
   "ban_status": {
@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/17-20:15",
+  "log_time": "2026/01/19-19:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -19,12 +19,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`AloneBoy999`",
-        "description": "||```ms22cn@hotmail.com:Woodhorse68!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `aa4aa800-071a-4f9f-9541-ac06c259a58e`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1458140733:F>\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-17T12:15:21.088000+00:00",
+        "title": "`NexusAlts_HeLiW`",
+        "description": "||```ms22cn@hotmail.com:Woodhorse68!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 3h 33m 13s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `12.24`\nFirst Login: <t:1493917860:F>\nLast Login: <t:1768660260:F>\nBedWars Stars: `8`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 10m`\nShards: `486`\n\n**Account Info:**\nUUID: `aa4aa800-071a-4f9f-9541-ac06c259a58e`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-19T11:01:28.647000+00:00",
         "author": {
-          "name": "114002/163831 | 14"
+          "name": "18250/18295 | 53"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/aa4aa800-071a-4f9f-9541-ac06c259a58e/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-17T12:15:21.487000+00:00",
+    "timestamp": "2026-01-19T11:01:35.406000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmki9t2uk03ruhiaq517a0yjq",
+            "custom_id": "credentials_cmkl21rz800ffhiej7zkys3r7",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462057708759941172",
-    "channel_id": "1461902850123632661",
+    "id": "1462763920161898600",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -1,9 +1,92 @@
 {
-  "channel_id": "1448856899356196926",
-  "name": "zz_LlaCZ_12_11",
-  "session": "kfcheah168@hotmail.com:Kfc101363@@@",
+  "name": "ptaltsSqjeU",
+  "session": "kfcheah168@hotmail.com:Kfc101363***",
   "uuid": "49468b2d-fe4d-4486-b36d-b5cf6f517387",
-  "hypixel": "banned",
-  "log_time": "2025/12/12-10:12",
-  "message_id": "1448860047500115988"
+  "ban_status": {
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
+  },
+  "log_time": "2026/01/20-00:09",
+  "full_message": {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "`ptaltsSqjeU`",
+        "description": "||```kfcheah168@hotmail.com:Kfc101363***```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 321d 7h 56m 57s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `2.16`\nFirst Login: <t:1747712220:F>\nLast Login: <t:1765497600:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `49468b2d-fe4d-4486-b36d-b5cf6f517387`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1746500747:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-19T16:09:44.009000+00:00",
+        "author": {
+          "name": "107522/313496 | 8"
+        },
+        "thumbnail": {
+          "url": "https://mc-heads.net/body/49468b2d-fe4d-4486-b36d-b5cf6f517387/100/left",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/2vS-XcPGyjFWe-yWVHXfWMiTK1C9H-tH8OZN2UlchOg/https/mc-heads.net/body/49468b2d-fe4d-4486-b36d-b5cf6f517387/100/left",
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "C/iFAgAruJcFpkWMn/UInQZYmXmBVWY=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "footer": {
+          "text": "discord.gg/logs",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
+          "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
+        },
+        "content_scan_version": 3
+      }
+    ],
+    "timestamp": "2026-01-19T16:09:44.213000+00:00",
+    "edited_timestamp": null,
+    "flags": 4096,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "credentials_cmkld273c01g0hiejjvmj3uhe",
+            "style": 3,
+            "label": "Get Credentials",
+            "emoji": {
+              "name": "🔑"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "1462841467838927034",
+    "channel_id": "1462627634537304146",
+    "author": {
+      "id": "1435331490002112522",
+      "username": "DiscoveryService",
+      "avatar": "a0dd60da241a644266b65e78afc078da",
+      "discriminator": "5784",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
 }

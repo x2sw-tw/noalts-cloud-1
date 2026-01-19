@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-10:43",
+  "log_time": "2026/01/19-11:23",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`raveYKpqwEBR`",
-        "description": "||```dimiwarrior@hotmail.com:Dimitri42!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 23d 23m 39s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 15 hours\n\n**Hypixel General Info:**\nLevel: `27.54`\nFirst Login: <t:1421502600:F>\nLast Login: <t:1768187040:F>\nBedWars Stars: `6`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\n\n**Account Info:**\nUUID: `aba4eda7-2064-4b04-9047-60a0517bf42e`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1421428040:F>\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "description": "||```dimiwarrior@hotmail.com:Dimitri42!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 23h 43m 58s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 14 hours\n\n**Hypixel General Info:**\nLevel: `27.54`\nFirst Login: <t:1421502600:F>\nLast Login: <t:1768187040:F>\nBedWars Stars: `6`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\n\n**Account Info:**\nUUID: `aba4eda7-2064-4b04-9047-60a0517bf42e`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1421428040:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T02:43:47.390000+00:00",
+        "timestamp": "2026-01-19T03:23:28.679000+00:00",
         "author": {
-          "name": "18692/94178 | 10"
+          "name": "58775/97184 | 64"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/aba4eda7-2064-4b04-9047-60a0517bf42e/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T02:43:47.569000+00:00",
+    "timestamp": "2026-01-19T03:23:27.611000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkk9qvx07fchiaqu8xa1cmf",
+            "custom_id": "credentials_cmkklosbw07klhiaqklredhmp",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1462638645373833309",
+    "id": "1462648627993510020",
     "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",

@@ -1,9 +1,92 @@
 {
-  "channel_id": "1446682580459192425",
-  "name": "Destreeearly414",
-  "session": "colinhindle@live.com:Kyben219",
+  "name": "LinhTevAC0115",
+  "session": "colinwoolard@live.com:Kyben219",
   "uuid": "64c01445-6004-4369-9c79-70bec6957db6",
-  "hypixel": "banned",
-  "log_time": "2025/12/06-10:09",
-  "message_id": "1446684968590901349"
+  "ban_status": {
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
+  },
+  "log_time": "2026/01/19-08:01",
+  "full_message": {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "`LinhTevAC0115`",
+        "description": "||```colinwoolard@live.com:Kyben219```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> Your account was hacked and was involved in using malicious methods to access or exploit other accounts. Because of this situation, as long as you aren't banned on another account, you may create and use another account if you wish to play Donut SMP again.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nRank: `VIP`\nLevel: `37.09`\nFirst Login: <t:1610937360:F>\nLast Login: <t:1768645800:F>\nBedWars Stars: `5`\n\n**Account Info:**\nUUID: `64c01445-6004-4369-9c79-70bec6957db6`\nMinecraft Capes: `Vanilla, Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1608906621:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-19T00:01:39.824000+00:00",
+        "author": {
+          "name": "3656/3844 | 65"
+        },
+        "thumbnail": {
+          "url": "https://mc-heads.net/body/64c01445-6004-4369-9c79-70bec6957db6/100/left",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/DwL7ECvkfb-AgaAxA6uKmpWnr_bjkEJNi7DRlHDPLcs/https/mc-heads.net/body/64c01445-6004-4369-9c79-70bec6957db6/100/left",
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "footer": {
+          "text": "discord.gg/logs",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
+          "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
+        },
+        "content_scan_version": 3
+      }
+    ],
+    "timestamp": "2026-01-19T00:01:51.092000+00:00",
+    "edited_timestamp": null,
+    "flags": 4096,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "credentials_cmkkeh91i073whiaq7hnmryhr",
+            "style": 3,
+            "label": "Get Credentials",
+            "emoji": {
+              "name": "🔑"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "1462597891515351211",
+    "channel_id": "1462265247564828693",
+    "author": {
+      "id": "1435331490002112522",
+      "username": "DiscoveryService",
+      "avatar": "a0dd60da241a644266b65e78afc078da",
+      "discriminator": "5784",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
 }

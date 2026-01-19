@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-04:20",
+  "log_time": "2026/01/20-07:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,31 +20,27 @@
       {
         "type": "rich",
         "title": "`ravecOXQwKjj`",
-        "description": "||```katjaaminde@hotmail.com:Aminde1609!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `8.65`\nFirst Login: <t:1619716080:F>\nLast Login: <t:1768733940:F>\nBedWars Stars: `5`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 37m`\nMoney: `34`\nShards: `10`\n\n**Account Info:**\nUUID: `038d74ab-7c15-4433-bb0b-e0cfe301b2f5`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
+        "description": "||```katjaaminde@hotmail.com:Aminde1609!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 18 hours\n\n**Hypixel General Info:**\nLevel: `8.65`\nFirst Login: <t:1619716080:F>\nLast Login: <t:1768733940:F>\nBedWars Stars: `5`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 37m`\nMoney: `34`\nShards: `10`\n\n**Account Info:**\nUUID: `038d74ab-7c15-4433-bb0b-e0cfe301b2f5`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1592403868:F>\nOther Games: `Minecraft Bedrock`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
         "color": 16756290,
-        "timestamp": "2026-01-18T20:20:46.813000+00:00",
+        "timestamp": "2026-01-19T23:01:26.712000+00:00",
         "author": {
-          "name": "27694/46058 | 12"
+          "name": "45343/51577 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/038d74ab-7c15-4433-bb0b-e0cfe301b2f5/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/PKQhpxHbaU9zERk9Loeu2l04gJp2EXWBTunWf7myq7A/https/mc-heads.net/body/038d74ab-7c15-4433-bb0b-e0cfe301b2f5/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "C/iFAgAruJcFpkWMn/UInQZYmXmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-18T20:20:46.945000+00:00",
+    "timestamp": "2026-01-19T23:01:26.891000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +51,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkk6l6yj06gzhiaq6qq1bw7x",
+            "custom_id": "credentials_cmklrrntm02pjhieje2holkpr",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +61,8 @@
         ]
       }
     ],
-    "id": "1462542257650667532",
-    "channel_id": "1462265247564828693",
+    "id": "1462945078380199946",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

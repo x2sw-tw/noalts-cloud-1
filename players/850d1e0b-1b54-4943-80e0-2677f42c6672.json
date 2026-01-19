@@ -1,16 +1,15 @@
 {
   "name": "Sedrox_D",
-  "session": "nicolas.daubisse1992@hotmail.com:Kiss15121992.",
+  "session": "nicolas.daubisse1992@hotmail.com:Kiss15121992!",
   "uuid": "850d1e0b-1b54-4943-80e0-2677f42c6672",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/12-06:08",
+  "log_time": "2026/01/19-22:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`Sedrox_D`",
-        "description": "||```nicolas.daubisse1992@hotmail.com:Kiss15121992.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 321d 11h 32m 30s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 21 day 20 hours 45 minutes Ban ID: #g2QWq8rM\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 59 days\n\n**Hypixel General Info:**\nLevel: `2.70`\nFirst Login: <t:1761771960:F>\nLast Login: <t:1764840480:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `850d1e0b-1b54-4943-80e0-2677f42c6672`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "description": "||```nicolas.daubisse1992@hotmail.com:Kiss15121992!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 313d 19h 40m 10s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 14 day 4 hours 53 minutes Ban ID: #g2QWq8rM\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 51 days and 8 hours\n\n**Hypixel General Info:**\nLevel: `2.70`\nFirst Login: <t:1761771960:F>\nLast Login: <t:1764840480:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `850d1e0b-1b54-4943-80e0-2677f42c6672`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1689073985:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
         "color": 16756290,
-        "timestamp": "2026-01-11T22:08:34.878000+00:00",
+        "timestamp": "2026-01-19T14:00:42.854000+00:00",
         "author": {
-          "name": "39877/39897 | 13"
+          "name": "1373/1378 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/850d1e0b-1b54-4943-80e0-2677f42c6672/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "IDiKEgYrqqUIl/T2n3j6xwZYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-11T22:08:35.069000+00:00",
+    "timestamp": "2026-01-19T14:00:43.036000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkaacv310g30hi9cw0fvf3t4",
+            "custom_id": "credentials_cmkl8g9z900znhiejoxmg58tp",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1460032671869829181",
-    "channel_id": "1459728559684718644",
+    "id": "1462808998989529158",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

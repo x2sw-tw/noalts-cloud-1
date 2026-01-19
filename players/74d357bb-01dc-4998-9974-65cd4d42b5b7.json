@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-06:00",
+  "log_time": "2026/01/19-11:28",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`vertex_CZTNu_`",
-        "description": "||```zsasz77@hotmail.com:FFlover10```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.36`\nFirst Login: <t:1703260260:F>\nLast Login: <t:1768773600:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 3m`\nMoney: `9.561`\nShards: `38`\n\n**Account Info:**\nUUID: `74d357bb-01dc-4998-9974-65cd4d42b5b7`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1703260244:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
-        "color": 65280,
-        "timestamp": "2026-01-18T22:00:57.644000+00:00",
+        "description": "||```zsasz77@hotmail.com:FFlover10```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 19 hours\n\n**Hypixel General Info:**\nLevel: `3.20`\nFirst Login: <t:1703260260:F>\nLast Login: <t:1768776960:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 5m`\nMoney: `9.561`\nShards: `57`\n\n**Account Info:**\nUUID: `74d357bb-01dc-4998-9974-65cd4d42b5b7`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1703260244:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
+        "color": 16756290,
+        "timestamp": "2026-01-19T03:28:33.010000+00:00",
         "author": {
-          "name": "6340/6341 | 7"
+          "name": "59344/97184 | 66"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/74d357bb-01dc-4998-9974-65cd4d42b5b7/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-18T22:01:01.276000+00:00",
+    "timestamp": "2026-01-19T03:28:33.360000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkka60xs06tzhiaqnpng8e7v",
+            "custom_id": "credentials_cmkklvb8n07kvhiaqa5iegift",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462567483582976235",
-    "channel_id": "1462265247564828693",
+    "id": "1462649910397636740",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

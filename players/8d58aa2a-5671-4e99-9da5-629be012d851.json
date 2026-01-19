@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-07:00",
+  "log_time": "2026/01/19-10:22",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltswKbxo`",
-        "description": "||```motoman_132@hotmail.com:132Honda```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 17h 21m 14s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nRank: `VIP+`\nLevel: `40.34`\nFirst Login: <t:1558309320:F>\nLast Login: <t:1768753260:F>\nBedWars Stars: `6`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 37m`\nShards: `68`\n\n**Account Info:**\nUUID: `8d58aa2a-5671-4e99-9da5-629be012d851`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-18T23:00:51.935000+00:00",
+        "description": "||```motoman_132@hotmail.com:132Honda```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 13h 59m 40s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 23 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 37m`\nShards: `68`\n\n**Account Info:**\nUUID: `8d58aa2a-5671-4e99-9da5-629be012d851`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1530678413:F>\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-19T02:22:24.466000+00:00",
         "author": {
-          "name": "1758/1760 | 14"
+          "name": "68584/109004 | 83"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/8d58aa2a-5671-4e99-9da5-629be012d851/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-18T23:01:01.202000+00:00",
+    "timestamp": "2026-01-19T02:22:24.792000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkcb2b706z4hiaqhdaftefn",
+            "custom_id": "credentials_cmkkji92p07emhiaqdwse9xov",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462582582767124668",
-    "channel_id": "1462265247564828693",
+    "id": "1462633265016995931",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

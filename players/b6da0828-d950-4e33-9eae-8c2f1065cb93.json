@@ -1,9 +1,15 @@
 {
   "name": "Bedrockovv",
-  "session": "ilardi.thomas@hotmail.com:Tompasse307du13@",
+  "session": "ilardi.thomas@hotmail.com:Tompasse3@",
   "uuid": "b6da0828-d950-4e33-9eae-8c2f1065cb93",
-  "hypixel": "unknown",
-  "log_time": "2026/01/09-01:02",
+  "ban_status": {
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
+  },
+  "log_time": "2026/01/19-22:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,20 +20,17 @@
       {
         "type": "rich",
         "title": "`Bedrockovv`",
-        "description": "||```ilardi.thomas@hotmail.com:Tompasse307du13@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 39m`\nMoney: `24.560`\nShards: `125`\n\n**Account Info:**\nUUID: `b6da0828-d950-4e33-9eae-8c2f1065cb93`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-08T17:02:57.629000+00:00",
+        "description": "||```ilardi.thomas@hotmail.com:Tompasse3@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 41m`\nMoney: `24.560`\nShards: `391`\n\n**Account Info:**\nUUID: `b6da0828-d950-4e33-9eae-8c2f1065cb93`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Vanilla, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1631787203:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-19T14:00:58.430000+00:00",
         "author": {
-          "name": "15387/15399 | 20"
+          "name": "1378/1378 | 5"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b6da0828-d950-4e33-9eae-8c2f1065cb93/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/lPPmeo2ae7_LjGrNZV66bMhCoH2GP1_cD8kWR6E-lW4/https/mc-heads.net/body/b6da0828-d950-4e33-9eae-8c2f1065cb93/100/left",
-          "width": 100,
-          "height": 240,
-          "content_type": "image/png",
-          "placeholder": "nWmKIgoruJsGWJW3j3L7OAZYiXmBVWY=",
-          "placeholder_version": 1,
+          "width": 0,
+          "height": 0,
           "flags": 0
         },
         "footer": {
@@ -38,7 +41,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-08T17:02:57.833000+00:00",
+    "timestamp": "2026-01-19T14:00:58.552000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -49,7 +52,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk5p4a0603q0hi9c3ny0oz90",
+            "custom_id": "credentials_cmkl8glzy00zrhiejper5sd7v",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -59,8 +62,8 @@
         ]
       }
     ],
-    "id": "1458868596330594375",
-    "channel_id": "1458641408142348339",
+    "id": "1462809064068350055",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-04:20",
+  "log_time": "2026/01/19-10:43",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`huc_rjH3h`",
-        "description": "||```swaagske@hotmail.com:Waagske1.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 14h 49m 45s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 23 hours\n\n**Hypixel General Info:**\nLevel: `7.60`\nFirst Login: <t:1768686180:F>\nLast Login: <t:1768733820:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 8m`\nShards: `1107`\n\n**Account Info:**\nUUID: `8e2bd7f8-93a0-4470-8b96-7e731c48c604`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768387508:F>\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "description": "||```swaagske@hotmail.com:Waagske1.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 8h 26m 18s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 16 hours\n\n**Hypixel General Info:**\nLevel: `7.60`\nFirst Login: <t:1768686180:F>\nLast Login: <t:1768733820:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 8m`\nShards: `1107`\n\n**Account Info:**\nUUID: `8e2bd7f8-93a0-4470-8b96-7e731c48c604`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-18T20:20:31.634000+00:00",
+        "timestamp": "2026-01-19T02:43:59.048000+00:00",
         "author": {
-          "name": "15226/46058 | 4"
+          "name": "27032/94178 | 17"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/8e2bd7f8-93a0-4470-8b96-7e731c48c604/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-18T20:20:31.761000+00:00",
+    "timestamp": "2026-01-19T02:43:59.231000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkk6kv9006guhiaqv20s2g4a",
+            "custom_id": "credentials_cmkkk9zvl07fihiaqilibisv5",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462542193964351772",
-    "channel_id": "1462265247564828693",
+    "id": "1462638694287544507",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

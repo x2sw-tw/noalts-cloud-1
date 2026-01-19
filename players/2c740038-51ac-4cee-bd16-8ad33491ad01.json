@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-04:20",
+  "log_time": "2026/01/19-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhosCxc0114`",
-        "description": "||```gabrielpinto2008@hotmail.com:Acp92901478```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 24d 23h 50m 42s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `31.64`\nFirst Login: <t:1482243900:F>\nLast Login: <t:1768335000:F>\nBedWars Stars: `23`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 57m`\nMoney: `0`\nShards: `404`\n\n**Account Info:**\nUUID: `2c740038-51ac-4cee-bd16-8ad33491ad01`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-18T20:20:55.746000+00:00",
+        "description": "||```gabrielpinto2008@hotmail.com:Acp92901478```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 24d 18h 9m 53s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 20 hours\n\n**Hypixel General Info:**\nLevel: `31.64`\nFirst Login: <t:1482243900:F>\nLast Login: <t:1768335000:F>\nBedWars Stars: `23`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 57m`\nMoney: `0`\nShards: `404`\n\n**Account Info:**\nUUID: `2c740038-51ac-4cee-bd16-8ad33491ad01`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-19T02:01:43.162000+00:00",
         "author": {
-          "name": "34484/46058 | 16"
+          "name": "52997/109004 | 57"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/2c740038-51ac-4cee-bd16-8ad33491ad01/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-18T20:21:00.143000+00:00",
+    "timestamp": "2026-01-19T02:01:43.209000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkk6lduq06h6hiaqcr2xtyvk",
+            "custom_id": "credentials_cmkkirn6c07cmhiaq3qpm5lzq",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462542313006956635",
-    "channel_id": "1462265247564828693",
+    "id": "1462628057440587948",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

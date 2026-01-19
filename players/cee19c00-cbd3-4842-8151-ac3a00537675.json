@@ -3,14 +3,13 @@
   "session": "brenoscouto@hotmail.com:Brepenopo10%",
   "uuid": "cee19c00-cbd3-4842-8151-ac3a00537675",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0xFFAE42",
-  "log_time": "2026/01/15-10:02",
+  "log_time": "2026/01/19-10:54",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`vertex_VbapT_`",
-        "description": "||```brenoscouto@hotmail.com:Brepenopo10%```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 27d 17h 6m 29s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 27 days and 17 hours\n\n**Hypixel General Info:**\nLevel: `3.84`\nFirst Login: <t:1768238160:F>\nLast Login: <t:1768244820:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 5m`\nShards: `416`\n\n**Account Info:**\nUUID: `cee19c00-cbd3-4842-8151-ac3a00537675`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "description": "||```brenoscouto@hotmail.com:Brepenopo10%```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 23d 16h 14m 7s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 23 days and 16 hours\n\n**Hypixel General Info:**\nLevel: `3.84`\nFirst Login: <t:1768238160:F>\nLast Login: <t:1768244820:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 5m`\nShards: `416`\n\n**Account Info:**\nUUID: `cee19c00-cbd3-4842-8151-ac3a00537675`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-15T02:02:20.974000+00:00",
+        "timestamp": "2026-01-19T02:54:32.574000+00:00",
         "author": {
-          "name": "3495/12951 | 47"
+          "name": "21929/97184 | 13"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/cee19c00-cbd3-4842-8151-ac3a00537675/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "wweCAgArHFSa9SkFag8AAAZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -45,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-15T02:02:30.504000+00:00",
+    "timestamp": "2026-01-19T02:54:33.004000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmket11op0pe3hi9cgdfm1n1y",
+            "custom_id": "credentials_cmkkknkpk07h6hiaq6zyauuhz",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461178704347533344",
-    "channel_id": "1461178074371457125",
+    "id": "1462641352524431482",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

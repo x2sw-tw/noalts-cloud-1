@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-10:02",
+  "log_time": "2026/01/19-10:43",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`NaNoBlaze`",
-        "description": "||```alexandre2003j@hotmail.com:Xouxou10!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 1 hour\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767096120:F>\nLast Login: <t:1768502640:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 14m`\nShards: `40`\n\n**Account Info:**\nUUID: `f0946aa4-7ce7-40a5-880c-a5c04262ff36`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
+        "description": "||```alexandre2003j@hotmail.com:Xouxou10!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: bypassing bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767096120:F>\nLast Login: <t:1768502640:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 14m`\nShards: `40`\n\n**Account Info:**\nUUID: `f0946aa4-7ce7-40a5-880c-a5c04262ff36`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1766231320:F>\nOther Games: `Minecraft Bedrock`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T02:02:30.764000+00:00",
+        "timestamp": "2026-01-19T02:43:45.610000+00:00",
         "author": {
-          "name": "63260/109004 | 71"
+          "name": "17455/94178 | 6"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/f0946aa4-7ce7-40a5-880c-a5c04262ff36/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T02:02:31.121000+00:00",
+    "timestamp": "2026-01-19T02:43:45.809000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkisnwk07d7hiaq3uj0yavd",
+            "custom_id": "credentials_cmkkk9pix07f9hiaqua8q9pwt",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1462628258397814906",
+    "id": "1462638637991727146",
     "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",

@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/17-11:02",
+  "log_time": "2026/01/20-00:28",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`wappa_zzrje`",
-        "description": "||```anacibils@hotmail.com:Soymanya3!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768533660:F>\nLast Login: <t:1768551480:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 6m`\nShards: `884`\n\n**Account Info:**\nUUID: `99c7fc50-5d20-45cf-b993-b3bfccc26140`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`",
-        "color": 35529,
-        "timestamp": "2026-01-17T03:02:45.240000+00:00",
+        "description": "||```anacibils@hotmail.com:Soymanya3!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768533660:F>\nLast Login: <t:1768551480:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 23m`\nShards: `941`\n\n**Account Info:**\nUUID: `99c7fc50-5d20-45cf-b993-b3bfccc26140`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768533046:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-19T16:28:58.648000+00:00",
         "author": {
-          "name": "6423/6513 | 21"
+          "name": "230325/313496 | 16"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/99c7fc50-5d20-45cf-b993-b3bfccc26140/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
+          "placeholder": "mkeGCgIrqH+VqJhIgIf6pwZYinqCZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-17T03:02:45.440000+00:00",
+    "timestamp": "2026-01-19T16:28:58.818000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkhq2fiv02rdhiaqn8o451lr",
+            "custom_id": "credentials_cmkldqy0o01iwhiej73t8op3u",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1461918642219257896",
-    "channel_id": "1461902899687981117",
+    "id": "1462846310603423800",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

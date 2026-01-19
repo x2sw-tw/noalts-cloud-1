@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-10:01",
+  "log_time": "2026/01/19-10:55",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhObXWV0118`",
-        "description": "||```giuiin@hotmail.de:24021979Gg```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `6.40`\nFirst Login: <t:1768733220:F>\nLast Login: <t:1768752240:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 10m`\nMoney: `3.000.005`\nShards: `63`\n\n**Account Info:**\nUUID: `0e18fbd5-83f5-4bb1-8aeb-98aa6610771c`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-19T02:01:01.941000+00:00",
+        "description": "||```giuiin@hotmail.de:24021979Gg```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `6.40`\nFirst Login: <t:1768733220:F>\nLast Login: <t:1768752240:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 10m`\nMoney: `3.000.005`\nShards: `63`\n\n**Account Info:**\nUUID: `0e18fbd5-83f5-4bb1-8aeb-98aa6610771c`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768731946:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-19T02:55:23.651000+00:00",
         "author": {
-          "name": "23906/109004 | 22"
+          "name": "50897/97184 | 40"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0e18fbd5-83f5-4bb1-8aeb-98aa6610771c/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T02:01:02.315000+00:00",
+    "timestamp": "2026-01-19T02:55:23.859000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkiqrdb07bkhiaqgmxgyije",
+            "custom_id": "credentials_cmkkkoo5707hyhiaqhe8fm4mz",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1462627885918720001",
+    "id": "1462641565825630376",
     "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",

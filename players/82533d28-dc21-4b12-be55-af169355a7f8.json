@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-10:43",
+  "log_time": "2026/01/19-10:55",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`Firox_1`",
-        "description": "||```alexvazevedo@gmail.com:wrc31121982```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 14 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1714654020:F>\nLast Login: <t:1768374600:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `1d 1h 26m`\nMoney: `32`\nShards: `56`\n\n**Account Info:**\nUUID: `82533d28-dc21-4b12-be55-af169355a7f8`\nMinecraft Capes: `Menace, Pan, Mojang Office, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1714654046:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "description": "||```alexvazevedo@gmail.com:wrc31121982```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 14 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1714654020:F>\nLast Login: <t:1768374600:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `1d 1h 26m`\nMoney: `32`\nShards: `56`\n\n**Account Info:**\nUUID: `82533d28-dc21-4b12-be55-af169355a7f8`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T02:43:35.822000+00:00",
+        "timestamp": "2026-01-19T02:55:48.015000+00:00",
         "author": {
-          "name": "10080/94178 | 1"
+          "name": "53128/97184 | 51"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/82533d28-dc21-4b12-be55-af169355a7f8/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T02:43:36.588000+00:00",
+    "timestamp": "2026-01-19T02:55:48.169000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkk9i8707f3hiaqomcv4dy1",
+            "custom_id": "credentials_cmkkkp6x907iahiaqzzh2um8n",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1462638599315919052",
+    "id": "1462641667789160585",
     "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",

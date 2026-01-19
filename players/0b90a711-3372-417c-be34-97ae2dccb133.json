@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-10:43",
+  "log_time": "2026/01/19-10:55",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhMWHsS0116`",
-        "description": "||```collincalamari12@hotmail.com:Red19Red18```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 26 days and 17 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768502160:F>\nLast Login: <t:1768507440:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 25m`\nShards: `8`\n\n**Account Info:**\nUUID: `0b90a711-3372-417c-be34-97ae2dccb133`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "description": "||```collincalamari12@hotmail.com:Red19Red18```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing several bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768502160:F>\nLast Login: <t:1768507440:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 25m`\nShards: `8`\n\n**Account Info:**\nUUID: `0b90a711-3372-417c-be34-97ae2dccb133`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768501385:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T02:43:55.353000+00:00",
+        "timestamp": "2026-01-19T02:55:24.988000+00:00",
         "author": {
-          "name": "24493/94178 | 16"
+          "name": "51180/97184 | 43"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0b90a711-3372-417c-be34-97ae2dccb133/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T02:43:55.499000+00:00",
+    "timestamp": "2026-01-19T02:55:25.222000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkk9x1o07fhhiaqzccp6d0v",
+            "custom_id": "credentials_cmkkkop5n07i0hiaq9c7fysc1",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1462638678634664049",
+    "id": "1462641571542335663",
     "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",

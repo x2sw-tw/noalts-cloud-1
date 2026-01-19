@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-10:00",
+  "log_time": "2026/01/19-10:54",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`3sourusable`",
-        "description": "||```jgrijalba1@hotmail.com:Woodside1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768326480:F>\nLast Login: <t:1768333800:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 31m`\nMoney: `0`\nShards: `419`\n\n**Account Info:**\nUUID: `a1e8bc48-b1bc-4d6f-9fbc-99dbb600dd2b`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768326140:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "description": "||```jgrijalba1@hotmail.com:Woodside1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 1 day and 16 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768326480:F>\nLast Login: <t:1768333800:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 31m`\nMoney: `0`\nShards: `419`\n\n**Account Info:**\nUUID: `a1e8bc48-b1bc-4d6f-9fbc-99dbb600dd2b`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T02:00:51.872000+00:00",
+        "timestamp": "2026-01-19T02:54:48.919000+00:00",
         "author": {
-          "name": "15770/109004 | 7"
+          "name": "33792/97184 | 28"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/a1e8bc48-b1bc-4d6f-9fbc-99dbb600dd2b/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T02:00:52.026000+00:00",
+    "timestamp": "2026-01-19T02:54:49.245000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkiqjln07b7hiaqu01wpuz3",
+            "custom_id": "credentials_cmkkknxep07hjhiaqveuqqkxy",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1462627842763391049",
+    "id": "1462641420643864792",
     "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",

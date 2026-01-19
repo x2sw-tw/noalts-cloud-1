@@ -3,14 +3,13 @@
   "session": "nbailee357@gmail.com:Roxanne2010",
   "uuid": "76061543-ae4c-460f-8242-a9a0262f491b",
   "ban_status": {
-    "status": "all_banned",
-    "display": "All Banned",
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
     "is_unbanned": false,
-    "is_hypixel_ok": false,
-    "is_donut_ok": false
+    "display": "All Banned"
   },
-  "embed_color": "0x008AC9",
-  "log_time": "2026/01/16-10:30",
+  "log_time": "2026/01/20-01:04",
   "full_message": {
     "type": 0,
     "content": "",
@@ -21,11 +20,11 @@
       {
         "type": "rich",
         "title": "`Mrducky201011`",
-        "description": "||```nbailee357@gmail.com:Roxanne2010```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 24d 1h 46m 51s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 1m`\nMoney: `2.158`\nShards: `49`\n\n**Account Info:**\nUUID: `76061543-ae4c-460f-8242-a9a0262f491b`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1713654650:F>\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-16T02:30:03.770000+00:00",
+        "description": "||```nbailee357@gmail.com:Roxanne2010```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 20d 11h 12m 30s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 18m`\nMoney: `0`\nShards: `901`\n\n**Account Info:**\nUUID: `76061543-ae4c-460f-8242-a9a0262f491b`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `Yes`\nAccount Creation Date: <t:1713654650:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-19T17:04:24.640000+00:00",
         "author": {
-          "name": "210931/406281 | 132"
+          "name": "63238/74021 | 6"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/76061543-ae4c-460f-8242-a9a0262f491b/100/left",
@@ -33,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "DAiKCgIr15YFyJTIlHBcCQZYinlxVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,11 +40,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-16T02:30:04.006000+00:00",
+    "timestamp": "2026-01-19T17:04:24.987000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -56,7 +54,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkg9gjem0siuhi9c44f169zk",
+            "custom_id": "credentials_cmklf0iiy01mnhiej4jcb6tih",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -66,8 +64,8 @@
         ]
       }
     ],
-    "id": "1461548027503448124",
-    "channel_id": "1461540462585184388",
+    "id": "1462855228402565250",
+    "channel_id": "1462627634537304146",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

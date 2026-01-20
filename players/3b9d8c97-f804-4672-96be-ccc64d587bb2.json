@@ -1,6 +1,6 @@
 {
   "name": "LinhHphtf0119",
-  "session": "hamza_tekin22@hotmail.com:hamza56!.",
+  "session": "hamza_tekin22@hotmail.com:Hamza56!",
   "uuid": "3b9d8c97-f804-4672-96be-ccc64d587bb2",
   "ban_status": {
     "hypixel": "unknown",
@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-19:01",
+  "log_time": "2026/01/21-03:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhHphtf0119`",
-        "description": "||```hamza_tekin22@hotmail.com:hamza56!.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.72`\nFirst Login: <t:1526573340:F>\nLast Login: <t:1768820460:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `3b9d8c97-f804-4672-96be-ccc64d587bb2`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-19T11:01:34.863000+00:00",
+        "description": "||```hamza_tekin22@hotmail.com:Hamza56!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `2.72`\nFirst Login: <t:1526573340:F>\nLast Login: <t:1768820760:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 11m`\nShards: `274`\n\n**Account Info:**\nUUID: `3b9d8c97-f804-4672-96be-ccc64d587bb2`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1524402525:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-20T19:00:45.854000+00:00",
         "author": {
-          "name": "18273/18295 | 61"
+          "name": "5675/7331 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/3b9d8c97-f804-4672-96be-ccc64d587bb2/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "C/iFAgAruJcFpkWMn/UInQZYmXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -40,10 +40,11 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T11:01:45.148000+00:00",
+    "timestamp": "2026-01-20T19:00:46.352000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -54,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkl21wrw00flhiejbh1hki86",
+            "custom_id": "credentials_cmkmylzuk04fjhiejbrrguma7",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -64,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462763961022808235",
-    "channel_id": "1462627634537304146",
+    "id": "1463246898235179191",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

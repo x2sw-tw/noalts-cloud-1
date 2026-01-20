@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-10:43",
+  "log_time": "2026/01/20-10:50",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`Poo_eElfb_01_10`",
-        "description": "||```torro147@yahoo.com:Jord@n844```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 1 day and 22 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 11m`\nMoney: `8`\nShards: `600`\n\n**Account Info:**\nUUID: `5de57a04-7946-40f5-95ad-26d21570b9fa`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1716144688:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Support the project and unlock extras: `/premium generate`.*",
+        "description": "||```torro147@yahoo.com:Jord@n844```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 22 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 11m`\nMoney: `8`\nShards: `600`\n\n**Account Info:**\nUUID: `5de57a04-7946-40f5-95ad-26d21570b9fa`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1716144688:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T02:43:46.032000+00:00",
+        "timestamp": "2026-01-20T02:50:33.175000+00:00",
         "author": {
-          "name": "17748/94178 | 5"
+          "name": "97192/122718 | 101"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/5de57a04-7946-40f5-95ad-26d21570b9fa/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T02:43:46.219000+00:00",
+    "timestamp": "2026-01-20T02:50:33.456000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkk9pul07fahiaqwugqdo6u",
+            "custom_id": "credentials_cmklzyaql036dhiejpovd8e3e",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462638639711256834",
-    "channel_id": "1462627634537304146",
+    "id": "1463002735652896935",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

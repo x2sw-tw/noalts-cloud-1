@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-23:01",
+  "log_time": "2026/01/20-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltstgRoi`",
-        "description": "||```carlitros.orellana@hotmail.com:Tan185114309.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 29 days and 23 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768832520:F>\nLast Login: <t:1768834860:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `bd56c904-e173-4112-8506-2ca4ccc9a3bf`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-19T15:01:34.515000+00:00",
+        "description": "||```carlitros.orellana@hotmail.com:Tan185114309.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 13h 35m 44s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `2.09`\nFirst Login: <t:1768832520:F>\nLast Login: <t:1768836600:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 9m`\nShards: `37`\n\n**Account Info:**\nUUID: `bd56c904-e173-4112-8506-2ca4ccc9a3bf`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-20T02:01:16.252000+00:00",
         "author": {
-          "name": "49135/52334 | 40"
+          "name": "31996/122718 | 21"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/bd56c904-e173-4112-8506-2ca4ccc9a3bf/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T15:01:34.630000+00:00",
+    "timestamp": "2026-01-20T02:01:16.417000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmklamjm8016thiejshhr4zk6",
+            "custom_id": "credentials_cmkly6x2w0327hiej64kvpjg2",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462824314884591838",
-    "channel_id": "1462627634537304146",
+    "id": "1462990332932260011",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

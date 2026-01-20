@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-02:01",
+  "log_time": "2026/01/20-10:05",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`Sv2QWHB41BBZ8Sv2`",
-        "description": "||```amandev2013@hotmail.com:74107410Dxb@@@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `4.47`\nFirst Login: <t:1744987740:F>\nLast Login: <t:1768845600:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `9a29715b-556f-41bc-bc3b-15d2f6d60454`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-19T18:01:23.145000+00:00",
+        "description": "||```amandev2013@hotmail.com:74107410Dxb@@@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 20 hours\n\n**Hypixel General Info:**\nLevel: `4.47`\nFirst Login: <t:1744987740:F>\nLast Login: <t:1768845660:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 21m`\nMoney: `1.109`\nShards: `30`\n\n**Account Info:**\nUUID: `9a29715b-556f-41bc-bc3b-15d2f6d60454`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1744968229:F>\nOther Games: `Minecraft Bedrock`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-20T02:05:39.491000+00:00",
         "author": {
-          "name": "43126/43157 | 25"
+          "name": "77831/122718 | 72"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9a29715b-556f-41bc-bc3b-15d2f6d60454/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T18:01:23.280000+00:00",
+    "timestamp": "2026-01-20T02:05:39.762000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmklh1s6i01w6hiejof73784i",
+            "custom_id": "credentials_cmklyck75033uhiejoast1jaa",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462869565762572446",
-    "channel_id": "1462627634537304146",
+    "id": "1462991437481115824",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

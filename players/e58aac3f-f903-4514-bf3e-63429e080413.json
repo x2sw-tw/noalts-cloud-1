@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-02:01",
+  "log_time": "2026/01/20-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltssdFDR`",
-        "description": "||```peytoncr68@outlook.com:Reinert45```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNKNOWN`\n> You are not logged into your Minecraft account. If you are logged into your Minecraft account, try restarting your Minecraft client.\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Account Info:**\nUUID: `e58aac3f-f903-4514-bf3e-63429e080413`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `None`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768845374:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "description": "||```peytoncr68@outlook.com:Reinert45```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 17h 44m 7s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 29 days and 18 hours\n\n**Hypixel General Info:**\nLevel: `5.17`\nFirst Login: <t:1768845960:F>\nLast Login: <t:1768851600:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 11m`\n\n**Account Info:**\nUUID: `e58aac3f-f903-4514-bf3e-63429e080413`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768845374:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T18:01:04.224000+00:00",
+        "timestamp": "2026-01-20T02:02:09.328000+00:00",
         "author": {
-          "name": "30210/43157 | 7"
+          "name": "61485/122718 | 48"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e58aac3f-f903-4514-bf3e-63429e080413/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T18:01:04.395000+00:00",
+    "timestamp": "2026-01-20T02:02:09.498000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmklh1dl201vrhiejpmw8aene",
+            "custom_id": "credentials_cmkly82170335hiejl3kq27oe",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462869486553268326",
-    "channel_id": "1462627634537304146",
+    "id": "1462990555569979474",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

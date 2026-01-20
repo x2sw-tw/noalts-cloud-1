@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-07:01",
+  "log_time": "2026/01/20-10:07",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`soldiere8HFPP`",
-        "description": "||```a_kameda@hotmail.com:Nipper1966*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 20 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768760280:F>\nLast Login: <t:1768767600:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 30m`\nMoney: `0`\nShards: `33`\n\n**Account Info:**\nUUID: `1a39d908-e138-40a1-973c-4a3e7ce3b9d7`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768756124:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
+        "description": "||```a_kameda@hotmail.com:Nipper1966*```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 17 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 30m`\nMoney: `0`\nShards: `33`\n\n**Account Info:**\nUUID: `1a39d908-e138-40a1-973c-4a3e7ce3b9d7`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768756124:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T23:01:11+00:00",
+        "timestamp": "2026-01-20T02:07:07.998000+00:00",
         "author": {
-          "name": "34237/51577 | 5"
+          "name": "80209/122718 | 77"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1a39d908-e138-40a1-973c-4a3e7ce3b9d7/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T23:01:11.418000+00:00",
+    "timestamp": "2026-01-20T02:07:08.125000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmklrrbp602pghiejs7xvaeac",
+            "custom_id": "credentials_cmklyegho033zhiej2em7hdkj",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462945013481869554",
-    "channel_id": "1462627634537304146",
+    "id": "1462991808102400013",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -1,9 +1,15 @@
 {
   "name": "vertex_nDAKk_",
-  "session": "flor_lahorca@hotmail.com:Flor1234.",
+  "session": "flor_lahorca@hotmail.com:Flor1234.0",
   "uuid": "dee0baef-1008-4512-8cf0-55ed99ec76a3",
-  "hypixel": "unknown",
-  "log_time": "2026/01/08-01:39",
+  "ban_status": {
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
+  },
+  "log_time": "2026/01/21-03:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -14,27 +20,31 @@
       {
         "type": "rich",
         "title": "`vertex_nDAKk_`",
-        "description": "||```flor_lahorca@hotmail.com:Flor1234.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `dee0baef-1008-4512-8cf0-55ed99ec76a3`\nMinecraft Capes: `Cherry Blossom, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1670783442:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-07T17:39:31.358000+00:00",
+        "description": "||```flor_lahorca@hotmail.com:Flor1234.0```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 35m`\nMoney: `0`\nShards: `391`\n\n**Account Info:**\nUUID: `dee0baef-1008-4512-8cf0-55ed99ec76a3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-20T19:01:09.508000+00:00",
         "author": {
-          "name": "251535/323001 | 30"
+          "name": "7114/7331 | 46"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/dee0baef-1008-4512-8cf0-55ed99ec76a3/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/wUN5sqnkeBY7DPobsWL-CIfLuyMNyAXKCOb3Z25pqbs/https/mc-heads.net/body/dee0baef-1008-4512-8cf0-55ed99ec76a3/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-07T17:39:31.718000+00:00",
+    "timestamp": "2026-01-20T19:01:16.792000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -45,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmk4azg4000xqhi9c34nc83dw",
+            "custom_id": "credentials_cmkmymi3n04gghiejb2n7vla0",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -55,8 +65,8 @@
         ]
       }
     ],
-    "id": "1458515410285625569",
-    "channel_id": "1458278979189477577",
+    "id": "1463247025910055178",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

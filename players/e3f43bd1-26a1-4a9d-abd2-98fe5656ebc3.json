@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-10:01",
+  "log_time": "2026/01/20-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`tzi_4mbFu_01_13`",
-        "description": "||```leonardovieira037@gmail.com:Matteo15@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `7.37`\nFirst Login: <t:1768383540:F>\nLast Login: <t:1768436220:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 16m`\nMoney: `7`\nShards: `301`\n\n**Account Info:**\nUUID: `e3f43bd1-26a1-4a9d-abd2-98fe5656ebc3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
-        "color": 10175221,
-        "timestamp": "2026-01-19T02:01:21.941000+00:00",
+        "description": "||```leonardovieira037@gmail.com:Matteo15@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `7.37`\nFirst Login: <t:1768383540:F>\nLast Login: <t:1768436220:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 16m`\nMoney: `7`\nShards: `301`\n\n**Account Info:**\nUUID: `e3f43bd1-26a1-4a9d-abd2-98fe5656ebc3`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-20T02:01:31.830000+00:00",
         "author": {
-          "name": "39671/109004 | 42"
+          "name": "44133/122718 | 38"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e3f43bd1-26a1-4a9d-abd2-98fe5656ebc3/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "mHuKKggrhnn2x0eGdn8l9wZYmomBZWY=",
+          "placeholder": "512CAgArY0NYx/nDUJc/WQZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T02:01:26.683000+00:00",
+    "timestamp": "2026-01-20T02:01:32.010000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkir6sx07c6hiaq27shvj2i",
+            "custom_id": "credentials_cmkly793m032phiejtgpx4wif",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462627988125253795",
-    "channel_id": "1462627634537304146",
+    "id": "1462990398334042198",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

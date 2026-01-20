@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-19:00",
+  "log_time": "2026/01/20-10:06",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ice_UgTKT_01_18`",
-        "description": "||```vanderlan511@hotmail.com:Nota1000```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768819500:F>\nLast Login: <t:1768820400:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `56becc85-df70-4722-9db6-5cd2007a21bf`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
-        "color": 65280,
-        "timestamp": "2026-01-19T11:00:54.869000+00:00",
+        "description": "||```vanderlan511@hotmail.com:Nota1000```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768819500:F>\nLast Login: <t:1768820400:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 11m`\nShards: `82`\n\n**Account Info:**\nUUID: `56becc85-df70-4722-9db6-5cd2007a21bf`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768763137:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-20T02:06:09.056000+00:00",
         "author": {
-          "name": "12273/18295 | 24"
+          "name": "78686/122718 | 75"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/56becc85-df70-4722-9db6-5cd2007a21bf/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T11:00:59.175000+00:00",
+    "timestamp": "2026-01-20T02:06:09.299000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkl211x700ebhiej1j7jqtes",
+            "custom_id": "credentials_cmklyd70c033xhiejno69mwl3",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462763768198074381",
-    "channel_id": "1462627634537304146",
+    "id": "1462991561368404023",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-07:01",
+  "log_time": "2026/01/20-10:22",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`soldierkoIkt`",
-        "description": "||```antondabest@outlook.com:21Stu#1054020$$$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Account Info:**\nUUID: `8e08b1c7-41c3-4663-ad6f-46df4779d0d8`\nMinecraft Capes: `Vanilla, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1652362292:F>\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-19T23:01:40.296000+00:00",
+        "description": "||```antondabest@outlook.com:21Stu#1054020$$$```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 20h 48m 3s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 22 hours\n\n**Hypixel General Info:**\nLevel: `7.38`\nFirst Login: <t:1652526840:F>\nLast Login: <t:1768864020:F>\nBedWars Stars: `4`\n\n**DonutSMP Info:**\nPlaytime: `0d 7h 21m`\nMoney: `3.211.390`\nShards: `530`\n\n**Account Info:**\nUUID: `8e08b1c7-41c3-4663-ad6f-46df4779d0d8`\nMinecraft Capes: `Vanilla, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1652362292:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "color": 16756290,
+        "timestamp": "2026-01-20T02:22:37.436000+00:00",
         "author": {
-          "name": "49858/51577 | 9"
+          "name": "91044/122718 | 95"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/8e08b1c7-41c3-4663-ad6f-46df4779d0d8/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T23:01:40.485000+00:00",
+    "timestamp": "2026-01-20T02:22:37.589000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmklrryay02pkhiejfgravbec",
+            "custom_id": "credentials_cmklyydnc034zhiejlclzvzir",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462945135397441733",
-    "channel_id": "1462627634537304146",
+    "id": "1462995706557104293",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

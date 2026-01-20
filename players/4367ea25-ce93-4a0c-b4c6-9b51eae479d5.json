@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-11:22",
+  "log_time": "2026/01/21-04:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`NoiceBigBoss1`",
-        "description": "||```stephen.bowering66@hotmail.com:Stevowasere1!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 28 days and 19 hours\n\n**Hypixel General Info:**\nLevel: `1.02`\nFirst Login: <t:1768594500:F>\nLast Login: <t:1768628460:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 14m`\nShards: `602`\n\n**Account Info:**\nUUID: `4367ea25-ce93-4a0c-b4c6-9b51eae479d5`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768593840:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "description": "||```stephen.bowering66@hotmail.com:Stevowasere1!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 27 days and 2 hours\n\n**Hypixel General Info:**\nLevel: `1.02`\nFirst Login: <t:1768594500:F>\nLast Login: <t:1768628460:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 14m`\nShards: `602`\n\n**Account Info:**\nUUID: `4367ea25-ce93-4a0c-b4c6-9b51eae479d5`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T03:22:52.611000+00:00",
+        "timestamp": "2026-01-20T20:00:52.445000+00:00",
         "author": {
-          "name": "58714/97184 | 63"
+          "name": "10860/10895 | 14"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/4367ea25-ce93-4a0c-b4c6-9b51eae479d5/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "iweGEgArWYC7Z4inj5MEyAZYinlxZWY=",
+          "placeholder": "mkeGCgIrqH+VqJhIgIf6pwZYinqCZXY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T03:22:52.968000+00:00",
+    "timestamp": "2026-01-20T20:00:55.680000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkklo0l507kihiaq3etyl1um",
+            "custom_id": "credentials_cmkn0rapp04o3hiejxz30wlah",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462648482689978573",
-    "channel_id": "1462627634537304146",
+    "id": "1463262036854050916",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

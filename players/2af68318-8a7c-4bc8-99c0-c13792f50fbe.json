@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-00:05",
+  "log_time": "2026/01/20-10:09",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltsvwsMy`",
-        "description": "||```proyect27@hotmail.com:Fernandez142514@@@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.02`\nFirst Login: <t:1729727160:F>\nLast Login: <t:1768836780:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `2af68318-8a7c-4bc8-99c0-c13792f50fbe`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1664633252:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-19T16:05:24.892000+00:00",
+        "description": "||```proyect27@hotmail.com:Fernandez142514@@@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.02`\nFirst Login: <t:1729727160:F>\nLast Login: <t:1768836780:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `148`\n\n**Account Info:**\nUUID: `2af68318-8a7c-4bc8-99c0-c13792f50fbe`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1664633252:F>\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-20T02:09:41.827000+00:00",
         "author": {
-          "name": "76081/313496 | 4"
+          "name": "83728/122718 | 85"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/2af68318-8a7c-4bc8-99c0-c13792f50fbe/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T16:05:25.182000+00:00",
+    "timestamp": "2026-01-20T02:09:42.024000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmklcwn7201eihiejnr1ciiw3",
+            "custom_id": "credentials_cmklyhr6o034ghiej6czs5pm5",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462840381384163624",
-    "channel_id": "1462627634537304146",
+    "id": "1462992453601595524",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

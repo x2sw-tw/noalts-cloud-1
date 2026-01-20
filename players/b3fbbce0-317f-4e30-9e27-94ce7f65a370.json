@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-07:01",
+  "log_time": "2026/01/20-11:52",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhYLtlc0116`",
-        "description": "||```tanakrit_np@hotmail.com:Tana131995```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.67`\nFirst Login: <t:1707286620:F>\nLast Login: <t:1768560720:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 41m`\nMoney: `325`\nShards: `128`\n\n**Account Info:**\nUUID: `b3fbbce0-317f-4e30-9e27-94ce7f65a370`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1700238242:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "description": "||```tanakrit_np@hotmail.com:Tana131995```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.67`\nFirst Login: <t:1707286620:F>\nLast Login: <t:1768560720:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 41m`\nMoney: `325`\nShards: `128`\n\n**Account Info:**\nUUID: `b3fbbce0-317f-4e30-9e27-94ce7f65a370`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1700238242:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-19T23:01:24.499000+00:00",
+        "timestamp": "2026-01-20T03:52:04.097000+00:00",
         "author": {
-          "name": "44282/51577 | 7"
+          "name": "105305/122718 | 115"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b3fbbce0-317f-4e30-9e27-94ce7f65a370/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T23:01:24.672000+00:00",
+    "timestamp": "2026-01-20T03:52:04.383000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmklrrm4602pihiejvicxx7qr",
+            "custom_id": "credentials_cmkm25eo1037uhiejg7l2osdm",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462945069073043476",
-    "channel_id": "1462627634537304146",
+    "id": "1463018216522518734",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

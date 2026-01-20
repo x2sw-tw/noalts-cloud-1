@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-10:54",
+  "log_time": "2026/01/21-04:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,27 +20,31 @@
       {
         "type": "rich",
         "title": "`LinhwUAAZ0110`",
-        "description": "||```jasmine_osam@outlook.com:richardmath12```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 21d 14h 40m 8s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `3.80`\nFirst Login: <t:1767991920:F>\nLast Login: <t:1768066440:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 11m`\nShards: `492`\n\n**Account Info:**\nUUID: `a94d7b7a-b594-4095-bcd5-edd38302ba2b`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1707700407:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "description": "||```jasmine_osam@outlook.com:richardmath12```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 19d 21h 33m 48s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `3.80`\nFirst Login: <t:1767991920:F>\nLast Login: <t:1768066440:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 11m`\nShards: `492`\n\n**Account Info:**\nUUID: `a94d7b7a-b594-4095-bcd5-edd38302ba2b`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1707700407:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T02:54:24.882000+00:00",
+        "timestamp": "2026-01-20T20:00:43.422000+00:00",
         "author": {
-          "name": "16520/97184 | 10"
+          "name": "10700/10895 | 7"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/a94d7b7a-b594-4095-bcd5-edd38302ba2b/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/6DagKSgHtGESeidwxHGXI1Gv6nTx8mwLF54zaB37WY0/https/mc-heads.net/body/a94d7b7a-b594-4095-bcd5-edd38302ba2b/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "IAiKCgIraYCKd6eGkE0JhwZYiolxZXY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T02:54:25.098000+00:00",
+    "timestamp": "2026-01-20T20:00:43.538000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -51,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkknesu07h1hiaqs9j5q8qn",
+            "custom_id": "credentials_cmkn0r3r204nqhiejy2uknjq4",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -61,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462641319364133066",
-    "channel_id": "1462627634537304146",
+    "id": "1463261985926942765",
+    "channel_id": "1462990022444711976",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -1,5 +1,5 @@
 {
-  "name": "b1gvkie",
+  "name": "Sv2xDmBTi6d4FSv2",
   "session": "adamek2939@outlook.com:Adam2939@@",
   "uuid": "632c60eb-168b-4e0c-ba9d-01fa72ea92b4",
   "ban_status": {
@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-02:01",
+  "log_time": "2026/01/21-11:25",
   "full_message": {
     "type": 0,
     "content": "",
@@ -19,12 +19,12 @@
     "embeds": [
       {
         "type": "rich",
-        "title": "`b1gvkie`",
-        "description": "||```adamek2939@outlook.com:Adam2939@@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `16.89`\nFirst Login: <t:1638461340:F>\nLast Login: <t:1768931880:F>\nBedWars Stars: `11`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 14m`\nMoney: `1.085`\n\n**Account Info:**\nUUID: `632c60eb-168b-4e0c-ba9d-01fa72ea92b4`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-20T18:01:22.602000+00:00",
+        "title": "`Sv2xDmBTi6d4FSv2`",
+        "description": "||```adamek2939@outlook.com:Adam2939@@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 18 hours\n\n**Account Info:**\nUUID: `632c60eb-168b-4e0c-ba9d-01fa72ea92b4`\nMinecraft Capes: `Pan, Common, 15th Anniversary, Follower's`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1637580381:F>\nOther Games: `Minecraft Bedrock`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-21T03:25:21.554000+00:00",
         "author": {
-          "name": "8902/9024 | 52"
+          "name": "201771/429258 | 111"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/632c60eb-168b-4e0c-ba9d-01fa72ea92b4/100/left",
@@ -41,10 +41,10 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
         },
-        "content_scan_version": 3
+        "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-20T18:01:31.756000+00:00",
+    "timestamp": "2026-01-21T03:25:21.817000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkmwhmfd04aghiej0ujbf7fm",
+            "custom_id": "credentials_cmkngmwrr05jmhiejcaqzsveg",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463231989178962102",
-    "channel_id": "1462990022444711976",
+    "id": "1463373882739130629",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

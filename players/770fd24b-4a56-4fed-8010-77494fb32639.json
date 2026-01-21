@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-01:01",
+  "log_time": "2026/01/21-10:07",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`Sv2XHd0N0IsBnSv2`",
-        "description": "||```mafarsinsen@hotmail.com:mFm124356```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.70`\nFirst Login: <t:1454956020:F>\nLast Login: <t:1512297900:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nMoney: `0`\n\n**Account Info:**\nUUID: `770fd24b-4a56-4fed-8010-77494fb32639`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-20T17:01:04.437000+00:00",
+        "description": "||```mafarsinsen@hotmail.com:mFm124356```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 22 hours\n\n**Hypixel General Info:**\nLevel: `1.70`\nFirst Login: <t:1454956020:F>\nLast Login: <t:1512297900:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 20m`\nMoney: `160`\n\n**Account Info:**\nUUID: `770fd24b-4a56-4fed-8010-77494fb32639`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1399291712:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-21T02:07:37.592000+00:00",
         "author": {
-          "name": "7132/7141 | 32"
+          "name": "82142/429258 | 38"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/770fd24b-4a56-4fed-8010-77494fb32639/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T17:01:10.597000+00:00",
+    "timestamp": "2026-01-21T02:07:37.750000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkmuc2mr044hhiej6omys88f",
+            "custom_id": "credentials_cmknduxzr05fnhiejxbq288lr",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463216800937279601",
-    "channel_id": "1462990022444711976",
+    "id": "1463354320224260199",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

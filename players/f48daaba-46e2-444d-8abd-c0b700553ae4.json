@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-11:47",
+  "log_time": "2026/01/21-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`maluma075`",
-        "description": "||```juma2004@hotmail.com:maju1098```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 2 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768418820:F>\nLast Login: <t:1768540500:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 19m`\nShards: `984`\n\n**Account Info:**\nUUID: `f48daaba-46e2-444d-8abd-c0b700553ae4`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768417946:F>\nOther Games: `Minecraft Bedrock`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
+        "description": "||```juma2004@hotmail.com:maju1098```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 4 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768418820:F>\nLast Login: <t:1768540500:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 19m`\nShards: `984`\n\n**Account Info:**\nUUID: `f48daaba-46e2-444d-8abd-c0b700553ae4`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768417946:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-19T03:47:50.951000+00:00",
+        "timestamp": "2026-01-21T02:01:03.848000+00:00",
         "author": {
-          "name": "60496/97184 | 69"
+          "name": "25593/429258 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/f48daaba-46e2-444d-8abd-c0b700553ae4/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "FhmHCgYraF+Gd2lkP1j2gwZYiolxZWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,10 +41,10 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
         },
-        "content_scan_version": 3
+        "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-19T03:47:51.271000+00:00",
+    "timestamp": "2026-01-21T02:01:04.029000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkkmk4qf07lqhiaqmlnqhdpp",
+            "custom_id": "credentials_cmkndmi6g05eshiej5r4q10zp",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462654767028240385",
-    "channel_id": "1462627634537304146",
+    "id": "1463352668838821899",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

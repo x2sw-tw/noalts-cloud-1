@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-12:21",
+  "log_time": "2026/01/21-11:41",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`tzi_gi2Kc_12_29`",
-        "description": "||```trenton987654321123456789@outlook.com:withoutme1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 10d 2h 4m 21s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 32m`\nShards: `174`\n\n**Account Info:**\nUUID: `a3278446-f68b-4a08-a076-cbc260dfced5`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1766946852:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "description": "||```trenton987654321123456789@outlook.com:withoutme1```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 4 days and 5 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 32m`\nShards: `174`\n\n**Account Info:**\nUUID: `a3278446-f68b-4a08-a076-cbc260dfced5`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1766946852:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-20T04:21:54.613000+00:00",
+        "timestamp": "2026-01-21T03:41:03.474000+00:00",
         "author": {
-          "name": "108262/122718 | 121"
+          "name": "221741/429258 | 127"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/a3278446-f68b-4a08-a076-cbc260dfced5/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T04:21:54.841000+00:00",
+    "timestamp": "2026-01-21T03:41:03.724000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkm37s8v038thiejpu73fs7g",
+            "custom_id": "credentials_cmknh73is05l0hiejmqdfhccg",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463025726247796908",
-    "channel_id": "1462990022444711976",
+    "id": "1463377833383563337",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

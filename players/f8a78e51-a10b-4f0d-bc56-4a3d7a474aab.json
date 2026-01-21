@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-04:00",
+  "log_time": "2026/01/21-14:34",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhUyFnm0112`",
-        "description": "||```natangao@hotmail.com:Natan1998```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `9.89`\nFirst Login: <t:1768235640:F>\nLast Login: <t:1768247880:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 5m`\nMoney: `2`\nShards: `302`\n\n**Account Info:**\nUUID: `f8a78e51-a10b-4f0d-bc56-4a3d7a474aab`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
-        "color": 10175221,
-        "timestamp": "2026-01-20T20:00:50.142000+00:00",
+        "description": "||```natangao@hotmail.com:Natan1998```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 5m`\nMoney: `2`\nShards: `302`\n\n**Account Info:**\nUUID: `f8a78e51-a10b-4f0d-bc56-4a3d7a474aab`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768234806:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-21T06:34:52.599000+00:00",
         "author": {
-          "name": "10846/10895 | 16"
+          "name": "419714/429258 | 256"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/f8a78e51-a10b-4f0d-bc56-4a3d7a474aab/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T20:00:50.333000+00:00",
+    "timestamp": "2026-01-21T06:34:52.889000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkn0r8xq04nzhiej3gl01hyx",
+            "custom_id": "credentials_cmknnemrd05rzhiejz0mcaa4t",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463262014427365580",
-    "channel_id": "1462990022444711976",
+    "id": "1463421576472039500",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

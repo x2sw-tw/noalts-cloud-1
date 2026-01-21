@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-12:17",
+  "log_time": "2026/01/21-14:36",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhYSQDA0116`",
-        "description": "||```andreafvl@hotmail.com:andrea1999```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 3m`\n\n**Account Info:**\nUUID: `350f747b-9488-4e66-85f8-a3d0ae73642b`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1679076090:F>\nOther Games: `Minecraft Bedrock`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-20T04:17:33.785000+00:00",
+        "description": "||```andreafvl@hotmail.com:andrea1999```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 12d 22h 27m 37s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 22 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768520040:F>\nLast Login: <t:1768726020:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 3m`\n\n**Account Info:**\nUUID: `350f747b-9488-4e66-85f8-a3d0ae73642b`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1679076090:F>\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-21T06:36:24.979000+00:00",
         "author": {
-          "name": "107848/122718 | 120"
+          "name": "421299/429258 | 258"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/350f747b-9488-4e66-85f8-a3d0ae73642b/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "j0mOKgYrl5CZiJankHcKaQZYi3qBZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T04:17:34.149000+00:00",
+    "timestamp": "2026-01-21T06:36:25.149000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkm3270d038ghiejvrhzrg5w",
+            "custom_id": "credentials_cmknnglyp05s1hiejk1hd0lvj",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463024632826167317",
-    "channel_id": "1462990022444711976",
+    "id": "1463421963438526596",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

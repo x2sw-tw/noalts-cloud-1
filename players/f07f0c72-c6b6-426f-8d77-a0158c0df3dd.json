@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-01:00",
+  "log_time": "2026/01/21-12:50",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`Limesuiits`",
-        "description": "||```allfamceo@outlook.com:Jaymani23@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 26d 2h 44m 40s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `2.18`\nFirst Login: <t:1747602540:F>\nLast Login: <t:1768592220:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 19m`\nMoney: `0`\n\n**Account Info:**\nUUID: `f07f0c72-c6b6-426f-8d77-a0158c0df3dd`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-20T17:00:54.297000+00:00",
+        "description": "||```allfamceo@outlook.com:Jaymani23@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 14h 55m 1s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 19m`\nMoney: `0`\n\n**Account Info:**\nUUID: `f07f0c72-c6b6-426f-8d77-a0158c0df3dd`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1684465419:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-21T04:50:40.114000+00:00",
         "author": {
-          "name": "7055/7141 | 18"
+          "name": "307242/429258 | 182"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/f07f0c72-c6b6-426f-8d77-a0158c0df3dd/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T17:00:59.497000+00:00",
+    "timestamp": "2026-01-21T04:50:40.204000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkmubut20447hiej4m765s0g",
+            "custom_id": "credentials_cmknjom8i05nlhieje6rqrwas",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463216754380640428",
-    "channel_id": "1462990022444711976",
+    "id": "1463395350810460379",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

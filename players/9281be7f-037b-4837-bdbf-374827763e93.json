@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-03:00",
+  "log_time": "2026/01/21-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhSZDDj0116`",
-        "description": "||```oginnie@hotmail.com:Young2401```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 25d 1h 53m 45s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 2 days and 14 hours\n\n**Hypixel General Info:**\nLevel: `4.00`\nFirst Login: <t:1768500180:F>\nLast Login: <t:1768509540:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `47`\n\n**Account Info:**\nUUID: `9281be7f-037b-4837-bdbf-374827763e93`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1699702666:F>\nOther Games: `Minecraft Bedrock`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "description": "||```oginnie@hotmail.com:Young2401```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 24d 18h 52m 53s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `4.00`\nFirst Login: <t:1768500180:F>\nLast Login: <t:1768509540:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `47`\n\n**Account Info:**\nUUID: `9281be7f-037b-4837-bdbf-374827763e93`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
         "color": 16756290,
-        "timestamp": "2026-01-20T19:00:45.316000+00:00",
+        "timestamp": "2026-01-21T02:01:38.421000+00:00",
         "author": {
-          "name": "5547/7331 | 4"
+          "name": "48278/429258 | 21"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9281be7f-037b-4837-bdbf-374827763e93/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T19:00:45.575000+00:00",
+    "timestamp": "2026-01-21T02:01:38.549000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkmylzfu04fhhiejyrqeiml5",
+            "custom_id": "credentials_cmkndn8ut05f4hiejznd412rj",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463246894976340008",
-    "channel_id": "1462990022444711976",
+    "id": "1463352813626200237",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

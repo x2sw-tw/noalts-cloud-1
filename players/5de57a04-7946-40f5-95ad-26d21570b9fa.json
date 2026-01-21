@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-10:50",
+  "log_time": "2026/01/21-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`Poo_eElfb_01_10`",
-        "description": "||```torro147@yahoo.com:Jord@n844```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 22 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 11m`\nMoney: `8`\nShards: `600`\n\n**Account Info:**\nUUID: `5de57a04-7946-40f5-95ad-26d21570b9fa`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1716144688:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-20T02:50:33.175000+00:00",
+        "description": "||```torro147@yahoo.com:Jord@n844```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.21`\nFirst Login: <t:1716147420:F>\nLast Login: <t:1768345440:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 11m`\nMoney: `8`\nShards: `600`\n\n**Account Info:**\nUUID: `5de57a04-7946-40f5-95ad-26d21570b9fa`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1716144688:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-21T02:01:05.891000+00:00",
         "author": {
-          "name": "97192/122718 | 101"
+          "name": "27293/429258 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/5de57a04-7946-40f5-95ad-26d21570b9fa/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T02:50:33.456000+00:00",
+    "timestamp": "2026-01-21T02:01:06.045000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmklzyaql036dhiejpovd8e3e",
+            "custom_id": "credentials_cmkndmjr705ethiej4uf8rafe",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463002735652896935",
-    "channel_id": "1462990022444711976",
+    "id": "1463352677294407701",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

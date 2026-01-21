@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-03:01",
+  "log_time": "2026/01/21-10:14",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`vertex_nwChm_`",
-        "description": "||```sampermg@hotmail.com:Jere4255```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 4 hours\n\n**Hypixel General Info:**\nLevel: `9.77`\nFirst Login: <t:1654719900:F>\nLast Login: <t:1768749780:F>\nBedWars Stars: `3`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 33m`\nMoney: `0`\nShards: `20`\n\n**Account Info:**\nUUID: `9a0ff09f-1575-4643-98bd-2934d36cee8d`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "description": "||```sampermg@hotmail.com:Jere4255```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 21 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 33m`\nMoney: `0`\nShards: `20`\n\n**Account Info:**\nUUID: `9a0ff09f-1575-4643-98bd-2934d36cee8d`\nMinecraft Capes: `Purple Heart, Pan, Common, 15th Anniversary, Follower's`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1654719372:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-20T19:01:04.380000+00:00",
+        "timestamp": "2026-01-21T02:14:18.650000+00:00",
         "author": {
-          "name": "7106/7331 | 52"
+          "name": "99289/429258 | 46"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9a0ff09f-1575-4643-98bd-2934d36cee8d/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T19:01:15.979000+00:00",
+    "timestamp": "2026-01-21T02:14:19.071000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkmyme5804gdhiejudot3c3u",
+            "custom_id": "credentials_cmkne3jga05g5hiejmafy8mt6",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463247022499958888",
-    "channel_id": "1462990022444711976",
+    "id": "1463356003486535856",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

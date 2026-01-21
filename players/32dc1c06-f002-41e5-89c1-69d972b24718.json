@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/19-19:01",
+  "log_time": "2026/01/21-11:47",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`out_A1MDq_01_18`",
-        "description": "||```rogeriofisico@hotmail.com:Kepler22@@@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.27`\nFirst Login: <t:1768722480:F>\nLast Login: <t:1768739520:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 4m`\nShards: `63`\n\n**Account Info:**\nUUID: `32dc1c06-f002-41e5-89c1-69d972b24718`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "description": "||```rogeriofisico@hotmail.com:Kepler22@@@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `2.27`\nFirst Login: <t:1768722480:F>\nLast Login: <t:1768739520:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 4m`\nShards: `63`\n\n**Account Info:**\nUUID: `32dc1c06-f002-41e5-89c1-69d972b24718`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768721257:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Be active on Discord for a shot at lifetime premium, or `/premium generate` now.*",
         "color": 10175221,
-        "timestamp": "2026-01-19T11:01:24.447000+00:00",
+        "timestamp": "2026-01-21T03:47:00.753000+00:00",
         "author": {
-          "name": "18250/18295 | 41"
+          "name": "229378/429258 | 135"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/32dc1c06-f002-41e5-89c1-69d972b24718/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-19T11:01:35.180000+00:00",
+    "timestamp": "2026-01-21T03:47:01.055000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkl21oqk00fehiejq0zkqqqh",
+            "custom_id": "credentials_cmknher8o05lghiejfm0gssc5",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462763919213858908",
-    "channel_id": "1462627634537304146",
+    "id": "1463379332138274977",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

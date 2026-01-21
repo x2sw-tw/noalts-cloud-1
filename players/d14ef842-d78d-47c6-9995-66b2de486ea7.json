@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-10:01",
+  "log_time": "2026/01/21-10:15",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`day0inaccessibl`",
-        "description": "||```bubble81@hotmail.com:Ratbag81!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> hacking\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `2.82`\nFirst Login: <t:1768565460:F>\nLast Login: <t:1768566960:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 37m`\nMoney: `4.079`\nShards: `769`\n\n**Account Info:**\nUUID: `d14ef842-d78d-47c6-9995-66b2de486ea7`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Go full locked-in with premium — `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-20T02:01:31.004000+00:00",
+        "description": "||```bubble81@hotmail.com:Ratbag81!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> hacking\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 37m`\nMoney: `4.079`\nShards: `769`\n\n**Account Info:**\nUUID: `d14ef842-d78d-47c6-9995-66b2de486ea7`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768565069:F>\nOther Games: `Minecraft Bedrock`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-21T02:15:18.505000+00:00",
         "author": {
-          "name": "43500/122718 | 36"
+          "name": "101153/429258 | 49"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/d14ef842-d78d-47c6-9995-66b2de486ea7/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T02:01:31.171000+00:00",
+    "timestamp": "2026-01-21T02:15:18.689000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkly78go032ohiejjyi0k07e",
+            "custom_id": "credentials_cmkne4tmx05gahiejfb5e0t2t",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462990394815025401",
-    "channel_id": "1462990022444711976",
+    "id": "1463356253542547589",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

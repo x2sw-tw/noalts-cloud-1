@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-04:00",
+  "log_time": "2026/01/21-11:10",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltsUgyWA`",
-        "description": "||```gislainegoncalves01@hotmail.com:Apolo13$99```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768935960:F>\nLast Login: <t:1768936800:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `1fadfb58-0567-49d4-8243-d5cfbfe1b262`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Copper, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768935177:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-20T20:00:49.550000+00:00",
+        "description": "||```gislainegoncalves01@hotmail.com:Apolo13$99```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 2m`\nShards: `388`\n\n**Account Info:**\nUUID: `1fadfb58-0567-49d4-8243-d5cfbfe1b262`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Copper, Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768935177:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-21T03:10:56.847000+00:00",
         "author": {
-          "name": "10840/10895 | 8"
+          "name": "183367/429258 | 98"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/1fadfb58-0567-49d4-8243-d5cfbfe1b262/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T20:00:49.687000+00:00",
+    "timestamp": "2026-01-21T03:10:57.093000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkn0r8h904nyhiejqul3749a",
+            "custom_id": "credentials_cmkng4dk505izhiejcdi68od3",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463262011717714072",
-    "channel_id": "1462990022444711976",
+    "id": "1463370255823798405",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

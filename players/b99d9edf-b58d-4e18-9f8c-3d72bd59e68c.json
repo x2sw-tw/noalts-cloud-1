@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-02:00",
+  "log_time": "2026/01/21-13:24",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhKSgoy0121`",
-        "description": "||```andrecarletti@outlook.com:@Sinusm080486@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.43`\nFirst Login: <t:1668710700:F>\nLast Login: <t:1768931880:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `b99d9edf-b58d-4e18-9f8c-3d72bd59e68c`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1668704775:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
-        "color": 65280,
-        "timestamp": "2026-01-20T18:00:45.965000+00:00",
+        "description": "||```andrecarletti@outlook.com:@Sinusm080486@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 16 hours\n\n**Hypixel General Info:**\nLevel: `1.43`\nFirst Login: <t:1668710700:F>\nLast Login: <t:1768937040:F>\nBedWars Stars: `1`\n\n**Account Info:**\nUUID: `b99d9edf-b58d-4e18-9f8c-3d72bd59e68c`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1668704775:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-21T05:24:03.734000+00:00",
         "author": {
-          "name": "6590/9024 | 8"
+          "name": "346385/429258 | 213"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b99d9edf-b58d-4e18-9f8c-3d72bd59e68c/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T18:00:50.309000+00:00",
+    "timestamp": "2026-01-21T05:24:03.955000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkmwgu5q049chieju64z2uxx",
+            "custom_id": "credentials_cmknkvkbg05owhiej2j1ed3v4",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463231815337775165",
-    "channel_id": "1462990022444711976",
+    "id": "1463403755151036552",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

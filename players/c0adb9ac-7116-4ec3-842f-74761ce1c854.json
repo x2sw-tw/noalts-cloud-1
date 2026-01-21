@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-01:01",
+  "log_time": "2026/01/21-13:35",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`tzi_UHEM6_01_18`",
-        "description": "||```florianevrard@outlook.com:Ah691za@!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768739940:F>\nLast Login: <t:1768739940:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 10h 43m`\nMoney: `12.909.297`\nShards: `33`\n\n**Account Info:**\nUUID: `c0adb9ac-7116-4ec3-842f-74761ce1c854`\nGame Pass Account: `GAMEPASS ULTIMATE`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
-        "color": 10175221,
-        "timestamp": "2026-01-20T17:01:02.226000+00:00",
+        "description": "||```florianevrard@outlook.com:Ah691za@!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**DonutSMP Info:**\nPlaytime: `0d 10h 43m`\nMoney: `12.909.297`\nShards: `33`\n\n**Account Info:**\nUUID: `c0adb9ac-7116-4ec3-842f-74761ce1c854`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768703218:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-21T05:35:55.911000+00:00",
         "author": {
-          "name": "7120/7141 | 28"
+          "name": "359655/429258 | 223"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/c0adb9ac-7116-4ec3-842f-74761ce1c854/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T17:01:06.052000+00:00",
+    "timestamp": "2026-01-21T05:35:56.239000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkmuc0xg044fhiejkh4rjs4u",
+            "custom_id": "credentials_cmknlatuh05pehiejszxeb2v8",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463216781874434069",
-    "channel_id": "1462990022444711976",
+    "id": "1463406742686928959",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

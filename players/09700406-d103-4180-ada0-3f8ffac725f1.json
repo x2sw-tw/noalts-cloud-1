@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-10:02",
+  "log_time": "2026/01/21-12:19",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`tzi_2VE7w_01_19`",
-        "description": "||```alex_dante18@hotmail.com:22121870Alex```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 1h 18m 53s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 12m`\nShards: `286`\n\n**Account Info:**\nUUID: `09700406-d103-4180-ada0-3f8ffac725f1`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
+        "description": "||```alex_dante18@hotmail.com:22121870Alex```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 27d 23h 1m 51s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.72`\nFirst Login: <t:1768782960:F>\nLast Login: <t:1768792200:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 12m`\nShards: `286`\n\n**Account Info:**\nUUID: `09700406-d103-4180-ada0-3f8ffac725f1`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768760242:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This account self-destructs unless you `/premium generate` in 3...2...1...*",
         "color": 10175221,
-        "timestamp": "2026-01-20T02:02:27.876000+00:00",
+        "timestamp": "2026-01-21T04:19:22.472000+00:00",
         "author": {
-          "name": "67111/122718 | 55"
+          "name": "269583/429258 | 156"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/09700406-d103-4180-ada0-3f8ffac725f1/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "mCiGCgIr2aoHuKXprZBmCAZYiXmBVWY=",
+          "placeholder": "qkiOCgQrh4B6qIion4f6eAZYinlxVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-20T02:02:28.035000+00:00",
+    "timestamp": "2026-01-21T04:19:22.744000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkly8gcf033dhiej7naumtdo",
+            "custom_id": "credentials_cmknikdi005mfhiejleu0x0wf",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462990633320054855",
-    "channel_id": "1462990022444711976",
+    "id": "1463387476172210375",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

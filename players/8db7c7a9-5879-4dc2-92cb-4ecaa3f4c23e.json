@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-04:00",
+  "log_time": "2026/01/21-10:35",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`raveIclL6zAE`",
-        "description": "||```amnayd@hotmail.com:Amnay2011!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.11`\nFirst Login: <t:1624926480:F>\nLast Login: <t:1768311720:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 6m`\nShards: `250`\n\n**Account Info:**\nUUID: `8db7c7a9-5879-4dc2-92cb-4ecaa3f4c23e`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-20T20:00:47.008000+00:00",
+        "description": "||```amnayd@hotmail.com:Amnay2011!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1.11`\nFirst Login: <t:1624926480:F>\nLast Login: <t:1768311720:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 6m`\nShards: `250`\n\n**Account Info:**\nUUID: `8db7c7a9-5879-4dc2-92cb-4ecaa3f4c23e`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1624920939:F>\nOther Games: `Minecraft Bedrock`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "color": 16756290,
+        "timestamp": "2026-01-21T02:35:03.695000+00:00",
         "author": {
-          "name": "10811/10895 | 13"
+          "name": "134190/429258 | 69"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/8db7c7a9-5879-4dc2-92cb-4ecaa3f4c23e/100/left",
@@ -41,10 +41,10 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
         },
-        "content_scan_version": 3
+        "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-20T20:00:47.265000+00:00",
+    "timestamp": "2026-01-21T02:35:04.037000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkn0r6io04nuhiej3qbof7cs",
+            "custom_id": "credentials_cmkneu87p05hdhiejy0ip8zvc",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463262001558982747",
-    "channel_id": "1462990022444711976",
+    "id": "1463361225252536442",
+    "channel_id": "1463352414944887001",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

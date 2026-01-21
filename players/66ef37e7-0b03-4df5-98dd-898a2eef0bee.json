@@ -1,0 +1,88 @@
+{
+  "name": "ptaltsMlFCG",
+  "session": "emillidetun@outlook.com:Gustav2014?",
+  "uuid": "66ef37e7-0b03-4df5-98dd-898a2eef0bee",
+  "ban_status": {
+    "hypixel": "unknown",
+    "donut": "unknown",
+    "cubecraft": "unknown",
+    "is_unbanned": false,
+    "display": "All Banned"
+  },
+  "log_time": "2026/01/21-09:01",
+  "full_message": {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "`ptaltsMlFCG`",
+        "description": "||```emillidetun@outlook.com:Gustav2014?```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Failed to authenticate your connection!\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Not authenticated with\n\n**Hypixel General Info:**\nRank: `MVP+`\nLevel: `32.28`\nFirst Login: <t:1503213900:F>\nLast Login: <t:1648287300:F>\nBedWars Stars: `19`\n\n**Account Info:**\nUUID: `66ef37e7-0b03-4df5-98dd-898a2eef0bee`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1503213367:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-21T01:01:07.046000+00:00",
+        "author": {
+          "name": "31719/194062 | 7"
+        },
+        "thumbnail": {
+          "url": "https://mc-heads.net/body/66ef37e7-0b03-4df5-98dd-898a2eef0bee/100/left",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/S7uMy3BzbKS-EX07Ya3XlK7y2cacd2ggdZt1mqJXBV8/https/mc-heads.net/body/66ef37e7-0b03-4df5-98dd-898a2eef0bee/100/left",
+          "width": 0,
+          "height": 0,
+          "flags": 0
+        },
+        "footer": {
+          "text": "discord.gg/logs",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
+          "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
+        }
+      }
+    ],
+    "timestamp": "2026-01-21T01:01:07.255000+00:00",
+    "edited_timestamp": null,
+    "flags": 4096,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "credentials_cmknbhevb05ahhiej7d9b06rs",
+            "style": 3,
+            "label": "Get Credentials",
+            "emoji": {
+              "name": "🔑"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "1463337582875119669",
+    "channel_id": "1462990022444711976",
+    "author": {
+      "id": "1435331490002112522",
+      "username": "DiscoveryService",
+      "avatar": "a0dd60da241a644266b65e78afc078da",
+      "discriminator": "5784",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+}

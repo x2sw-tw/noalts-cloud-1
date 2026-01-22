@@ -1,6 +1,6 @@
 {
   "name": "LinhuzFWp0117",
-  "session": "israel_gershon@hotmail.com:Isr5336345",
+  "session": "israel_gershon@hotmail.com:Isr@5336345",
   "uuid": "0715bbee-9477-4a09-91b6-6afa16afdd27",
   "ban_status": {
     "hypixel": "unknown",
@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/17-23:04",
+  "log_time": "2026/01/23-02:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhuzFWp0117`",
-        "description": "||```israel_gershon@hotmail.com:Isr5336345```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768658280:F>\nLast Login: <t:1768659600:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `0715bbee-9477-4a09-91b6-6afa16afdd27`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768655763:F>\nOther Games: `Minecraft Bedrock`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "description": "||```israel_gershon@hotmail.com:Isr@5336345```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768658280:F>\nLast Login: <t:1768659600:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 8m`\nShards: `272`\n\n**Account Info:**\nUUID: `0715bbee-9477-4a09-91b6-6afa16afdd27`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768655763:F>\nOther Games: `Minecraft Bedrock`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
         "color": 10175221,
-        "timestamp": "2026-01-17T15:04:15.285000+00:00",
+        "timestamp": "2026-01-22T18:00:56.009000+00:00",
         "author": {
-          "name": "32060/32063 | 9"
+          "name": "1250/1251 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/0715bbee-9477-4a09-91b6-6afa16afdd27/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 3
       }
     ],
-    "timestamp": "2026-01-17T15:04:15.470000+00:00",
+    "timestamp": "2026-01-22T18:00:56.541000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkifuabu04f3hiaqb3sw65df",
+            "custom_id": "credentials_cmkprcrid0a7whiejqsfopwl9",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1462100213765374133",
-    "channel_id": "1461902850123632661",
+    "id": "1463956617207877664",
+    "channel_id": "1463714800344240186",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

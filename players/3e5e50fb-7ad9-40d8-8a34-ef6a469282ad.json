@@ -1,6 +1,6 @@
 {
   "name": "ptaltsGUufF",
-  "session": "danielcornish2005@outlook.com:Sweet2008..",
+  "session": "danielcornish2005@outlook.com:Sweet2008...",
   "uuid": "3e5e50fb-7ad9-40d8-8a34-ef6a469282ad",
   "ban_status": {
     "hypixel": "unknown",
@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-04:00",
+  "log_time": "2026/01/23-02:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltsGUufF`",
-        "description": "||```danielcornish2005@outlook.com:Sweet2008..```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 22h 52m 40s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `3.62`\nFirst Login: <t:1763912220:F>\nLast Login: <t:1763921460:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `3e5e50fb-7ad9-40d8-8a34-ef6a469282ad`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1676599838:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-20T20:00:42.690000+00:00",
+        "description": "||```danielcornish2005@outlook.com:Sweet2008...```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 52m 35s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.62`\nFirst Login: <t:1763912220:F>\nLast Login: <t:1763921460:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `3e5e50fb-7ad9-40d8-8a34-ef6a469282ad`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1676599838:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "color": 10175221,
+        "timestamp": "2026-01-22T18:00:45.737000+00:00",
         "author": {
-          "name": "10419/10895 | 6"
+          "name": "1233/1251 | 3"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/3e5e50fb-7ad9-40d8-8a34-ef6a469282ad/100/left",
@@ -40,11 +40,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 3
+        }
       }
     ],
-    "timestamp": "2026-01-20T20:00:42.840000+00:00",
+    "timestamp": "2026-01-22T18:00:46.166000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +54,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkn0r36q04nphiej3mdqrt0r",
+            "custom_id": "credentials_cmkprcjgc0a7nhiejpvdx1sml",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +64,8 @@
         ]
       }
     ],
-    "id": "1463261982999183371",
-    "channel_id": "1462990022444711976",
+    "id": "1463956573691842611",
+    "channel_id": "1463714800344240186",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

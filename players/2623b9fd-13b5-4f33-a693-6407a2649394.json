@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-19:01",
+  "log_time": "2026/01/24-04:20",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`wf5_msmc_l0s`",
-        "description": "||```kourtidisjohn4@hotmail.com:john24kourtidis```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 21d 1h 38m 52s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `10.58`\nFirst Login: <t:1380670800:F>\nLast Login: <t:1768394040:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 58m`\nMoney: `67`\nShards: `807`\n\n**Account Info:**\nUUID: `2623b9fd-13b5-4f33-a693-6407a2649394`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `Yes`\nName Changeable: `No`\nAccount Creation Date: <t:1333362387:F>\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
+        "description": "||```kourtidisjohn4@hotmail.com:john24kourtidis```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 20d 16h 19m 17s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> 0s are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 29 days and 18 hours\n\n**Hypixel General Info:**\nLevel: `10.58`\nFirst Login: <t:1380670800:F>\nLast Login: <t:1768394040:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 3h 58m`\nMoney: `67`\nShards: `807`\n\n**Account Info:**\nUUID: `2623b9fd-13b5-4f33-a693-6407a2649394`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `Yes`\nName Changeable: `No`\nAccount Creation Date: <t:1333362387:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-23T11:01:07.570000+00:00",
+        "timestamp": "2026-01-23T20:20:39.238000+00:00",
         "author": {
-          "name": "30902/37014 | 9"
+          "name": "30309/59993 | 6"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/2623b9fd-13b5-4f33-a693-6407a2649394/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T11:01:07.727000+00:00",
+    "timestamp": "2026-01-23T20:20:39.387000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkqrsqdb0cmihiejfqoaczso",
+            "custom_id": "credentials_cmkrbsagf0e8khiejs5cc6xpx",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1464213355530031261",
+    "id": "1464354165277851841",
     "channel_id": "1464077186733441115",
     "author": {
       "id": "1435331490002112522",

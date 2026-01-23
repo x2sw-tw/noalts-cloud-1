@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-10:00",
+  "log_time": "2026/01/24-03:32",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltsszYfp`",
-        "description": "||```aykangizli@outlook.com:Aykan1907```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNBANNED`\n> Joined successfully\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1769123460:F>\nLast Login: <t:1769133600:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `2e82d4e5-9ba0-40ee-a709-dfdf90971832`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769118004:F>\nOther Games: `Minecraft Bedrock`\n\n*UwU pwease gib pwemium owo~ `/premium generate`~*",
-        "color": 65280,
-        "timestamp": "2026-01-23T02:00:49.380000+00:00",
+        "description": "||```aykangizli@outlook.com:Aykan1907```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for cheating. Time Left: 13 day 9 hours 20 minutes Ban ID: #2uz8KzOd\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `2e82d4e5-9ba0-40ee-a709-dfdf90971832`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769118004:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-23T19:32:39.291000+00:00",
         "author": {
-          "name": "11804/100013 | 3"
+          "name": "63792/194948 | 7"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/2e82d4e5-9ba0-40ee-a709-dfdf90971832/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T02:00:49.556000+00:00",
+    "timestamp": "2026-01-23T19:32:39.535000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkq8hwch0btlhiejr5477gt0",
+            "custom_id": "credentials_cmkra2kc90e26hiej9j180828",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1464077383865864283",
+    "id": "1464342086303088719",
     "channel_id": "1464077186733441115",
     "author": {
       "id": "1435331490002112522",

@@ -1,6 +1,6 @@
 {
   "name": "raveWjGjckw1",
-  "session": "lavignenicolas@hotmail.com:Interdit1!!!!",
+  "session": "lavignenicolas@hotmail.com:Interdit1!!!!!",
   "uuid": "6a54dd59-7e0d-4519-9a4e-ff535fc7115f",
   "ban_status": {
     "hypixel": "unknown",
@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/20-23:43",
+  "log_time": "2026/01/23-15:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`raveWjGjckw1`",
-        "description": "||```lavignenicolas@hotmail.com:Interdit1!!!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nRank: `VIP`\nLevel: `25.41`\nFirst Login: <t:1576410600:F>\nLast Login: <t:1768909800:F>\nBedWars Stars: `15`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 16m`\n\n**Account Info:**\nUUID: `6a54dd59-7e0d-4519-9a4e-ff535fc7115f`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-20T15:43:04.498000+00:00",
+        "description": "||```lavignenicolas@hotmail.com:Interdit1!!!!!```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nRank: `VIP`\nLevel: `25.41`\nFirst Login: <t:1576410600:F>\nLast Login: <t:1768909800:F>\nBedWars Stars: `15`\n\n**DonutSMP Info:**\nPlaytime: `0d 1h 16m`\n\n**Account Info:**\nUUID: `6a54dd59-7e0d-4519-9a4e-ff535fc7115f`\nMinecraft Capes: `Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1313736792:F>\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-23T07:01:00.014000+00:00",
         "author": {
-          "name": "52682/193181 | 13"
+          "name": "30833/184505 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/6a54dd59-7e0d-4519-9a4e-ff535fc7115f/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "mkeGCgIrqH+VqJhIgIf6pwZYinqCZXY=",
+          "placeholder": "z0mKEgIrl3NZB6jVcGI/CQZYi3qBZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,10 +41,10 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
         },
-        "content_scan_version": 3
+        "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-20T15:43:04.677000+00:00",
+    "timestamp": "2026-01-23T07:01:00.366000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkmrjrkq03x0hieja1ngoupo",
+            "custom_id": "credentials_cmkqj7xk10c8ahiejgc5tejlw",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463197146764279912",
-    "channel_id": "1462990022444711976",
+    "id": "1464152926678286410",
+    "channel_id": "1464077186733441115",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-14:34",
+  "log_time": "2026/01/23-23:36",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhUyFnm0112`",
-        "description": "||```natangao@hotmail.com:Natan1998```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 5m`\nMoney: `2`\nShards: `302`\n\n**Account Info:**\nUUID: `f8a78e51-a10b-4f0d-bc56-4a3d7a474aab`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768234806:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "description": "||```natangao@hotmail.com:Natan1998```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `9.89`\nFirst Login: <t:1768235640:F>\nLast Login: <t:1768247880:F>\nBedWars Stars: `2`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 5m`\nMoney: `2`\nShards: `302`\n\n**Account Info:**\nUUID: `f8a78e51-a10b-4f0d-bc56-4a3d7a474aab`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768234806:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-21T06:34:52.599000+00:00",
+        "timestamp": "2026-01-23T15:36:17.993000+00:00",
         "author": {
-          "name": "419714/429258 | 256"
+          "name": "46791/233848 | 2"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/f8a78e51-a10b-4f0d-bc56-4a3d7a474aab/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "PQiGAgArd4AZeLd3f4331wZYmnlxZWY=",
+          "placeholder": "ygeCCgIrZ3cG28hEf4rwZwZYiopxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,10 +41,10 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
         },
-        "content_scan_version": 3
+        "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-21T06:34:52.889000+00:00",
+    "timestamp": "2026-01-23T15:36:18.197000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmknnemrd05rzhiejz0mcaa4t",
+            "custom_id": "credentials_cmkr1mlwz0dc8hiejnwt0fp42",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463421576472039500",
-    "channel_id": "1463352414944887001",
+    "id": "1464282605460394166",
+    "channel_id": "1464077186733441115",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

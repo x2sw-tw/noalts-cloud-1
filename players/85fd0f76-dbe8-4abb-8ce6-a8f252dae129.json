@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-10:01",
+  "log_time": "2026/01/24-02:20",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`r0s_Epstein_7ct`",
-        "description": "||```josesillo57@hotmail.com:Josemanuel4159.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1769032920:F>\nLast Login: <t:1769033100:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `85fd0f76-dbe8-4abb-8ce6-a8f252dae129`\nGame Pass Account: `GAMEPASS`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "description": "||```josesillo57@hotmail.com:Josemanuel4159.```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1769032920:F>\nLast Login: <t:1769033100:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `85fd0f76-dbe8-4abb-8ce6-a8f252dae129`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Founder's, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1644772935:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
         "color": 10175221,
-        "timestamp": "2026-01-23T02:01:09.853000+00:00",
+        "timestamp": "2026-01-23T18:20:57.329000+00:00",
         "author": {
-          "name": "26053/100013 | 11"
+          "name": "952804/964645 | 20"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/85fd0f76-dbe8-4abb-8ce6-a8f252dae129/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T02:01:10.046000+00:00",
+    "timestamp": "2026-01-23T18:20:57.657000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkq8ic540btthiej8c2p23pe",
+            "custom_id": "credentials_cmkr7icz80dukhiejo9lwbm9t",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1464077469807149107",
+    "id": "1464324042918985774",
     "channel_id": "1464077186733441115",
     "author": {
       "id": "1435331490002112522",

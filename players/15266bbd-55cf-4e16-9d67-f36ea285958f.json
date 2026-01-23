@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-20:00",
+  "log_time": "2026/01/24-04:20",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltsGTLHd`",
-        "description": "||```elbillugerauoy@hotmail.co.uk:deceived2```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1379087760:F>\nLast Login: <t:1584225480:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `15266bbd-55cf-4e16-9d67-f36ea285958f`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1308826140:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP accounts with lots of playtime go to premium — `/premium generate`.*",
-        "color": 11184810,
-        "timestamp": "2026-01-23T12:00:46.449000+00:00",
+        "description": "||```elbillugerauoy@hotmail.co.uk:deceived2```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 59 day 17 hours 18 minutes Ban ID: #C2oOnG6I\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> That name is banned, change it.\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1379087760:F>\nLast Login: <t:1584225480:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `15266bbd-55cf-4e16-9d67-f36ea285958f`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-23T20:20:54.613000+00:00",
         "author": {
-          "name": "4390/4489 | 7"
+          "name": "36672/59993 | 11"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/15266bbd-55cf-4e16-9d67-f36ea285958f/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T12:00:46.601000+00:00",
+    "timestamp": "2026-01-23T20:20:54.746000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkqtxfv70crthiejxfi1sbgh",
+            "custom_id": "credentials_cmkrbsmbe0e8phiej9a80g0pq",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1464228366415564801",
+    "id": "1464354229698302167",
     "channel_id": "1464077186733441115",
     "author": {
       "id": "1435331490002112522",

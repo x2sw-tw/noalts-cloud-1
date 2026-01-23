@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-10:01",
+  "log_time": "2026/01/24-01:25",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`Swoxqx_`",
-        "description": "||```plokemichelle@hotmail.de:Fickdich44```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `1.07`\nFirst Login: <t:1752363240:F>\nLast Login: <t:1769079960:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 16m`\nMoney: `329`\nShards: `22`\n\n**Account Info:**\nUUID: `78d516f7-e9f9-4101-a4a5-8b62b51ff62e`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
-        "color": 16756290,
-        "timestamp": "2026-01-23T02:01:28.732000+00:00",
+        "description": "||```plokemichelle@hotmail.de:Fickdich44```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 18h 15m 15s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1.07`\nFirst Login: <t:1752363240:F>\nLast Login: <t:1769079960:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 12h 24m`\nMoney: `54.036`\nShards: `80`\n\n**Account Info:**\nUUID: `78d516f7-e9f9-4101-a4a5-8b62b51ff62e`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1680721148:F>\nOther Games: `Minecraft Bedrock`\n\n*No cap — the rare stuff hides in premium. `/premium generate`.*",
+        "color": 35529,
+        "timestamp": "2026-01-23T17:25:46.640000+00:00",
         "author": {
-          "name": "39286/100013 | 24"
+          "name": "510212/964645 | 10"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/78d516f7-e9f9-4101-a4a5-8b62b51ff62e/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "FAiWAgArZ3/VZziXf3jm9QZYinlxZWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -40,11 +40,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 4
+        }
       }
     ],
-    "timestamp": "2026-01-23T02:01:28.823000+00:00",
+    "timestamp": "2026-01-23T17:25:47.036000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +54,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkq8iqpj0bu5hiejvsh103f2",
+            "custom_id": "credentials_cmkr5jefv0douhiejtk2nnhjs",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +64,7 @@
         ]
       }
     ],
-    "id": "1464077548563595481",
+    "id": "1464310157168087081",
     "channel_id": "1464077186733441115",
     "author": {
       "id": "1435331490002112522",

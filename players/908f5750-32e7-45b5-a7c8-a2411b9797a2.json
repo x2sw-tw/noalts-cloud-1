@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-19:01",
+  "log_time": "2026/01/24-04:20",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`mrb_dxeql_01_15`",
-        "description": "||```carlbergelias1@outlook.com:@Elias090810```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 23d 6h 33m 16s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> [Alt Limit]\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `4.02`\nFirst Login: <t:1768494000:F>\nLast Login: <t:1768584480:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 32m`\nShards: `177`\n\n**Account Info:**\nUUID: `908f5750-32e7-45b5-a7c8-a2411b9797a2`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-23T11:01:12.112000+00:00",
+        "description": "||```carlbergelias1@outlook.com:@Elias090810```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 22d 21h 13m 52s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 29 days and 16 hours\n\n**Hypixel General Info:**\nLevel: `4.02`\nFirst Login: <t:1768494000:F>\nLast Login: <t:1768584480:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 32m`\nShards: `177`\n\n**Account Info:**\nUUID: `908f5750-32e7-45b5-a7c8-a2411b9797a2`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768492936:F>\nOther Games: `Minecraft Bedrock`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-23T20:20:36.142000+00:00",
         "author": {
-          "name": "34885/37014 | 14"
+          "name": "27909/59993 | 5"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/908f5750-32e7-45b5-a7c8-a2411b9797a2/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T11:01:12.302000+00:00",
+    "timestamp": "2026-01-23T20:20:36.311000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkqrstvg0cmnhiejliwh7dlo",
+            "custom_id": "credentials_cmkrbs82l0e8jhiejal6px00q",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "id": "1464213374719103060",
+    "id": "1464354152376434798",
     "channel_id": "1464077186733441115",
     "author": {
       "id": "1435331490002112522",

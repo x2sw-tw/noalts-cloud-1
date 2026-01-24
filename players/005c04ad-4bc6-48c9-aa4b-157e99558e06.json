@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-10:01",
+  "log_time": "2026/01/24-11:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltssGGpO`",
-        "description": "||```gisa.paz@hotmail.com:Metodista@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Account Info:**\nUUID: `005c04ad-4bc6-48c9-aa4b-157e99558e06`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769118007:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
-        "color": 35529,
-        "timestamp": "2026-01-23T02:01:45.429000+00:00",
+        "description": "||```gisa.paz@hotmail.com:Metodista@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 7h 23m 57s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 5 hours\n\n**Hypixel General Info:**\nLevel: `16.62`\nFirst Login: <t:1769123460:F>\nLast Login: <t:1769163600:F>\nBedWars Stars: `5`\n\n**DonutSMP Info:**\nPlaytime: `0d 9h 19m`\nMoney: `615`\nShards: `244`\n\n**Account Info:**\nUUID: `005c04ad-4bc6-48c9-aa4b-157e99558e06`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769118007:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*All shown accounts are public — premium hides the rare ones. `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-24T03:00:49.705000+00:00",
         "author": {
-          "name": "48928/100013 | 26"
+          "name": "521/529 | 1"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/005c04ad-4bc6-48c9-aa4b-157e99558e06/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T02:01:45.725000+00:00",
+    "timestamp": "2026-01-24T03:00:50.423000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkq8j3mz0bu8hiejy8gu7s7v",
+            "custom_id": "credentials_cmkrq2x1s0f6chiejrlqvdg56",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1464077619455852796",
-    "channel_id": "1464077186733441115",
+    "id": "1464454874862325944",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

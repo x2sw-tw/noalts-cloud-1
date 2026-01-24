@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/24-09:04",
+  "log_time": "2026/01/24-10:02",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,27 +20,31 @@
       {
         "type": "rich",
         "title": "`f31_Epstein_kbd`",
-        "description": "||```dede_tinoco@msn.com:Wa965196@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 58 day 7 hours 6 minutes Ban ID: #AZrfrGpF\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 7 hours\n\n**Account Info:**\nUUID: `bcb370f6-2fac-487b-b5cc-fa14186d0857`\nMinecraft Capes: `Vanilla, Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1294331936:F>\nOther Games: `Minecraft Bedrock`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "description": "||```dede_tinoco@msn.com:Wa965196@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 58 day 6 hours 8 minutes Ban ID: #AZrfrGpF\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 6 hours\n\n**Hypixel General Info:**\nLevel: `1.43`\nFirst Login: <t:1459083960:F>\nLast Login: <t:1526858340:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `bcb370f6-2fac-487b-b5cc-fa14186d0857`\nMinecraft Capes: `Vanilla, Pan, Migrator`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1294331936:F>\nOther Games: `Minecraft Bedrock`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
         "color": 16756290,
-        "timestamp": "2026-01-24T01:04:02.146000+00:00",
+        "timestamp": "2026-01-24T02:02:28.170000+00:00",
         "author": {
-          "name": "66792/164943 | 7"
+          "name": "68338/149199 | 32"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/bcb370f6-2fac-487b-b5cc-fa14186d0857/100/left",
           "proxy_url": "https://images-ext-1.discordapp.net/external/Mt2p7Qmaf0_VuFMjs87MratCy3ueu4SaKjo5FxfZdbQ/https/mc-heads.net/body/bcb370f6-2fac-487b-b5cc-fa14186d0857/100/left",
-          "width": 0,
-          "height": 0,
+          "width": 100,
+          "height": 240,
+          "content_type": "image/png",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder_version": 1,
           "flags": 0
         },
         "footer": {
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        }
+        },
+        "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-24T01:04:02.544000+00:00",
+    "timestamp": "2026-01-24T02:02:28.344000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -51,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkrlwq3n0exahiejh6u0lw6s",
+            "custom_id": "credentials_cmkrnzv980f2ahiejefp7pm7j",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -61,8 +65,8 @@
         ]
       }
     ],
-    "id": "1464425481687531563",
-    "channel_id": "1464077186733441115",
+    "id": "1464440186078232703",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-20:00",
+  "log_time": "2026/01/24-10:15",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltsuFtJq`",
-        "description": "||```alex.g.cardoso@hotmail.com:Cardoso88```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1769159460:F>\nLast Login: <t:1769169120:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `58c4aa69-19c0-4c53-97cd-a6e6e256d873`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769151877:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*This one’s sus; premium spills the receipts — `/premium generate`.*",
+        "description": "||```alex.g.cardoso@hotmail.com:Cardoso88```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 59 day 11 hours 46 minutes Ban ID: #2qWAZw89\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `BANNED`\n> You have been kicked from\n> Reason: Blocked Connection\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 19m`\n\n**Account Info:**\nUUID: `58c4aa69-19c0-4c53-97cd-a6e6e256d873`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769151877:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
         "color": 16756290,
-        "timestamp": "2026-01-23T12:00:46.752000+00:00",
+        "timestamp": "2026-01-24T02:15:38.079000+00:00",
         "author": {
-          "name": "4403/4489 | 9"
+          "name": "124699/149199 | 63"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/58c4aa69-19c0-4c53-97cd-a6e6e256d873/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T12:00:46.906000+00:00",
+    "timestamp": "2026-01-24T02:15:38.302000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkqtxg3l0cruhiejunsnlmu8",
+            "custom_id": "credentials_cmkrogsry0f4jhiejc31csfyi",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1464228367694823466",
-    "channel_id": "1464077186733441115",
+    "id": "1464443499402235935",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

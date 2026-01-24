@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-23:45",
+  "log_time": "2026/01/24-14:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`rave8T1PD32Q`",
-        "description": "||```animasyonfatihi1245@hotmail.com:Ahmet568....```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Permanently Banned!\n> Reason: Bypassing bans\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767367560:F>\nLast Login: <t:1767368640:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `31c8bbbe-f7ab-477c-acff-04b66acaf92b`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1745743296:F>\nOther Games: `Minecraft Bedrock`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
+        "description": "||```animasyonfatihi1245@hotmail.com:Ahmet568....```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 8 days and 10 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1767367560:F>\nLast Login: <t:1767368640:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `31c8bbbe-f7ab-477c-acff-04b66acaf92b`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1745743296:F>\nOther Games: `Minecraft Bedrock`\n\n*DonutSMP balances over 1M usually go premium — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-23T15:45:31.531000+00:00",
+        "timestamp": "2026-01-24T06:00:59.608000+00:00",
         "author": {
-          "name": "25344/212673 | 1"
+          "name": "24830/44092 | 6"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/31c8bbbe-f7ab-477c-acff-04b66acaf92b/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T15:45:31.975000+00:00",
+    "timestamp": "2026-01-24T06:00:59.840000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkr1yh9b0dd5hiej03m9plw8",
+            "custom_id": "credentials_cmkrwim0z0fe5hiejcgre03ol",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1464284928173801597",
-    "channel_id": "1464077186733441115",
+    "id": "1464500212843417878",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

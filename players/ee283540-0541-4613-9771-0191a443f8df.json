@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/24-09:29",
+  "log_time": "2026/01/24-10:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`EnderAlt_KGsHh`",
-        "description": "||```under-world927@hotmail.fr:Nanterre920@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 13d 15h 34m 20s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 12 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 13h 26m`\nMoney: `14.778`\nShards: `160`\n\n**Account Info:**\nUUID: `ee283540-0541-4613-9771-0191a443f8df`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769173875:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
-        "color": 16756290,
-        "timestamp": "2026-01-24T01:29:14.919000+00:00",
+        "description": "||```under-world927@hotmail.fr:Nanterre920@```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account is temporarily blocked for 13d 15h 2m 27s from this server!\n> Reason: Your account's security appeal was processed and the account has entered a recovery phase and will be able to access the server again afterwards.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 12 hours\n\n**Hypixel General Info:**\nLevel: `2.09`\nFirst Login: <t:1769175060:F>\nLast Login: <t:1769179320:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 13h 51m`\nMoney: `53`\nShards: `160`\n\n**Account Info:**\nUUID: `ee283540-0541-4613-9771-0191a443f8df`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769173875:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*One-click flex: `/premium generate` and enjoy the exclusives.*",
+        "color": 35529,
+        "timestamp": "2026-01-24T02:01:00.611000+00:00",
         "author": {
-          "name": "149983/164943 | 12"
+          "name": "22922/149199 | 8"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/ee283540-0541-4613-9771-0191a443f8df/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-24T01:29:15.264000+00:00",
+    "timestamp": "2026-01-24T02:01:00.803000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkrmt5d80eyphiejmgg0w01o",
+            "custom_id": "credentials_cmkrnxzox0f1fhiejdy0jrhxh",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1464431826495082732",
-    "channel_id": "1464077186733441115",
+    "id": "1464439818904670471",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-10:14",
+  "log_time": "2026/01/24-17:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`LinhZpHIJ0114`",
-        "description": "||```imtiyazshaikh29214@outlook.com:Zeeshan@198801```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 4m`\nMoney: `0`\nShards: `874`\n\n**Account Info:**\nUUID: `e7efa5e3-19a7-4c57-9e63-b146fa55fb9b`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768328406:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want the private stuff? `/premium generate` — lasts 12h or forever if you boost.*",
+        "description": "||```imtiyazshaikh29214@outlook.com:Zeeshan@198801```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1768329000:F>\nLast Login: <t:1768335060:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 4m`\nMoney: `0`\nShards: `874`\n\n**Account Info:**\nUUID: `e7efa5e3-19a7-4c57-9e63-b146fa55fb9b`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1768328406:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Premium gives 12 hours access or permanent on Discord boost — `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-21T02:14:09.568000+00:00",
+        "timestamp": "2026-01-24T09:01:11.499000+00:00",
         "author": {
-          "name": "98991/429258 | 45"
+          "name": "37453/56121 | 9"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/e7efa5e3-19a7-4c57-9e63-b146fa55fb9b/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "CAiGAgArW59kBzWMr8f4egZYinlxZWY=",
+          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,10 +41,10 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
         },
-        "content_scan_version": 3
+        "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-21T02:14:09.795000+00:00",
+    "timestamp": "2026-01-24T09:01:11.694000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkne3chf05g4hiej8jspj82i",
+            "custom_id": "credentials_cmks2ycj80fq4hiejky0a6ren",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463355964580298787",
-    "channel_id": "1463352414944887001",
+    "id": "1464545561045762204",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

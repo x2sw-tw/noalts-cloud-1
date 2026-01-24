@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-17:00",
+  "log_time": "2026/01/24-17:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`fitRtat5ic`",
-        "description": "||```psikopata@hotmail.com:Manzana13```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1769001120:F>\nLast Login: <t:1769011740:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 7h 55m`\nMoney: `0`\nShards: `400`\n\n**Account Info:**\nUUID: `7f3dc04c-faf0-4a87-a3b9-3d738f5d33c7`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769000775:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-23T09:00:46.111000+00:00",
+        "description": "||```psikopata@hotmail.com:Manzana13```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are temporarily banned for the use of xray/esp/baritone. Time Left: 59 day 2 hours 49 minutes Ban ID: #Qa55Fr4q\n> You may be able to appeal this ban on discord.gg/donutsmp\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1769001120:F>\nLast Login: <t:1769011740:F>\nBedWars Stars: `0`\n\n**Account Info:**\nUUID: `7f3dc04c-faf0-4a87-a3b9-3d738f5d33c7`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769000775:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-24T09:01:03.545000+00:00",
         "author": {
-          "name": "3352/3387 | 3"
+          "name": "31190/56121 | 4"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/7f3dc04c-faf0-4a87-a3b9-3d738f5d33c7/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T09:00:46.284000+00:00",
+    "timestamp": "2026-01-24T09:01:03.731000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkqnhy9t0cevhiej6xgsw7r1",
+            "custom_id": "credentials_cmks2y6ea0fq0hiejidq710qs",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1464183066602901524",
-    "channel_id": "1464077186733441115",
+    "id": "1464545527646650580",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

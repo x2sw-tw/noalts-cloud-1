@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/21-02:02",
+  "log_time": "2026/01/24-14:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`raveLrWntZGV`",
-        "description": "||```cliam13@outlook.com:Carson_2020```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1721928000:F>\nLast Login: <t:1721928000:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `bd5e6e9f-d2bf-44c5-84de-b17b1aeaa8b6`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1721662765:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Pog moment incoming — secure it with `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-20T18:02:44.920000+00:00",
+        "description": "||```cliam13@outlook.com:Carson_2020```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 12 hours\n\n**Hypixel General Info:**\nLevel: `1`\nFirst Login: <t:1721928000:F>\nLast Login: <t:1721928000:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 2h 13m`\nMoney: `1.128.503`\n\n**Account Info:**\nUUID: `bd5e6e9f-d2bf-44c5-84de-b17b1aeaa8b6`\nGame Pass Account: `GAMEPASS`\nMinecraft Capes: `Pan, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1721662765:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Want unbanned ranks and rare finds? Use `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-24T06:00:52.518000+00:00",
         "author": {
-          "name": "8959/9024 | 60"
+          "name": "18569/44092 | 2"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/bd5e6e9f-d2bf-44c5-84de-b17b1aeaa8b6/100/left",
@@ -32,7 +32,7 @@
           "width": 100,
           "height": 240,
           "content_type": "image/png",
-          "placeholder": "49qGCggrjbBb2HYWLkD4lQdYmYmBVWY=",
+          "placeholder": "EhiGAgIrSG/DhhgPnsTyaAZYiXmBVWY=",
           "placeholder_version": 1,
           "flags": 0
         },
@@ -41,10 +41,10 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
         },
-        "content_scan_version": 3
+        "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-20T18:02:45.164000+00:00",
+    "timestamp": "2026-01-24T06:00:52.701000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkmwjdxz04avhiejba5v7zw4",
+            "custom_id": "credentials_cmkrwigk00fe3hiejczk4za4x",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1463232297074692283",
-    "channel_id": "1462990022444711976",
+    "id": "1464500182900281476",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

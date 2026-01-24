@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/24-07:59",
+  "log_time": "2026/01/24-10:08",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`RecompensaOnTop1`",
-        "description": "||```yograjsharma464@gmail.com:ps22##22##```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 356d 4h 26m 22s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 8 hours\n\n**Hypixel General Info:**\nLevel: `24.66`\nFirst Login: <t:1639234560:F>\nLast Login: <t:1768882800:F>\nBedWars Stars: `7`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 8m`\nShards: `272`\n\n**Account Info:**\nUUID: `dc772438-7b63-4e53-b907-0f93c4bb053e`\nMinecraft Capes: `Pan, Common, 15th Anniversary`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1639226382:F>\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
+        "description": "||```yograjsharma464@gmail.com:ps22##22##```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `UNKNOWN`\n> Proxy timeout\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 3 days and 6 hours\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 8m`\nShards: `272`\n\n**Account Info:**\nUUID: `dc772438-7b63-4e53-b907-0f93c4bb053e`\nMinecraft Capes: `Pan, Common, 15th Anniversary`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1639226382:F>\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-23T23:59:34.573000+00:00",
+        "timestamp": "2026-01-24T02:08:09.073000+00:00",
         "author": {
-          "name": "35286/146259 | 2"
+          "name": "104926/149199 | 47"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/dc772438-7b63-4e53-b907-0f93c4bb053e/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T23:59:34.786000+00:00",
+    "timestamp": "2026-01-24T02:08:09.372000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkrjltqr0esbhiej5en97w2h",
+            "custom_id": "credentials_cmkro76cx0f3thiejiw3f5unb",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1464409259134685266",
-    "channel_id": "1464077186733441115",
+    "id": "1464441616453337141",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

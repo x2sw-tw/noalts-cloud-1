@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/24-04:20",
+  "log_time": "2026/01/24-10:26",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`soldieruGtpD`",
-        "description": "||```millermarty31@live.com:Tigger1111```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 19h 54m 52s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> Joined successfully\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `3.04`\nFirst Login: <t:1769176800:F>\nLast Login: <t:1769184240:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `792417ba-eb4d-4688-a527-d276a312a356`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769172783:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-23T20:20:25.877000+00:00",
+        "description": "||```millermarty31@live.com:Tigger1111```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 29d 13h 49m 18s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Illegal Client Modifications\n> Expires: 29 days and 12 hours\n\n**Hypixel General Info:**\nLevel: `3.04`\nFirst Login: <t:1769176800:F>\nLast Login: <t:1769184240:F>\nBedWars Stars: `1`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 15m`\nShards: `333`\n\n**Account Info:**\nUUID: `792417ba-eb4d-4688-a527-d276a312a356`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769172783:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*A small `/premium generate` helps us keep this project running — thanks <3.*",
+        "color": 16756290,
+        "timestamp": "2026-01-24T02:26:00.381000+00:00",
         "author": {
-          "name": "18181/59993 | 1"
+          "name": "142273/149199 | 73"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/792417ba-eb4d-4688-a527-d276a312a356/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T20:20:26.023000+00:00",
+    "timestamp": "2026-01-24T02:26:00.561000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkrbs0570e8ahiejt0c5qboc",
+            "custom_id": "credentials_cmkrou4x30f57hiej5dk0wwgy",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1464354109225177150",
-    "channel_id": "1464077186733441115",
+    "id": "1464446109345910967",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

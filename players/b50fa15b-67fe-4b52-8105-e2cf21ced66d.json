@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/24-09:02",
+  "log_time": "2026/01/24-10:10",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ptaltsKVMvy`",
-        "description": "||```postegamer@hotmail.com:Lea43515232```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 7m`\nMoney: `218.428`\nShards: `30`\n\n**Account Info:**\nUUID: `b50fa15b-67fe-4b52-8105-e2cf21ced66d`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1395094461:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Main character energy unlocked via `/premium generate`.*",
+        "description": "||```postegamer@hotmail.com:Lea43515232```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 5 days and 15 hours\n\n**Hypixel General Info:**\nLevel: `41.46`\nFirst Login: <t:1395519840:F>\nLast Login: <t:1769080560:F>\nBedWars Stars: `25`\n\n**DonutSMP Info:**\nPlaytime: `0d 6h 7m`\nMoney: `218.428`\nShards: `30`\n\n**Account Info:**\nUUID: `b50fa15b-67fe-4b52-8105-e2cf21ced66d`\nMinecraft Capes: `Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1395094461:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*They be cooking in premium — join the kitchen with `/premium generate`.*",
         "color": 16756290,
-        "timestamp": "2026-01-24T01:02:10.613000+00:00",
+        "timestamp": "2026-01-24T02:10:09.044000+00:00",
         "author": {
-          "name": "54662/164943 | 5"
+          "name": "111957/149199 | 50"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/b50fa15b-67fe-4b52-8105-e2cf21ced66d/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-24T01:02:10.952000+00:00",
+    "timestamp": "2026-01-24T02:10:09.248000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkrluc130ex4hiejp0s1rw5n",
+            "custom_id": "credentials_cmkro9qv50f3yhiej20etkrmi",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1464425013636763841",
-    "channel_id": "1464077186733441115",
+    "id": "1464442119249854653",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

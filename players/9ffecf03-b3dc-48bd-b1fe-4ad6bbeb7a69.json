@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-17:00",
+  "log_time": "2026/01/24-17:00",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`raveomc49WYf`",
-        "description": "||```kadynknight9@hotmail.com:Carlton123#```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `UNBANNED`\n> Joined successfully\n\n**Hypixel General Info:**\nLevel: `3.78`\nFirst Login: <t:1386850080:F>\nLast Login: <t:1769014800:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `9ffecf03-b3dc-48bd-b1fe-4ad6bbeb7a69`\nOptifine Cape: `No`\nName Changeable: `No`\nOther Games: `Minecraft Bedrock`\n\n*Remember, all these accounts are from public sources — try `/premium generate`.*",
-        "color": 10175221,
-        "timestamp": "2026-01-23T09:00:58.586000+00:00",
+        "description": "||```kadynknight9@hotmail.com:Carlton123#```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> Your account has been blocked.\n> Reason: Suspicious activity has been detected on your account.\n**DonutSMP Status:** `BANNED`\n> You are banned for botting DonutSMP.\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 1 hour\n\n**Hypixel General Info:**\nLevel: `3.78`\nFirst Login: <t:1386850080:F>\nLast Login: <t:1769014800:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 0h 0m`\n\n**Account Info:**\nUUID: `9ffecf03-b3dc-48bd-b1fe-4ad6bbeb7a69`\nMinecraft Capes: `Vanilla, Pan, Migrator, Common`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1352016325:F>\nOther Games: `Minecraft Bedrock`\n\n*Caught in 4K: premium-only discoveries. `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-24T09:00:54.908000+00:00",
         "author": {
-          "name": "3384/3387 | 12"
+          "name": "22877/56121 | 3"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/9ffecf03-b3dc-48bd-b1fe-4ad6bbeb7a69/100/left",
@@ -44,7 +44,7 @@
         "content_scan_version": 4
       }
     ],
-    "timestamp": "2026-01-23T09:00:58.779000+00:00",
+    "timestamp": "2026-01-24T09:00:56.084000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +55,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkqni7wb0cf3hiejowg808bg",
+            "custom_id": "credentials_cmks2xzqe0fpyhiej7mz2av46",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "id": "1464183119010725959",
-    "channel_id": "1464077186733441115",
+    "id": "1464545495572545729",
+    "channel_id": "1464439574209106072",
     "author": {
       "id": "1435331490002112522",
       "username": "DiscoveryService",

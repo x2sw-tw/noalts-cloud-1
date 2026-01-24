@@ -9,7 +9,7 @@
     "is_unbanned": false,
     "display": "All Banned"
   },
-  "log_time": "2026/01/23-17:00",
+  "log_time": "2026/01/24-09:01",
   "full_message": {
     "type": 0,
     "content": "",
@@ -20,11 +20,11 @@
       {
         "type": "rich",
         "title": "`ine1rtincurable`",
-        "description": "||```s.e.byrne@hotmail.com:rjgkstslvt5```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 28d 8h 17m 40s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNBANNED`\n> You are already online, try restarting your game.\n**CubeCraft Status:** `UNKNOWN`\n> Proxy timeout\n\n**Hypixel General Info:**\nLevel: `1.00`\nFirst Login: <t:1769001180:F>\nLast Login: <t:1769015760:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 4h 15m`\nMoney: `890.170`\nShards: `70`\n\n**Account Info:**\nUUID: `942a22c6-9a7c-486d-a179-af4696293fa0`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769000775:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Ranked Hypixel and rich DonutSMP accounts land in premium — `/premium generate`.*",
-        "color": 35529,
-        "timestamp": "2026-01-23T09:00:49.984000+00:00",
+        "description": "||```s.e.byrne@hotmail.com:rjgkstslvt5```||\n[**RECOMMENDED: use accesstoken instead! (click)**](https://tklogin.villainsrule.xyz/)\n\n**Hypixel Status:** `BANNED`\n> You are temporarily banned for 27d 16h 17m 19s from this server!\n> Reason: Cheating through the use of unfair game advantages.\n**DonutSMP Status:** `UNKNOWN`\n> Proxy timeout\n**CubeCraft Status:** `BANNED`\n> Temporarily Banned!\n> Reason: Unfair Advantage (Sentinel Automatic Cheat Detection)\n> Expires: 6 days and 17 hours\n\n**Hypixel General Info:**\nLevel: `1.00`\nFirst Login: <t:1769001180:F>\nLast Login: <t:1769015760:F>\nBedWars Stars: `0`\n\n**DonutSMP Info:**\nPlaytime: `0d 19h 41m`\nMoney: `1.156.285`\nShards: `78`\n\n**Account Info:**\nUUID: `942a22c6-9a7c-486d-a179-af4696293fa0`\nGame Pass Account: `GAMEPASS ULTIMATE`\nMinecraft Capes: `Pan`\nOptifine Cape: `No`\nName Changeable: `No`\nAccount Creation Date: <t:1769000775:F>\nOther Games: `Minecraft Dungeons, Minecraft Bedrock, Minecraft Legends`\n\n*Hypixel unbanneds with level >= 20 go premium — `/premium generate`.*",
+        "color": 16756290,
+        "timestamp": "2026-01-24T01:01:08.821000+00:00",
         "author": {
-          "name": "3373/3387 | 9"
+          "name": "35295/164943 | 3"
         },
         "thumbnail": {
           "url": "https://mc-heads.net/body/942a22c6-9a7c-486d-a179-af4696293fa0/100/left",
@@ -40,11 +40,10 @@
           "text": "discord.gg/logs",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif",
           "proxy_icon_url": "https://images-ext-1.discordapp.net/external/f2wHhCuANqVMKBMmMrHpQemP5OFqNiSicwCP1Bqa5Fs/https/media.forgecdn.net/avatars/thumbnails/242/321/256/256/637133550294159539_animated.gif"
-        },
-        "content_scan_version": 4
+        }
       }
     ],
-    "timestamp": "2026-01-23T09:00:50.152000+00:00",
+    "timestamp": "2026-01-24T01:01:09.186000+00:00",
     "edited_timestamp": null,
     "flags": 4096,
     "components": [
@@ -55,7 +54,7 @@
           {
             "type": 2,
             "id": 2,
-            "custom_id": "credentials_cmkqni19d0cezhiejeq0t8s5w",
+            "custom_id": "credentials_cmkrlt0fj0ewuhiejwtqr3puz",
             "style": 3,
             "label": "Get Credentials",
             "emoji": {
@@ -65,7 +64,7 @@
         ]
       }
     ],
-    "id": "1464183082826600470",
+    "id": "1464424754571120703",
     "channel_id": "1464077186733441115",
     "author": {
       "id": "1435331490002112522",
